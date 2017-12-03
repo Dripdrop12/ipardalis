@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511928225831.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "708539206",
+    "id" : "1A784DB5",
+    "lastKnownWriteTime" : 1512014218,
+    "last_content_update" : 1512014218497,
+    "path" : "/media/jon/ExtraDrive1/universal_fj/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "105,0",
+        "scrollLine" : "95"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
