@@ -130,6 +130,7 @@ paginate = 10
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
+      <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
       """
 
 # Enable and disable widgets for the right sidebar
