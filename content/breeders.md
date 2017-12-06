@@ -7,12 +7,12 @@ description = "Healthy animals with a professional pedigree"
 
 # Flash (Sire)
 
-{{< gallery dir="/img/breeders/flash/" />}}
+{{< gallery dir="/img/breeders/flash" />}}
 
 # Judy (Dam)
 
-{{< gallery dir="/img/breeders/judy/" />}}
+{{< gallery dir="/img/breeders/judy" />}}
 
 ## Lineage - [Chameleon Paradise](http://www.chameleonparadise.net/)
 
-{{< gallery dir="/img/breeders/lineage/" />}}
+{{< gallery dir="/img/breeders/lineage" />}}
