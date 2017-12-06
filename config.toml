@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Universal"
+title = "iPardalis"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -40,8 +40,8 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
+    name = "Orders"
+    url  = "/orders/"
     weight = 5
 
 # Top bar social links menu
@@ -126,7 +126,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at 585-967-5007 or jon.mark.hill@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us via social media or email</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -153,13 +153,14 @@ paginate = 10
 
 [params.testimonials]
     enable = false
+
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    icon = "fa fa-hand-o-down"
+    title = "We have a new clutch available in Spring 2018."
+    subtitle = "Do you want to see more?"
+    link_url = "/babies/"
+    link_text = "Check out the babies"
 
 [params.clients]
     enable = false
@@ -167,4 +168,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "Panther Chameleons (Fucifer pardalis) are absolutely amazing animals. Check out the blog for our thoughts on the topic."

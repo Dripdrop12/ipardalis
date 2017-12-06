@@ -7,29 +7,29 @@
 - id: portedBy
   translation: "Ported to Hugo by"
 
-- id: contactGoTo
-  translation: "Go to contact page"
+- id: orderGoTo
+  translation: "Go to order page"
 
-- id: contactAddrTitle
+- id: orderAddrTitle
   translation: "Address"
 
-- id: contactTitle
-  translation: "Contact"
+- id: orderTitle
+  translation: "Reserve your baby"
 
-- id: contactForm
-  translation: "Contact form"
+- id: orderForm
+  translation: "order form"
 
-- id: contactName
+- id: orderName
   translation: "Your Name"
 
-- id: contactMail
+- id: orderMail
   translation: "Your Email"
 
-- id: contactMessage
+- id: orderMessage
   translation: "Your Message"
 
-- id: contactSend
-  translation: "Send Message"
+- id: orderSend
+  translation: "Reserver your baby!"
 
 - id: navHome
   translation: "go to homepage"
