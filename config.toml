@@ -146,7 +146,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -157,7 +157,7 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-hand-o-down"
-    title = "We have a new clutch available in Spring 2018."
+    title = "We have a new clutch available in Spring 2018"
     subtitle = "Do you want to see more?"
     link_url = "/babies/"
     link_text = "Check out the babies"

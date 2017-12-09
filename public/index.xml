@@ -2,53 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iPardalis</title>
-    <link>/</link>
+    <link>http://ipardalis.com/</link>
     <description>Recent content on iPardalis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Jonathan Mark Hill; all rights reserved.</copyright>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ipardalis.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/babies/</link>
+      <link>http://ipardalis.com/babies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/babies/</guid>
+      <guid>http://ipardalis.com/babies/</guid>
       <description>HI!</description>
     </item>
     
     <item>
       <title>Active Breeders</title>
-      <link>/breeders/</link>
+      <link>http://ipardalis.com/breeders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/breeders/</guid>
-      <description>Flash (Sire)    20160422 104832211 i o s
-      20160526 235904189 i o s
-      20160526 235957530 i o s
-      20160618 154759416 i o s
-      20160618 154853386 i o s</description>
+      <guid>http://ipardalis.com/breeders/</guid>
+      <description>Flash (Sire)    1 year stick shot
+      1 year
+      2 years green
+      2 years yellow
+      4 months
+      Eating</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>/faq/</link>
+      <link>http://ipardalis.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/</guid>
+      <guid>http://ipardalis.com/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Orders</title>
-      <link>/orders/</link>
+      <link>http://ipardalis.com/orders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/orders/</guid>
+      <guid>http://ipardalis.com/orders/</guid>
       <description>We have done our research. Please let us know if you have any questions about raising healthy Chameleons and setting up their homes. If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition.
 We require pictures of your enclosure pre-shipment, and there is a $50 discount for on-site pickups.</description>
     </item>

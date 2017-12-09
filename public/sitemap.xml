@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/babies/</loc>
+    <loc>http://ipardalis.com/babies/</loc>
   </url>
   
   <url>
-    <loc>/breeders/</loc>
+    <loc>http://ipardalis.com/breeders/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://ipardalis.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/faq/</loc>
+    <loc>http://ipardalis.com/faq/</loc>
   </url>
   
   <url>
-    <loc>/orders/</loc>
+    <loc>http://ipardalis.com/orders/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://ipardalis.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://ipardalis.com/</loc>
     <priority>0</priority>
   </url>
   

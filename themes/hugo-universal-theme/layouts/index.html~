@@ -21,7 +21,7 @@
 
         {{ partial "testimonials.html" . }}
         
-        {{ partial "recent_posts.html" . }}
+        {{ partial "recent_posts.html" . }
 
         {{ partial "see_more.html" . }}
 
