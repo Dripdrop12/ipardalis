@@ -4,40 +4,33 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+We are not trying to make money. We breed chameleons because we love it, and we want others to be able to experience "what it is like to live with dragons" - Bill Strand. This means we take very good care of our animals because we are not trying to turn a profit. It also means you get a beautiful, healthy animal if you buy from us.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## 1. HOW DO I GET MY CHAMELEON?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+After we have seen a picture of his/her enclosure. We only send our chameleons to homes that have been vetted by us.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Then you can pick him/her up at the nearest FedEx distribution center, usually the nearest airport. We will not ship direct because it is impossible to know if you are the first or last stop on the delivery route and it is the best way to gaurantee your pet's safety.
+
+If you live near Poolesville, MD, stop by and pick him/her up from our house. That will save you money, reduce the stress of shipping, and you get the pick of the clutch!
 
 ## 2. WHAT ARE THE POSTAL RATES?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Expect to pay about $60 in shipping. We use FedEx Priority overnight.
 
 ## 3. DO YOU SEND OVERSEAS?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Nope.
 
 ## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+We are not a puppy mill. If you want cheap, sick animals with hit-or-miss quality, that's not us.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 5. HOW DO I ANSWER QUESTIONS ABOUT HUSBANDRY?
 
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+- [Chameleon Forums](https://www.chameleonforums.com/)
+- [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> In case you haven't found the answer for your question please feel free to contact us, we will be happy to help you.
