@@ -4,15 +4,19 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-We are not trying to make money. We breed chameleons because we love it, and we want others to be able to experience "what it is like to live with dragons" - Bill Strand. This means we take very good care of our animals because we are not trying to turn a profit. It also means you get a beautiful, healthy animal if you buy from us.
+We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have distinct color morphs, the most popular of which are Ambilobe (blue/red bar), Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding pair is from the Ambilobe region of Madagascar.
+
+![ambilobe](/img/ambilobe.jpg)
+
+We are not trying to make money. We breed pardalis because we love it, and we want others to be able to experience "what it is like to live with dragons" - Bill Strand. This means we take very good care of your animals, and you get a beautiful, healthy pet/breeder if you buy from us.
 
 ## 1. HOW DO I GET MY CHAMELEON?
 
-After we have seen a picture of his/her enclosure. We only send our chameleons to homes that have been vetted by us.
+After we have seen a picture of his/her enclosure. We only send our chameleons to homes that are prepared to receive them. It takes some time to get the setup right, and we would like to help you make sure it is ready from day one.
 
-Then you can pick him/her up at the nearest FedEx distribution center, usually the nearest airport. We will not ship direct because it is impossible to know if you are the first or last stop on the delivery route and it is the best way to gaurantee your pet's safety.
+Then you can pick him/her up at the nearest FedEx distribution center, usually the nearest airport. We will not ship direct because there is a good chance your pet would sit in a delivery truck, exposed to the elements, for too long.
 
-If you live near Poolesville, MD, stop by and pick him/her up from our house. That will save you money, reduce the stress of shipping, and you get the pick of the clutch!
+If you live near Poolesville, MD, stop by and pick him/her up from our house. That will save you money (both shipping and $50 off normal price), reduce the stress of shipping, and you get the pick of the clutch!
 
 ## 2. WHAT ARE THE POSTAL RATES?
 
@@ -24,12 +28,14 @@ Nope.
 
 ## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
 
-We are not a puppy mill. If you want cheap, sick animals with hit-or-miss quality, that's not us.
+We are not a puppy mill. If you want cheap, sick animals with hit-or-miss coloration and genetics, that's not us.
 
-## 5. HOW DO I ANSWER QUESTIONS ABOUT HUSBANDRY?
+## 5. WHAT ABOUT HUSBANDRY?
 
 - [Chameleon Forums](https://www.chameleonforums.com/)
+  - This is a great resource and an active community forum
 - [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
+  - Olimpia has written some great guides on various topics like [On the Specific Care of Females](http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](http://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
 
 ---
 

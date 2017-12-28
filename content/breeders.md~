@@ -11,7 +11,7 @@ description = "Healthy animals with a professional pedigree"
 
 ## Sire
 
-{{< gallery dir="img/breeders/lineage/Cowboy" />}}
+{{< gallery dir="/img/breeders/lineage/Cowboy" />}}
 
 # Judy (Dam)
 
