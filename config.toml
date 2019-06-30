@@ -24,25 +24,30 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Active Breeders"
-    url  = "/breeders/"
+    name = "Available Now!"
+    url  = "/babies/"
     weight = 2
+
+[[menu.main]]
+    name = "Breeders"
+    url  = "/breeders/"
+    weight = 3
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Orders"
     url  = "/orders/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
@@ -83,7 +88,7 @@ paginate = 10
     defaultDescription = "Hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyAb_MQa8J2AgFfZG6U-qv-b1B0CcoJyGKQ"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -157,7 +162,7 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-hand-o-down"
-    title = "We have a new clutch available in Spring 2018"
+    title = "We have a new clutch available September 2019"
     subtitle = "Do you want to see more?"
     link_url = "/babies/"
     link_text = "Check out the babies"
