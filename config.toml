@@ -30,7 +30,26 @@ paginate = 10
 
 [[menu.main]]
     name = "Breeders"
+    identifier = "breeders"
     url  = "/breeders/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Active"
+    url = "/breeders/Active"
+    parent = "breeders"
+    weight = 1
+
+[[menu.main]]
+    name = "Retired"
+    url = "/breeders/Retired"
+    parent = "breeders"
+    weight = 2
+    
+[[menu.main]]
+    name = "Lineage"
+    url = "/breeders/Lineage"
+    parent = "breeders"
     weight = 3
 
 [[menu.main]]
@@ -174,3 +193,6 @@ paginate = 10
     enable = true
     title = "From our blog"
     subtitle = "Panther Chameleons (Fucifer pardalis) are absolutely amazing animals. Check out the blog for our thoughts on the topic."
+
+[imaging]
+    quality = 25

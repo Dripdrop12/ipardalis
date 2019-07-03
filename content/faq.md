@@ -16,8 +16,6 @@ After we have seen a picture of his/her enclosure. We only send our chameleons t
 
 Then you can pick him/her up at the nearest FedEx distribution center, usually the nearest airport. We will not ship direct because there is a good chance your pet would sit in a delivery truck, exposed to the elements, for too long.
 
-If you live near Poolesville, MD, stop by and pick him/her up from our house. That will save you money (both shipping and $50 off normal price), reduce the stress of shipping, and you get the pick of the clutch!
-
 ## 2. WHAT ARE THE POSTAL RATES?
 
 Expect to pay about $60 in shipping. We use FedEx Priority overnight.
