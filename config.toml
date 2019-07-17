@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "ipardalis-com"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-144013109-1"
 
 # Define the number of posts per page
 paginate = 10
@@ -128,7 +128,7 @@ paginate = 10
     email = "jon.mark.hill@gmail.com"
 
     about_us = "<p>Individually-raised Panther Chameleons.</p>"
-    copyright = "Copyright (c) 2017, Jonathan Mark Hill; all rights reserved."
+    copyright = "Copyright (c) 2019, Jonathan Mark Hill; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -141,8 +141,6 @@ paginate = 10
         <strong>USA</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -195,4 +193,4 @@ paginate = 10
     subtitle = "Panther Chameleons (Fucifer pardalis) are absolutely amazing animals. Check out the blog for our thoughts on the topic."
 
 [imaging]
-    quality = 25
+    quality = 25 

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breeders on iPardalis</title>
+    <link>http://ipardalis.com/breeders/</link>
+    <description>Recent content in Breeders on iPardalis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2019, Jonathan Mark Hill; all rights reserved.</copyright>
+    
+	<atom:link href="http://ipardalis.com/breeders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active</title>
+      <link>http://ipardalis.com/breeders/active/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/breeders/active/</guid>
+      <description>Active Jude Sire: Flash
+Dam Sire: Candy Cane
+Jude was the alpha male from Flash and Judy&amp;rsquo;s clutch, hatched 10/17/17. He has strong yellows and a fierce attitude!
+   1 year
+      Body shot
+      D s c00373</description>
+    </item>
+    
+    <item>
+      <title>Lineage</title>
+      <link>http://ipardalis.com/breeders/lineage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/breeders/lineage/</guid>
+      <description>Lineage of iPardalis Kammerflage Kreations Manome-toky (Promise Keeper)    Promise keeper
+      Promise keeper1
+      Promise keeper2
+      Promise keeper3
+      Promise keeper4</description>
+    </item>
+    
+    <item>
+      <title>Retired</title>
+      <link>http://ipardalis.com/breeders/retired/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/breeders/retired/</guid>
+      <description>Retired Kako Sire: Sparkles
+Dam Sire: Leo
+Kako was a very striking female with a shy personality. She was taken by a hawk from our garden fence&amp;hellip;
+   Kako
+      Kako1
+    
+Flash Sire: Cowboy</description>
+    </item>
+    
+  </channel>
+</rss>

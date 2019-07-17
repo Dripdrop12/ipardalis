@@ -16,7 +16,7 @@ Female Fucifer pardalis (Panther Chameleons) will rock back and forth with their
   {{< figure src="/img/breeders/judy/notready/Rocking.jpg" >}}
 {{< /gallery >}}
 
-It is always good to introduce the female into the male's enclosure to avoid injury to either animal because their body language is not for show and males are often too persistent for their own good. In the beginning of March, Judy climbed willingly into Flash's cage, but we had to try multiple times before she was confortable. They mated for about an hour, and we put her back. We seperated them as soon as they were finished to avoid injury.
+It is always good to introduce the female into the male's enclosure to avoid injury to either animal because their body language is not for show. Males are often too persistent for their own good. In the beginning of March, Judy climbed willingly into Flash's cage, but we had to try multiple times before she was confortable. They mated for about an hour, and we put her back. We seperated them as soon as they were finished to avoid injury.
 
 Since then, Judy has been almost black with a pink stripe down her side, and today, after faking us out a few times, she finally laid her clutch!
 

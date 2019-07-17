@@ -6,11 +6,20 @@
     <description>Recent content on iPardalis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017, Jonathan Mark Hill; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright (c) 2019, Jonathan Mark Hill; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ipardalis.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bio Bin Experiment</title>
+      <link>http://ipardalis.com/blog/2019/06/30/bio-bin/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/blog/2019/06/30/bio-bin/</guid>
+      <description>Given that wild baby Panther Chameleons are often found in low brush or tall grass, we would like to simulate that as much as possible. So in 2019, we are experimenting with raising our babies in bio bins for the first month of life. We have multiple soil layers (drainage, abg &amp;amp; leaf) and 3 - 4 species of inspects in every bin.</description>
+    </item>
     
     <item>
       <title>Judy&#39;s First Clutch</title>
@@ -20,30 +29,35 @@
       <guid>http://ipardalis.com/blog/2017/03/21/first-clutch/</guid>
       <description>Female Fucifer pardalis (Panther Chameleons) will rock back and forth with their mouth agape in a defensive posture when they are not ready to mate.
              
-It is always good to introduce the female into the male&amp;rsquo;s enclosure to avoid injury to either animal because their body language is not for show and males are often too persistent for their own good.</description>
+It is always good to introduce the female into the male&amp;rsquo;s enclosure to avoid injury to either animal because their body language is not for show.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Active</title>
+      <link>http://ipardalis.com/breeders/active/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/breeders/active/</guid>
+      <description>Active Jude Sire: Flash
+Dam Sire: Candy Cane
+Jude was the alpha male from Flash and Judy&amp;rsquo;s clutch, hatched 10/17/17. He has strong yellows and a fierce attitude!
+   1 year
+      Body shot
+      D s c00373</description>
+    </item>
+    
+    <item>
+      <title>Available Now!</title>
       <link>http://ipardalis.com/babies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ipardalis.com/babies/</guid>
-      <description>HI!</description>
-    </item>
-    
-    <item>
-      <title>Active Breeders</title>
-      <link>http://ipardalis.com/breeders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ipardalis.com/breeders/</guid>
-      <description>Flash    1 year stick shot
-      1 year
-      2 years green
-      2 years yellow
-      4 months
-      Eating</description>
+      <description>Jude x Kako Hatch dates: 6/5/2019 - 6/19/2019
+Hatch rate: 100%
+Shipping: 9/5/2019
+This clutch is doing amazing. We&amp;rsquo;ve got 19 boys and 15 girls eating very well. They are being individually raised in Dragon Strand nursery cages.
+   D s c00259
+      D s c00269</description>
     </item>
     
     <item>
@@ -56,13 +70,41 @@ It is always good to introduce the female into the male&amp;rsquo;s enclosure to
     </item>
     
     <item>
+      <title>Lineage</title>
+      <link>http://ipardalis.com/breeders/lineage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/breeders/lineage/</guid>
+      <description>Lineage of iPardalis Kammerflage Kreations Manome-toky (Promise Keeper)    Promise keeper
+      Promise keeper1
+      Promise keeper2
+      Promise keeper3
+      Promise keeper4</description>
+    </item>
+    
+    <item>
       <title>Orders</title>
       <link>http://ipardalis.com/orders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ipardalis.com/orders/</guid>
       <description>We have done our research. Please let us know if you have any questions about raising healthy Chameleons and setting up their homes. If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition.
-We require pictures of your enclosure pre-shipment, and there is a $50 discount for on-site pickups.</description>
+We require pictures of your enclosure pre-shipment</description>
+    </item>
+    
+    <item>
+      <title>Retired</title>
+      <link>http://ipardalis.com/breeders/retired/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ipardalis.com/breeders/retired/</guid>
+      <description>Retired Kako Sire: Sparkles
+Dam Sire: Leo
+Kako was a very striking female with a shy personality. She was taken by a hawk from our garden fence&amp;hellip;
+   Kako
+      Kako1
+    
+Flash Sire: Cowboy</description>
     </item>
     
   </channel>

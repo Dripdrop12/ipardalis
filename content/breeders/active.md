@@ -24,6 +24,10 @@ Sire: Manome-toky (Promise Keeper)
 
 Dam Sire: Fanitso (Herb)
 
+Our newest edition - this little guy is showing some amazing potential at just 3 months old!
+
+{{< gallery dir="/img/breeders/zanaka" />}}
+
 ## Alla
 Sire: JJ
 

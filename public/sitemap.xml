@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ipardalis.com/blog/2019/06/30/bio-bin/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ipardalis.com/blog/2017/03/21/first-clutch/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipardalis.com/breeders/active/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipardalis.com/tags/alla/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -12,24 +27,31 @@
   </url>
   
   <url>
-    <loc>http://ipardalis.com/breeders/</loc>
+    <loc>http://ipardalis.com/tags/babies/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ipardalis.com/categories/babies/</loc>
-    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ipardalis.com/blog/</loc>
-    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ipardalis.com/breeders/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ipardalis.com/categories/</loc>
-    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,9 +66,25 @@
   </url>
   
   <url>
+    <loc>http://ipardalis.com/tags/jude/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ipardalis.com/tags/judy/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ipardalis.com/tags/kako/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ipardalis.com/breeders/lineage/</loc>
   </url>
   
   <url>
@@ -54,14 +92,18 @@
   </url>
   
   <url>
+    <loc>http://ipardalis.com/breeders/retired/</loc>
+  </url>
+  
+  <url>
     <loc>http://ipardalis.com/tags/</loc>
-    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ipardalis.com/</loc>
-    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
