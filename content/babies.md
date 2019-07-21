@@ -26,10 +26,10 @@ This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. T
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 
 Hatch dates
-: 7/9/2019 - present (shipping 10/9/2019)
+: 7/9/2019 - 7/20/2019 (shipping 10/9/2019)
 
 Hatch rate
-: (not done)
+: 100%
 
 Male
 : $350
