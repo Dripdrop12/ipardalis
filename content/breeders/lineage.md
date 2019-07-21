@@ -13,11 +13,51 @@ description = "Healthy animals with a professional pedigree"
 ## [Kammerflage Kreations](https://chameleonsonly.com/)
 ### Manome-toky (Promise Keeper)
 
+Sire
+: Bararata-fatio (AKA Bamboo Falcon)
+
+Dam
+: Vony-reny
+
 {{< gallery dir="/img/breeders/lineage/Promise Keeper" />}}
+
+### Bararata-fatio (Bamboo Falcon)
+
+{{< gallery dir="/img/breeders/lineage/Bamboo Falcon" />}}
+
+### Vony-reny
+
+Sire
+: [Mavo-ra (Yellow Blood)]()
+
+### Mavo-ra (Yellow Blood)
+
+{{< gallery dir="/img/breeders/lineage/Yellow Blood" />}}
+
+### Mitselatra (Stormy Weather)
+
+**F1**
+
+Sire
+: [Fanitso (Herb)]({{< ref "/breeders/lineage.md#fanitso-herb" >}})
+
+Dam
+: Jaky-fiposohana
 
 ### Fanitso (Herb)
 
+**WC**
+
 {{< gallery dir="/img/breeders/lineage/Fanitso" />}}
+
+### Jaky-fiposohana
+
+Sire
+: Miroborobo (AKA Blaze)
+
+### Miroborobo (AKA Blaze)
+
+{{< gallery dir="/img/breeders/lineage/Blaze" />}}
 
 ## [Panther Creek](https://www.facebook.com/Panther-Chameleons-328220557373703/)
 ### Sparkles
@@ -27,6 +67,13 @@ description = "Healthy animals with a professional pedigree"
 {{< gallery dir="/img/breeders/lineage/Leo" />}}
 
 ### JJ
+
+Sire
+: Mavo-ra (Yellow Blood)
+
+Dam Sire
+: Little Foot
+
 {{< gallery dir="/img/breeders/lineage/JJ" />}}
 
 ## [Chameleon Paradise](http://www.chameleonparadise.net/)
