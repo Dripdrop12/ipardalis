@@ -59,6 +59,10 @@ Sire
 
 {{< gallery dir="/img/breeders/lineage/Blaze" />}}
 
+### Little Foot
+
+{{< gallery dir="/img/breeders/lineage/Little Foot" />}}
+
 ## [Panther Creek](https://www.facebook.com/Panther-Chameleons-328220557373703/)
 ### Sparkles
 {{< gallery dir="/img/breeders/lineage/Sparkles" />}}
