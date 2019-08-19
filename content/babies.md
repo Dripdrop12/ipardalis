@@ -40,3 +40,19 @@ Female
 I am very excited to see how this pairing works out - Alla's father (JJ) is one of my favorite Panthers. My hope is a couple of these guys get Jude's nostrum and some of JJ's amazing coloration.
 
 {{< gallery dir="/img/babies/20190709" />}}
+
+# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+
+Hatch dates
+: 8/16/2019 - present (shipping 11/16/2019)
+
+Hatch rate
+: Unknown
+
+Male
+: $350
+
+Female
+: $325
+
+Retained clutch from first breeding between Jude and Alla :)
