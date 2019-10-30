@@ -11,17 +11,6 @@ url = "/breeders/retired/"
 
 # Retired
 
-## Kako
-Sire
-: [Sparkles]({{< ref "/breeders/lineage.md#sparkles" >}})
-
-Dam Sire
-: [Leo]({{< ref "/breeders/lineage.md#leo" >}})
-
-Kako was a very striking female with a shy personality. She was taken by a hawk from our garden fence...
-
-{{< gallery dir="/img/breeders/kako" />}}
-
 ## Flash
 Sire
 : [Cowboy]({{< ref "/breeders/lineage.md#cowboy" >}})

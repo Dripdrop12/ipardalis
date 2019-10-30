@@ -10,6 +10,8 @@ description = "Healthy animals with a professional pedigree"
 # Active
 
 ## Jude {#Jude}
+*F2*
+
 Sire
 : [Flash]({{< ref "/breeders/retired.md#flash" >}})
 
@@ -20,8 +22,32 @@ Jude was the alpha male from Flash and Judy's clutch, hatched 10/17/17. He has s
 
 {{< gallery dir="/img/breeders/jude" />}}
 
+## Nugget
+*F2*
+
+Sire
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
+
+Dam
+: [Kako]({{< ref "/breeders/active.md#kako" >}})
+
+Nugget was the alpha male from Jude and Kako's first clutch, hatched 6/5/19. He is a monster like his Sire!
+
+{{< gallery dir="/img/breeders/nugget" />}}
+
+## Blossom
+*F3*
+
+Sire
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
+
+Dam
+: [Alla]({{< ref "/breeders/active.md#alla" >}})
+
+{{< gallery dir="/img/breeders/blossom" />}}
+
 ## Zanaka
-F2
+*F2*
 
 Sire
 : [Manome-toky (Promise Keeper)]({{< ref "/breeders/lineage.md#manome-toky-promise-keeper" >}})
@@ -29,7 +55,7 @@ Sire
 Dam
 : [Mitselatra (Stormy Weather)]({{< ref "/breeders/lineage.md#mitselatra-stormy-weather" >}})
 
-Our newest edition - this little guy is showing some amazing potential at just 3 months old!
+Our newest edition - this guy is showing some jaw dropping reds!
 
 {{< gallery dir="/img/breeders/zanaka" />}}
 
@@ -42,3 +68,34 @@ Dam Sire
 
 {{< gallery dir="/img/breeders/alla" />}}
 
+## Kako
+*F1*
+
+Sire
+: [Sparkles]({{< ref "/breeders/lineage.md#sparkles" >}})
+
+Dam Sire
+: [Leo]({{< ref "/breeders/lineage.md#leo" >}})
+
+Kako was a very striking female with a shy personality. She was taken by a hawk from our garden fence...
+
+{{< gallery dir="/img/breeders/kako" />}}
+
+## TC 1
+*F2*
+
+Sire
+: [Sonny]({{< ref "/breeders/lineage.md#sonny" >}})
+
+Dam Sire
+: [Dante]({{< ref "/breeders/lineage.md#dante" >}})
+
+
+## TC 2
+*F3*
+
+Sire
+: [Thor]({{< ref "/breeders/lineage.md#thor" >}})
+
+Dam Sire
+: [Loki]({{< ref "/breeders/lineage.md#loki" >}})

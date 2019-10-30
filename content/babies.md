@@ -6,6 +6,7 @@ description = "Babies will be ready at 3 months of age"
 {{< load-photoswipe >}}
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/retired.md#kako" >}}) 
+*F2*
 
 Hatch dates
 : 6/5/2019 - 6/19/2019 (shipping 9/5/2019)
@@ -24,6 +25,7 @@ This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. T
 {{< gallery dir="/img/babies/20190605" />}}
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+*F3*
 
 Hatch dates
 : 7/9/2019 - 7/20/2019 (shipping 10/9/2019)
@@ -42,6 +44,7 @@ I am very excited to see how this pairing works out - Alla's father (JJ) is one 
 {{< gallery dir="/img/babies/20190709" />}}
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+*F3*
 
 Hatch dates
 : 8/16/2019 - 9/15/19 (shipping 11/16/2019)
@@ -58,9 +61,10 @@ Female
 Retained clutch from first breeding between Jude and Alla :)
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+*F3*
 
 Hatch dates
-: 10/06/2019 - present (shipping 11/16/2019)
+: 10/06/2019 - present (shipping 01/06/2020)
 
 Hatch rate
 : 34/37
