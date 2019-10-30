@@ -11,7 +11,7 @@ Hatch dates
 : 6/5/2019 - 6/19/2019 (shipping 9/5/2019)
 
 Hatch rate
-: 100%
+: 34/34
 
 Male
 : $325
@@ -29,7 +29,7 @@ Hatch dates
 : 7/9/2019 - 7/20/2019 (shipping 10/9/2019)
 
 Hatch rate
-: 100%
+: 30/31
 
 Male
 : $350
@@ -44,10 +44,10 @@ I am very excited to see how this pairing works out - Alla's father (JJ) is one 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 
 Hatch dates
-: 8/16/2019 - present (shipping 11/16/2019)
+: 8/16/2019 - 9/15/19 (shipping 11/16/2019)
 
 Hatch rate
-: Unknown
+: 32/33
 
 Male
 : $350
@@ -56,3 +56,19 @@ Female
 : $325
 
 Retained clutch from first breeding between Jude and Alla :)
+
+# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+
+Hatch dates
+: 10/06/2019 - present (shipping 11/16/2019)
+
+Hatch rate
+: 34/37
+
+Male
+: $350
+
+Female
+: $325
+
+
