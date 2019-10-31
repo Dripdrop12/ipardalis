@@ -82,13 +82,13 @@ Kako was a very striking female with a shy personality. She was taken by a hawk 
 {{< gallery dir="/img/breeders/kako" />}}
 
 ## TC 1
-*F2*
+*F3*
 
 Sire
 : [Sonny]({{< ref "/breeders/lineage.md#sonny" >}})
 
-Dam Sire
-: [Dante]({{< ref "/breeders/lineage.md#dante" >}})
+Dam
+: [Rainbow]({{< ref "/breeders/lineage.md#rainbow" >}})
 
 
 ## TC 2
@@ -97,5 +97,5 @@ Dam Sire
 Sire
 : [Thor]({{< ref "/breeders/lineage.md#thor" >}})
 
-Dam Sire
-: [Loki]({{< ref "/breeders/lineage.md#loki" >}})
+Dam
+: [Hella]({{< ref "/breeders/lineage.md#hella" >}})

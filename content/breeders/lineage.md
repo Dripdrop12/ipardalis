@@ -67,16 +67,19 @@ Dam
 
 Sire
 : [Miroborobo (Blaze)]({{< ref "/breeders/lineage.md#miroborobo-blaze" >}})
+
 <hr>
 
 ### Miroborobo (Blaze)
 
 {{< gallery dir="/img/breeders/lineage/Blaze" />}}
+
 <hr>
 
 ### Little Foot
 
 {{< gallery dir="/img/breeders/lineage/Little Foot" />}}
+
 <hr>
 
 ### Giga-vony (Old Yeller)
@@ -85,23 +88,29 @@ Sire
 : [Mavo-ra (Yellow Blood)]({{< ref "/breeders/lineage.md#mavo-ra-yellow-blood" >}})
 
 {{< gallery dir="/img/breeders/lineage/Gigavony" />}}
+
 <hr>
 
 
 ## Bobby Ruddock
 <hr>
+
 ### Sparkles
 *WC*
+
 {{< gallery dir="/img/breeders/lineage/Sparkles" />}}
+
 <hr>
 
 ### Leo
 {{< gallery dir="/img/breeders/lineage/Leo" />}}
+
 <hr>
 
 
 ## [Panther Creek](https://www.panthercreekchams.com)
 <hr>
+
 ### JJ
 
 Sire
@@ -111,6 +120,7 @@ Dam Sire
 : Little Foot
 
 {{< gallery dir="/img/breeders/lineage/JJ" />}}
+
 <hr>
 
 
@@ -119,91 +129,140 @@ Dam Sire
 
 ### Dante
 *F1*
+
 Sire
 : [Gambit]({{< ref "/breeders/lineage.md#gambit" >}})
+
 {{< gallery dir="img/breeders/lineage/Dante" />}}
+
 <hr>
 
 ### Sonny
 Sire
 : [Gigavony]({{< ref "/breeders/lineage.md#giga-vony-old-yeller" >}})
+
 {{< gallery dir="img/breeders/lineage/Sonny" />}}
+
 <hr>
 
 ### Thor
 *F2*
+
 Sire
 : [Dante]({{< ref "/breeders/lineage.md#dante" >}})
 
 Dam Sire
 : [Bolt]({{< ref "/breeders/lineage.md#bolt" >}})
+
 {{< gallery dir="img/breeders/lineage/Thor" />}}
+
 <hr>
 
 ### Loki
 Sire
 : unknown
+
 {{< gallery dir="img/breeders/lineage/Loki" />}}
+
 <hr>
 
 ### Skittles
 *F1*
+
 Sire
 : [Cyclops]({{< ref "/breeders/lineage.md#cyclops" >}})
+
 {{< gallery dir="img/breeders/lineage/Skittles" />}}
+
+<hr>
+
+### Rainbow
+*F2*
+
+Sire
+: [Dante]({{< ref "/breeders/lineage.md#marley" >}})
+
+Dam
+: [Skittles]({{< ref "/breeders/lineage.md#Skittles" >}})
+
 <hr>
 
 ### Mandy Girl
 Sire
 : [Marley]({{< ref "/breeders/lineage.md#marley" >}})
+
+<hr>
+
+### Hella
+Sire
+: [Loki]({{< ref "/breeders/lineage.md#loki" >}})
+
+Dam
+: [Mandy Girl]({{< ref "/breeders/lineage.md#mandy-girl" >}})
+
 <hr>
 
 
 
 ## [Brightside Chameleons](https://www.facebook.com/BrightsideChameleons/)
 <hr>
+
 ### Gambit
 *WC*
+
 {{< gallery dir="img/breeders/lineage/Gambit" />}}
+
 <hr>
 
 ### Cyclops
 *WC*
 {{< gallery dir="img/breeders/lineage/Cyclops" />}}
+
 <hr>
 
 
 ## [Canvas Chameleons](https://www.canvaschameleons.com)
 <hr>
+
 ### Marley
 
 {{< gallery dir="img/breeders/lineage/Marley" />}}
+
 <hr>
 
 ### Bolt
 *WC*  
+
 {{< gallery dir="img/breeders/lineage/Bolt" />}}
+
 <hr>
 
 
 ## [Chameleon Paradise](http://www.chameleonparadise.net/)
 <hr>
+
 ### Cowboy
 *WC*
+
 {{< gallery dir="img/breeders/lineage/Cowboy" />}}
+
 <hr>
 
 ### Candy Cane
 *F1*
+
 {{< gallery dir="img/breeders/lineage/Candy Cane" />}}
+
 <hr>
 
 ### Jake
 *F1*
 {{< gallery dir="img/breeders/lineage/Jake" />}}
+
 <hr>
 
 ### King
 
 {{< gallery dir="img/breeders/lineage/King" />}}
+
 <hr>
