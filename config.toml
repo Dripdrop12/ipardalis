@@ -24,7 +24,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Available Now!"
+    name = "Babies!"
     url  = "/babies/"
     weight = 2
 
