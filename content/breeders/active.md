@@ -31,7 +31,7 @@ Sire
 Dam
 : [Kako]({{< ref "/breeders/active.md#kako" >}})
 
-Nugget was the alpha male from Jude and Kako's first clutch, hatched 6/5/19. He is a monster like his Sire!
+Nugget was an alpha male from Jude and Kako's first clutch, hatched 6/5/19. He has many of the traits I love about Jude/Flash, but he has a bit more red in his bars. He is a bold YBBB.
 
 {{< gallery dir="/img/breeders/nugget" />}}
 
