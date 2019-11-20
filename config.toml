@@ -24,8 +24,21 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Babies!"
-    url  = "/babies/"
+    name = "Babies"
+    identifier = "babies"
+    url  = "/babies/index"
+    weight = 2
+    
+[[menu.main]]
+    name = "Available Now!"
+    url  = "/babies/available"
+    parent = "babies"
+    weight = 1
+
+[[menu.main]]
+    name = "Sold"
+    url  = "/babies/sold"
+    parent = "babies"
     weight = 2
 
 [[menu.main]]
