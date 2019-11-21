@@ -5,7 +5,7 @@ description = "Babies will be ready at 3 months of age"
 
 {{< load-photoswipe >}}
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/retired.md#kako" >}}) 
+# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/active.md#kako" >}}) 
 *F2*
 
 Hatch dates

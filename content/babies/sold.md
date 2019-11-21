@@ -7,7 +7,7 @@ description = "Babies will be ready at 3 months of age"
 
 *We publish photo updates from customers here, so that you can see how each of our past clutches has developed. I hope you enjoy looking for resemblance in the lineage or finding total odd-balls!*
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/retired.md#kako" >}}) 
+# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/active.md#kako" >}}) 
 *F2*
 
 Hatch dates
