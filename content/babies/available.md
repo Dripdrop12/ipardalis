@@ -9,7 +9,7 @@ description = "Babies will be ready at 3 months of age"
 *F2*
 
 Hatch dates
-: 6/5/2019 - 6/19/2019 (shipping 9/5/2019)
+: 6/5/2019 - 6/19/2019
 
 Hatch rate
 : 34/34
@@ -28,7 +28,7 @@ This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. T
 *F3*
 
 Hatch dates
-: 7/9/2019 - 7/20/2019 (shipping 10/9/2019)
+: 7/9/2019 - 7/20/2019
 
 Hatch rate
 : 30/31
@@ -47,7 +47,7 @@ I am very excited to see how this pairing works out - Alla's father (JJ) is one 
 *F3*
 
 Hatch dates
-: 8/16/2019 - 9/15/19 (shipping 11/16/2019)
+: 8/16/2019 - 9/15/19
 
 Hatch rate
 : 32/33

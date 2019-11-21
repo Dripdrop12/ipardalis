@@ -5,16 +5,16 @@ description = "Babies will be ready at 3 months of age"
 
 {{< load-photoswipe >}}
 
+*We publish photo updates from customers here, so that you can see how each of our past clutches has developed. I hope you enjoy looking for resemblance in the lineage or finding total odd-balls!*
+
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/retired.md#kako" >}}) 
 *F2*
 
 Hatch dates
-: 6/5/2019 - 6/19/2019 (shipping 9/5/2019)
+: 6/5/2019 - 6/19/2019
 
 Hatch rate
 : 34/34
-
-This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. They are being individually raised in Dragon Strand nursery cages.
 
 {{< gallery dir="/img/babies/20190605/sold" />}}
 
@@ -22,12 +22,10 @@ This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. T
 *F3*
 
 Hatch dates
-: 7/9/2019 - 7/20/2019 (shipping 10/9/2019)
+: 7/9/2019 - 7/20/2019
 
 Hatch rate
 : 30/31
-
-I am very excited to see how this pairing works out - Alla's father (JJ) is one of my favorite Panthers. My hope is a couple of these guys get Jude's nostrum and some of JJ's amazing coloration.
 
 {{< gallery dir="/img/babies/20190709/sold" />}}
 
@@ -35,7 +33,7 @@ I am very excited to see how this pairing works out - Alla's father (JJ) is one 
 *F3*
 
 Hatch dates
-: 8/16/2019 - 9/15/19 (shipping 11/16/2019)
+: 8/16/2019 - 9/15/19
 
 Hatch rate
 : 32/33
@@ -45,8 +43,6 @@ Male
 
 Female
 : $325
-
-Retained clutch from first breeding between Jude and Alla :)
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 *F3*
