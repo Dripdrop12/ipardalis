@@ -1,4 +1,4 @@
-baseurl = "http://ipardalis.com/"
+baseurl = "https://ipardalis.com/"
 title = "iPardalis"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
