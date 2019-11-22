@@ -41,6 +41,20 @@
                                 <input type="text" class="form-control" name="femaleCount" id="femaleCount" required>
                             </div>
                         </div>
+                        <div class="col-sm-6">
+                          <h4>Shipping Info</h4>
+                          <p>FedEx requires a phone # for shipping live animals in case they need to reach out to the recipient directly. We will also need to look up the closest shipping center to your zip code and confirm prior to shipping.</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <div class="form-group">
+                              <label for="zipCode">Zip Code</label>
+                              <input type="integer" class="form-control" name="zipCode" id="zipCode" required>
+                          </div>
+                          <div class="form-group">
+                              <label for="phone">Phone</label>
+                              <input type="text" class="form-control" name="phone" id="phone" required>
+                          </div>
+                        </div>
                         <div class="col-sm-12">
                             <div class="form-group">
                               <label for="message">{{ i18n "orderMessage" }}</label>
@@ -50,9 +64,16 @@
 
                         <div class="col-sm-12 text-center">
                           <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "orderSend" }}</button>
+                          
+                        </div>
+                        <div class="col-sm-12">
+                          <div class="heading">
+                            <h3>Payment</h3>
+                          </div>
+                          <div id="paypal-button-container"></div>
                         </div>
                     </div>
-                    <!-- /.row -->
+                    
                 </form>
 
                 {{ end }}
@@ -79,3 +100,32 @@
     </div>
     <!-- /.row -->
 </div>
+<script src="https://www.paypal.com/sdk/js?client-id=Afykd9QskdBEnkAM7XrNlRBpZCcB8LZiLakW3ndmL8aon5fMJ3VcoGVHKYQfhxclHKf6KUQ5BngNb8pW&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+    paypal.Buttons({
+        style: {
+            shape: 'rect',
+            color: 'gold',
+            layout: 'vertical',
+            label: 'paypal',
+            
+        },
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: '75'
+                    }
+                }]
+            });
+        },
+        onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+                alert('Transaction completed by ' + details.payer.name.given_name + '!');
+            });
+        }
+    }).render('#paypal-button-container');
+</script>
+<script
+  src="https://www.paypal.com/sdk/js?client-id=Afykd9QskdBEnkAM7XrNlRBpZCcB8LZiLakW3ndmL8aon5fMJ3VcoGVHKYQfhxclHKf6KUQ5BngNb8pW"> 
+</script>

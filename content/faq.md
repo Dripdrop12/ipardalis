@@ -32,8 +32,8 @@ We are not a puppy mill. If you want cheap, sick animals with hit-or-miss colora
 
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
-- [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
-  - Olimpia has written some great guides on various topics like [On the Specific Care of Females](http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](http://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
+- [Much Ado About Chameleons](https://www.muchadoaboutchameleons.com/)
+  - Olimpia has written some great guides on various topics like [On the Specific Care of Females](https://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](https://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
 
 ---
 

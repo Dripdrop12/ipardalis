@@ -110,7 +110,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:jon.mark.hill@gmail.com"
+    url = "mailto:jon.mark.hill@ipardalis.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -138,7 +138,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "jon.mark.hill@gmail.com"
+    email = "jon.mark.hill@ipardalis.com"
 
     about_us = "<p>Individually-raised Panther Chameleons.</p>"
     copyright = "Copyright (c) 2019, Jonathan Mark Hill; all rights reserved."
