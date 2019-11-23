@@ -77,7 +77,7 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
-    name = "Orders"
+    name = "Buy Now!"
     url  = "/orders/"
     weight = 6
 
@@ -194,7 +194,7 @@ paginate = 10
     icon = "fa fa-hand-o-down"
     title = "We have a new clutch available September 2019"
     subtitle = "Do you want to see more?"
-    link_url = "/babies/"
+    link_url = "/babies/available/"
     link_text = "Check out the babies"
 
 [params.clients]
