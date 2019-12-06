@@ -38,11 +38,7 @@ Hatch dates
 Hatch rate
 : 32/33
 
-Male
-: $350
-
-Female
-: $325
+{{< gallery dir="/img/babies/20190816/sold" />}}
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 *F3*
@@ -53,10 +49,14 @@ Hatch dates
 Hatch rate
 : 34/37
 
-Male
-: $350
 
-Female
-: $325
+# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+*F3*
+
+Hatch dates
+: 11/20/2019 - present (shipping 02/20/2020)
+
+Hatch rate
+: Unknown
 
 
