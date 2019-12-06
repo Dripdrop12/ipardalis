@@ -66,7 +66,7 @@ Retained clutch from first breeding between Jude and Alla :)
 *F3*
 
 Hatch dates
-: 10/06/2019 - present (shipping 01/06/2020)
+: 10/06/2019 - 10/20/2019 (shipping 01/06/2020)
 
 Hatch rate
 : 34/37
@@ -77,4 +77,17 @@ Male
 Female
 : $325
 
+# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+*F3*
 
+Hatch dates
+: 11/20/2019 - present (shipping 02/20/2020)
+
+Hatch rate
+: Unknown
+
+Male
+: $350
+
+Female
+: $325
