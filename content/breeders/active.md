@@ -77,7 +77,7 @@ Sire
 Dam Sire
 : [Leo]({{< ref "/breeders/lineage.md#leo" >}})
 
-Kako was a very striking female with a shy personality. She was taken by a hawk from our garden fence...
+Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
 
 {{< gallery dir="/img/breeders/kako" />}}
 
