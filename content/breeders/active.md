@@ -8,8 +8,12 @@ description = "Healthy animals with a professional pedigree"
 {{< load-photoswipe >}}
 
 # Active
+<hr>
 
 ## Jude {#Jude}
+
+{{< gallery dir="/img/breeders/jude" />}}
+
 *F2*
 
 Sire
@@ -20,9 +24,11 @@ Dam
 
 Jude was the alpha male from Flash and Judy's clutch, hatched 10/17/17. He has strong yellows and a fierce attitude!
 
-{{< gallery dir="/img/breeders/jude" />}}
+<hr>
 
 ## Nugget
+
+{{< gallery dir="/img/breeders/nugget" />}}
 *F2*
 
 Sire
@@ -33,20 +39,12 @@ Dam
 
 Nugget was an alpha male from Jude and Kako's first clutch, hatched 6/5/19. He has many of the traits I love about Jude/Flash, but he has a bit more red in his bars. He is a bold YBBB.
 
-{{< gallery dir="/img/breeders/nugget" />}}
-
-## Blossom
-*F3*
-
-Sire
-: [Jude]({{< ref "/breeders/active.md#jude" >}})
-
-Dam
-: [Alla]({{< ref "/breeders/active.md#alla" >}})
-
-{{< gallery dir="/img/breeders/blossom" />}}
+<hr>
 
 ## Zanaka
+
+{{< gallery dir="/img/breeders/zanaka" />}}
+
 *F2*
 
 Sire
@@ -57,18 +55,50 @@ Dam
 
 Our newest edition - this guy is showing some jaw dropping reds!
 
-{{< gallery dir="/img/breeders/zanaka" />}}
+<hr>
+
+## Blossom
+
+{{< gallery dir="/img/breeders/blossom" />}}
+
+*F3*
+
+Sire
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
+
+Dam
+: [Alla]({{< ref "/breeders/active.md#alla" >}})
+
+<hr>
+
+## Bleu
+
+{{< gallery dir="/img/breeders/bleu" />}}
+
+Sire
+: [Stryfe]({{< ref "/breeders/lineage.md#stryfe" >}})
+
+Dam
+: [Bleu's Dam]({{< ref "/breeders/lineage.md#bleu-s-dam" >}})
+
+<hr>
 
 ## Alla
+
+{{< gallery dir="/img/breeders/alla" />}}
+
 Sire
 : [JJ]({{< ref "/breeders/lineage.md#jj" >}})
 
 Dam Sire
 : Blue Bird x Blaze
 
-{{< gallery dir="/img/breeders/alla" />}}
+<hr>
 
 ## Kako
+
+{{< gallery dir="/img/breeders/kako" />}}
+  
 *F1*
 
 Sire
@@ -79,7 +109,35 @@ Dam Sire
 
 Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
 
-{{< gallery dir="/img/breeders/kako" />}}
+<hr>
+
+## Patch
+
+{{< gallery dir="/img/breeders/patch" />}}
+*F2*
+
+Sire
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
+
+Dam
+: [Kako]({{< ref "/breeders/active.md#kako" >}})
+
+<hr>
+
+## Sunny
+
+{{< gallery dir="/img/breeders/sunny" />}}
+*F2*
+
+Sire
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
+
+Dam
+: [Kako]({{< ref "/breeders/active.md#kako" >}})
+
+<hr>
+
+
 
 ## TC 1
 *F3*

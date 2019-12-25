@@ -15,9 +15,9 @@ Hatch rate
 : 34/34
 
 Male
-: $325
+: $450
 
-Female
+Females
 : $299
 
 This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. They are being individually raised in Dragon Strand nursery cages.
@@ -34,9 +34,9 @@ Hatch rate
 : 30/31
 
 Male
-: $350
+: $375
 
-Female
+Females
 : $325
 
 I am very excited to see how this pairing works out - Alla's father (JJ) is one of my favorite Panthers. My hope is a couple of these guys get Jude's nostrum and some of JJ's amazing coloration.
@@ -52,10 +52,10 @@ Hatch dates
 Hatch rate
 : 32/33
 
-Male
+Males
 : $350
 
-Female
+Females
 : $325
 
 Retained clutch from first breeding between Jude and Alla :)

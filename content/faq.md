@@ -18,18 +18,20 @@ Then you can pick him/her up at the nearest FedEx distribution center, usually t
 
 ## 2. WHAT ARE THE POSTAL RATES?
 
-Expect to pay about $60 in shipping. We use FedEx Priority overnight.
+Expect to pay about $60 (New Jersey) - $100 (Alaska) in shipping. We use FedEx Priority overnight.
 
 ## 3. DO YOU SEND OVERSEAS?
 
 Nope.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+## 4. WHY ARE THEY SO EXPENSIVE?
 
-We are not a puppy mill. If you want cheap, sick animals with hit-or-miss coloration and genetics, that's not us.
+If you want cheap, sick animals with hit-or-miss coloration and genetics, that's not us. It requires a minimum of $150 to raise a healthy panther to the age of 3 months. That is the floor for their required nutrition and food intake. 
 
 ## 5. CAPTIVE HUSBANDRY?
 
+- [Chameleon Academy](https://chameleonacademy.com/)
+  - The most comprehensive guide to chameleon husbandry on the web
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
 - [Much Ado About Chameleons](https://www.muchadoaboutchameleons.com/)

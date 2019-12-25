@@ -220,6 +220,78 @@ Dam
 
 <hr>
 
+### Stryfe
+
+{{< gallery dir="img/breeders/lineage/Stryfe" />}}
+
+Sire
+: [Dio]({{< ref "/breeders/lineage.md#dio" >}})
+
+Dam
+: [Stryfe's Dam]({{< ref "/breeders/lineage.md#stryfe-s-dam" >}})
+
+<hr>
+
+### Bleu's Dam
+
+Sire
+: [Felipe Sanchez]({{< ref "/breeders/lineage.md#felipe-sanchez" >}})
+
+Dam Sire
+: [Macho]({{< ref "/breeders/lineage.md#macho" >}})
+
+<hr>
+
+
+## [Joshua Illencik](https://www.facebook.com/profile.php?id=12427628)
+
+<hr>
+
+### Dio
+
+{{< gallery dir="img/breeders/lineage/Dio" />}}
+
+<hr>
+
+### Stryfe's Dam
+
+Sire
+: Zeratul
+
+{{< gallery dir="img/breeders/lineage/Zeratul" />}}
+
+Dam Sire
+: Noki
+
+{{< gallery dir="img/breeders/lineage/Noki" />}}
+
+<hr>
+
+
+## [Chromatic Chameleons](https://www.chromaticchameleons.com/)
+
+<hr>
+
+### Felipe Sanchez
+
+{{< gallery dir="img/breeders/lineage/Felipe Sanchez" />}}
+
+<hr>
+
+
+## Shane Conlin
+
+### Macho
+
+{{< gallery dir="img/breeders/lineage/Macho" />}}
+
+Sire
+: [Candy Cane]({{< ref "/breeders/lineage.md#candy-cane" >}})
+
+Dam Sire
+: [Cowboy]({{< ref "/breeders/lineage.md#cowboy" >}})
+
+<hr>
 
 ## [Canvas Chameleons](https://www.canvaschameleons.com)
 <hr>
