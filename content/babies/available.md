@@ -53,7 +53,7 @@ Hatch rate
 : 32/33
 
 Males
-: $350
+: $350 - $500
 
 Females
 : $325
