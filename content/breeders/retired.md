@@ -12,6 +12,8 @@ url = "/breeders/retired/"
 # Retired
 
 ## Flash
+*F1*
+
 Sire
 : [Cowboy]({{< ref "/breeders/lineage.md#cowboy" >}})
 

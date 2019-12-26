@@ -7,6 +7,17 @@ description = "Babies will be ready at 3 months of age"
 
 *We publish photo updates from customers here, so that you can see how each of our past clutches has developed. I hope you enjoy looking for resemblance in the lineage or finding total odd-balls!*
 
+# [Flash]({{< ref "/breeders/retired.md#flash" >}}) x [Judy]({{< ref "/breeders/retired.md#judy" >}})
+*F2*
+
+Hatch dates
+: 10/17/2017 - 10/30/2017
+
+Hatch rate
+: 14/23
+
+{{< gallery dir="/img/babies/20171017/sold" />}}
+
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/active.md#kako" >}}) 
 *F2*
 
