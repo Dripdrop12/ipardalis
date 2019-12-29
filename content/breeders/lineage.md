@@ -91,6 +91,17 @@ Sire
 
 <hr>
 
+### Red Destiny
+
+{{< gallery dir="img/breeders/lineage/Red Destiny" />}}
+
+<hr>
+
+### Red Lion
+
+{{< gallery dir="img/breeders/lineage/Red Lion" />}}
+
+<hr>
 
 ## Bobby Ruddock
 <hr>
@@ -215,8 +226,14 @@ Dam
 <hr>
 
 ### Cyclops
-*WC*
+
 {{< gallery dir="img/breeders/lineage/Cyclops" />}}
+
+Sire
+: [Poseidon]({{< ref "/breeders/lineage.md#poseidon" >}})
+
+Dam
+: [Phoenix]({{< ref "/breeders/lineage.md#phoenix" >}})
 
 <hr>
 
@@ -232,7 +249,7 @@ Dam
 
 <hr>
 
-### Bleu's Dam
+### Emma Frost
 
 Sire
 : [Felipe Sanchez]({{< ref "/breeders/lineage.md#felipe-sanchez" >}})
@@ -242,6 +259,54 @@ Dam Sire
 
 <hr>
 
+### Phoenix
+
+Sire
+: [Zephyros]({{< ref "/breeders/lineage.md#zephyros" >}})
+
+Dam Sire
+: [Sulu]({{< ref "/breeders/lineage.md#sulu" >}})
+
+<hr>
+
+
+## Mythical Exotics
+
+<hr>
+
+### Zephyros
+
+<hr>
+
+
+## Crazy Eye Chams
+
+<hr>
+
+### Sulu
+
+{{< gallery dir="img/breeders/lineage/Sulu" />}}
+
+## Panther Baron
+
+<hr>
+
+### Poseidon
+
+Sire
+: [Red Lion]({{< ref "/breeders/lineage.md#red-lion" >}})
+
+Dam
+: [Selene]({{< ref "/breeders/lineage.md#selene" >}})
+
+<hr>
+
+### Selene
+
+Sire
+: [Red Destiny]({{< ref "/breeders/lineage.md#red-destiny" >}})
+
+<hr>
 
 ## [Joshua Illencik](https://www.facebook.com/profile.php?id=12427628)
 

@@ -79,7 +79,7 @@ Sire
 : [Stryfe]({{< ref "/breeders/lineage.md#stryfe" >}})
 
 Dam
-: [Bleu's Dam]({{< ref "/breeders/lineage.md#bleu-s-dam" >}})
+: [Emma Frost]({{< ref "/breeders/lineage.md#emma-frost" >}})
 
 <hr>
 
