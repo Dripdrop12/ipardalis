@@ -20,7 +20,7 @@ Male
 Females
 : $299
 
-This clutch is doing amazing. We've got 19 boys and 15 girls eating very well. They are being individually raised in Dragon Strand nursery cages.
+This clutch has had some of the strongest yellows I have produced to-date. Check out the [clutch mates]({{< ref "/babies/sold.md#jude-hahahugoshortcode-5hbhb-x-kako-hahahugoshortcode-6hbhb" >}}) that have already found new homes! These girls have some amazing breeding potential and great personalities.
 
 {{< gallery dir="/img/babies/20190605/available" />}}
 
@@ -39,7 +39,7 @@ Male
 Females
 : $325
 
-I am very excited to see how this pairing works out - Alla's father (JJ) is one of my favorite Panthers. My hope is a couple of these guys get Jude's nostrum and some of JJ's amazing coloration.
+Alla's father (JJ) is one of my favorite Panthers. A couple of these guys will get Jude's nostrum and some of JJ's amazing coloration or Jude's coloration and JJ's personality! Can't go wrong either way.
 
 {{< gallery dir="/img/babies/20190709/available" />}}
 
@@ -58,7 +58,7 @@ Males
 Females
 : $325
 
-Retained clutch from first breeding between Jude and Alla :)
+Great group of boys and girls here. You have the advantage of being able to check out the previous pairings to see how they've turned out!
 
 {{< gallery dir="/img/babies/20190816/available" />}}
 
