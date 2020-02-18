@@ -18,6 +18,8 @@ Hatch rate
 
 {{< gallery dir="/img/babies/20171017/sold" />}}
 
+<hr>
+
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/active.md#kako" >}}) 
 *F2*
 
@@ -28,6 +30,8 @@ Hatch rate
 : 34/34
 
 {{< gallery dir="/img/babies/20190605/sold" />}}
+
+<hr>
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 *F3*
@@ -40,6 +44,8 @@ Hatch rate
 
 {{< gallery dir="/img/babies/20190709/sold" />}}
 
+<hr>
+
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 *F3*
 
@@ -51,6 +57,8 @@ Hatch rate
 
 {{< gallery dir="/img/babies/20190816/sold" />}}
 
+<hr>
+
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 *F3*
 
@@ -60,6 +68,9 @@ Hatch dates
 Hatch rate
 : 34/37
 
+{{< gallery dir="/img/babies/20191006/sold" />}}
+
+<hr>
 
 # [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
 *F3*
@@ -70,4 +81,4 @@ Hatch dates
 Hatch rate
 : Unknown
 
-
+<hr>
