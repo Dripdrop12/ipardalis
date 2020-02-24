@@ -59,44 +59,44 @@ banner = "img/breeders/nugget/nugget1.jpg"
     <p class="DAR-ChildTitle">Children of Unknown and Cowboy (CH)</p>
     <p class="DAR-ChildList">i. Cowboy's daughter (F1). </p>
     <p class="DAR-ChildTitle">Children of Unknown and Cowboy (CH)</p>
-    <p class="DAR-ChildList">i. Cowboy's daughter (F1). Cowboy's daughter was produced by Chameleon's Paradise.  She died in Canvas Chameleons.  </p>
-    <p class="DAR-First-Entry">9. <strong>King's daughter. </strong>King's daughter was produced by Chameleon's Paradise.  She died in Chameleon's Paradise.  She was the daughter of King. </p>
+    <p class="DAR-ChildList">i. Cowboy's daughter (F1). Cowboy's daughter was produced by Chameleon's Paradise.  She died with Canvas Chameleons.  </p>
+    <p class="DAR-First-Entry">9. <strong>King's daughter. </strong>King's daughter was produced by Chameleon's Paradise.  She died with Chameleon's Paradise.  She was the daughter of King. </p>
     <p class="DAR-ChildTitle">Children of King's daughter and Cowboy (CH)</p>
     <p class="DAR-ChildList">i. Flash (F1) [4]. Flash was born on 2015-01-10 in Chameleon's Paradise.  He died on 2018-06-14 at iPardalis.  </p>
     <img align="right" alt="" border="0" src="/blog/nugget/isCandy Cane2.jpg" />
-    <p class="DAR-First-Entry">10. <strong>Candy Cane (F1). </strong>Candy Cane was produced by Chameleon's Paradise.  He died in Chameleon's Paradise.  He was bred with Jake's daughter. He also was bred with Cowboy's daughter (F1). </p>
+    <p class="DAR-First-Entry">10. <strong>Candy Cane (F1). </strong>Candy Cane was produced by Chameleon's Paradise.  He died with Chameleon's Paradise.  He was bred with Jake's daughter. He also was bred with Cowboy's daughter (F1). </p>
     <p class="DAR-ChildTitle">Children of Cowboy's daughter (F1) and Candy Cane (F1)</p>
     <p class="DAR-ChildList">i. Macho (F2). </p>
-    <p class="DAR-First-Entry">11. <strong>Jake's daughter. </strong>Jake's daughter was produced by Chameleon's Paradise.  She died in Chameleon's Paradise.  She was the daughter of Jake (F1). </p>
+    <p class="DAR-First-Entry">11. <strong>Jake's daughter. </strong>Jake's daughter was produced by Chameleon's Paradise.  She died with Chameleon's Paradise.  She was the daughter of Jake (F1). </p>
     <p class="DAR-ChildTitle">Children of Jake's daughter and Candy Cane (F1)</p>
     <p class="DAR-ChildList">i. Judy (F2) [5]. Judy was born on 2015-02-11 in Chameleon's Paradise.  She died on 2018-02-15 at iPardalis.  </p>
-    <p class="DAR-First-Entry">12. <strong>Unknown. </strong>Unknown was produced by The Panther Baron.  He died in Bobby Ruddock.  He was the son of Loza and Flaming River's daughter. He was bred with Unknown - WC. </p>
+    <p class="DAR-First-Entry">12. <strong>Unknown. </strong>Unknown was produced by The Panther Baron.  He died with Bobby Ruddock.  He was the son of Loza and Flaming River's daughter. He was bred with Unknown - WC. </p>
     <p class="DAR-First-Entry">13. <strong>Unknown - WC. </strong>Unknown was produced by Bobby Ruddock.  </p>
     <p class="DAR-ChildTitle">Children of Unknown - WC and Unknown</p>
     <p class="DAR-ChildList">i. Sparkles (F1) [6]. Sparkles was produced by Bobby Ruddock.  </p>
     <img align="right" alt="" border="0" src="/blog/nugget/isLeo1.png" />
-    <p class="DAR-First-Entry">14. <strong>Leo. </strong>Leo was produced by The Panther Company.  He died in The Panther Company.  He was bred with Unknown. </p>
+    <p class="DAR-First-Entry">14. <strong>Leo. </strong>Leo was produced by The Panther Company.  He died with The Panther Company.  He was bred with Unknown. </p>
     <p class="DAR-ChildTitle">Children of Unknown and Leo</p>
     <p class="DAR-ChildList">i. Leo's daughter [7]. Leo's daughter was produced by The Panther Company.  She died on 2018-12-23 in Bobby Ruddock.  </p>
     <h3 class="DAR-Generation">Generation 5</h3>
     <img align="right" alt="" border="0" src="/blog/nugget/isKing.jpg" />
     <p class="DAR-First-Entry">18. <strong>King. </strong>He was bred with Unknown. </p>
     <p class="DAR-ChildTitle">Children of Unknown and King</p>
-    <p class="DAR-ChildList">i. King's daughter [9]. King's daughter was produced by Chameleon's Paradise.  She died in Chameleon's Paradise.  </p>
+    <p class="DAR-ChildList">i. King's daughter [9]. King's daughter was produced by Chameleon's Paradise.  She died with Chameleon's Paradise.  </p>
     <img align="right" alt="" border="0" src="/blog/nugget/isJake2.jpg" />
-    <p class="DAR-First-Entry">22. <strong>Jake (F1). </strong>Jake was produced by Chameleon's Paradise.  He died in Chameleon's Paradise.  He was bred with Unknown. </p>
+    <p class="DAR-First-Entry">22. <strong>Jake (F1). </strong>Jake was produced by Chameleon's Paradise.  He died with Chameleon's Paradise.  He was bred with Unknown. </p>
     <p class="DAR-ChildTitle">Children of Unknown and Jake (F1)</p>
-    <p class="DAR-ChildList">i. Jake's daughter [11]. Jake's daughter was produced by Chameleon's Paradise.  She died in Chameleon's Paradise.  </p>
+    <p class="DAR-ChildList">i. Jake's daughter [11]. Jake's daughter was produced by Chameleon's Paradise.  She died with Chameleon's Paradise.  </p>
     <img align="right" alt="" border="0" src="/blog/nugget/isloza.jpeg" />
-    <p class="DAR-First-Entry">24. <strong>Loza. </strong>Loza was produced by Kammerflage Kreations.  He died in Kammerflage Kreations.  He was bred with Flaming River's daughter. </p>
-    <p class="DAR-First-Entry">25. <strong>Flaming River's daughter. </strong>Flaming River's daughter was produced by Kammerflage Kreations.  She died in Kammerflage Kreations.  She was the daughter of Flaming River. </p>
+    <p class="DAR-First-Entry">24. <strong>Loza. </strong>Loza was produced by Kammerflage Kreations.  He died with Kammerflage Kreations.  He was bred with Flaming River's daughter. </p>
+    <p class="DAR-First-Entry">25. <strong>Flaming River's daughter. </strong>Flaming River's daughter was produced by Kammerflage Kreations.  She died with Kammerflage Kreations.  She was the daughter of Flaming River. </p>
     <p class="DAR-ChildTitle">Children of Flaming River's daughter and Loza</p>
-    <p class="DAR-ChildList">i. Unknown [12]. Unknown was produced by The Panther Baron.  He died in Bobby Ruddock.  </p>
+    <p class="DAR-ChildList">i. Unknown [12]. Unknown was produced by The Panther Baron.  He died with Bobby Ruddock.  </p>
     <h3 class="DAR-Generation">Generation 6</h3>
     <img align="right" alt="" border="0" src="/blog/nugget/isFlamingRiver.jpeg" />
-    <p class="DAR-First-Entry">50. <strong>Flaming River. </strong>Flaming River was produced by Kammerflage Kreations.  He died in Kammerflage Kreations.  He was bred with Unknown. </p>
+    <p class="DAR-First-Entry">50. <strong>Flaming River. </strong>Flaming River was produced by Kammerflage Kreations.  He died with Kammerflage Kreations.  He was bred with Unknown. </p>
     <p class="DAR-ChildTitle">Children of Unknown and Flaming River</p>
-    <p class="DAR-ChildList">i. Flaming River's daughter [25]. Flaming River's daughter was produced by Kammerflage Kreations.  She died in Kammerflage Kreations.  </p>
+    <p class="DAR-ChildList">i. Flaming River's daughter [25]. Flaming River's daughter was produced by Kammerflage Kreations.  She died with Kammerflage Kreations.  </p>
   </div>
 </body>
 </html>
