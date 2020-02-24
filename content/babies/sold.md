@@ -1,6 +1,7 @@
 +++
 title = "Babies!"
 description = "Babies will be ready at 3 months of age"
+url = "/babies/sold"
 +++
 
 {{< load-photoswipe >}}

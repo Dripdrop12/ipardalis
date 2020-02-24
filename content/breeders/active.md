@@ -29,6 +29,7 @@ Jude was the alpha male from Flash and Judy's clutch, hatched 10/17/17. He has s
 ## Nugget
 
 {{< gallery dir="/img/breeders/nugget" />}}
+
 *F2*
 
 Sire
@@ -36,6 +37,8 @@ Sire
 
 Dam
 : [Kako]({{< ref "/breeders/active.md#kako" >}})
+
+[Full Ancestor Report]({{< ref "/blog/nugget.md" >}})
 
 Nugget was an alpha male from Jude and Kako's first clutch, hatched 6/5/19. He has many of the traits I love about Jude/Flash, but he has a bit more red in his bars. He is a bold YBBB.
 

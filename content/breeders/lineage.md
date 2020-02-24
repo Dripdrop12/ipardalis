@@ -1,6 +1,7 @@
 +++
 title = "Lineage"
 description = "Healthy animals with a professional pedigree"
+url = "/breeders/lineage/"
 [[main.menu]]
   parent = "breeders"
   weight = 3
@@ -313,6 +314,9 @@ Sire
 <hr>
 
 ### Dio
+
+Sire
+: Little Foot
 
 {{< gallery dir="img/breeders/lineage/Dio" />}}
 
