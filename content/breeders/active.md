@@ -61,16 +61,18 @@ Our newest edition - this guy is showing some jaw dropping reds!
 <hr>
 
 ## Blossom
+*F3*
 
 {{< gallery dir="/img/breeders/blossom" />}}
 
-*F3*
-
+### [Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
 Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
 
 Dam
 : [Alla]({{< ref "/breeders/active.md#alla" >}})
+
+
 
 <hr>
 
@@ -95,22 +97,6 @@ Sire
 
 Dam Sire
 : Blue Bird x Blaze
-
-<hr>
-
-## Kako
-
-{{< gallery dir="/img/breeders/kako" />}}
-  
-*F1*
-
-Sire
-: [Sparkles]({{< ref "/breeders/lineage.md#sparkles" >}})
-
-Dam Sire
-: [Leo]({{< ref "/breeders/lineage.md#leo" >}})
-
-Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
 
 <hr>
 

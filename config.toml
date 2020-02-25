@@ -122,7 +122,7 @@ paginate = 10
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAb_MQa8J2AgFfZG6U-qv-b1B0CcoJyGKQ"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -137,11 +137,11 @@ paginate = 10
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email
+    # Enable the contact form by entering your Formspree.io email
     email = "jon.mark.hill@ipardalis.com"
 
     about_us = "<p>Individually-raised Panther Chameleons.</p>"
-    copyright = "Copyright (c) 2019, Jonathan Mark Hill; all rights reserved."
+    copyright = "Copyright (c) 2020, Jonathan Mark Hill; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

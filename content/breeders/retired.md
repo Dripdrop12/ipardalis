@@ -23,6 +23,8 @@ Dam Sire
 The Sire to our first clutch and such a gentle boy! Absolutely one of our favorites.
 {{< gallery dir="/img/breeders/flash" />}}
 
+<hr>
+
 ## Judy
 Sire
 : [Candy Cane]({{< ref "/breeders/lineage.md#candy-cane" >}})
@@ -31,3 +33,21 @@ Dam Sire
 : [King]({{< ref "/breeders/lineage.md#king" >}})
 
 {{< gallery dir="/img/breeders/judy" />}}
+
+<hr>
+
+## Kako
+
+{{< gallery dir="/img/breeders/kako" />}}
+  
+*F1*
+
+Sire
+: [Sparkles]({{< ref "/breeders/lineage.md#sparkles" >}})
+
+Dam Sire
+: [Leo]({{< ref "/breeders/lineage.md#leo" >}})
+
+Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
+
+<hr>

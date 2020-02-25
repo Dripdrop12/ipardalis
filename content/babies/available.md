@@ -20,7 +20,6 @@ Male
 Female
 : $325
 
-
 {{< gallery dir="/img/babies/20191006/available" />}}
 
 <hr>
