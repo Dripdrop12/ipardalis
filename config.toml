@@ -75,10 +75,11 @@ paginate = 10
     identifier = "faq"
     url  = "/faq/"
     weight = 5
-
+    
 [[menu.main]]
-    name = "Buy Now!"
-    url  = "/orders/"
+    name = "Terms"
+    identifier = "tos"
+    url  = "/tos/"
     weight = 6
 
 # Top bar social links menu
@@ -121,7 +122,7 @@ paginate = 10
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAb_MQa8J2AgFfZG6U-qv-b1B0CcoJyGKQ"
-
+    
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
 

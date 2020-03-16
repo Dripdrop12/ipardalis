@@ -23,7 +23,7 @@ Dam Sire
 The Sire to our first clutch and such a gentle boy! Absolutely one of our favorites.
 {{< gallery dir="/img/breeders/flash" />}}
 
-<hr>
+---
 
 ## Judy
 Sire
@@ -34,7 +34,7 @@ Dam Sire
 
 {{< gallery dir="/img/breeders/judy" />}}
 
-<hr>
+---
 
 ## Kako
 
@@ -50,4 +50,4 @@ Dam Sire
 
 Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
 
-<hr>
+---

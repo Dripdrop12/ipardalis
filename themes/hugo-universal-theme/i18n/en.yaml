@@ -11,10 +11,10 @@
   translation: "Go to order page"
 
 - id: orderAddrTitle
-  translation: "Address"
+  translation: "Shipping From"
 
 - id: orderTitle
-  translation: "Reserve your baby"
+  translation: "Orders"
 
 - id: orderForm
   translation: "order form"
@@ -29,7 +29,7 @@
   translation: "Your Message"
 
 - id: orderSend
-  translation: "Reserver your baby!"
+  translation: "Buy Now!"
 
 - id: navHome
   translation: "go to homepage"

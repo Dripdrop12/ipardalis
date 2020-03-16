@@ -1,0 +1,16 @@
+weight: 2
+sire: Jude
+dam: alla
+filial: F3
+desc: |
+  These guys are going to a lot of fun to work with - check out Blossom for a good example of their potential.
+hatchstart: 11/20/2019
+hatchend: 12/25/19
+shipping: Now!
+hatchnum: 29
+clutchsize: 32
+babies:
+- name: M7
+  gender: male
+  image: /img/babies/20191120/available/IMG_3931.JPG
+  price: 350

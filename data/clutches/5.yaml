@@ -1,0 +1,24 @@
+weight: 5
+sire: Jude
+dam: kako
+filial: F3
+desc: |
+  This clutch has had some of the strongest yellows I have produced to-date. Check out the 
+hatchstart: 6/5/2019
+hatchend: 6/19/19
+shipping: Now!
+hatchnum: 34
+clutchsize: 34
+babies:
+- name: F9
+  gender: female
+  image: /img/babies/20190605/available/IMG_3486.JPG
+  price: 325
+- name: F10
+  gender: female
+  image: /img/babies/20190605/available/IMG_3488.JPG
+  price: 325
+- name: F11
+  gender: female
+  image: /img/babies/20190605/available/IMG_3490.JPG
+  pirce: 325

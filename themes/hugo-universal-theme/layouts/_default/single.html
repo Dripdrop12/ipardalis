@@ -8,7 +8,8 @@
     <div id="all">
 
         <header>
-
+          {{ partial "top.html" . }}
+          
           {{ partial "nav.html" . }}
 
         </header>
@@ -27,7 +28,16 @@
                         <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ if .Params.date }}{{ .Date.Format .Site.Params.date_format }}{{ end }}</p>
 
                         <div id="post-content">
+                          
+                          {{ if isset .Params "id" }}
+
+                            {{ partial .Params.id . }}
+              
+                          {{ else }}
+                          
                           {{ .Content }}
+                          
+                          {{ end }}
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
@@ -46,8 +56,9 @@
                     <div class="col-md-3">
 
                         <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
+                        {{ if ne .Params.id "available" }}
+                          {{ partial "sidebar.html" . }}
+                        {{ end }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
 

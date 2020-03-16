@@ -8,7 +8,7 @@ description = "Healthy animals with a professional pedigree"
 {{< load-photoswipe >}}
 
 # Active
-<hr>
+---
 
 ## Jude {#Jude}
 
@@ -24,7 +24,7 @@ Dam
 
 Jude was the alpha male from Flash and Judy's clutch, hatched 10/17/17. He has strong yellows and a fierce attitude!
 
-<hr>
+---
 
 ## Nugget
 
@@ -42,7 +42,7 @@ Dam
 
 Nugget was an alpha male from Jude and Kako's first clutch, hatched 6/5/19. He has many of the traits I love about Jude/Flash, but he has a bit more red in his bars. He is a bold YBBB.
 
-<hr>
+---
 
 ## Zanaka
 
@@ -58,7 +58,7 @@ Dam
 
 Our newest edition - this guy is showing some jaw dropping reds!
 
-<hr>
+---
 
 ## Blossom
 *F3*
@@ -74,7 +74,7 @@ Dam
 
 
 
-<hr>
+---
 
 ## Bleu
 
@@ -86,7 +86,7 @@ Sire
 Dam
 : [Emma Frost]({{< ref "/breeders/lineage.md#emma-frost" >}})
 
-<hr>
+---
 
 ## Alla
 
@@ -98,7 +98,7 @@ Sire
 Dam Sire
 : Blue Bird x Blaze
 
-<hr>
+---
 
 ## Patch
 
@@ -111,7 +111,7 @@ Sire
 Dam
 : [Kako]({{< ref "/breeders/active.md#kako" >}})
 
-<hr>
+---
 
 ## Sunny
 
@@ -124,7 +124,7 @@ Sire
 Dam
 : [Kako]({{< ref "/breeders/active.md#kako" >}})
 
-<hr>
+---
 
 
 

@@ -1,5 +1,5 @@
 +++
-title = "FAQ"
+title = "Frequently Asked Questions"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
@@ -8,7 +8,9 @@ We raise Fucifer pardalis (Panther Chameleons) individually, under highly contro
 
 ![ambilobe](/img/ambilobe.jpg)
 
-We are not trying to make money. We breed Furcifer pardalis because we love them, and we want others to be able to experience "what it is like to live with dragons" - Bill Strand. We take very good care of our animals, and you get a beautiful, healthy chameleon if you buy from us.
+> We are not trying to make money. We breed Furcifer pardalis because we love them, and we want others to be able to experience "what it is like to live with dragons" - Bill Strand. 
+
+We take very good care of our animals, and we have done our research. Please let us know if you have any questions about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition.
 
 ## 1. HOW DO I GET MY CHAMELEON?
 

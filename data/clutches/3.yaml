@@ -1,0 +1,32 @@
+weight: 3
+sire: Jude
+dam: alla
+filial: F3
+desc: |
+  These girls are ready to breed and a great addition to any project.
+hatchstart: 8/16/2019
+hatchend: 9/15/19
+shipping: Now!
+hatchnum: 32
+clutchsize: 33
+babies:
+- name: F1
+  gender: female
+  image: /img/babies/20190816/available/IMG_3577.JPG
+  price: 325
+- name: F2
+  gender: female
+  image: /img/babies/20190816/available/IMG_3579.JPG
+  price: 325
+- name: F3
+  gender: female
+  image: /img/babies/20190816/available/IMG_3582.JPG
+  price: 325
+- name: F4
+  gender: female
+  image: /img/babies/20190816/available/IMG_3587.JPG
+  price: 325
+- name: F5
+  gender: female
+  image: /img/babies/20190816/available/IMG_3592.JPG
+  price: 325

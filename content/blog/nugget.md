@@ -6,6 +6,8 @@ categories = ["breeders", "babies"]
 banner = "img/breeders/nugget/nugget1.jpg"
 +++
 
+{{< load-photoswipe >}}
+
 {{< rawhtml >}}
 <div id="grampstextdoc">
     <h1>Ancestral Report for Nugget (F3)</h1>
@@ -85,8 +87,8 @@ banner = "img/breeders/nugget/nugget1.jpg"
     <p>50. <strong>Flaming River. </strong>Flaming River was produced by Kammerflage Kreations.  He died with Kammerflage Kreations.  He was bred with Unknown. </p>
     <p>Children of Unknown and Flaming River</p>
     <p>i. Flaming River's daughter [25]. Flaming River's daughter was produced by Kammerflage Kreations.  She died with Kammerflage Kreations.  </p>
-    <h2>Tree</h2>
-    <img align="center" alt="" border="0" src="/blog/nugget/tree.png" />
   </div>
 
 {{</ rawhtml >}}
+
+{{< figure src="/blog/nugget/tree.png" caption="5 Generation Tree" >}}

@@ -1,0 +1,17 @@
+<form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+  <div class="card">
+    <div class="form-group">
+      <img src="{{.image}}" alt="No Image" style="width:100%">
+      <div style="padding-left:5px;">
+        <label>{{.name}}</label>
+        <p><strong>${{.price}}</strong></p>
+        <p>{{.gender}}</p>
+        <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+      </div>
+    </div>
+    <input type="hidden" name="name" value="{{ .name }}" />
+    <input type="hidden" name="price" value="{{ .price }}" />
+    
+    <hr>
+  </div>
+</form>

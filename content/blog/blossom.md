@@ -4,9 +4,18 @@ date = "2020-02-24"
 tags = ["blossom"]
 categories = ["breeders", "babies"]
 banner = "img/breeders/blossom/blossom1.jpg"
+
+
+[[resources]]
+  name = "Blossom tree"
+  src = "tree.png"
+  RelPermalink = "tree.png"
 +++
 
+{{< load-photoswipe >}}
+
 {{< rawhtml >}}
+
 <div id="grampstextdoc">
     <div id="header">
       <h1>Ancestral Report for Blossom (F3)</h1>
@@ -105,8 +114,8 @@ banner = "img/breeders/blossom/blossom1.jpg"
     <p>i. Eye Candy's daughter. Eye Candy's daughter was produced by Kammerflage Kreations.  She died with Kammerflage Kreations.  </p>
     <p>Children of Unknown and Maso-vatomamy (Eye Candy)</p>
     <p>i. Mabonika-haboka (Mellow Yellow) [24]. Mabonika-haboka (Mellow Yellow) was produced by Kammerflage Kreations.  He died with Kammerflage Kreations.  </p>
-    <h2>Tree</h2>
-    <img align="center" alt="" border="0" src="/blog/blossom/tree.png" />
   </div>
   
 {{</ rawhtml >}}
+
+{{< figure src="/blog/blossom/tree.png" caption="5 Generation Tree" >}}
