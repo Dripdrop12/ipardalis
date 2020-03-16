@@ -9,16 +9,7 @@ url = "/breeders/lineage/"
 
 {{< load-photoswipe >}}
 
-{{< rawhtml >}}
-<div>
-  <h1>Marvel Characters</h1>
-  <h2>Click to view their identity</h2>
-  <h3>And link to their web page!</h3>
-</div>
-<!-- container for force layout visualisation  -->
-<section id="vis"></section> 
 
-{{</ rawhtml >}}
 
 # Lineage of iPardalis
 ---
