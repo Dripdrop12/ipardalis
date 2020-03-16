@@ -1,5 +1,5 @@
 +++
-title = "Lineage"
+title = "Lineage of iPardalis"
 description = "Healthy animals with a professional pedigree"
 url = "/breeders/lineage/"
 [[main.menu]]
@@ -9,9 +9,6 @@ url = "/breeders/lineage/"
 
 {{< load-photoswipe >}}
 
-
-
-# Lineage of iPardalis
 ---
 ## [Kammerflage Kreations](https://chameleonsonly.com/)
 ---

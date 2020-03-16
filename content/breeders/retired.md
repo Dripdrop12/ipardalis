@@ -9,8 +9,6 @@ url = "/breeders/retired/"
 
 {{< load-photoswipe >}}
 
-# Retired
-
 ## Flash
 *F1*
 

@@ -1,5 +1,5 @@
 +++
-title = "Babies!"
+title = "Past Clutches"
 description = "Babies will be ready at 3 months of age"
 url = "/babies/sold"
 +++

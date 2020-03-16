@@ -1,56 +1,46 @@
 <div class="container" id="available">
 
-    <div class="row">
-        <div class="col-md-12">
-            <section>
-
-              {{ .Content }}
-              
-              <div class="row">
-                <div class="col-md-12">
-                  
-                  {{ range sort .Site.Data.clutches "weight" }}
-                    
-                  
-                    <div class="col-md-12">
-                      {{ if .sire }}
-                      <hr>
-                        <div class="heading">
-                          <h2>
-                            <a href="/breeders/active#{{.sire}}">{{title .sire}}</a> x 
-                            <a href="/breeders/active#{{.dam}}">{{title  .dam}}</a>
-                          </h2>
-                        </div>
-                        <p><em>{{.filial}}</em></p>
-                        {{ if .desc }}
-                          <p>{{.desc}}</p>
-                        {{ end }}
-                        <p><strong>Hatch Range:</strong> {{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</p>
-                        <p><strong>Hatch Rate:</strong> {{ .hatchnum }} / {{ .clutchsize }}</p>
-                        {{ range .babies }}
-                        <div class="col-md-4">
-                          {{ partial "babies.html" . }}
-                        </div>
-                        {{ else }}
-                        <h3>Sold Out!</h3>
-                        {{ end }}
-                        
-                      {{ end }}
-                  
-                  </div>
-                  
-                {{ else }}
+  <div class="row">
+      <div class="col-md-12">
+          <section>
+  
+            {{ .Content }}
                 
-                  <h1>Sorry! No babies available at this time.</h1>
-                  <p>Please feel free to contact us via email or follow us on Facebook to get updates on future clutches.</p>
+            {{ range sort .Site.Data.clutches "weight" }}
+              <div class="col-md-12">
+                {{ if .sire }}
+                  <hr>
+                  <div class="heading">
+                    <h2>
+                      <a href="/breeders/active#{{.sire}}">{{title .sire}}</a> x 
+                      <a href="/breeders/active#{{.dam}}">{{title  .dam}}</a>
+                    </h2>
+                  </div>
+                  <p><em>{{.filial}}</em></p>
+                  {{ if .desc }}
+                    <p>{{.desc}}</p>
+                  {{ end }}
+                  <p><strong>Hatch Range:</strong> {{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</p>
+                  <p><strong>Hatch Rate:</strong> {{ .hatchnum }} / {{ .clutchsize }}</p>
+                  {{ range .babies }}
+                  <div class="col-md-4">
+                    {{ partial "babies.html" . }}
+                  </div>
+                  {{ else }}
+                  <h3>Sold Out!</h3>
+                  {{ end }}
                   
                 {{ end }}
+              </div>
+            
+            {{ else }}
+          
+              <h1>Sorry! No babies available at this time.</h1>
+              <p>Please feel free to contact us via email or follow us on Facebook to get updates on future clutches.</p>
+              
+            {{ end }}
 
-            </div>
-          </div>
-        </section>
-      </div>
-
+      </section>
     </div>
-    <!-- /.row -->
+  </div>
 </div>

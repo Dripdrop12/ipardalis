@@ -93,7 +93,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/jonathan.hill.96558"
+    url = "https://www.facebook.com/jonmarkhill"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
     
 [[menu.topbar]]

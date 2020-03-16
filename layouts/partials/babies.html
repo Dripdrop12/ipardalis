@@ -1,11 +1,16 @@
 <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+  {{ if .image }}
   <div class="card">
     <div class="form-group">
       <img src="{{.image}}" alt="No Image" style="width:100%">
       <div style="padding-left:5px;">
-        <label>{{.name}}</label>
-        <p><strong>${{.price}}</strong></p>
-        <p>{{.gender}}</p>
+        <label><strong>{{.name}}</strong></label>
+        <ul>
+          <li><p><strong>${{.price}}</strong></p></li>
+          <li><p>{{.gender}}</p></li>
+        </ul>
+        <p></p>
+        
         <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
       </div>
     </div>
@@ -14,4 +19,5 @@
     
     <hr>
   </div>
+  {{ end }}
 </form>

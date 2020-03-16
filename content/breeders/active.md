@@ -7,9 +7,6 @@ description = "Healthy animals with a professional pedigree"
 
 {{< load-photoswipe >}}
 
-# Active
----
-
 ## Jude {#Jude}
 
 {{< gallery dir="/img/breeders/jude" />}}
