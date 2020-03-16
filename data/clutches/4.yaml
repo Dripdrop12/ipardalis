@@ -21,3 +21,4 @@ babies:
 - name: F8
   gender: female
   image: /img/babies/20190709/available/IMG_3495.JPG
+  price: 325

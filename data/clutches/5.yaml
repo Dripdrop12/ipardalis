@@ -21,4 +21,5 @@ babies:
 - name: F11
   gender: female
   image: /img/babies/20190605/available/IMG_3490.JPG
-  pirce: 325
+  price: 325
+  
