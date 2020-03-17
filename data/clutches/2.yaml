@@ -10,7 +10,59 @@ shipping: Now!
 hatchnum: 29
 clutchsize: 32
 babies:
+- name: M4
+  gender: male
+  image: /img/babies/20191120/available/M4.JPG
+  price: 399
+- name: M5
+  gender: male
+  image: /img/babies/20191120/available/M5.JPG
+  price: 350
+- name: M6
+  gender: male
+  image: /img/babies/20191120/available/M6.JPG
+  price: 350
 - name: M7
   gender: male
-  image: /img/babies/20191120/available/IMG_3931.JPG
+  image: /img/babies/20191120/available/M7.JPG
+  price: 450
+- name: M8
+  gender: male
+  image: /img/babies/20191120/available/M8.JPG
+  price: 399
+- name: M9
+  gender: male
+  image: /img/babies/20191120/available/M9.JPG
   price: 350
+- name: M10
+  gender: male
+  image: /img/babies/20191120/available/M10.JPG
+  price: 450
+- name: F8
+  gender: Female
+  image: /img/babies/20191120/available/F8.JPG
+  price: 325
+- name: F9
+  gender: Female
+  image: /img/babies/20191120/available/F9.JPG
+  price: 325
+- name: F10
+  gender: Female
+  image: /img/babies/20191120/available/F10.JPG
+  price: 350
+- name: F11
+  gender: Female
+  image: /img/babies/20191120/available/F11.JPG
+  price: 350
+- name: F12
+  gender: Female
+  image: /img/babies/20191120/available/F12.JPG
+  price: 325
+- name: F13
+  gender: Female
+  image: /img/babies/20191120/available/F13.JPG
+  price: 350
+- name: F14
+  gender: Female
+  image: /img/babies/20191120/available/F14.JPG
+  price: 399

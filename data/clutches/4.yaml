@@ -10,15 +10,15 @@ shipping: Now!
 hatchnum: 30
 clutchsize: 31
 babies:
-- name: F6
+- name: F20
   gender: female
   image: /img/babies/20190709/available/IMG_2632.JPG
   price: 325
-- name: F7
+- name: F21
   gender: female
   image: /img/babies/20190709/available/IMG_3492.JPG
   price: 325
-- name: F8
+- name: F22
   gender: female
   image: /img/babies/20190709/available/IMG_3495.JPG
   price: 325

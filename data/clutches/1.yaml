@@ -10,27 +10,40 @@ shipping: Now!
 hatchnum: 34
 clutchsize: 37
 babies:
+
 - name: M1
-  gender: male
+  gender: Male
   image: /img/babies/20191006/available/M1.JPG
-  price: 375
+  price: 499
 - name: M2
   gender: male
   image: /img/babies/20191006/available/M2.JPG
-  price: 400
+  price: 450
 - name: M3
   gender: male
-  image: /img/babies/20191006/available/IMG_3914.JPG
-  price: 400
-- name: M4
-  gender: male
-  image: /img/babies/20191006/available/IMG_3919.JPG
-  price: 400
-- name: M5
-  gender: male
-  image: /img/babies/20191006/available/IMG_3920.JPG
-  price: 400
-- name: M6
-  gender: male
-  image: /img/babies/20191006/available/IMG_3928.JPG
-  price: 400
+  image: /img/babies/20191006/available/M3.JPG
+  price: 450
+- name: F4
+  gender: Female
+  image: /img/babies/20191006/available/F4.jpg
+  price: 399
+- name: F5
+  gender: Female
+  image: /img/babies/20191006/available/F5.jpg
+  price: 325
+- name: F6
+  gender: Female
+  image: /img/babies/20191006/available/F6.jpg
+  price: 325
+- name: F1
+  gender: Female
+  image: /img/babies/20191006/available/F1.jpg
+  price: 499
+- name: F2
+  gender: Female
+  image: /img/babies/20191006/available/F2.jpg
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20191006/available/F3.jpg
+  price: 325
