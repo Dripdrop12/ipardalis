@@ -20,8 +20,13 @@
                   {{ if .desc }}
                     <p>{{.desc}}</p>
                   {{ end }}
-                  <p><strong>Hatch Range:</strong> {{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</p>
-                  <p><strong>Hatch Rate:</strong> {{ .hatchnum }} / {{ .clutchsize }}</p>
+                  <dl>
+                    <dt>Hatch Range:</dt> 
+                    <dd>{{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</dd>
+                  
+                    <dt>Hatch Rate:</dt> 
+                    <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                  </dl>
                   {{ range .babies }}
                   <div class="col-md-4">
                     {{ partial "babies.html" . }}

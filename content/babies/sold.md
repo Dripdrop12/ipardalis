@@ -80,6 +80,8 @@ Hatch dates
 : 11/20/2019 - present (shipping 02/20/2020)
 
 Hatch rate
-: Unknown
+: 30/32
+
+{{< gallery dir="/img/babies/20191120/sold" />}}
 
 <hr>

@@ -7,13 +7,9 @@ desc: |
 hatchstart: 11/20/2019
 hatchend: 12/25/19
 shipping: Now!
-hatchnum: 29
+hatchnum: 30
 clutchsize: 32
 babies:
-- name: M4
-  gender: male
-  image: /img/babies/20191120/available/M4.JPG
-  price: 399
 - name: M5
   gender: male
   image: /img/babies/20191120/available/M5.JPG

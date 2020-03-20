@@ -62,7 +62,8 @@ Our newest edition - this guy is showing some jaw dropping reds!
 
 {{< gallery dir="/img/breeders/blossom" />}}
 
-### [Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
+[Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
+
 Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
 
