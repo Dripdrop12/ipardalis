@@ -19,10 +19,6 @@ babies:
   gender: male
   image: /img/babies/20191006/available/M2.JPG
   price: 450
-- name: M3
-  gender: male
-  image: /img/babies/20191006/available/M3.JPG
-  price: 450
 - name: F4
   gender: Female
   image: /img/babies/20191006/available/F4.jpg
