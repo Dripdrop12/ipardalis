@@ -10,11 +10,6 @@ shipping: Now!
 hatchnum: 34
 clutchsize: 37
 babies:
-
-- name: M1
-  gender: Male
-  image: /img/babies/20191006/available/M1.JPG
-  price: 499
 - name: M2
   gender: male
   image: /img/babies/20191006/available/M2.JPG
