@@ -37,7 +37,7 @@ babies:
 - name: M11
   gender: male
   image: /img/babies/20191120/available/M11.JPG
-  price: 399
+  price: 450
 - name: F8
   gender: Female
   image: /img/babies/20191120/available/F8.JPG
