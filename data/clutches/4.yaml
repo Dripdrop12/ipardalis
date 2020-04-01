@@ -18,7 +18,3 @@ babies:
   gender: female
   image: /img/babies/20190709/available/IMG_3492.JPG
   price: 325
-- name: F22
-  gender: female
-  image: /img/babies/20190709/available/IMG_3495.JPG
-  price: 325
