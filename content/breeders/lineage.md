@@ -119,7 +119,7 @@ Sire
 ---
 
 
-## [Panther Creek](https://www.panthercreekchams.com)
+## Panther Creek
 ---
 
 ### JJ

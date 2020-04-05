@@ -193,7 +193,7 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-hand-o-down"
-    title = "We have a new clutch available September 2019"
+    title = "We have new clutches available"
     subtitle = "Do you want to see more?"
     link_url = "/babies/available/"
     link_text = "Check out the babies"
@@ -204,7 +204,7 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Panther Chameleons (Fucifer pardalis) are absolutely amazing animals. Check out the blog for our thoughts on the topic."
+    subtitle = "We breed and raise Ambilobe Panther Chameleons (Fucifer pardalis), among other exotic reptiles. Our blog is a way to connect with the community and share our experience."
 
 [imaging]
     quality = 25 

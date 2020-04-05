@@ -14,7 +14,11 @@
                             {{ .description | safeHTML }}
                         </div>
                         <div class="col-sm-7">
-                            <img class="img-responsive" src="{{ .image }}" alt="">
+                          <picture>
+                            <source srcset="{{ .image }}.webp" type="image/webp">
+                            <source srcset="{{ .image }}.jpg" type="image/jpeg">
+                            <img class="img-responsive" src="{{ .image }}.jpg" alt="">
+                          </picture>
                         </div>
                     </div>
                 </div>

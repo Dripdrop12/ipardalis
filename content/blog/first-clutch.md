@@ -3,7 +3,7 @@ title = "Judy's First Clutch"
 date = "2017-03-21"
 tags = ["judy", "flash"]
 categories = ["babies"]
-banner = "img/breeders/eggs.jpg"
+banner = "img/breeders/eggs"
 +++
 
 {{< load-photoswipe >}}

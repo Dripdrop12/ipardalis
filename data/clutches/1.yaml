@@ -12,29 +12,29 @@ clutchsize: 37
 babies:
 - name: M2
   gender: male
-  image: /img/babies/20191006/available/M2.JPG
+  image: /img/babies/20191006/available/M2
   price: 450
 - name: F4
   gender: Female
-  image: /img/babies/20191006/available/F4.jpg
+  image: /img/babies/20191006/available/F4
   price: 399
 - name: F5
   gender: Female
-  image: /img/babies/20191006/available/F5.jpg
+  image: /img/babies/20191006/available/F5
   price: 325
 - name: F6
   gender: Female
-  image: /img/babies/20191006/available/F6.jpg
+  image: /img/babies/20191006/available/F6
   price: 325
 - name: F1
   gender: Female
-  image: /img/babies/20191006/available/F1.jpg
+  image: /img/babies/20191006/available/F1
   price: 499
 - name: F2
   gender: Female
-  image: /img/babies/20191006/available/F2.jpg
+  image: /img/babies/20191006/available/F2
   price: 325
 - name: F3
   gender: Female
-  image: /img/babies/20191006/available/F3.jpg
+  image: /img/babies/20191006/available/F3
   price: 325

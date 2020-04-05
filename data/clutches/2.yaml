@@ -10,59 +10,60 @@ shipping: Now!
 hatchnum: 30
 clutchsize: 32
 babies:
+- name: M7
+  gender: male
+  image: /img/babies/20191120/available/M7
+  price: 450
+- name: M10
+  gender: male
+  image: /img/babies/20191120/available/M10
+  price: 450
 - name: M5
   gender: male
-  image: /img/babies/20191120/available/M5.JPG
+  image: /img/babies/20191120/available/M5
   price: 350
 - name: M6
   gender: male
-  image: /img/babies/20191120/available/M6.JPG
+  image: /img/babies/20191120/available/M6
   price: 399
-- name: M7
-  gender: male
-  image: /img/babies/20191120/available/M7.JPG
-  price: 450
 - name: M8
   gender: male
-  image: /img/babies/20191120/available/M8.JPG
+  image: /img/babies/20191120/available/M8
   price: 399
 - name: M9
   gender: male
-  image: /img/babies/20191120/available/M9.JPG
+  image: /img/babies/20191120/available/M9
   price: 350
-- name: M10
-  gender: male
-  image: /img/babies/20191120/available/M10.JPG
-  price: 450
+  sold: true
 - name: M11
   gender: male
-  image: /img/babies/20191120/available/M11.JPG
+  image: /img/babies/20191120/available/M11
   price: 450
 - name: F8
   gender: Female
-  image: /img/babies/20191120/available/F8.JPG
+  image: /img/babies/20191120/available/F8
   price: 325
 - name: F9
   gender: Female
-  image: /img/babies/20191120/available/F9.JPG
+  image: /img/babies/20191120/available/F9
   price: 325
 - name: F10
   gender: Female
-  image: /img/babies/20191120/available/F10.JPG
+  image: /img/babies/20191120/available/F10
   price: 350
 - name: F11
   gender: Female
-  image: /img/babies/20191120/available/F11.JPG
+  image: /img/babies/20191120/available/F11
   price: 350
 - name: F12
   gender: Female
-  image: /img/babies/20191120/available/F12.JPG
+  image: /img/babies/20191120/available/F12
   price: 325
 - name: F13
   gender: Female
-  image: /img/babies/20191120/available/F13.JPG
+  image: /img/babies/20191120/available/F13
   price: 350
 - name: F14
   gender: Female
-  image: /img/babies/20191120/available/F14.JPG
+  image: /img/babies/20191120/available/F14
   price: 399

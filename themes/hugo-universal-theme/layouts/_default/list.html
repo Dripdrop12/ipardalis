@@ -30,7 +30,11 @@
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                                          <picture>
+                                            <source srcset="{{ .Site.BaseURL}}{{ .Params.banner }}.webp" type="image/webp">
+                                            <source srcset="{{ .Site.BaseURL}}{{ .Params.banner }}.jpg" type="image/jpeg">
+                                            <img class="img-responsive" src="{{ .Site.BaseURL}}{{ .Params.banner }}.jpg" alt="">
+                                          </picture>
                                           {{ else }}
                                           <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
                                           {{ end }}

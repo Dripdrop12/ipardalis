@@ -12,14 +12,13 @@ clutchsize: 34
 babies:
 - name: F23
   gender: female
-  image: /img/babies/20190605/available/IMG_3486.JPG
+  image: /img/babies/20190605/available/IMG_3486
   price: 325
 - name: F24
   gender: female
-  image: /img/babies/20190605/available/IMG_3488.JPG
+  image: /img/babies/20190605/available/IMG_3488
   price: 325
 - name: F25
   gender: female
-  image: /img/babies/20190605/available/IMG_3490.JPG
+  image: /img/babies/20190605/available/IMG_3490
   price: 325
-  

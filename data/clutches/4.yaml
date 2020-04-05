@@ -2,8 +2,10 @@ weight: 4
 sire: Jude
 dam: alla
 filial: F3
-desc: |
-  Alla's father (JJ) is one of my favorite Panthers. A couple of these guys will get Jude's nostrum and some of JJ's amazing coloration or Jude's coloration and JJ's personality! Can't go wrong either way. Check out their clutch mates that have already found homes. 
+desc: "Alla's father (JJ) is one of my favorite Panthers. A couple of these guys will
+  get Jude's nostrum and some of JJ's amazing coloration or Jude's coloration and
+  JJ's personality! Can't go wrong either way. Check out their clutch mates that have
+  already found homes. \n"
 hatchstart: 7/9/2019
 hatchend: 7/20/19
 shipping: Now!
@@ -12,9 +14,9 @@ clutchsize: 31
 babies:
 - name: F20
   gender: female
-  image: /img/babies/20190709/available/IMG_2632.JPG
+  image: /img/babies/20190709/available/IMG_2632
   price: 325
 - name: F21
   gender: female
-  image: /img/babies/20190709/available/IMG_3492.JPG
+  image: /img/babies/20190709/available/IMG_3492
   price: 325

@@ -3,7 +3,7 @@ title = "Blossom's Lineage"
 date = "2020-02-24"
 tags = ["blossom"]
 categories = ["breeders", "babies"]
-banner = "img/breeders/blossom/blossom1.jpg"
+banner = "img/breeders/blossom/blossom1"
 
 
 [[resources]]
