@@ -42,7 +42,7 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Breeders"
+    name = "Ambilobe"
     identifier = "breeders"
     url  = "/breeders/"
     weight = 3
