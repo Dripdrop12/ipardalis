@@ -24,7 +24,11 @@
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
                           {{ if isset .Params "banner" }}
-                            <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="{{ .Title }}">
+                          <picture>
+                            <source srcset="{{ .Site.BaseURL}}{{ .Params.banner }}.webp" type="image/webp">
+                            <source srcset="{{ .Site.BaseURL}}{{ .Params.banner }}.jpg" type="image/jpeg">
+                            <img class="img-responsive" src="{{ .Site.BaseURL}}{{ .Params.banner }}.jpg" alt="{{ .Title }}">
+                          </picture>
                           {{ else }}
                             <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="{{ .Title }}">
                           {{ end }}
