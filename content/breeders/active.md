@@ -7,6 +7,8 @@ description = "Healthy animals with a professional pedigree"
 
 {{< load-photoswipe >}}
 
+# Ambilobe Panthers
+
 ## Jude {#Jude}
 
 {{< gallery dir="/img/breeders/jude" />}}
