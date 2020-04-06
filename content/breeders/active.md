@@ -124,7 +124,14 @@ Dam
 
 ---
 
+## Bohana
 
+{{< gallery dir="/img/breeders/bohana" />}}
+*CH*
+
+Hatched by [Busy B's Exotics](https://www.facebook.com/busybxotics/)
+
+---
 
 ## TC 1
 *F3*

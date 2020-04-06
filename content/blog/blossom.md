@@ -2,7 +2,7 @@
 title = "Blossom's Lineage"
 date = "2020-02-24"
 tags = ["blossom"]
-categories = ["breeders", "babies"]
+categories = ["breeders", "babies", "genetics"]
 banner = "img/breeders/blossom/blossom1"
 
 
