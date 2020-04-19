@@ -10,9 +10,10 @@ shipping: Now!
 hatchnum: 30
 clutchsize: 32
 babies:
-- name: M7
+
+- name: M11
   gender: male
-  image: /img/babies/20191120/available/M7
+  image: /img/babies/20191120/available/M11
   price: 450
   sold: true
 - name: M10
@@ -20,28 +21,27 @@ babies:
   image: /img/babies/20191120/available/M10
   price: 450
   sold: true
+- name: M12
+  gender: male
+  image: /img/babies/20191120/available/M12
+  price: 450
+- name: M6
+  gender: male
+  image: /img/babies/20191120/available/M6
+  price: 450
+- name: M7
+  gender: male
+  image: /img/babies/20191120/available/M7
+  price: 450
+  sold: true
 - name: M5
   gender: male
   image: /img/babies/20191120/available/M5
   price: 350
   sold: true
-- name: M6
-  gender: male
-  image: /img/babies/20191120/available/M6
-  price: 399
 - name: M8
   gender: male
   image: /img/babies/20191120/available/M8
-  price: 450
-  sold: true
-- name: M9
-  gender: male
-  image: /img/babies/20191120/available/M9
-  price: 350
-  sold: true
-- name: M11
-  gender: male
-  image: /img/babies/20191120/available/M11
   price: 450
   sold: true
 - name: F8

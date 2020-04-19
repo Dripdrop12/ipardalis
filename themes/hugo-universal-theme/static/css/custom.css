@@ -22,7 +22,7 @@
 
 /* Add some padding inside the card container */
 .container {
-  padding: 5px 10px;
+  padding: 5px 15px;
 }
 
 .sold-out{ position:relative; }

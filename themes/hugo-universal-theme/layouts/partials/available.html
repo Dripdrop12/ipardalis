@@ -7,6 +7,7 @@
             {{ .Content }}
                 
             {{ range sort .Site.Data.clutches "weight" }}
+            <div class="row">
               <div class="col-md-12">
                 {{ if .sire }}
                   <hr>
@@ -26,15 +27,19 @@
                     <dt>Hatch Rate:</dt> 
                     <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
                   </dl>
-                  {{ range .babies }}
-                  <div class="col-md-4">
-                    {{ partial "babies.html" . }}
+                  <div class="row">
+                    {{ range .babies }}
+                    <div class="col-md-4">
+                      {{ partial "babies.html" . }}
+                    </div>
+                    {{ else }}
+                    <h3>Sold Out!</h3>
+                    {{ end }}
                   </div>
-                  {{ else }}
-                  <h3>Sold Out!</h3>
-                  {{ end }}
+                  
                 {{ end }}
               </div>
+            </div>
             {{ else }}
           
               <h1>Sorry! No babies available at this time.</h1>
