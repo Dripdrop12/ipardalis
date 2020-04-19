@@ -43,6 +43,7 @@ babies:
   gender: male
   image: /img/babies/20191120/available/M11
   price: 450
+  sold: true
 - name: F8
   gender: Female
   image: /img/babies/20191120/available/F8
