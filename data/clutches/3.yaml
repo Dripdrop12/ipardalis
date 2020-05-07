@@ -26,6 +26,7 @@ babies:
   gender: female
   image: /img/babies/20190816/available/IMG_3587
   price: 325
+  sold: true
 - name: F19
   gender: female
   image: /img/babies/20190816/available/IMG_3592
