@@ -49,3 +49,22 @@ Dam Sire
 Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
 
 ---
+
+## TC 1
+*F3*
+
+Sire
+: [Sonny]({{< ref "/breeders/lineage.md#sonny" >}})
+
+Dam
+: [Rainbow]({{< ref "/breeders/lineage.md#rainbow" >}})
+
+
+## TC 2
+*F3*
+
+Sire
+: [Thor]({{< ref "/breeders/lineage.md#thor" >}})
+
+Dam
+: [Hella]({{< ref "/breeders/lineage.md#hella" >}})

@@ -24,7 +24,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Babies"
+    name = "For Sale"
     identifier = "babies"
     url  = "/babies/index"
     weight = 2

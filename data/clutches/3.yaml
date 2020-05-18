@@ -1,33 +1,13 @@
-weight: 3
+weight: 1
 sire: Jude
 dam: alla
 filial: F3
 desc: |
-  These girls are ready to breed and a great addition to any project.
-hatchstart: 8/16/2019
-hatchend: 9/15/19
-shipping: Now!
-hatchnum: 32
-clutchsize: 33
+  These guys are going to a lot of fun to work with - check out Blossom for a good example of their potential.
+hatchstart: 4/20/2020
+hatchend: Present
+shipping: 7/20/2020
+hatchnum: 24
+clutchsize: 67
 babies:
-- name: F15
-  gender: female
-  image: /img/babies/20190816/available/IMG_3577
-  price: 325
-- name: F16
-  gender: female
-  image: /img/babies/20190816/available/IMG_3579
-  price: 325
-- name: F17
-  gender: female
-  image: /img/babies/20190816/available/IMG_3582
-  price: 325
-- name: F18
-  gender: female
-  image: /img/babies/20190816/available/IMG_3587
-  price: 325
-  sold: true
-- name: F19
-  gender: female
-  image: /img/babies/20190816/available/IMG_3592
-  price: 325
+

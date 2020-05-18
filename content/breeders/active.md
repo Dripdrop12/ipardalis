@@ -133,21 +133,7 @@ Hatched by [Busy B's Exotics](https://www.facebook.com/busybxotics/)
 
 ---
 
-## TC 1
-*F3*
-
-Sire
-: [Sonny]({{< ref "/breeders/lineage.md#sonny" >}})
-
-Dam
-: [Rainbow]({{< ref "/breeders/lineage.md#rainbow" >}})
+## BR1
 
 
-## TC 2
-*F3*
-
-Sire
-: [Thor]({{< ref "/breeders/lineage.md#thor" >}})
-
-Dam
-: [Hella]({{< ref "/breeders/lineage.md#hella" >}})
+## BR2
