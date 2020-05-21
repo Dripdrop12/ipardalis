@@ -27,13 +27,13 @@ Jude was the alpha male from Flash and Judy's clutch, hatched 10/17/17. He has s
 
 {{< gallery dir="/img/breeders/nugget" />}}
 
-*F2*
+*F3*
 
 Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
 
 Dam
-: [Kako]({{< ref "/breeders/active.md#kako" >}})
+: [Kako]({{< ref "/breeders/retired.md#kako" >}})
 
 [Full Ancestor Report]({{< ref "/blog/nugget.md" >}})
 
@@ -123,7 +123,7 @@ Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
 
 Dam
-: [Kako]({{< ref "/breeders/active.md#kako" >}})
+: [Kako]({{< ref "/breeders/retired.md#kako" >}})
 
 ---
 
@@ -136,7 +136,7 @@ Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
 
 Dam
-: [Kako]({{< ref "/breeders/active.md#kako" >}})
+: [Kako]({{< ref "/breeders/retired.md#kako" >}})
 
 ---
 
