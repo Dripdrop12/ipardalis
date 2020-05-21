@@ -107,11 +107,27 @@ Sire
 ---
 
 ### Sparkles
-*WC*
+*F1*
 
 {{< gallery dir="/img/breeders/lineage/Sparkles" />}}
 
 ---
+
+### Amarillo
+*F2*
+
+{{< gallery dir="/img/breeders/lineage/Amarillo" />}}
+
+Sire
+: [Sparkles]({{< ref "/breeders/lineage.md#sparkles" >}})
+
+Dam
+: [Leo]({{< ref "/breeders/lineage.md#leo" >}})
+
+---
+
+
+## Panther Company
 
 ### Leo
 {{< gallery dir="/img/breeders/lineage/Leo" />}}

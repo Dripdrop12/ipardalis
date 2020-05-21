@@ -38,7 +38,7 @@ Dam Sire
 
 {{< gallery dir="/img/breeders/kako" />}}
   
-*F1*
+*F2*
 
 Sire
 : [Sparkles]({{< ref "/breeders/lineage.md#sparkles" >}})
@@ -47,6 +47,18 @@ Dam Sire
 : [Leo]({{< ref "/breeders/lineage.md#leo" >}})
 
 Kako was a very striking female with a shy personality. She has produced some of the nicest yellows I have seen in person.
+
+---
+
+## Bleu
+
+{{< gallery dir="/img/breeders/bleu" />}}
+
+Sire
+: [Stryfe]({{< ref "/breeders/lineage.md#stryfe" >}})
+
+Dam
+: [Emma Frost]({{< ref "/breeders/lineage.md#emma-frost" >}})
 
 ---
 

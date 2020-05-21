@@ -70,19 +70,35 @@ Sire
 Dam
 : [Alla]({{< ref "/breeders/active.md#alla" >}})
 
+---
 
+## Jack
+*F3*
+
+{{< gallery dir="/img/breeders/jack" />}}
+
+[Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
+
+Sire
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
+
+Dam
+: [Alla]({{< ref "/breeders/active.md#alla" >}})
 
 ---
 
-## Bleu
+## Alfred
+*F3*
 
-{{< gallery dir="/img/breeders/bleu" />}}
+{{< gallery dir="/img/breeders/alfred" />}}
+
+[Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
 
 Sire
-: [Stryfe]({{< ref "/breeders/lineage.md#stryfe" >}})
+: [Jude]({{< ref "/breeders/active.md#jude" >}})
 
 Dam
-: [Emma Frost]({{< ref "/breeders/lineage.md#emma-frost" >}})
+: [Alla]({{< ref "/breeders/active.md#alla" >}})
 
 ---
 
@@ -101,7 +117,7 @@ Dam Sire
 ## Patch
 
 {{< gallery dir="/img/breeders/patch" />}}
-*F2*
+*F3*
 
 Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
@@ -114,7 +130,7 @@ Dam
 ## Sunny
 
 {{< gallery dir="/img/breeders/sunny" />}}
-*F2*
+*F3*
 
 Sire
 : [Jude]({{< ref "/breeders/active.md#jude" >}})
@@ -133,7 +149,28 @@ Hatched by [Busy B's Exotics](https://www.facebook.com/busybxotics/)
 
 ---
 
-## BR1
+## Mavokely
 
+{{< gallery dir="/img/breeders/mavokely" />}}
+*F3*
 
-## BR2
+Sire
+: [Amarillo]({{< ref "/breeders/lineage.md#amarillo" >}})
+
+Dam Sire
+: [Felipe Sanchez]({{< ref "/breeders/lineage.md#felipe-sanchez" >}})
+
+---
+
+## Maitso
+
+{{< gallery dir="/img/breeders/maitso" />}}
+*F3*
+
+Sire
+: [Amarillo]({{< ref "/breeders/lineage.md#amarillo" >}})
+
+Dam Sire
+: [Felipe Sanchez]({{< ref "/breeders/lineage.md#felipe-sanchez" >}})
+
+---
