@@ -1,4 +1,4 @@
-weight: 2
+weight: 1
 sire: Jude
 dam: alla
 image: /img/ambilobe/judealla
@@ -8,34 +8,38 @@ desc: |
 hatchstart: 11/20/2019
 hatchend: 12/25/19
 shipping: Now!
-hatchnum: 30
+hatchnum: 32
 clutchsize: 32
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20191120/available/F1
+  price: 350
+- name: F2
+  gender: Female
+  image: /img/babies/20191120/available/F2
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20191120/available/F3
+  price: 350
+- name: F4
+  gender: Female
+  image: /img/babies/20191120/available/F4
+  price: 325
+- name: F5
+  gender: Female
+  image: /img/babies/20191120/available/F5
+  price: 325
+- name: F6
+  gender: Female
+  image: /img/babies/20191120/available/F6
+  price: 399
+- name: F7
+  gender: Female
+  image: /img/babies/20191120/available/F7
+  price: 325
 - name: F8
   gender: Female
   image: /img/babies/20191120/available/F8
-  price: 325
-- name: F9
-  gender: Female
-  image: /img/babies/20191120/available/F9
-  price: 325
-- name: F10
-  gender: Female
-  image: /img/babies/20191120/available/F10
-  price: 350
-- name: F11
-  gender: Female
-  image: /img/babies/20191120/available/F11
-  price: 350
-- name: F12
-  gender: Female
-  image: /img/babies/20191120/available/F12
-  price: 325
-- name: F13
-  gender: Female
-  image: /img/babies/20191120/available/F13
-  price: 350
-- name: F14
-  gender: Female
-  image: /img/babies/20191120/available/F14
   price: 399
