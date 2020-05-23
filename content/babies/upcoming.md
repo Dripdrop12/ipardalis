@@ -1,7 +1,7 @@
 +++
-title = "Current Clutches"
-id = "available"
-description = "All our chameleons are at least 3 months of age"
+title = "Upcoming Clutches"
+id = "upcoming"
+description = "Babies will be ready at 3 months of age"
 +++
 
 {{< load-photoswipe >}}
@@ -10,3 +10,4 @@ All of our juveniles will be a minimum of 3 months of age when they ship. Howeve
 
 Follow us on Facebook or Instagram for updates on future pairings!
 
+## Reservations

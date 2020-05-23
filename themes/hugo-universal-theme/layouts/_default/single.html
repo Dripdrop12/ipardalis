@@ -56,7 +56,7 @@
                     <div class="col-md-3">
 
                         <!-- *** MENUS AND WIDGETS *** -->
-                        {{ if ne .Params.id "available" }}
+                        {{ if not (in (slice "available" "upcoming") .Params.id) }}
                           {{ partial "sidebar.html" . }}
                         {{ end }}
 

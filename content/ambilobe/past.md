@@ -1,14 +1,14 @@
 +++
 title = "Past Clutches"
 description = "Babies will be ready at 3 months of age"
-url = "/babies/sold"
+url = "/ambilobe/past/"
 +++
 
 {{< load-photoswipe >}}
 
 *We publish photo updates from customers here, so that you can see how each of our past clutches has developed. I hope you enjoy looking for resemblance in the lineage or finding total odd-balls!*
 
-# [Flash]({{< ref "/breeders/retired.md#flash" >}}) x [Judy]({{< ref "/breeders/retired.md#judy" >}})
+# [Flash]({{< ref "/ambilobe/retired.md#flash" >}}) x [Judy]({{< ref "/ambilobe/retired.md#judy" >}})
 *F2*
 
 Hatch dates
@@ -21,7 +21,7 @@ Hatch rate
 
 <hr>
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Kako]({{< ref "/breeders/active.md#kako" >}}) 
+# [Jude]({{< ref "/ambilobe/active.md#Jude" >}}) x [Kako]({{< ref "/ambilobe/active.md#kako" >}}) 
 *F2*
 
 Hatch dates
@@ -34,7 +34,7 @@ Hatch rate
 
 <hr>
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+# [Jude]({{< ref "/ambilobe/active.md#Jude" >}}) x [Alla]({{< ref "/ambilobe/active.md#alla" >}})
 *F3*
 
 Hatch dates
@@ -47,7 +47,7 @@ Hatch rate
 
 <hr>
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+# [Jude]({{< ref "/ambilobe/active.md#Jude" >}}) x [Alla]({{< ref "/ambilobe/active.md#alla" >}})
 *F3*
 
 Hatch dates
@@ -60,7 +60,7 @@ Hatch rate
 
 <hr>
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+# [Jude]({{< ref "/ambilobe/active.md#Jude" >}}) x [Alla]({{< ref "/ambilobe/active.md#alla" >}})
 *F3*
 
 Hatch dates
@@ -73,7 +73,7 @@ Hatch rate
 
 <hr>
 
-# [Jude]({{< ref "/breeders/active.md#Jude" >}}) x [Alla]({{< ref "/breeders/active.md#alla" >}})
+# [Jude]({{< ref "/ambilobe/active.md#Jude" >}}) x [Alla]({{< ref "/ambilobe/active.md#alla" >}})
 *F3*
 
 Hatch dates

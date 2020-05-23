@@ -1,6 +1,7 @@
 weight: 1
 sire: Jude
 dam: alla
+image: /img/ambilobe/judealla
 filial: F3
 desc: |
   These guys are going to a lot of fun to work with - check out Blossom for a good example of their potential.
@@ -9,5 +10,6 @@ hatchend: Present
 shipping: 7/20/2020
 hatchnum: 24
 clutchsize: 67
+deposit: true
 babies:
 

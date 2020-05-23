@@ -25,45 +25,51 @@ paginate = 10
 
 [[menu.main]]
     name = "For Sale"
-    identifier = "babies"
+    identifier = "sales"
     url  = "/babies/index"
     weight = 2
     
 [[menu.main]]
     name = "Available Now!"
     url  = "/babies/available"
-    parent = "babies"
+    parent = "sales"
     weight = 1
 
 [[menu.main]]
-    name = "Past Clutches"
-    url  = "/babies/sold"
-    parent = "babies"
+    name = "Upcoming Clutches"
+    url  = "/babies/upcoming"
+    parent = "sales"
     weight = 2
 
 [[menu.main]]
     name = "Ambilobe"
-    identifier = "breeders"
-    url  = "/breeders/"
+    identifier = "ambilobe"
+    url  = "/ambilobe/"
     weight = 3
     
 [[menu.main]]
     name = "Active"
-    url = "/breeders/Active"
-    parent = "breeders"
+    url = "/ambilobe/active/"
+    parent = "ambilobe"
     weight = 1
 
 [[menu.main]]
     name = "Retired"
-    url = "/breeders/Retired"
-    parent = "breeders"
+    url = "/ambilobe/retired/"
+    parent = "ambilobe"
     weight = 2
     
 [[menu.main]]
-    name = "Lineage"
-    url = "/breeders/Lineage"
-    parent = "breeders"
+    name = "Past Clutches"
+    url  = "/ambilobe/past/"
+    parent = "ambilobe"
     weight = 3
+    
+[[menu.main]]
+    name = "Lineage"
+    url = "/ambilobe/lineage/"
+    parent = "ambilobe"
+    weight = 4
 
 [[menu.main]]
     name = "Blog"

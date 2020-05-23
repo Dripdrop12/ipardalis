@@ -3,7 +3,7 @@ title = "Nugget's Lineage"
 date = "2020-02-20"
 tags = ["nugget"]
 categories = ["breeders", "babies", "genetics"]
-banner = "img/breeders/nugget/nugget1"
+banner = "img/ambilobe/nugget/nugget1"
 +++
 
 {{< load-photoswipe >}}

@@ -1,0 +1,68 @@
+<div class="container" id="upcoming">
+
+  <div class="row">
+      <div class="col-md-12">
+          <section>
+  
+            {{ .Content }}
+            <hr>
+            <div class="row">
+            {{ range sort .Site.Data.clutches "weight" }}
+            
+                {{ if eq .deposit true }}
+                  <div class="col-sm-6">
+                    <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+                      <div class="card">
+                        <div class="form-group">
+                          <picture>
+                            <source srcset="{{.image}}.webp" type="image/webp">
+                            <source srcset="{{.image}}.jpg" type="image/jpeg">
+                            <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
+                          </picture>
+                          
+                          <hr>
+                          
+                          <div style="padding-left:5px;">
+                            <div class="heading">
+                              <h3>
+                                <a href="/ambilobe/active#{{.sire}}">{{title .sire}}</a> x 
+                                <a href="/ambilobe/active#{{.dam}}">{{title  .dam}}</a>
+                              </h3>
+                            </div>
+                            <em>{{.filial}}</em>
+                            {{ if .desc }}
+                              <p>{{.desc}}</p>
+                            {{ end }}
+                            <dl>
+                              <dt>Hatch Range:</dt> 
+                              <dd>{{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</dd>
+                              <dt>Hatch Rate:</dt> 
+                              <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                            </dl>
+                            <hr>
+                            <ul>
+                              <li><p><strong>$75 Now</strong> ($275 plus shipping after {{.shipping}})</p></li>
+                              <li><p>Pay first - pick first</p></li>
+                            </ul>
+                            
+                            <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+                          </div>
+                        </div>
+                        <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
+                        <input type="hidden" name="price" value="75" />
+                        <input type="hidden" name="category" value="Reservations" />
+                        
+                        <hr>
+                      </div>
+                    </form>
+                  
+                  </div>
+                  {{ end }}
+                
+            {{ end }}
+            </div>
+
+      </section>
+    </div>
+  </div>
+</div>

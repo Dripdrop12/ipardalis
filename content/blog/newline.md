@@ -9,12 +9,12 @@ banner = "blog/newline/DSC04571"
 {{< load-photoswipe >}}
 
 ## Zanaka (F2)
-<img src="/img/breeders/zanaka/Zanaka3.jpg" style="width:100%;" />
+<img src="/img/ambilobe/zanaka/Zanaka1.jpg" style="width:100%;" />
 
 Zanaka is F2 because his mother's father was a wild-caught Ambilobe named Herb (Fanitso), owned by Kammerflage Kreations.
 
 ## Bohana (CH)
-<img src="/img/breeders/bohana/Bohana.jpg" style="width:100%;" />
+<img src="/img/ambilobe/bohana/Bohana.jpg" style="width:100%;" />
 
 
 ---

@@ -9,12 +9,12 @@
             {{ range sort .Site.Data.clutches "weight" }}
             <div class="row">
               <div class="col-md-12">
-                {{ if .sire }}
+                {{ if ne .deposit true }}
                   <hr>
                   <div class="heading">
                     <h2>
-                      <a href="/breeders/active#{{.sire}}">{{title .sire}}</a> x 
-                      <a href="/breeders/active#{{.dam}}">{{title  .dam}}</a>
+                      <a href="/ambilobe/active#{{.sire}}">{{title .sire}}</a> x 
+                      <a href="/ambilobe/active#{{.dam}}">{{title  .dam}}</a>
                     </h2>
                   </div>
                   <p><em>{{.filial}}</em></p>
@@ -32,41 +32,8 @@
                     <div class="col-md-4">
                       {{ partial "babies.html" . }}
                     </div>
-                    {{ else }}
-                    <div class="col-md-4">
-                      <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
-                        <div class="card">
-                          <div class="form-group">
-                            <picture>
-                              <source srcset="/img/babies/bio-bin.webp" type="image/webp">
-                              <source srcset="/img/babies/bio-bin.jpg" type="image/jpeg">
-                              <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
-                            </picture>
-                            
-                            <hr>
-                            
-                            <div style="padding-left:5px;">
-                              <label><strong>Reservation</strong></label>
-                              <ul>
-                                <li><p><strong>$75 Now</strong> ($275 plus shipping after {{.shipping}})</p></li>
-                                <li><p>Pay first - pick first</p></li>
-                              </ul>
-                              
-                              <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
-                            </div>
-                          </div>
-                          <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
-                          <input type="hidden" name="price" value="75" />
-                          <input type="hidden" name="category" value="Reservations" />
-                          
-                          <hr>
-                        </div>
-                      </form>
-                    </div>
                     {{ end }}
-                    
                   </div>
-                  
                 {{ end }}
               </div>
             </div>
