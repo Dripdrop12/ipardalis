@@ -50,17 +50,6 @@ Kako was a very striking female with a shy personality. She has produced some of
 
 ---
 
-## Bleu
-
-{{< gallery dir="/img/ambilobe/bleu" />}}
-
-Sire
-: [Stryfe]({{< ref "/ambilobe/lineage.md#stryfe" >}})
-
-Dam
-: [Emma Frost]({{< ref "/ambilobe/lineage.md#emma-frost" >}})
-
----
 
 ## TC 1
 *F3*

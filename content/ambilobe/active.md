@@ -100,6 +100,18 @@ Dam
 
 ---
 
+## Bleu
+
+{{< gallery dir="/img/ambilobe/bleu" />}}
+
+Sire
+: [Stryfe]({{< ref "/ambilobe/lineage.md#stryfe" >}})
+
+Dam
+: [Emma Frost]({{< ref "/ambilobe/lineage.md#emma-frost" >}})
+
+---
+
 ## Alla
 
 {{< gallery dir="/img/ambilobe/alla" />}}
