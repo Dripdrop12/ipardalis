@@ -17,6 +17,12 @@
                       <a href="/ambilobe/active#{{.dam}}">{{title  .dam}}</a>
                     </h2>
                   </div>
+                  <picture>
+                    <source srcset="{{.image}}.webp" type="image/webp">
+                    <source srcset="{{.image}}.jpg" type="image/jpeg">
+                    <img src="{{.image}}.jpg" alt="Contact Us!" style="width:50%">
+                  </picture>
+                  <hr>
                   <p><em>{{.filial}}</em></p>
                   {{ if .desc }}
                     <p>{{.desc}}</p>
@@ -27,6 +33,7 @@
                     <dt>Hatch Rate:</dt> 
                     <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
                   </dl>
+                  <hr><h4>Available Juveniles</h4><hr>
                   <div class="row">
                     {{ range .babies }}
                     <div class="col-md-4">
