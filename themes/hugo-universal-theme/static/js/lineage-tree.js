@@ -1,158 +1,122 @@
-// some colour variables
-var tcBlack = "#130C0E";
 
 // rest of vars
-var w = 960,
-    h = 800,
-    maxNodeSize = 50,
-    x_browser = 20,
+var x_browser = 20,
     y_browser = 25,
     root;
- 
-var vis;
-var force = d3.layout.force(); 
+    
+var margin = {top: 20, right: 120, bottom: 20, left: 120},
+  width = 1200 - margin.right - margin.left,
+  height = 1000 - margin.top - margin.bottom;
 
-vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
- 
-d3.json("lineage.json", function(json) {
- 
+var i = 0;
+var path;
+var tree = d3.layout.tree()
+  .size([height, width]); 
+
+var diagonal = d3.svg.diagonal()
+	.projection(function(d) { return [d.y, d.x]; });
+
+var svg = d3.select("#vis").append("svg")
+  .attr("width", width + margin.right + margin.left)
+  .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.json(path, function(json) {
+
   root = json;
-  root.fixed = true;
-  root.x = w / 2;
-  root.y = h / 4;
  
- 
-        // Build the path
-  var defs = vis.insert("svg:defs")
-      .data(["end"]);
- 
- 
-  defs.enter().append("svg:path")
-      .attr("d", "M0,-5L10,0L0,5");
- 
-     update();
+  update(root);
 });
- 
- 
-/**
- *   
- */
-function update() {
-  var nodes = flatten(root),
-      links = d3.layout.tree().links(nodes);
- 
-  // Restart the force layout.
-  force.nodes(nodes)
-        .links(links)
-        .gravity(0.05)
-    .charge(-1500)
-    .linkDistance(100)
-    .friction(0.5)
-    .linkStrength(function(l, i) {return 1; })
-    .size([w, h])
-    .on("tick", tick)
-        .start();
- 
-   var path = vis.selectAll("path.link")
-      .data(links, function(d) { return d.target.id; });
- 
-    path.enter().insert("svg:path")
-      .attr("class", "link")
-      // .attr("marker-end", "url(#end)")
-      .style("stroke", "#eee");
- 
- 
-  // Exit any old paths.
-  path.exit().remove();
- 
-  // Update the nodes…
-  var node = vis.selectAll("g.node")
-      .data(nodes, function(d) { return d.id; });
- 
- 
-  // Enter any new nodes.
-  var nodeEnter = node.enter().append("svg:g")
-      .attr("class", "node")
-      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-      .on("click", click)
-      .call(force.drag);
- 
-  // Append a circle
-  nodeEnter.append("svg:circle")
-      .attr("r", function(d) { return Math.sqrt(d.size) / 10 || 4.5; })
-      .style("fill", "#eee");
- 
-   
+
+
+function update(root) {
+  var nodes = tree.nodes(root).reverse(),
+	  links = tree.links(nodes);  
+
+  // Normalize for fixed-depth.
+  nodes.forEach(function(d) { d.y = d.depth * 180; });
+
+  // Declare the nodes…
+  var node = svg.selectAll("g.node")
+    .data(nodes, function(d) { return d.id || (d.id = ++i); });
+  
+  // Enter the nodes.
+  var nodeEnter = node.enter().append("g")
+    .attr("class", "node")
+    .attr("transform", function(d) { 
+    return "translate(" + d.y + "," + d.x + ")"; });
+
+  nodeEnter.append("circle")
+    .attr("r", function(d) { return d.value; })
+    .style("stroke", "black")
+    .style("fill", "black");
+  
+  // Declare the links…
+  var link = svg.selectAll("path.link")
+    .data(links, function(d) { return d.target.id; });
+
+  // Enter the links.
+  link.enter().insert("path", "g")
+    .attr("class", "link")
+    .style("stroke", "black")
+    .attr("d", diagonal);
+      
   // Append images
   var images = nodeEnter.append("svg:image")
         .attr("xlink:href",  function(d) { return d.img;})
-        .attr("x", function(d) { return -25;})
-        .attr("y", function(d) { return -25;})
-        .attr("height", 50)
-        .attr("width", 50);
+        .attr("x", function(d) { return -75;})
+        .attr("y", function(d) { return -75;})
+        .attr("height", 150)
+        .attr("width", 150);
   
   // make the image grow a little on mouse over and add the text details on click
   var setEvents = images
-          // Append hero text
-          .on( 'click', function (d) {
-              d3.select("h1").html(d.hero); 
-              d3.select("h2").html(d.name); 
-              d3.select("h3").html ("Take me to " + "<a href='" + d.link + "' >"  + d.hero + " web page ⇢"+ "</a>" ); 
-           })
+    // Append name text
+    .on( 'click', function(d) {
+      d3.select("h2").html(d.name); 
+      d3.select("h3").html(d.company); 
+      d3.select("#dam").html(d.dam);
+      d3.select("#sire").html(d.sire);
+      d3.select("h4").html ("Take me to " + "<a href='" + d.link + "' >"  + d.company + "'s web page ⇢"+ "</a>" ); 
+    })
+    
+    .on( 'mouseenter', function() {
+      
+      // select element in current context
+      d3.select( this )
+        .transition()
+        .attr("x", function(d) { return -175;})
+        .attr("y", function(d) { return -175;})
+        .attr("opacity", 0.9)
+        .attr("height", 500)
+        .attr("width", 500);
+    })
+    // set back
+    .on( 'mouseleave', function() {
+      d3.select( this )
+        .transition()
+        .attr("x", function(d) { return -25;})
+        .attr("y", function(d) { return -25;})
+        .attr("opacity", 1)
+        .attr("height", 150)
+        .attr("width", 150);
+    });
 
-          .on( 'mouseenter', function() {
-            // select element in current context
-            d3.select( this )
-              .transition()
-              .attr("x", function(d) { return -60;})
-              .attr("y", function(d) { return -60;})
-              .attr("height", 100)
-              .attr("width", 100);
-          })
-          // set back
-          .on( 'mouseleave', function() {
-            d3.select( this )
-              .transition()
-              .attr("x", function(d) { return -25;})
-              .attr("y", function(d) { return -25;})
-              .attr("height", 50)
-              .attr("width", 50);
-          });
-
-  // Append hero name on roll over next to the node as well
+  // Append name on roll over next to the node as well
   nodeEnter.append("text")
       .attr("class", "nodetext")
-      .attr("x", x_browser)
-      .attr("y", y_browser +15)
-      .attr("fill", tcBlack)
-      .text(function(d) { return d.hero; });
- 
+      .attr("x", -120)
+      .attr("y", 100)
+      .attr("fill", "white")
+      .text(function(d) { return d.name + " - " + d.company; });
  
   // Exit any old nodes.
   node.exit().remove();
  
- 
   // Re-select for update.
-  path = vis.selectAll("path.link");
+  link = vis.selectAll("path.link");
   node = vis.selectAll("g.node");
- 
-function tick() {
- 
- 
-    path.attr("d", function(d) {
- 
-     var dx = d.target.x - d.source.x,
-           dy = d.target.y - d.source.y,
-           dr = Math.sqrt(dx * dx + dy * dy);
-           return   "M" + d.source.x + "," 
-            + d.source.y 
-            + "A" + dr + "," 
-            + dr + " 0 0,1 " 
-            + d.target.x + "," 
-            + d.target.y;
-  });
-    node.attr("transform", nodeTransform);    
-  }
 }
 
  
