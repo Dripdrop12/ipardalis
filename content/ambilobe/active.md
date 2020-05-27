@@ -33,7 +33,7 @@ Sire
 Dam
 : [Kako]({{< ref "/ambilobe/retired.md#kako" >}})
 
-[Full Ancestor Report]({{< ref "/blog/nugget.md" >}})
+[Full Ancestor Report]({{< ref "/blog/nugget/index.md" >}})
 
 Nugget was an alpha male from Jude and Kako's first clutch, hatched 6/5/19. He has many of the traits I love about Jude/Flash, but he has a bit more red in his bars. He is a bold YBBB.
 
@@ -44,6 +44,8 @@ Nugget was an alpha male from Jude and Kako's first clutch, hatched 6/5/19. He h
 {{< gallery dir="/img/ambilobe/zanaka" />}}
 
 *F2*
+
+[Full Ancestor Report]({{< ref "/blog/zanaka/index.md" >}})
 
 Sire
 : [Manome-toky (Promise Keeper)]({{< ref "/ambilobe/lineage.md#manome-toky-promise-keeper" >}})
@@ -56,11 +58,12 @@ Our newest edition - this guy is showing some jaw dropping reds!
 ---
 
 ## Blossom
-*F3*
 
 {{< gallery dir="/img/ambilobe/blossom" />}}
 
-[Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
+*F3*
+
+[Full Ancestor Report]({{< ref "/blog/blossom/index.md" >}})
 
 Sire
 : [Jude]({{< ref "/ambilobe/active.md#jude" >}})
@@ -71,11 +74,12 @@ Dam
 ---
 
 ## Jack
-*F3*
 
 {{< gallery dir="/img/ambilobe/jack" />}}
 
-[Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
+*F3*
+
+[Full Ancestor Report]({{< ref "/blog/blossom/index.md" >}})
 
 Sire
 : [Jude]({{< ref "/ambilobe/active.md#jude" >}})
@@ -86,11 +90,12 @@ Dam
 ---
 
 ## Alfred
-*F3*
 
 {{< gallery dir="/img/ambilobe/alfred" />}}
 
-[Full Ancestor Report]({{< ref "/blog/blossom.md" >}})
+*F3*
+
+[Full Ancestor Report]({{< ref "/blog/blossom/index.md" >}})
 
 Sire
 : [Jude]({{< ref "/ambilobe/active.md#jude" >}})
