@@ -1,12 +1,27 @@
 +++
-title = "Nugget's Lineage"
-date = "2020-02-20"
-tags = ["nugget"]
-categories = ["breeders", "babies", "genetics"]
+title = "Nugget"
+date = "2019-06-09"
+tags = ["nugget", "jude", "sparkles", "kako"]
+categories = ["breeders"]
 banner = "img/ambilobe/nugget/nugget1"
 +++
 
 {{< load-photoswipe >}}
+
+Nugget was an alpha male from Jude and Kako's [first clutch]({{< ref "/blog/jude-kako.md" >}}), hatched 6/5/19. He has many of the traits I love about Jude/Flash. He is a bold YBBB with great lineage.
+
+{{< gallery dir="/img/ambilobe/nugget" />}}
+
+Filial
+: F3
+
+Sire
+: [Jude]({{< ref "blog/jude/index.md" >}})
+
+Dam
+: <a href="/tags/kako/">Kako</a>
+
+---
 
 {{< rawhtml >}}
 <div id="grampstextdoc">

@@ -1,0 +1,57 @@
+<div class="container" id="available">
+
+  <div class="row">
+      <div class="col-md-12">
+          <section>
+  
+            {{ .Content }}
+                
+            {{ range sort .Site.Data.clutches "weight" }}
+            <div class="row">
+              <div class="col-md-12">
+                {{ if ne .deposit true }}
+                  <hr>
+                  <div class="heading">
+                    <h2>
+                      <a href="/tags/{{.sire}}/">{{title .sire}}</a> x 
+                      <a href="/tags/{{.dam}}/">{{title  .dam}}</a>
+                    </h2>
+                  </div>
+                  <picture>
+                    <source srcset="{{.image}}.webp" type="image/webp">
+                    <source srcset="{{.image}}.jpg" type="image/jpeg">
+                    <img src="{{.image}}.jpg" alt="Contact Us!" style="width:50%">
+                  </picture>
+                  <hr>
+                  <p><em>{{.filial}}</em></p>
+                  {{ if .desc }}
+                    <p>{{.desc}}</p>
+                  {{ end }}
+                  <dl>
+                    <dt>Hatch Range:</dt> 
+                    <dd>{{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</dd>
+                    <dt>Hatch Rate:</dt> 
+                    <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                  </dl>
+                  <hr><h4>Available Juveniles</h4><hr>
+                  <div class="row">
+                    {{ range .babies }}
+                    <div class="col-md-4">
+                      {{ partial "babies.html" . }}
+                    </div>
+                    {{ end }}
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+            {{ else }}
+          
+              <h1>Sorry! No babies available at this time.</h1>
+              <p>Please feel free to contact us via email or follow us on Facebook to get updates on future clutches.</p>
+              
+            {{ end }}
+
+      </section>
+    </div>
+  </div>
+</div>

@@ -1,8 +1,8 @@
 +++
 title = "New iPardalis Genes"
 date = "2020-04-05"
-tags = ["Zanaka", "bohana"]
-categories = ["genetics"]
+tags = ["zanaka", "bohana"]
+categories = ["updates"]
 banner = "blog/newline/DSC04571"
 +++
   
@@ -27,7 +27,7 @@ Bohana's brothers proved out and are some very nice yellow body blue bar Ambilob
 
 ---
 
-I'm pretty excited to pair these two together so that we'll have some fresh genetics to work with in 2021 and beyond!
+I was thinking of pairing these two together, but Nugget has really impressed us. I decided to pair him with Bohana instead :).
 
 Here are some shots of Zanaka chasing Bohana around the yard. Bohana is not that small. Zanaka is just a giant! Regardless, she isn't quite ready yet, so I did not let them breed today. Stay tuned!
 

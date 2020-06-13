@@ -49,24 +49,24 @@ paginate = 10
     
 [[menu.main]]
     name = "Active"
-    url = "/ambilobe/active/"
+    url = "/categories/breeders/"
     parent = "ambilobe"
     weight = 1
 
 [[menu.main]]
     name = "Retired"
-    url = "/ambilobe/retired/"
+    url = "/categories/retired-breeders/"
     parent = "ambilobe"
     weight = 2
-    
+
 [[menu.main]]
     name = "Past Clutches"
-    url  = "/ambilobe/past/"
+    url = "/categories/past-clutches/"
     parent = "ambilobe"
     weight = 3
-    
+
 [[menu.main]]
-    name = "Lineage"
+    name = "Lineage Pics"
     url = "/ambilobe/lineage/"
     parent = "ambilobe"
     weight = 4

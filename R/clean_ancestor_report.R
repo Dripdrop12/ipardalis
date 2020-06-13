@@ -17,20 +17,6 @@ clean_txt <- function(breeder = "blossom") {
     str_remove("</body>")
   
   dir_copy("~/chams_det_ancestor_report/", glue("content/blog/{breeder}/"), overwrite = TRUE)
+  dir_delete("~/chams_det_ancestor_report/")
   writeLines(txt)
 }
-
-cham_data <- readr::read_csv("~/chams.csv") %>%
-  slice(1:(grep("Place", .data$Person) - 1))
-
-family_data <- cham_data %>% 
-  slice((grep("Family", .data$Person)+1):nrow(.)) %>%
-  select(Person, Surname) %>%
-  rename(Family = Person, Child = Surname)
-  
-marriage_data <- cham_data %>%
-  slice((grep("Marriage", .data$Person)+1):(grep("Family", .data$Person) -1)) %>%
-  select(Person, Surname, Given) %>%
-  rename(Family = Person, Husband = Surname, Wife = Given)
-
-combined_family <- left_join(family_data, marriage_data, by = "Family")

@@ -1,18 +1,26 @@
 +++
-title = "Blossom's Lineage"
-date = "2020-02-24"
-tags = ["blossom"]
-categories = ["breeders", "babies", "genetics"]
+title = "Blossom"
+date = "2019-07-09"
+tags = ["blossom", "jude", "alla", "JJ"]
+categories = ["breeders"]
 banner = "img/ambilobe/blossom/blossom1"
-
-
-[[resources]]
-  name = "Blossom tree"
-  src = "tree.png"
-  RelPermalink = "tree.png"
 +++
 
 {{< load-photoswipe >}}
+
+{{< gallery dir="/img/ambilobe/blossom" />}}
+
+Filial
+: F3
+
+Sire
+: [Jude]({{< ref "blog/jude/index.md" >}})
+
+Dam
+: <a href="/tags/alla/">Alla</a>
+
+---
+
 {{< rawhtml >}} 
 
 <div id="grampstextdoc">
