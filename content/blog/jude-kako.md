@@ -10,7 +10,7 @@ banner = "img/babies/20190605/sold/IMG_2"
 
 This pairing gave us [Nugget]({{< ref "/blog/nugget/index.md" >}}), [Patch]({{< ref "/blog/patch/index.md" >}}), [Sunny]({{< ref "/blog/sunny/index.md" >}}), Lilly, and Daisy.
 
-# [Jude]({{< ref "/blog/jude/index.md" >}}) x [Kako]({{< ref "/ambilobe/retired.md#kako" >}}) 
+# [Jude]({{< ref "/blog/jude/index.md" >}}) x [Kako]({{< ref "/blog/kako/index.md" >}}) 
 *F2*
 
 Hatch dates

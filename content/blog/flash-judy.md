@@ -14,7 +14,7 @@ Jude, our 2nd generation breeder, was our holdback male from this clutch!
 
 ---
 
-# [Flash]({{< ref "/ambilobe/retired.md#flash" >}}) x [Judy]({{< ref "/ambilobe/retired.md#judy" >}})
+# [Flash]({{< ref "/blog/flash/index.md" >}}) x [Judy]({{< ref "/blog/judy/index.md" >}})
 *F2*
 
 Hatch dates
