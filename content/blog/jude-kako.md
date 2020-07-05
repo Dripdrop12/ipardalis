@@ -8,7 +8,7 @@ banner = "img/babies/20190605/sold/IMG_2"
 
 {{< load-photoswipe >}}
 
-This pairing gave us [Nugget]({{< ref "/blog/nugget/index.md" >}}), [Patch]({{< ref "/blog/patch/index.md" >}}), [Sunny]({{< ref "/blog/sunny/index.md" >}}), Lilly, and Daisy.
+This pairing gave us [Nugget]({{< ref "/blog/nugget/index.md" >}}), [Patch]({{< ref "/blog/patch/index.md" >}}), [Sunny]({{< ref "/blog/sunny/index.md" >}}), [Lilly]({{< ref "/blog/lilly/index.md" >}}), and [Daisy]({{< ref "blog/daisy/index.md" >}}).
 
 # [Jude]({{< ref "/blog/jude/index.md" >}}) x [Kako]({{< ref "/blog/kako/index.md" >}}) 
 *F2*
