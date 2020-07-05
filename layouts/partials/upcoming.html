@@ -45,8 +45,14 @@
                             <ul>
                               <li><p><strong>$75 Now</strong> ($275 plus shipping after {{.shipping}})</p></li>
                             </ul>
-                            
-                            <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+                            {{ if eq .soldout true}}
+                              <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
+                            {{ else }}
+                              <button type="submit" class="btn btn-template-main">
+                                <i class="fa fa-shopping-cart"></i>
+                                Add to cart
+                              </button>
+                            {{ end }}
                           </div>
                         </div>
                         <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
