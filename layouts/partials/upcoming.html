@@ -43,7 +43,7 @@
                             </dl>
                             <hr>
                             <ul>
-                              <li><p><strong>$75 Now</strong> ($275 plus shipping after {{.shipping}})</p></li>
+                              <li><p><strong>$75 Now</strong> (${{.maleprice}} for a male or ${{.femaleprice}} for a female plus shipping after {{.shipping}})</p></li>
                             </ul>
                             {{ if eq .soldout true}}
                               <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>

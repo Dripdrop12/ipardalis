@@ -12,5 +12,7 @@ shipping: 3 months after hatch
 hatchnum: 0
 clutchsize: 21
 deposit: true
+maleprice: 450
+femaleprice: 399
 babies:
 
