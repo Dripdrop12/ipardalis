@@ -3,7 +3,7 @@ title = "Alfred"
 date = "2019-10-21"
 tags = ["alfred", "jude", "alla", "JJ"]
 categories = ["breeders"]
-banner = "img/ambilobe/alfred/alfred1"
+banner = "img/ambilobe/alfred/alfred"
 +++
 
 {{< load-photoswipe >}}
