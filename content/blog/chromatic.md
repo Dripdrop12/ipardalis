@@ -1,7 +1,7 @@
 +++
 title = "Lineage: Chromatic Chameleons"
 date = "2016-03-21"
-tags = ["jj", "alla", "jack", "alfred", "blossom"]
+tags = ["bleu", "maitso", "mavokely", "bolt", "felipe sanchez"]
 categories = ["lineage"]
 banner = "img/ambilobe/lineage/Felipe Sanchez/felipe"
 +++
