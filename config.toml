@@ -67,7 +67,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Lineage Pics"
-    url = "/ambilobe/lineage/"
+    url = "/categories/lineage/"
     parent = "ambilobe"
     weight = 4
 

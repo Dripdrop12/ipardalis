@@ -14,10 +14,10 @@ Filial
 : F2
 
 Sire
-: <a href="/tags/promise-keeper/">Promise Keeper</a>
+: [Manome-toky (Promise Keeper)]({{< ref "/blog/kammerflage.md#manome-toky-promise-keeper" >}})
 
 Dam
-: <a href="/tags/mitselatra-stormy-weather/">Mitselatra (Stormy Weather)</a>
+: [Mitselatra (Stormy Weather)]({{< ref "/blog/kammerflage.md#mitselatra-stormy-weather" >}})
 
 ---
 

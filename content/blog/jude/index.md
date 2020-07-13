@@ -16,10 +16,10 @@ Filial Group
 : *F2*
 
 Sire
-: <a href="/tags/flash/">Flash</a>
+: [Flash]({{< ref "/blog/flash/index.md" >}})
 
 Dam
-: <a href="/tags/judy/">Judy</a>
+: [Judy]({{< ref "/blog/judy/index.md" >}})
 
 ---
 

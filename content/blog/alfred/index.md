@@ -17,7 +17,7 @@ Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
 
 Dam
-: <a href="/tags/alla/">Alla</a>
+: [Alla]({{< ref "blog/alla/index.md" >}})
 
 ---
 

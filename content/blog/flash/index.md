@@ -16,10 +16,10 @@ Filial Group
 : *F1*
 
 Sire
-: <a href="/tags/cowboy/">Cowboy</a>
+: [Cowboy]({{< ref "/blog/chameleonparadise.md#cowboy" >}})
 
 Dam
-: <a href="/tags/kings-daughter/">King's Daughter</a>
+: [King's daughter]({{< ref "/blog/chameleonparadise.md#king" >}})
 
 ---
 

@@ -19,7 +19,7 @@ Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
 
 Dam
-: <a href="/tags/kako/">Kako</a>
+: [Kako]({{< ref "blog/kako/index.md" >}})
 
 ---
 

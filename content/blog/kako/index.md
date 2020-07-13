@@ -1,6 +1,6 @@
 +++
 title = "Kako"
-date = "2015-01-10"
+date = "2017-11-21"
 tags = ["kako", "sparkles", "leos-daughter", "leo"]
 categories = ["retired breeders"]
 banner = "img/ambilobe/kako/kako"
@@ -16,10 +16,10 @@ Filial Group
 : *F2*
 
 Sire
-: <a href="/tags/sparkles/">Sparkles</a>
+: [Sparkles]({{< ref "/blog/bobbyruddock.md#sparkles" >}})
 
 Dam
-: <a href="/tags/leos-daughter/">Leo's Daughter</a>
+: <a href="/tags/leo/">Leo's Daughter</a>
 
 ---
 

@@ -16,10 +16,10 @@ Filial Group
 : *F2*
 
 Sire
-: <a href="/tags/candy-cane/">Candy Cane (F1)</a>
+: [Candy Cane]({{< ref "/blog/chameleonparadise.md#candy-cane" >}})
 
 Dam
-: <a href="/tags/jakes-daughter/">Jake's Daughter</a>
+: [Jake's daughter]({{< ref "/blog/chameleonparadise.md#jake" >}})
 
 ---
 

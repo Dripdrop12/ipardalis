@@ -14,7 +14,7 @@ Filial
 : Unknown
 
 Sire
-: <a href="/tags/jj/">JJ</a>
+: [JJ]({{< ref "blog/panthercreek.md#jj" >}})
 
 Dam
 : <a href="/tags/blue-birds-daughter/">Blue Bird's Daughter</a>

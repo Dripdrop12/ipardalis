@@ -14,10 +14,10 @@ Filial
 : F3
 
 Sire
-: <a href="/tags/amarillo/">Amarillo</a>
+: [Amarillo]({{< ref "/blog/bobbyruddock.md#amarillo" >}})
 
 Dam
-: <a href="/tags/felipe-sanchez/">Felipe Sanchez's daughter</a>
+: [Felipe Sanchez's daughter]({{< ref "/blog/chromatic.md#felipe-sanchez" >}})
 
 ---
 

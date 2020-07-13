@@ -4,7 +4,7 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have distinct color morphs, the most popular of which are Ambilobe (blue/red bar), Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding pair is from the Ambilobe region of Madagascar.
+We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have distinct color morphs, the most popular of which are Ambilobe (blue/red bar), Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding group is from the Ambilobe region of Madagascar.
 
 ![ambilobe](/img/ambilobe.jpg)
 
@@ -22,13 +22,13 @@ Then you can pick him/her up at the nearest FedEx distribution center, usually t
 
 Expect to pay about $60 (New Jersey) - $100 (Alaska) in shipping. We use FedEx Priority overnight.
 
-## 3. DO YOU SEND OVERSEAS?
+## 3. DO YOU SHIP INTERNATIONALLY?
 
-Nope.
+No
 
-## 4. WHY ARE THEY SO EXPENSIVE?
+## 4. HOW DO YOU DETERMINE PRICING?
 
-If you want cheap, sick animals with hit-or-miss coloration and genetics, that's not us. It requires a minimum of $150 to raise a healthy panther to the age of 3 months. That is the floor for their required nutrition and food intake. 
+We watch the market for similar quality animals and ensure that our pricing is fair. We will never price our animals above the market price, but we are also not able to offer them much lower than the average price. Our project is small and we invest in high quality care for all of our animals. 
 
 ## 5. CAPTIVE HUSBANDRY?
 
@@ -36,8 +36,8 @@ If you want cheap, sick animals with hit-or-miss coloration and genetics, that's
   - The most comprehensive guide to chameleon husbandry on the web
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
-- [Much Ado About Chameleons](https://www.muchadoaboutchameleons.com/)
-  - Olimpia has written some great guides on various topics like [On the Specific Care of Females](https://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](https://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
+- [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
+  - Olimpia has written some great guides on various topics like [On the Specific Care of Females](http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](http://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
 
 ---
 
