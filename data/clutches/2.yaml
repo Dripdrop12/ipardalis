@@ -10,6 +10,8 @@ hatchend: 12/25/19
 shipping: Now!
 hatchnum: 32
 clutchsize: 32
+deposit: false
+soldout: true
 babies:
 - name: F1
   gender: Female
@@ -50,3 +52,4 @@ babies:
   gender: Female
   image: /img/babies/20191120/available/F8
   price: 399
+  sold: true

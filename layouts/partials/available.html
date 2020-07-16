@@ -9,7 +9,7 @@
             {{ range sort .Site.Data.clutches "weight" }}
             <div class="row">
               <div class="col-md-12">
-                {{ if ne .deposit true }}
+                {{ if eq .deposit false }}
                   <hr>
                   <div class="heading">
                     <h2>
@@ -33,21 +33,28 @@
                     <dt>Hatch Rate:</dt> 
                     <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
                   </dl>
-                  <hr><h4>Available Juveniles</h4><hr>
-                  <div class="row">
-                    {{ range .babies }}
-                    <div class="col-md-4">
-                      {{ partial "babies.html" . }}
+                  {{ if eq .soldout true }}
+                    <hr>
+                    <h1>SOLD OUT</h1>
+                    <p>Please feel free to contact us via email or check out our <a href="{{ .Site.baseurl }}/babies/upcoming">upcoming clutches</a>.</p>
+                    
+                  {{ else }}
+                    
+                    
+                    <hr><h4>Available Juveniles</h4><hr>
+                    <div class="row">
+                      {{ range .babies }}
+                      <div class="col-md-4">
+                        {{ partial "babies.html" . }}
+                      </div>
+                      {{ end }}
                     </div>
-                    {{ end }}
-                  </div>
+                  {{ end}}
+                  
+                  
                 {{ end }}
               </div>
             </div>
-            {{ else }}
-          
-              <h1>Sorry! No babies available at this time.</h1>
-              <p>Please feel free to contact us via email or follow us on Facebook to get updates on future clutches.</p>
               
             {{ end }}
 
