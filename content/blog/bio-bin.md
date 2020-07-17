@@ -8,7 +8,7 @@ banner = "img/babies/bio-bin"
   
 {{< load-photoswipe >}}
 
-Given that wild baby Panther Chameleons are often found in low brush or tall grass, we would like to simulate that as much as possible. So in 2019, we are experimenting with raising our babies in bio bins for the first month. We have multiple soil layers (drainage, abg & leaf) and 3 - 4 species of inspects in every bin. Currently, that includes temperate/tropical spring tails, dwarf white isopods, zebra isopods, and powder orange isopods. These insects spend a lot of time in the soil, so my thought is they will provide a good option for the babies along with fruit flies, silk worms, horn worms and bean beetles.
+Given that wild baby Panther Chameleons are often found in low brush or tall grass, we would like to simulate that as much as possible. So in 2019, we are experimenting with raising our babies in bio bins for the first month. We have multiple soil layers (drainage, abg & leaf) and 3 - 4 species of insects in every bin. Currently, that includes temperate/tropical spring tails, dwarf white isopods, zebra isopods, and powder orange isopods. These insects spend a lot of time in the soil, so my thought is they will provide a good option for the babies along with fruit flies, silk worms, horn worms and bean beetles.
 
 {{< gallery >}}
   {{< figure src="/img/babies/rack.jpg" >}}
