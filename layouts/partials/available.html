@@ -5,11 +5,11 @@
           <section>
   
             {{ .Content }}
-                
-            {{ range sort .Site.Data.clutches "weight" }}
+            
+            {{ $clutches := sort .Site.Data.clutches "shipping" }}
+            {{ range $i, $element := where $clutches ".listed" true }}
             <div class="row">
               <div class="col-md-12">
-                {{ if eq .deposit false }}
                   <hr>
                   <div class="heading">
                     <h2>
@@ -27,19 +27,30 @@
                   {{ if .desc }}
                     <p>{{.desc}}</p>
                   {{ end }}
-                  <dl>
-                    <dt>Hatch Range:</dt> 
-                    <dd>{{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</dd>
-                    <dt>Hatch Rate:</dt> 
-                    <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
-                  </dl>
+                  <div class="row">
+                    <div class="col-md-4">
+                      <dl>
+                        <dt>Hatch start:</dt> 
+                        <dd>{{ .hatchstart }}</dd>
+                        <dt>Hatch end:</dt>
+                        <dd>{{ .hatchend }}</dd>
+                      </dl>
+                    </div>
+                    <div class="col-md-4">
+                      <dl>
+                        <dt>Hatch Rate:</dt> 
+                        <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                        <dt>Estimated ship date:</dt>
+                        <dd>{{ .shipping }}</dd>
+                      </dl>
+                    </div>
+                  </div>
                   {{ if eq .soldout true }}
                     <hr>
                     <strong>SOLD OUT</strong>
                     <p>Please feel free to contact us via email or check out our <a href="{{ .Site.baseurl }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
                     
                   {{ else }}
-                    
                     
                     <hr><h4>Available Juveniles</h4><hr>
                     <div class="row">
@@ -50,9 +61,6 @@
                       {{ end }}
                     </div>
                   {{ end}}
-                  
-                  
-                {{ end }}
               </div>
             </div>
               

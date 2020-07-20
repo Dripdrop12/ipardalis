@@ -5,12 +5,13 @@ filial: F3
 desc: |
   These guys are going to a lot of fun to work with - check out Blossom for a good example of their potential.
 laid: 2018-04-20
-hatchstart: 11/20/2019
-hatchend: 12/25/19
-shipping: Now!
+hatchstart: 2019-11-20
+hatchend: 2019-12-25
+shipping: 2020-02-20
 hatchnum: 32
 clutchsize: 32
 deposit: false
+listed: true
 soldout: true
 babies:
 - name: F1
