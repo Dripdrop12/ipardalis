@@ -1,15 +1,14 @@
-weight: 2
 sire: nugget
 dam: alla
 image: /img/ambilobe/nuggetalla
 filial: F3
 desc: |
   Nugget's first clutch! We let Alla lay 4 "infertile" clutches before pairing her with Nugget; however, they were all fertile. This first Nugget clutch appears to be about 50% infertile, so we're hoping the hatch rate decent. We'll see.
-laid: 12/27/19
-hatchstart: 7/10/20
+laid: 2019-12-27
+hatchstart: 2020-07-10
 hatchend: Not yet
-shipping: 10/10/20
-hatchnum: 4
+shipping: 2020-10-10
+hatchnum: 9
 clutchsize: 20
 deposit: true
 maleprice: 375

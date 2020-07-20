@@ -2,7 +2,7 @@
 title = "Jack"
 date = "2019-10-20"
 tags = ["jack", "jude", "alla", "JJ"]
-categories = ["breeders"]
+categories = ["retired-breeders"]
 banner = "img/ambilobe/jack/jack"
 +++
 

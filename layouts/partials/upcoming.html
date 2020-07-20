@@ -7,65 +7,84 @@
             {{ .Content }}
             <hr>
             <div class="row">
-            {{ range sort .Site.Data.clutches "weight" }}
             
-                {{ if eq .deposit true }}
-                  <div class="col-sm-6">
-                    <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
-                      <div class="card">
-                        <div class="form-group">
-                          <picture>
-                            <source srcset="{{.image}}.webp" type="image/webp">
-                            <source srcset="{{.image}}.jpg" type="image/jpeg">
-                            <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
-                          </picture>
-                          
-                          <hr>
-                          
-                          <div style="padding-left:5px;">
-                            <div class="heading">
-                              <h3>
-                                <a href="/tags/{{.sire}}">{{title .sire}}</a> x 
-                                <a href="/tags/{{.dam}}">{{title  .dam}}</a>
-                              </h3>
-                            </div>
-                            <em>{{.filial}}</em>
-                            {{ if .desc }}
-                              <p>{{.desc}}</p>
-                            {{ end }}
+            {{ $clutches := sort .Site.Data.clutches "laid" }}
+            {{ range $i, $element := where $clutches ".deposit" true }}
+              <div class="col-sm-6">
+                <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+                  <div class="card">
+                    <div class="form-group">
+                      <picture>
+                        <source srcset="{{.image}}.webp" type="image/webp">
+                        <source srcset="{{.image}}.jpg" type="image/jpeg">
+                        <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
+                      </picture>
+                      
+                      <hr>
+                      
+                      <div style="padding-left:5px;">
+                        <div class="heading">
+                          <h3>
+                            <a href="/tags/{{.sire}}">{{title .sire}}</a> x 
+                            <a href="/tags/{{.dam}}">{{title  .dam}}</a>
+                          </h3>
+                        </div>
+                        <em>{{.filial}}</em>
+                        {{ if .desc }}
+                          <p>{{.desc}}</p>
+                        {{ end }}
+                        <div class="row">
+                          <div class="col-md-4">
                             <dl>
                               <dt>Laid:</dt>
                               <dd>{{ .laid }}</dd>
-                              <dt>Hatch Range:</dt> 
-                              <dd>{{ .hatchstart }} - {{ .hatchend }} (shipping {{.shipping}})</dd>
+                            </dl>
+                          </div>
+                          <div class="col-md-4">
+                            <dl>
+                              <dt>Hatch start:</dt> 
+                              <dd>{{ .hatchstart }}</dd>
+                              <dt>Hatch end:</dt>
+                              <dd>{{ .hatchend }}</dd>
+                            </dl>
+                          </div>
+                          <div class="col-md-4">
+                            <dl>
                               <dt>Hatch Rate:</dt> 
                               <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                              <dt>Estimated ship date:</dt>
+                              <dd>{{ .shipping }}</dd>
                             </dl>
-                            <hr>
-                            <ul>
-                              <li><p><strong>$75 Now</strong> (${{.maleprice}} for a male or ${{.femaleprice}} for a female plus shipping after {{.shipping}})</p></li>
-                            </ul>
-                            {{ if eq .soldout true}}
-                              <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
-                            {{ else }}
-                              <button type="submit" class="btn btn-template-main">
-                                <i class="fa fa-shopping-cart"></i>
-                                Add to cart
-                              </button>
-                            {{ end }}
                           </div>
                         </div>
-                        <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
-                        <input type="hidden" name="price" value="75" />
-                        <input type="hidden" name="category" value="Reservations" />
                         
                         <hr>
+                        <ul>
+                          <li><p><strong>$75 Now</strong> (${{.maleprice}} plus shipping males/${{.femaleprice}} plus shipping for females after {{.shipping}})</p></li>
+                        </ul>
+                        {{ if eq .soldout true}}
+                          <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
+                        {{ else }}
+                          <button type="submit" class="btn btn-template-main">
+                            <i class="fa fa-shopping-cart"></i>
+                            Add to cart
+                          </button>
+                        {{ end }}
                       </div>
-                    </form>
-                  
+                    </div>
+                    <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
+                    <input type="hidden" name="price" value="75" />
+                    <input type="hidden" name="category" value="Reservations" />
+                    
+                    <hr>
                   </div>
-                  {{ end }}
-                
+                </form>
+              </div>
+              {{ if modBool (add $i 1) 2 }}
+              </div>
+              <hr>
+              <div class="row">
+              {{ end }}
             {{ end }}
             </div>
 

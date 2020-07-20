@@ -1,15 +1,14 @@
-weight: 3
 sire: zanaka
 dam: sunny
 image: /img/ambilobe/zanakasunny
 filial: F3
 desc: |
   First Zanaka clutch! I expect some interesting bars and beautiful yellows from this pairing.
-laid: 12/21/19
-hatchstart: 7/17/20
-hatchend: Not yet
-shipping: 10/17/20
-hatchnum: 3
+laid: 2019-12-21 
+hatchstart: 2020-07-17
+hatchend: Not finished yet
+shipping: 2020-10-17
+hatchnum: 22
 clutchsize: 29
 deposit: true
 maleprice: 350
