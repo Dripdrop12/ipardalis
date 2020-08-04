@@ -3,10 +3,11 @@
   <div class="row">
       <div class="col-md-12">
           <section>
-  
+            {{ $baseURL := .Site.BaseURL }}
             {{ .Content }}
             
             {{ $clutches := sort .Site.Data.clutches "shipping" }}
+            
             {{ range $i, $element := where $clutches ".listed" true }}
             <div class="row">
               <div class="col-md-12">
@@ -48,7 +49,7 @@
                   {{ if eq .soldout true }}
                     <hr>
                     <strong>SOLD OUT</strong>
-                    <p>Please feel free to contact us via email or check out our <a href="{{ .Site.baseurl }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
+                    <p>Please feel free to contact us via email or check out our <a href="{{ $baseURL }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
                     
                   {{ else }}
                     
@@ -63,7 +64,10 @@
                   {{ end}}
               </div>
             </div>
-              
+            {{ else }}
+            <hr>
+            <strong>SOLD OUT</strong>
+            <p>Please feel free to contact us via email or check out our <a href="{{ $baseURL }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
             {{ end }}
 
       </section>

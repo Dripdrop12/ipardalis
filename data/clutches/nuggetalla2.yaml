@@ -3,14 +3,14 @@ dam: alla
 image: /img/ambilobe/nuggetalla
 filial: F3
 desc: |
-  Nugget's second clutch! Nugget's previous clutches should be up on our blog for an example of what these guys' potential is.
+  Nugget's second clutch! Nugget's previous clutches will be up on our blog for an example of what these guys' potential is.
 laid: 2020-02-19
 hatchstart: Not Yet
 hatchend: Not yet
 shipping: 3 months after hatch
 hatchnum: 0
 clutchsize: 34
-deposit: false
+deposit: true
 maleprice: 375
 femaleprice: 325
 babies:

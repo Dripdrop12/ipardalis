@@ -12,7 +12,32 @@ hatchnum: 57
 clutchsize: 67
 maleprice: 350
 femaleprice: 325
-deposit: true
-soldout: true
+deposit: false
+listed: true
+soldout: false
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20200420/available/M1
+  price: 350
+  sold: true
+- name: F1
+  gender: Female
+  image: /img/babies/20200420/available/F1
+  price: 325
+- name: F2
+  gender: Female
+  image: /img/babies/20200420/available/F2
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20200420/available/F3
+  price: 325
+- name: F4
+  gender: Female
+  image: /img/babies/20200420/available/F4
+  price: 325
+- name: F5
+  gender: Female
+  image: /img/babies/20200420/available/F5
+  price: 325

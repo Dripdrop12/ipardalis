@@ -8,9 +8,10 @@ laid: 2019-12-27
 hatchstart: 2020-07-10
 hatchend: Not yet
 shipping: 2020-10-10
-hatchnum: 9
+hatchnum: 15
 clutchsize: 20
 deposit: true
+soldout: true 
 maleprice: 375
 femaleprice: 325
 babies:
