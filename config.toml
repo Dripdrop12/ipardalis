@@ -1,5 +1,5 @@
 baseurl = "https://ipardalis.com/"
-title = "iPardalis"
+title = "iPardalis - Yellow Body Blue Bar Panther Chameleons for sale. Panther chameleons for sale near me."
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -122,9 +122,17 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Hugo"
+    author = "Jonathan Mark Hill"
+    defaultKeywords = ["Panther Chameleons for sale", "Ambilobe", 
+      "Yellow Body Blue Bar Ambilobe", "YBBB", "OBBB", "iPardalis", "juvenile panther chameleon",
+      "Lesser chameleon", "Furcifer minor"
+      ]
+    defaultDescription = """\
+      Panther chameleons for sale. Furcifer pardalis, \
+      Ambilobe, furcifer minor, ball pythons, pituophis deppei jani,\
+      Northern Mexican Pine Snakes, Mandarin Rat Snakes, \
+      and other exotic reptiles. Panther chameleons near me.
+      """
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAb_MQa8J2AgFfZG6U-qv-b1B0CcoJyGKQ"
@@ -147,7 +155,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jon.mark.hill@ipardalis.com"
 
-    about_us = "<p>Individually-raised Panther Chameleons.</p>"
+    about_us = "<p>Individually-raised Panther Chameleons. We're on our 4th generation of Ambilobe and 1st gen of Furcifer minor (Lesser Chameleons).</p>"
     copyright = "Copyright (c) 2020, Jonathan Mark Hill; all rights reserved."
 
     # Format dates with Go's time formatting
