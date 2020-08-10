@@ -1,7 +1,7 @@
 +++
 title = "Current Clutches"
 id = "available"
-description = "All our chameleons are at least 3 months of age"
+description = "Ambilobe Panther Chameleons for sale. All our chameleons are at least 3 months of age."
 +++
 
 {{< load-photoswipe >}}

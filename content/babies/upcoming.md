@@ -1,7 +1,7 @@
 +++
 title = "Upcoming Clutches"
 id = "upcoming"
-description = "Babies will be ready at 3 months of age"
+description = "Panther chameleon reservation program. Top quality panther chameleons. Babies will be ready at 3 months of age."
 +++
 
 {{< load-photoswipe >}}
