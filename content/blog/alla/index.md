@@ -1,7 +1,7 @@
 +++
 title = "Alla"
 date = "2018-01-30"
-tags = ["alla", "JJ", "blue bird's daughter", "blue bird"]
+tags = ["alla", "JJ", "blue bird's daughter", "blue bird", "blossom", "jack", "alfred", "button"]
 categories = ["breeders"]
 banner = "img/ambilobe/alla/alla"
 +++

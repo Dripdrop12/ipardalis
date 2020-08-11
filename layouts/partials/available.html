@@ -4,6 +4,7 @@
       <div class="col-md-12">
           <section>
             {{ $baseURL := .Site.BaseURL }}
+            
             {{ .Content }}
             
             {{ $clutches := sort .Site.Data.clutches "shipping" }}
@@ -14,8 +15,9 @@
                   <hr>
                   <div class="heading">
                     <h2>
-                      <a href="/tags/{{.sire}}/">{{title .sire}}</a> x 
-                      <a href="/tags/{{.dam}}/">{{title  .dam}}</a>
+                      <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
+                       x 
+                      <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
                     </h2>
                   </div>
                   <picture>

@@ -1,7 +1,7 @@
 +++
 title = "Kako"
 date = "2017-11-21"
-tags = ["kako", "sparkles", "leos-daughter", "leo"]
+tags = ["kako", "sparkles", "leos-daughter", "leo", "nugget", "sunny", "lilly", "daisy", "patch"]
 categories = ["retired breeders"]
 banner = "img/ambilobe/kako/kako"
 +++

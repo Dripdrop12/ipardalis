@@ -1,7 +1,8 @@
 +++
 title = "Flash"
 date = "2015-01-10"
-tags = ["flash", "cowboy", "king", "kings-daughter"]
+tags = ["flash", "cowboy", "king", "kings-daughter", "jude", "nugget", "alfred", "jack", 
+  "blossom", "daisy", "patch", "lilly", "sunny"]
 categories = ["retired breeders"]
 banner = "img/ambilobe/flash/1 Year"
 +++

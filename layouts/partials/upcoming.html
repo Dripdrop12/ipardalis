@@ -25,8 +25,8 @@
                       <div style="padding-left:5px;">
                         <div class="heading">
                           <h3>
-                            <a href="/tags/{{.sire}}">{{title .sire}}</a> x 
-                            <a href="/tags/{{.dam}}">{{title  .dam}}</a>
+                            <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a> x 
+                            <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title  .dam}}</a>
                           </h3>
                         </div>
                         <em>{{.filial}}</em>
