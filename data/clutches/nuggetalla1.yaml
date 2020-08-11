@@ -11,7 +11,9 @@ shipping: 2020-10-10
 hatchnum: 15
 clutchsize: 20
 deposit: true
-soldout: true 
+soldout: false
+soldoutmale: true
+soldoutfemale: false
 maleprice: 375
 femaleprice: 325
 babies:

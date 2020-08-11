@@ -11,6 +11,9 @@ shipping: 3 months after hatch
 hatchnum: 0
 clutchsize: 30
 deposit: false
+soldout: false
+soldoutmale: false
+soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:

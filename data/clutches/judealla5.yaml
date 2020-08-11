@@ -13,6 +13,8 @@ clutchsize: 32
 deposit: false
 listed: false
 soldout: true
+soldoutmale: true
+soldoutfemale: true
 babies:
 - name: F1
   gender: Female
