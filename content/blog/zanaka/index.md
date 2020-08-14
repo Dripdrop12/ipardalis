@@ -2,7 +2,7 @@
 title = "Zanaka"
 date = "2019-08-21"
 tags = ["Zanaka", "Promise Keeper", "Mitselatra (Stormy Weather)", "Herb"]
-categories = ["breeders"]
+categories = ["retired-breeders"]
 banner = "img/ambilobe/zanaka/Zanaka"
 +++
 
