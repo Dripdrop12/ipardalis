@@ -2,7 +2,7 @@
 title = "Lineage: Kammerflage Kreations"
 date = "2016-03-21"
 tags = ["zanaka", "alla", "jack", "alfred", "blossom", "Promise Keeper", "Mitselatra (Stormy Weather)", 
-"Herb"]
+"Herb", "triple"]
 categories = ["lineage"]
 banner = "img/ambilobe/lineage/Promise Keeper/promise_keeper1"
 +++
@@ -118,3 +118,13 @@ Sire
 ### Flaming River
 
 {{< gallery dir="img/ambilobe/lineage/Flaming River" />}}
+
+---
+
+### Telo-heny (Triple)
+
+Sire
+: Dobo (Double)
+
+{{< gallery dir="img/ambilobe/lineage/Triple" />}}
+---
