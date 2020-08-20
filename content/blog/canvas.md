@@ -23,3 +23,9 @@ banner = "img/ambilobe/lineage/Bolt/bolt"
 {{< gallery dir="img/ambilobe/lineage/Bolt" />}}
 
 ---
+
+### Outline
+
+{{< gallery dir="img/ambilobe/lineage/outline" />}}
+
+---

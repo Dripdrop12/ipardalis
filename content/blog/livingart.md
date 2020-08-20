@@ -17,9 +17,9 @@ banner = "img/ambilobe/lineage/Brightflame/brightflame"
 {{< gallery dir="/img/ambilobe/lineage/Brightflame" />}}
 
 Sire
-: Canvas Sire (possibly Bolt/Marley)
+: [Canvas Sire]({{< ref "/blog/canvas.md" >}}) (possibly Bolt/Marley)
 
 Dam
-: Canvas Dam (possibly Marley or Outline's daughter)
+: [Canvas Dam]({{< ref "/blog/canvas.md" >}}) (possibly Marley or Outline's daughter)
 
 ---
