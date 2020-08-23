@@ -8,7 +8,7 @@ banner = "img/ambilobe/kanto/kanto"
 
 {{< load-photoswipe >}}
 
-Kanto is a beautiful female we picked up from Living Art by Frank Payne this year because her sire, [Brightflame]({{< ref "/blog/livingart.md#brightflame" >}}). All we know is that Brightflame came from a Canvas pairing and that some of the last pairings done were Bolt x Marley and Marley x Outline.
+Kanto is a beautiful female we picked up from [Living Art by Frank Payne](https://www.livingartbyfrankpayne.com/) this year because her sire, [Brightflame]({{< ref "/blog/livingart.md#brightflame" >}}), is a great match for [Alfred]({{< ref "/blog/alfred/index.md" >}}). All we know is that Brightflame came from a Canvas pairing and that some of the last pairings done were Bolt x Marley and Marley x Outline.
 
 {{< gallery dir="/img/ambilobe/kanto" />}}
 

@@ -1,7 +1,7 @@
 +++
 title = "Lineage: Canvas Chameleons"
 date = "2016-03-21"
-tags = ["bleu", "bolt"]
+tags = ["bleu", "bolt", "kanto"]
 categories = ["lineage"]
 banner = "img/ambilobe/lineage/Bolt/bolt"
 +++
