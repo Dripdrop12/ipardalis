@@ -36,3 +36,9 @@ banner = "img/ambilobe/lineage/Cowboy/Cowboy"
 {{< gallery dir="img/ambilobe/lineage/King" />}}
 
 ---
+
+### 24k
+
+{{< gallery dir="img/ambilobe/lineage/24k" />}}
+
+---

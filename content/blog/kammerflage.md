@@ -128,3 +128,18 @@ Sire
 
 {{< gallery dir="img/ambilobe/lineage/Triple" />}}
 ---
+
+### Fantara (Falling Star)
+
+Sire
+: [Maizina-lanitra (Dark Sky)]({{< ref "/blog/kammerflage.md#maizina-lanitra-dark-sky" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Fantara" />}}
+
+---
+
+### Maizina-lanitra (Dark Sky)
+
+{{< gallery dir="img/ambilobe/lineage/Dark Sky" />}}
+
+---

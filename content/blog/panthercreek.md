@@ -11,12 +11,24 @@ banner = "img/ambilobe/lineage/JJ/JJ3"
 
 ### JJ
 
+{{< gallery dir="/img/ambilobe/lineage/JJ" />}}
+
 Sire
 : [Mavo-ra (Yellow Blood)]({{< ref "/blog/kammerflage.md#mavo-ra-yellow-blood" >}})
 
 Dam Sire
 : [Little Foot]({{< ref "/blog/kammerflage.md#little-foot">}})
 
-{{< gallery dir="/img/ambilobe/lineage/JJ" />}}
+---
+
+### Wet Dream
+
+{{< gallery dir="/img/ambilobe/lineage/wetdream" />}}
+
+Sire
+: [Macho]({{< ref "/blog/shaneconlin.md#macho" >}})
+
+Dam Sire
+: [24k's daughter]({{< ref "/blog/chameleonparadise.md#24k">}})
 
 ---

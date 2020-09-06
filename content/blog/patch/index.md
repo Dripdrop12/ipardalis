@@ -2,7 +2,7 @@
 title = "Patch"
 date = "2019-06-08"
 tags = ["patch", "jude", "sparkles", "kako"]
-categories = ["breeders"]
+categories = ["retired-breeders"]
 banner = "img/ambilobe/patch/patch"
 +++
 

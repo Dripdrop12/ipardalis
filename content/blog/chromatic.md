@@ -1,9 +1,9 @@
 +++
 title = "Lineage: Chromatic Chameleons"
 date = "2016-03-21"
-tags = ["bleu", "maitso", "mavokely", "bolt", "felipe sanchez"]
+tags = ["bleu", "maitso", "mavokely", "loko", "bolt", "felipe sanchez", "kromatisk"]
 categories = ["lineage"]
-banner = "img/ambilobe/lineage/Felipe Sanchez/felipe"
+banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 +++
 
 {{< load-photoswipe >}}
@@ -21,5 +21,27 @@ Sire
 
 Dam
 : [Cowboy's daughter]({{< ref "/blog/chameleonparadise.md#cowboy" >}})
+
+---
+
+### Kromatisk
+
+{{< gallery dir="img/ambilobe/lineage/Kromatisk" />}}
+
+Sire
+: [JJ]({{< ref "/blog/panthercreek.md#jj" >}})
+
+Dam
+: [Jackie]({{< ref "/blog/chromatic.md#jackie" >}})
+
+---
+
+### Jackie
+
+Sire
+: [Wet Dream]({{< ref "/blog/panthercreek.md#wet-dream" >}})
+
+Dam
+: [Marley's Daughter]({{< ref "/blog/canvas.md#marley" >}})
 
 ---
