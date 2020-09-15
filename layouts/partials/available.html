@@ -57,10 +57,14 @@
                     
                     <hr><h4>Available Juveniles</h4><hr>
                     <div class="row">
-                      {{ range .babies }}
+                      {{ range $j, $babie := .babies }}
                       <div class="col-md-4">
                         {{ partial "babies.html" . }}
                       </div>
+                      {{ if modBool (add $j 1) 3 }}
+                      </div>
+                      <div class="row">
+                      {{ end }}
                       {{ end }}
                     </div>
                   {{ end}}
