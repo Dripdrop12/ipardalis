@@ -32,7 +32,7 @@ babies:
   gender: Male
   image: /img/babies/20200420/available/M3
   price: 399
-  sold: false
+  sold: true
 - name: M4
   gender: Male
   image: /img/babies/20200420/available/M4
