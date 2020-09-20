@@ -2,13 +2,13 @@
 title = "Nugget"
 date = "2019-06-09"
 tags = ["nugget", "jude", "sparkles", "kako"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/nugget/nugget1"
 +++
 
 {{< load-photoswipe >}}
 
-Nugget was an alpha male from Jude and Kako's [first clutch]({{< ref "/blog/jude-kako.md" >}}), hatched 6/5/19. He has many of the traits I love about Jude/Flash. He is a bold YBBB with great lineage.
+Nugget was an alpha male from Jude and Kako's [first clutch]({{< ref "/blog/jude-kako.md" >}}), hatched 6/5/19. He has many of the traits I love about Jude/Flash. He is a bold YBBB with great lineage. His yellows are more vibrant and his blue bars do not have any red pock marks like Jude. He is an amazingly clean yellow body blue bar Ambilobe.
 
 {{< gallery dir="/img/ambilobe/nugget" />}}
 

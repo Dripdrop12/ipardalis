@@ -2,19 +2,13 @@
 title = "Lilly"
 date = "2019-06-06"
 tags = ["lilly", "jude", "sparkles", "kako"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/lilly/lilly"
 +++
 
 {{< load-photoswipe >}}
 
-Lilly has some really nice purples, hatched 6/5/19. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying.
-
-{{< gallery dir="/img/ambilobe/lilly" />}}
-
-Filial
-: F3
-
+Lilly has some really nice purples, hatched 6/5/19 from Jude x Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. Her daughters will hopefully be equally beautiful, but we have a theory that her coloration indicates her sons will be killer yellow body blue bar (YBBB) Ambilobe!
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
 

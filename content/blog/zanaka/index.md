@@ -2,11 +2,13 @@
 title = "Zanaka"
 date = "2019-08-21"
 tags = ["Zanaka", "Promise Keeper", "Mitselatra (Stormy Weather)", "Herb"]
-categories = ["retired-breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/zanaka/Zanaka"
 +++
 
 {{< load-photoswipe >}}
+
+Zanaka is a giant F2 Ambilobe from Kammerflage Kreations. His personality was gentle to the extreme and he was hard to get fired up. It was almost as if other males didn't exist, but when he saw a female, he would light up and start bobbing like a mad man. He was a phenomenal animal to work with, but he had a lot more red in his bars than what our long-term project goals are.
 
 {{< gallery dir="/img/ambilobe/zanaka" />}}
 

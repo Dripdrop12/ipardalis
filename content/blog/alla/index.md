@@ -2,11 +2,13 @@
 title = "Alla"
 date = "2018-01-30"
 tags = ["alla", "JJ", "blue bird's daughter", "blue bird", "blossom", "jack", "alfred", "button"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/alla/alla"
 +++
 
 {{< load-photoswipe >}}
+
+Alla is our most successful female breeder to date. She has a gregarious personality and brings some of the nicest YBBB Kammerflage Kreations lineage into our project via her sire, JJ. We were very lucky to pick her up from Panther Creek Chameleons back in 2017 before JJ was sold to Chromatic Chameleons.
 
 {{< gallery dir="/img/ambilobe/alla" />}}
 

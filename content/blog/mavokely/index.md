@@ -2,11 +2,13 @@
 title = "Mavokely"
 date = "2019-11-12"
 tags = ["mavokely", "amarillo", "felipe sanchez"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/mavokely/mavokely"
 +++
 
 {{< load-photoswipe >}}
+
+Mavokely's sire, Amarillo, is the top yellow boby blue bar Ambilobe in the USA. He is a vibrant yellow from snout to vent without any red to mess with what he has going on. The only way I could concieve of a way to improve upon him is to get some thicker blue bars on him and get rid of the red on his turrets. We'll see what we can do!
 
 {{< gallery dir="/img/ambilobe/mavokely" />}}
 

@@ -2,7 +2,7 @@
 title = "Kanto"
 date = "2020-02-15"
 tags = ["kanto", "brightflame", "triple"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/kanto/kanto"
 +++
 

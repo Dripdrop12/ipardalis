@@ -2,11 +2,13 @@
 title = "Button"
 date = "2019-07-14"
 tags = ["Jude", "Alla", "button", "Flash", "Judy", "JJ"]
-categories = ["retired-breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/button/button"
 +++
 
 {{< load-photoswipe >}}
+
+Button was a female with nice high contrast barring from Jude x Alla. We bred her a few times before letting her go to make space for fresh genetics, but she was a phenomenal breeder for us! It will be interesting to see how much the high contrast carries into her offspring. 
 
 {{< gallery dir="/img/ambilobe/button" />}}
 

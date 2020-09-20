@@ -2,13 +2,14 @@
 title = "Arti"
 date = "2020-04-06"
 tags = ["arti", "artemis", "felipe sanchez", "fantara"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/arti/arti"
 +++
 
 {{< load-photoswipe >}}
 
-Arti is a great YBBB from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons
+Arti is a great YBBB from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons. He brings some great deep blue bars and a yellow body. We are very excited to see what he produces in concert with our existing lines!
+
 
 {{< gallery dir="/img/ambilobe/arti" />}}
 

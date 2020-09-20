@@ -2,11 +2,13 @@
 title = "Jack"
 date = "2019-10-20"
 tags = ["jack", "jude", "alla", "JJ"]
-categories = ["retired-breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/jack/jack"
 +++
 
 {{< load-photoswipe >}}
+
+Jack is a beautiful Ambilobe from our Jude x Alla pairing. When he was young, his yellows were dominant and covered his entire body. However, as he aged, oranges started to creep into his body from his gular and his tail turned a vibrant red. He is a beautiful animal, but that is not the look we are breeding for long-term, aside from his clean blue bars and yellow body. We decided to let him go to make room for other potential holdbacks.
 
 {{< gallery dir="/img/ambilobe/jack" />}}
 

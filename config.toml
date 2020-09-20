@@ -49,13 +49,13 @@ paginate = 10
     
 [[menu.main]]
     name = "Active"
-    url = "/categories/breeders/"
+    url = "/categories/ambilobe/"
     parent = "ambilobe"
     weight = 1
 
 [[menu.main]]
     name = "Retired"
-    url = "/categories/retired-breeders/"
+    url = "/categories/retired-ambilobe/"
     parent = "ambilobe"
     weight = 2
 

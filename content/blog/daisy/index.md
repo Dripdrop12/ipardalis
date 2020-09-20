@@ -2,13 +2,13 @@
 title = "Daisy"
 date = "2019-06-07"
 tags = ["daisy", "jude", "sparkles", "kako"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/daisy/daisy"
 +++
 
 {{< load-photoswipe >}}
 
-Daisy also has some really nice purples, hatched 6/5/19. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying.
+Daisy also has some really nice purples, hatched 6/5/19 from Jude x Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. Her 19 male siblings were bright yellow bodied blue bar Ambilobe, with the exception of one male who fired red bar. I hope she can function like a female version of her brother, Nugget, in our pairings.
 
 {{< gallery dir="/img/ambilobe/daisy" />}}
 

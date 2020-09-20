@@ -2,11 +2,13 @@
 title = "Bubbles"
 date = "2019-08-16"
 tags = ["Jude", "Alla", "bubbles", "Flash", "Judy", "JJ"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/bubbles/bubbles"
 +++
 
 {{< load-photoswipe >}}
+
+Bubbles is a massive female. At the one year mark, she already weighs 90 grams when receptive. She came from our Jude x Alla pairing and is one of the few females we decided to keep. She's like a giant version of Alla. Healthy, hungry and bold. Very happy we decided to hold on to this girl!
 
 {{< gallery dir="/img/ambilobe/bubbles" />}}
 

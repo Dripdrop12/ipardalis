@@ -3,7 +3,7 @@ title = "Judy"
 date = "2015-02-11"
 tags = ["judy", "candy cane", "jakes-daughter", "jake", "jude", "nugget", "alfred", "blossom",
   "jack", "sunny", "patch", "lilly", "daisy", "button"]
-categories = ["retired breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/judy/Judy (1)"
 +++
 

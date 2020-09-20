@@ -2,13 +2,13 @@
 title = "Kako"
 date = "2017-11-21"
 tags = ["kako", "sparkles", "leos-daughter", "leo", "nugget", "sunny", "lilly", "daisy", "patch"]
-categories = ["retired breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/kako/kako"
 +++
 
 {{< load-photoswipe >}}
 
-Kako was one of the two females we paired with our second generation breeder - [Jude]({{< ref "blog/jude/index.md" >}}). We purchased her from RB Barto, but she was produced by Bobby Ruddock. 
+Kako was one of the two females we paired with our second generation breeder - [Jude]({{< ref "blog/jude/index.md" >}}). We purchased her from RB Barto, but she was produced by Bobby Ruddock. Her line is one of our favorite yellow body blue bar (YBBB) Ambilobe lines in the USA. Vibrant yellows and clean blue bars.
 
 {{< gallery dir="/img/ambilobe/kako" />}}
 

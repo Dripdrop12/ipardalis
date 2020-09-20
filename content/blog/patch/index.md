@@ -2,13 +2,13 @@
 title = "Patch"
 date = "2019-06-08"
 tags = ["patch", "jude", "sparkles", "kako"]
-categories = ["retired-breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/patch/patch"
 +++
 
 {{< load-photoswipe >}}
 
-Patch was my favorite female from Jude and Kako's [first clutch]({{< ref "/blog/jude-kako.md" >}}), hatched 6/5/19. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying.
+Patch was my favorite female from Jude and Kako's [first clutch]({{< ref "/blog/jude-kako.md" >}}), hatched 6/5/19. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. Her line is an extremely strong yellow body blue bar Ambilobe group, so I have high hopes!
 
 {{< gallery dir="/img/ambilobe/patch" />}}
 

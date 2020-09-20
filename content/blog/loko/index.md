@@ -2,13 +2,13 @@
 title = "Loko"
 date = "2020-04-18"
 tags = ["loko", "kromatisk", "jj", "wet dream"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/loko/loko2"
 +++
   
 {{< load-photoswipe >}}
 
-Loko is a premium CB Ambilobe from some of the best lines in the USA. Her sire, [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}}), is one of my favorite active breeders of the locale. We are very lucky to work with her!
+Loko is a premium CB Ambilobe from some of the best lines in the USA. Her sire, [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}}) from Chromatic Chameleons, is one of my favorite active breeders of the locale. My hope is that we can get some little guys that glow yellow from her and Nugget!
 
 {{< gallery dir="/img/ambilobe/loko" />}}
 

@@ -2,11 +2,13 @@
 title = "Bleu"
 date = "2019-07-15"
 tags = ["bleu", "stryfe", "emma frost", "felipe sanchez"]
-categories = ["retired-breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/bleu/bleu"
 +++
 
 {{< load-photoswipe >}}
+
+Bleu is a male we picked up from the Stryfe line. He was raised by Jeremy Booker at Brightside Chameleons, and he was a bit of a challenge to work with. We released him in early 2020 and only produced a few clutches with him. We hope to select some nice males from his offspring to bring that line into our project.
 
 {{< gallery dir="/img/ambilobe/bleu" />}}
 

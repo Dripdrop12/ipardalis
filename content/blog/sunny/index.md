@@ -2,13 +2,13 @@
 title = "Sunny"
 date = "2019-06-10"
 tags = ["sunny", "jude", "sparkles", "kako"]
-categories = ["retired breeders"]
+categories = ["retired ambilobe"]
 banner = "img/ambilobe/sunny/sunny"
 +++
 
 {{< load-photoswipe >}}
 
-Sunny was my second favorite female from the Jude x Kako clutch, hatched 6/5/19. She reminds me a lot of her mother, Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying.
+Sunny was my second favorite female from the Jude x Kako clutch, hatched 6/5/19. She reminds me a lot of her mother, Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. With any luck we will be able to grap a killer yellow body blue bar male from her and Zanaka.
 
 {{< gallery dir="/img/ambilobe/sunny" />}}
 

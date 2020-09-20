@@ -2,11 +2,13 @@
 title = "Blossom"
 date = "2019-07-09"
 tags = ["blossom", "jude", "alla", "JJ"]
-categories = ["breeders"]
+categories = ["ambilobe"]
 banner = "img/ambilobe/blossom/blossom1"
 +++
 
 {{< load-photoswipe >}}
+
+We got lucky holding back Blossom from Jude x Alla. He looks like a mini-JJ, Alla's sire, and is a key member of our 3rd generation breeding group. His personality is very similar to Alla's in that he is very bold and rarely defensive. His yellows are bright and his colors are very vibrant. I could not be happier with how he has turned out!
 
 {{< gallery dir="/img/ambilobe/blossom" />}}
 
