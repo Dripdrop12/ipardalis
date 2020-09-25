@@ -2,7 +2,7 @@
 title = "Lineage: Living Art by Frank Payne"
 date = "2016-03-22"
 tags = ["kanto", "brightflame"]
-categories = ["lineage"]
+categories = ["lineage", "minor-lineage"]
 banner = "img/ambilobe/lineage/Brightflame/brightflame"
 +++
 
@@ -23,3 +23,11 @@ Dam
 : [Canvas Dam]({{< ref "/blog/canvas.md" >}}) (possibly Marley or Outline's daughter)
 
 ---
+
+## Minors
+
+Sires
+: M3
+
+Dams
+: F5

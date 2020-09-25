@@ -37,39 +37,63 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
+    name = "Past Clutches"
+    url = "/categories/past-clutches/"
+    parent = "sales"
+    weight = 3
+
+[[menu.main]]
     name = "Ambilobe"
     identifier = "ambilobe"
     url  = "/ambilobe/"
     weight = 2
-    
+      
 [[menu.main]]
-    name = "Active"
+    name = "Ambilobe"
     url = "/categories/ambilobe/"
     parent = "ambilobe"
     weight = 1
 
 [[menu.main]]
-    name = "Retired"
+    name = "Retired Ambilobe"
     url = "/categories/retired-ambilobe/"
     parent = "ambilobe"
     weight = 2
 
 [[menu.main]]
-    name = "Past Clutches"
-    url = "/categories/past-clutches/"
+    name = "Ambilobe Lineage"
+    url = "/categories/lineage/"
     parent = "ambilobe"
     weight = 3
 
 [[menu.main]]
-    name = "Lineage Pics"
-    url = "/categories/lineage/"
-    parent = "ambilobe"
+    name = "F.minor"
+    identifier = "minor"
+    url  = "/minor/"
+    weight = 3
+      
+[[menu.main]]
+    name = "Minor"
+    url = "/categories/minor/"
+    parent = "minor"
+    weight = 1
+
+[[menu.main]]
+    name = "Retired minor"
+    url = "/categories/retired-minor/"
+    parent = "minor"
+    weight = 2
+
+[[menu.main]]
+    name = "Minor Lineage"
+    url = "/categories/minor-lineage/"
+    parent = "minor"
     weight = 4
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 3
+    weight = 4
 
 # Top bar social links menu
 

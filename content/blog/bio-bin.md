@@ -2,7 +2,7 @@
 title = "Bio Bin Experiment"
 date = "2019-06-30"
 tags = ["bioactive"]
-categories = ["babies"]
+categories = ["husbandry"]
 banner = "img/babies/bio-bin"
 +++
   
