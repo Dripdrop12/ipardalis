@@ -79,6 +79,7 @@ babies:
   gender: Female
   image: /img/babies/20200420/available/F10
   price: 399
+  sold: true
 - name: F11
   gender: Female
   image: /img/babies/20200420/available/F11
