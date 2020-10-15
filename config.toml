@@ -61,12 +61,6 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Ambilobe Lineage"
-    url = "/categories/lineage/"
-    parent = "ambilobe"
-    weight = 3
-
-[[menu.main]]
     name = "F.minor"
     identifier = "minor"
     url  = "/minor/"
@@ -83,12 +77,6 @@ paginate = 10
     url = "/categories/retired-minor/"
     parent = "minor"
     weight = 2
-
-[[menu.main]]
-    name = "Minor Lineage"
-    url = "/categories/minor-lineage/"
-    parent = "minor"
-    weight = 4
 
 [[menu.main]]
     name = "Blog"
