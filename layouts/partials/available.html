@@ -7,7 +7,7 @@
             
             {{ .Content }}
             
-            {{ $clutches := sort .Site.Data.clutches "shipping" }}
+            {{ $clutches := sort .Site.Data.clutches "shipping" "desc" }}
             
             {{ range $i, $element := where $clutches ".listed" true }}
             <div class="row">

@@ -10,11 +10,28 @@ hatchend: 2020-07-28
 shipping: 2020-10-17
 hatchnum: 28
 clutchsize: 29
-deposit: true
+deposit: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20200717/available/M1
+  price: 399
+- name: M2
+  gender: Male
+  image: /img/babies/20200717/available/M2
+  price: 350
+- name: M3
+  gender: Male
+  image: /img/babies/20200717/available/M3
+  price: 350
+- name: M4
+  gender: Male
+  image: /img/babies/20200717/available/M4
+  price: 350
 
