@@ -25,13 +25,17 @@ babies:
 - name: M2
   gender: Male
   image: /img/babies/20200717/available/M2
-  price: 350
+  price: 399
 - name: M3
   gender: Male
   image: /img/babies/20200717/available/M3
-  price: 350
+  price: 399
 - name: M4
   gender: Male
   image: /img/babies/20200717/available/M4
+  price: 350
+- name: M5
+  gender: Male
+  image: /img/babies/20200717/available/M5
   price: 350
 
