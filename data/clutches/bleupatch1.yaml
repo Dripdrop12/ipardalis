@@ -10,9 +10,9 @@ hatchend: 2020-09-27
 shipping: 2020-12-12
 hatchnum: 29
 clutchsize: 32
-deposit: true
+deposit: false
 soldout: false
-soldoutmale: false
+soldoutmale: true
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
