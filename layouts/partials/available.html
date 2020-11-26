@@ -10,6 +10,11 @@
             {{ $clutches := sort .Site.Data.clutches "shipping" "desc" }}
             
             {{ range $i, $element := where $clutches ".listed" true }}
+            
+              {{ $pairingimage := .image }}
+              {{ $sire := .sire }}
+              {{ $dam := .dam }}
+              
             <div class="row">
               <div class="col-md-12">
                   <hr>
@@ -20,11 +25,6 @@
                       <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
                     </h2>
                   </div>
-                  <picture>
-                    <source srcset="{{.image}}.webp" type="image/webp">
-                    <source srcset="{{.image}}.jpg" type="image/jpeg">
-                    <img src="{{.image}}.jpg" alt="Contact Us!" style="width:50%">
-                  </picture>
                   <hr>
                   <p><em>{{.filial}}</em></p>
                   {{ if .desc }}
@@ -56,18 +56,40 @@
                   {{ else }}
                     
                     <hr><h4>Available Juveniles</h4><hr>
+                    
                     <div class="row">
-                      {{ range $j, $babie := .babies }}
-                      <div class="col-md-4">
-                        {{ partial "babies.html" . }}
+                      <div class="col-md-6">
+                        <picture>
+                          <source srcset="{{$pairingimage}}.webp" type="image/webp">
+                          <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
+                          <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:90%;">
+                        </picture>
                       </div>
-                      {{ if modBool (add $j 1) 3 }}
-                      </div>
-                      <div class="row">
-                      {{ end }}
+                    </div>
+                    
+                    <div class="row">
+                      
+                      {{ range $j, $baby := .babies }}
+                        <div class="col-md-4">
+                          {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam ) }}
+                        </div>
+                        {{ if modBool (add $j 1) 3 }}
+                        </div>
+                        <div class="row">
+                          <div class="col-md-6">
+                            <picture>
+                              <source srcset="{{$pairingimage}}.webp" type="image/webp">
+                              <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
+                              <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:90%;">
+                            </picture>
+                          </div>
+                        </div>
+                        <div class="row">  
+                          
+                        {{ end }}
                       {{ end }}
                     </div>
-                  {{ end}}
+                  {{ end }}
               </div>
             </div>
             {{ else }}

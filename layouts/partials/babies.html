@@ -1,38 +1,28 @@
 <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
-  {{ if .image }}
+  {{ if .context.image }}
   <div class="card">
-    <div class="form-group">
+    <div class="form-group" style="padding:5px;">
+      <label><h4>{{.context.name}}</h4></label>
       <picture>
-        <source srcset="{{.image}}.webp" type="image/webp">
-        <source srcset="{{.image}}.jpg" type="image/jpeg">
-        <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
+        <source srcset="{{.context.image}}.webp" type="image/webp">
+        <source srcset="{{.context.image}}.jpg" type="image/jpeg">
+        <img src="{{.context.image}}.jpg" alt="Contact Us!" style="width:100%">
       </picture>
       
       <hr>
-      {{ if .sold }}
-      <div style="padding-left:5px;">
-        <label><strong>{{.name}}</strong></label>
-        <ul>
-          <li><p><strong>${{.price}}</strong></p></li>
-          <li><p>{{.gender}}</p></li>
-        </ul>
         
+      <ul>
+        <li><p><strong>${{.context.price}}</strong></p></li>
+        <li><p>{{.context.gender}}</p></li>
+      </ul>
+      {{ if .context.sold }}
         <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
-      </div>
       {{ else }}
-      <div style="padding-left:5px;">
-        <label><strong>{{.name}}</strong></label>
-        <ul>
-          <li><p><strong>${{.price}}</strong></p></li>
-          <li><p>{{.gender}}</p></li>
-        </ul>
-        
         <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
-      </div>
       {{ end }}
     </div>
-    <input type="hidden" name="name" value="{{ .name }}" />
-    <input type="hidden" name="price" value="{{ .price }}" />
+    <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
+    <input type="hidden" name="price" value="{{ .context.price }}" />
     
     <hr>
   </div>
