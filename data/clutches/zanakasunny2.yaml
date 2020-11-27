@@ -3,7 +3,7 @@ dam: sunny
 image: /img/ambilobe/zanakasunny
 filial: F3
 desc: |
-  Second Zanaka clutch! We will have the past clutch up on the blog to see what this pairing has produced :)
+  Second Zanaka clutch. We have the first clutch up on the blog to show what this pairing has produced. Check out the "Past Clutches" category on our blog!
 laid: 2020-02-11
 hatchstart: 2020-08-16
 hatchend: 2020-08-19
@@ -11,9 +11,42 @@ shipping: 2020-11-16
 hatchnum: 29
 clutchsize: 30
 deposit: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20200816/available/M1
+  price: 399
+- name: M2
+  gender: Male
+  image: /img/babies/20200816/available/M2
+  price: 349
+- name: M3
+  gender: Male
+  image: /img/babies/20200816/available/M3
+  price: 349
+- name: M4
+  gender: Male
+  image: /img/babies/20200816/available/M4
+  price: 399
+- name: M5
+  gender: Male
+  image: /img/babies/20200816/available/M5
+  price: 349
+- name: M6
+  gender: Male
+  image: /img/babies/20200816/available/M6
+  price: 349
+- name: M7
+  gender: Male
+  image: /img/babies/20200816/available/M7
+  price: 399
+- name: M8
+  gender: Male
+  image: /img/babies/20200816/available/M8
+  price: 399
