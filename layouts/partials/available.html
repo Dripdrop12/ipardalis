@@ -14,9 +14,21 @@
               {{ $pairingimage := .image }}
               {{ $sire := .sire }}
               {{ $dam := .dam }}
-              
+            
+            <div style="position:-webkit-sticky; position:sticky;top:75px;margin-left:950px;">
+              <picture style="position:absolute;right:-175px">
+                <source srcset="{{$pairingimage}}.webp" type="image/webp">
+                <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
+                <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:100%;">
+                <figcaption>
+                  Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
+                  Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+                </figcaption>
+              </picture>
+            </div>
+            
             <div class="row">
-              <div class="col-md-12">
+              <div class="col-md-10">
                   <hr>
                   <div class="heading">
                     <h2>
@@ -57,13 +69,11 @@
                     
                     <hr><h4>Available Juveniles</h4><hr>
                     
+                    
+                    
                     <div class="row">
-                      <div class="col-md-6">
-                        <picture>
-                          <source srcset="{{$pairingimage}}.webp" type="image/webp">
-                          <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
-                          <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:90%;">
-                        </picture>
+                      <div class="col-md-6" >
+                        
                       </div>
                     </div>
                     
@@ -74,15 +84,6 @@
                           {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam ) }}
                         </div>
                         {{ if modBool (add $j 1) 3 }}
-                        </div>
-                        <div class="row">
-                          <div class="col-md-6">
-                            <picture>
-                              <source srcset="{{$pairingimage}}.webp" type="image/webp">
-                              <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
-                              <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:90%;">
-                            </picture>
-                          </div>
                         </div>
                         <div class="row">  
                           

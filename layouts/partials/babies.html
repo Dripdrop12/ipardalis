@@ -11,13 +11,16 @@
       
       <hr>
         
-      <ul>
-        <li><p><strong>${{.context.price}}</strong></p></li>
-        <li><p>{{.context.gender}}</p></li>
-      </ul>
       {{ if .context.sold }}
+        <ul>
+          <li><p>{{.context.gender}}</p></li>
+        </ul>
         <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
       {{ else }}
+        <ul>
+          <li><p><strong>${{.context.price}}</strong></p></li>
+          <li><p>{{.context.gender}}</p></li>
+        </ul>
         <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
       {{ end }}
     </div>
