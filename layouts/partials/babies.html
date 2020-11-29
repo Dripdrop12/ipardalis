@@ -1,33 +1,58 @@
 <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
   {{ if .context.image }}
-  <div class="card">
+    {{ if .context.sold }}
+  <div class="card sold-out">
     <div class="form-group" style="padding:5px;">
       <label><h4>{{.context.name}}</h4></label>
-      <picture>
-        <source srcset="{{.context.image}}.webp" type="image/webp">
-        <source srcset="{{.context.image}}.jpg" type="image/jpeg">
-        <img src="{{.context.image}}.jpg" alt="Contact Us!" style="width:100%">
-      </picture>
+      
+      <figure>
+        <picture>
+          <source srcset="{{.context.image}}.webp" type="image/webp">
+          <source srcset="{{.context.image}}.jpg" type="image/jpeg">
+          <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} SOLD OUT" style="width:100%">
+        </picture>
+        <a href="{{.context.image}}.jpg"></a>
+      </figure>
       
       <hr>
         
-      {{ if .context.sold }}
-        <ul>
-          <li><p>{{.context.gender}}</p></li>
-        </ul>
-        <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
-      {{ else }}
-        <ul>
-          <li><p><strong>${{.context.price}}</strong></p></li>
-          <li><p>{{.context.gender}}</p></li>
-        </ul>
-        <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
-      {{ end }}
+      <ul>
+        <li><p>{{.context.gender}}</p></li>
+      </ul>
+      <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
     </div>
+    
     <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
     <input type="hidden" name="price" value="{{ .context.price }}" />
-    
     <hr>
   </div>
+      {{ else }}
+  <div class="card">
+    <div class="form-group" style="padding:5px;">
+      <label><h4>{{.context.name}}</h4></label>
+      <figure>
+        <picture>
+          <source srcset="{{.context.image}}.webp" type="image/webp">
+          <source srcset="{{.context.image}}.jpg" type="image/jpeg">
+          <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
+        </picture>
+        <a href="{{.context.image}}.jpg"></a>
+        <figcaption>click to zoom</figcaption>
+      </figure>
+      
+      <hr>
+        
+      <ul>
+        <li><p><strong>${{.context.price}}</strong></p></li>
+        <li><p>{{.context.gender}}</p></li>
+      </ul>
+      <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+    </div>
+    
+    <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
+    <input type="hidden" name="price" value="{{ .context.price }}" />
+    <hr>
+  </div>
+      {{ end }}
   {{ end }}
 </form>

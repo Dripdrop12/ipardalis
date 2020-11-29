@@ -25,17 +25,6 @@
   padding: 5px 15px;
 }
 
-.sold-out{ position:relative; }
-.sold-out::before{
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  margin-right: 5px;
-  content: "";
-  background: url("../img/sold-icon.png") no-repeat 0 0;
-  background-size: 100%;
-  position:absolute;
-  z-index:2;
-  top:50%;
-  right:0;
+.sold-out:hover {
+  box-shadow: 0 8px 16px 0 rgba(217, 83, 79,0.9);
 }
