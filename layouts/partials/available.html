@@ -59,6 +59,14 @@
                         <dd>{{ .shipping }}</dd>
                       </dl>
                     </div>
+                    <div class="col-md-4">
+                      <dl>
+                        {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
+                        <dt>Older Siblings:</dt> 
+                        <dd><a href="{{ ref $.Page (printf "blog/%s-%s.md" .sire .dam) }}">gallery</a></dd>
+                        {{end}}
+                      </dl>
+                    </div>
                   </div>
                   {{ if eq .soldout true }}
                     <hr>
@@ -68,14 +76,6 @@
                   {{ else }}
                     
                     <hr><h4>Available Juveniles</h4><hr>
-                    
-                    
-                    
-                    <div class="row">
-                      <div class="col-md-6" >
-                        
-                      </div>
-                    </div>
                     
                     <div class="row">
                       
