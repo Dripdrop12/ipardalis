@@ -1,5 +1,5 @@
 baseurl = "https://ipardalis.com/"
-title = "iPardalis - Yellow Body Blue Bar Panther Chameleons for sale. Panther chameleons for sale near me."
+title = "iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me."
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -120,13 +120,13 @@ paginate = 10
     author = "Jonathan Mark Hill"
     defaultKeywords = ["Panther Chameleons for sale", "Ambilobe", 
       "Yellow Body Blue Bar Ambilobe", "YBBB", "OBBB", "iPardalis", "juvenile panther chameleon",
-      "Lesser chameleon", "Furcifer minor"
+      "Lesser chameleon", "Furcifer minor", "Ball pythons", "pituophis deppei jani",
+      "Northern Mexican Pine Snakes", "Mandarin Rat Snakes"
       ]
     defaultDescription = """\
-      Panther chameleons for sale. Furcifer pardalis, \
-      Ambilobe, furcifer minor, ball pythons, pituophis deppei jani,\
+      We specialize in yellow-bodied Ambilobe panther chameleons,
       Northern Mexican Pine Snakes, Mandarin Rat Snakes, \
-      and other exotic reptiles. Panther chameleons near me.
+      and other exotic reptiles.
       """
 
     # Google Maps API key (if not set will default to not passing a key.)
