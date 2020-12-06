@@ -11,10 +11,24 @@ shipping: 2020-10-10
 hatchnum: 15
 clutchsize: 20
 deposit: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
 maleprice: 375
 femaleprice: 325
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20200710/available/F1
+  price: 325
+- name: F2
+  gender: Female
+  image: /img/babies/20200710/available/F2
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20200710/available/F3
+  price: 325
+
 

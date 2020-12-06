@@ -15,19 +15,20 @@
               {{ $sire := .sire }}
               {{ $dam := .dam }}
             
-            <div style="position:-webkit-sticky; position:sticky;top:75px;margin-left:950px;">
-              <picture style="position:absolute;right:-175px">
-                <source srcset="{{$pairingimage}}.webp" type="image/webp">
-                <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
-                <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:100%;">
-                <figcaption>
-                  Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
-                  Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
-                </figcaption>
-              </picture>
-            </div>
             
             <div class="row">
+              <div style="position:-webkit-sticky; position:sticky;top:75px;margin-left:975px;">
+                <picture style="position:absolute;right:-150px;">
+                  <source srcset="{{$pairingimage}}.webp" type="image/webp">
+                  <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
+                  <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:100%;">
+                  <figcaption>
+                    Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
+                    Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+                  </figcaption>
+                </picture>
+              </div>
+              
               <div class="col-md-10">
                   <hr>
                   <div class="heading">
