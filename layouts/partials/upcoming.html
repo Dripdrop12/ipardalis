@@ -76,6 +76,7 @@
                             <i class="fa fa-shopping-cart"></i>
                             Add to cart
                           </button>
+                          <span>Males: SOLD OUT</span>
                         {{ else if and (eq .soldoutfemale true) (eq .soldoutmale false) }}
                           <label for="gender">Gender:</label>
                           <select name="gender" id="gender" class="btn btn-template-main">
@@ -85,6 +86,7 @@
                             <i class="fa fa-shopping-cart"></i>
                             Add to cart
                           </button>
+                          <span>Females: SOLD OUT</span>
                         {{ else if eq .soldout true }}
                           <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
                         {{ else }}
