@@ -99,18 +99,24 @@ paginate = 10
     
 [[menu.topbar]]
     weight = 3
+    name = "Instagram"
+    url = "https://www.instagram.com/dripdrop214/"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
+    
+[[menu.topbar]]
+    weight = 4
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/jonmarkhill/"
     pre = "<i class='fa fa-2x fa-linkedin'></i>"
 
 [[menu.topbar]]
-    weight = 4
+    weight = 5
     name = "Twitter"
     url = "https://twitter.com/Dripdrop214"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 5
+    weight = 6
     name = "Email"
     url = "mailto:jon.mark.hill@ipardalis.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"

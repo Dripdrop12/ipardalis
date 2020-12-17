@@ -9,13 +9,53 @@
             
             {{ $clutches := sort .Site.Data.clutches "shipping" "desc" }}
             
+            
+            
+            <div class="row">
+              
+              <div class="col-md-10">
+                <div class="row">
+                  
+                  {{ range $i, $element := where $clutches ".listed" true }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }} 
+                  {{ $pairingimage := .image }}
+                  <div class="col-md-4">
+                    
+                      <picture>
+                        <source srcset="{{$pairingimage}}.webp" type="image/webp">
+                        <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
+                        <a href="{{ printf "%s/babies/available#%s" $baseURL $clutchid }}" >
+                        <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:100%;">
+                        </a>
+                        <figcaption>
+                          Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
+                          Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+                        </figcaption>
+                      </picture>
+                   
+                    
+                  </div>
+                  {{ if modBool (add $i 1) 3 }}
+                  </div>
+                  <hr>
+                  <div class="row">
+                  
+                  {{ end }}
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+            
+            
+            
+            
             {{ range $i, $element := where $clutches ".listed" true }}
             
               {{ $pairingimage := .image }}
               {{ $sire := .sire }}
               {{ $dam := .dam }}
-            
-            
+              {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+              
             <div class="row">
               <div style="position:-webkit-sticky; position:sticky;top:75px;margin-left:975px;">
                 <picture style="position:absolute;right:-150px;">
@@ -25,14 +65,16 @@
                   <figcaption>
                     Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
                     Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+                    <a style="position:absolute;right:0;" href="{{ $baseURL }}/babies/available">back to top</a>
                   </figcaption>
+                  
                 </picture>
               </div>
               
               <div class="col-md-10">
                   <hr>
                   <div class="heading">
-                    <h2>
+                    <h2 id="{{ $clutchid }}">
                       <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
                        x 
                       <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
