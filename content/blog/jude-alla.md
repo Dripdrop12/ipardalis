@@ -39,7 +39,7 @@ Hatch rate
 ---
 
 Hatch dates
-: 10/06/2019 - present (shipping 01/06/2020)
+: 10/06/2019 - 10/30/2019
 
 Hatch rate
 : 34/37
@@ -49,7 +49,7 @@ Hatch rate
 ---
 
 Hatch dates
-: 11/20/2019 - present (shipping 02/20/2020)
+: 11/20/2019 - 12/12/209
 
 Hatch rate
 : 30/32
