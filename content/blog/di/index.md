@@ -6,6 +6,8 @@ categories = ["minor"]
 banner = "img/minors/di/di"
 +++
 
+{{< load-photoswipe >}}
+
 Our first adult male from [Frank Payne]({{< ref "blog/livingart.md" >}})
 
 {{< gallery dir="/img/minors/di" />}}

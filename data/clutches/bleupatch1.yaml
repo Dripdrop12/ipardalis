@@ -10,11 +10,37 @@ hatchend: 2020-09-27
 shipping: 2020-12-12
 hatchnum: 29
 clutchsize: 32
-deposit: true
+deposit: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20200912/available/M1
+  price: 325
+  sold: true
+- name: M2
+  gender: Male
+  image: /img/babies/20200912/available/M2
+  price: 325
+  sold: true
+- name: F1
+  gender: Female
+  image: /img/babies/20200912/available/F1
+  price: 325
+- name: F2
+  gender: Female
+  image: /img/babies/20200912/available/F2
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20200912/available/F3
+  price: 325
+- name: F4
+  gender: Female
+  image: /img/babies/20200912/available/F4
+  price: 325

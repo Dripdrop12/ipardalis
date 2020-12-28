@@ -27,7 +27,7 @@ Dam
 ## Minors
 
 Sires
-: M3
+: M1, M3, M6, M20
 
 Dams
-: F5
+: F3, F5, F8, F20

@@ -25,10 +25,30 @@ babies:
 - name: F2
   gender: Female
   image: /img/babies/20200827/available/F2
-  price: 349
+  price: 325
 - name: F3
   gender: Female
   image: /img/babies/20200827/available/F3
+  price: 349
+- name: F4
+  gender: Female
+  image: /img/babies/20200827/available/F4
+  price: 325
+- name: F5
+  gender: Female
+  image: /img/babies/20200827/available/F5
+  price: 325
+- name: F6
+  gender: Female
+  image: /img/babies/20200827/available/F6
+  price: 349
+- name: F7
+  gender: Female
+  image: /img/babies/20200827/available/F7
+  price: 325
+- name: F8
+  gender: Female
+  image: /img/babies/20200827/available/F8
   price: 349
 - name: M1
   gender: Male
