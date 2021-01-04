@@ -82,6 +82,14 @@ babies:
   gender: Male
   image: /img/babies/20200816/available/M14
   price: 399
+- name: M15
+  gender: Male
+  image: /img/babies/20200816/available/M15
+  price: 399
+- name: M16
+  gender: Male
+  image: /img/babies/20200816/available/M16
+  price: 399
 - name: F1
   gender: Female
   image: /img/babies/20200816/available/F1
