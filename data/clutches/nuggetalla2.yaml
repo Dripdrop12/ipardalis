@@ -50,23 +50,3 @@ babies:
   gender: Female
   image: /img/babies/20200827/available/F8
   price: 349
-- name: M1
-  gender: Male
-  image: /img/babies/20200827/available/M1
-  price: 325
-  sold: true
-- name: M2
-  gender: Male
-  image: /img/babies/20200827/available/M2
-  price: 325
-  sold: true
-- name: M3
-  gender: Male
-  image: /img/babies/20200827/available/M3
-  price: 325
-  sold: true
-- name: M4
-  gender: Male
-  image: /img/babies/20200827/available/M4
-  price: 325
-  sold: true

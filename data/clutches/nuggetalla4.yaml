@@ -5,12 +5,12 @@ filial: F3
 desc: |
   Nugget's fourth clutch! Nugget's previous clutches should be up on our blog for an example of what these guys' potential is.
 laid: 2020-06-01
-hatchstart: Not Yet
+hatchstart: 2021-01-17
 hatchend: Not yet
-shipping: 3 months after hatch
-hatchnum: 0
+shipping: 2021-04-17
+hatchnum: 2
 clutchsize: 23
-deposit: false
+deposit: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false

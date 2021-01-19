@@ -18,51 +18,6 @@ soldout: false
 soldoutmale: false
 soldoutfemale: false
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20200420/available/M1
-  price: 350
-  sold: true
-- name: M2
-  gender: Male
-  image: /img/babies/20200420/available/M2
-  price: 350
-  sold: true
-- name: M3
-  gender: Male
-  image: /img/babies/20200420/available/M3
-  price: 399
-  sold: true
-- name: M4
-  gender: Male
-  image: /img/babies/20200420/available/M4
-  price: 350
-  sold: true
-- name: F1
-  gender: Female
-  image: /img/babies/20200420/available/F1
-  price: 325
-  sold: true
-- name: F2
-  gender: Female
-  image: /img/babies/20200420/available/F2
-  price: 325
-  sold: true
-- name: F3
-  gender: Female
-  image: /img/babies/20200420/available/F3
-  price: 325
-  sold: true
-- name: F4
-  gender: Female
-  image: /img/babies/20200420/available/F4
-  price: 350
-  sold: true
-- name: F5
-  gender: Female
-  image: /img/babies/20200420/available/F5
-  price: 350
-  sold: true
 - name: F6
   gender: Female
   image: /img/babies/20200420/available/F6
@@ -70,41 +25,11 @@ babies:
 - name: F7
   gender: Female
   image: /img/babies/20200420/available/F7
-  price: 325
-- name: F8
-  gender: Female
-  image: /img/babies/20200420/available/F8
-  price: 325
-  sold: true
-- name: F9
-  gender: Female
-  image: /img/babies/20200420/available/F9
-  price: 325
-  sold: true
-- name: F10
-  gender: Female
-  image: /img/babies/20200420/available/F10
-  price: 399
-  sold: true
-- name: F11
-  gender: Female
-  image: /img/babies/20200420/available/F11
-  price: 349
-  sold: true
+  price: 199
 - name: F12
   gender: Female
   image: /img/babies/20200420/available/F12
   price: 325
-- name: F13
-  gender: Female
-  image: /img/babies/20200420/available/F13
-  price: 349
-  sold: true
-- name: F14
-  gender: Female
-  image: /img/babies/20200420/available/F14
-  price: 325
-  sold: true
 - name: F15
   gender: Female
   image: /img/babies/20200420/available/F15
@@ -113,33 +38,19 @@ babies:
   gender: Female
   image: /img/babies/20200420/available/F16
   price: 325
-- name: F17
+- name: F23
   gender: Female
-  image: /img/babies/20200420/available/F17
-  price: 399
-  sold: true
-- name: F18
+  image: /img/babies/20200420/available/F23
+  price: 199
+- name: F24
   gender: Female
-  image: /img/babies/20200420/available/F18
+  image: /img/babies/20200420/available/F24
+  price: 349
+- name: F25
+  gender: Female
+  image: /img/babies/20200420/available/F25
+  price: 349
+- name: F26
+  gender: Female
+  image: /img/babies/20200420/available/F26
   price: 325
-  sold: true
-- name: F19
-  gender: Female
-  image: /img/babies/20200420/available/F19
-  price: 350
-  sold: true
-- name: F20
-  gender: Female
-  image: /img/babies/20200420/available/F20
-  price: 399
-  sold: true
-- name: F21
-  gender: Female
-  image: /img/babies/20200420/available/F21
-  price: 399
-  sold: true
-- name: F22
-  gender: Female
-  image: /img/babies/20200420/available/F22
-  price: 325
-  sold: true
