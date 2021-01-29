@@ -3,17 +3,51 @@ dam: bubbles
 image: /img/ambilobe/zanakabubbles
 filial: F3
 desc: |
-  Zanaka x Jude/Alla! We will have the past clutch up on the blog to see what this pairing has produced :)
+  Zanaka x Jude/Alla! 
 laid: 2020-03-23
 hatchstart: 2020-10-15
 hatchend: 2020-10-17
 shipping: 2021-01-15
 hatchnum: 37
 clutchsize: 39
-deposit: true
+deposit: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20201015/available/M1
+  price: 399
+- name: M2
+  gender: Male
+  image: /img/babies/20201015/available/M2
+  price: 349
+- name: M3
+  gender: Male
+  image: /img/babies/20201015/available/M3
+  price: 399
+- name: M4
+  gender: Male
+  image: /img/babies/20201015/available/M4
+  price: 399
+- name: M5
+  gender: Male
+  image: /img/babies/20201015/available/M5
+  price: 349
+- name: M6
+  gender: Male
+  image: /img/babies/20201015/available/M6
+  price: 399  
+- name: M7
+  gender: Male
+  image: /img/babies/20201015/available/M7
+  price: 449
+- name: M8
+  gender: Male
+  image: /img/babies/20201015/available/M8
+  price: 499
+  
