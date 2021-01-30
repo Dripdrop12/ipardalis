@@ -29,7 +29,7 @@ babies:
 - name: M3
   gender: Male
   image: /img/babies/20201029/available/M3
-  price: 499
+  price: 549
 - name: M4
   gender: Male
   image: /img/babies/20201029/available/M4
@@ -50,7 +50,7 @@ babies:
 - name: M8
   gender: Male
   image: /img/babies/20201029/available/M8
-  price: 449
+  price: 499
 - name: M9
   gender: Male
   image: /img/babies/20201029/available/M9
@@ -62,7 +62,7 @@ babies:
 - name: M11
   gender: Male
   image: /img/babies/20201029/available/M11
-  price: 499
+  price: 549
 - name: M12
   gender: Male
   image: /img/babies/20201029/available/M12
@@ -79,4 +79,4 @@ babies:
 - name: M15
   gender: Male
   image: /img/babies/20201029/available/M15
-  price: 449
+  price: 499
