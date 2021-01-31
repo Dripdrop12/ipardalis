@@ -164,7 +164,6 @@ paginate = 10
 
     logo = "img/logo.png"
     address = """<p><strong>Jonathan Mark Hill</strong>
-        <br>17011 Hillard Street
         <br>Poolesville, MD 20837
         <br>
         <strong>USA</strong>
