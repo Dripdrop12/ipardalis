@@ -63,6 +63,7 @@ babies:
   gender: Male
   image: /img/babies/20201029/available/M11
   price: 549
+  sold: true
 - name: M12
   gender: Male
   image: /img/babies/20201029/available/M12
