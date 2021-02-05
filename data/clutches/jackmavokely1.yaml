@@ -12,7 +12,7 @@ hatchnum: 5
 clutchsize: 21
 deposit: true
 soldout: false
-soldoutmale: false
+soldoutmale: true
 soldoutfemale: false
 maleprice: 450
 femaleprice: 399
