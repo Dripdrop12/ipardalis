@@ -81,3 +81,4 @@ babies:
   gender: Male
   image: /img/babies/20201029/available/M15
   price: 499
+  sold: true
