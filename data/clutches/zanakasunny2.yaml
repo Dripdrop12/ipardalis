@@ -47,6 +47,7 @@ babies:
   gender: Male
   image: /img/babies/20200816/available/M14
   price: 449
+  sold: true
 - name: M16
   gender: Male
   image: /img/babies/20200816/available/M16
