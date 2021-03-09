@@ -86,10 +86,12 @@ babies:
   gender: Male
   image: /img/babies/20201029/available/M14
   price: 375
+  sold: true
 - name: M15
   gender: Male
   image: /img/babies/20201029/available/M15
   price: 499
+  sold: true
 - name: M16
   gender: Male
   image: /img/babies/20201029/available/M16
