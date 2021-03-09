@@ -11,7 +11,7 @@ shipping: 2020-10-17
 hatchnum: 28
 clutchsize: 29
 deposit: false
-listed: true
+listed: false
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -22,14 +22,17 @@ babies:
   gender: Female
   image: /img/babies/20200717/available/F1
   price: 349
+  sold: true
 - name: F3
   gender: Female
   image: /img/babies/20200717/available/F3
   price: 325
+  sold: true
 - name: F4
   gender: Female
   image: /img/babies/20200717/available/F4
   price: 349
+  sold: true
 - name: F5
   gender: Female
   image: /img/babies/20200717/available/F5
@@ -39,10 +42,12 @@ babies:
   gender: Female
   image: /img/babies/20200717/available/F6
   price: 325
+  sold: true
 - name: F7
   gender: Female
   image: /img/babies/20200717/available/F7
   price: 325
+  sold: true
 - name: F8
   gender: Female
   image: /img/babies/20200717/available/F8

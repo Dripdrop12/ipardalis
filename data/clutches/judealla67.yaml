@@ -13,7 +13,7 @@ clutchsize: 67
 maleprice: 350
 femaleprice: 325
 deposit: false
-listed: true
+listed: false
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -37,6 +37,7 @@ babies:
   gender: Female
   image: /img/babies/20200420/available/F15
   price: 349
+  sold: true
 - name: F16
   gender: Female
   image: /img/babies/20200420/available/F16
