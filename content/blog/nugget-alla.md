@@ -22,3 +22,19 @@ Hatch rate
 : 15/20
 
 {{< gallery dir="/img/babies/20200710/sold" />}}
+
+Hatch dates
+: 8/27/2020 - 9/18/2020
+
+Hatch rate
+: 32/34
+
+{{< gallery dir="/img/babies/20200827/sold" />}}
+
+Hatch dates
+: 10/29/2020 - 11/24/2020
+
+Hatch rate
+: 26/29
+
+{{< gallery dir="/img/babies/20201029/sold" />}}
