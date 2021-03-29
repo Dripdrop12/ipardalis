@@ -20,7 +20,7 @@ femaleprice: 325
 babies:
 - name: M1
   gender: Male
-  image: /img/babies/20201018/available/HB
+  image: /img/babies/20201028/available/HB
   sold: true
 - name: F1
   gender: Female
