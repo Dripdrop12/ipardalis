@@ -11,7 +11,7 @@ shipping: 2021-01-28
 hatchnum: 33
 clutchsize: 41
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -20,41 +20,38 @@ femaleprice: 325
 babies:
 - name: M1
   gender: Male
-  image: /img/babies/20201028/available/M1
-  price: 449
+  image: /img/babies/20201018/available/HB
   sold: true
-- name: M2
-  gender: Male
-  image: /img/babies/20201028/available/M2
+- name: F1
+  gender: Female
+  image: /img/babies/20201028/available/F1
+  price: 325
+- name: F2
+  gender: Female
+  image: /img/babies/20201028/available/F2
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20201028/available/F3
   price: 349
-  sold: true
-- name: M3
-  gender: Male
-  image: /img/babies/20201028/available/M3
-  price: 375
-  sold: true
-- name: M4
-  gender: Male
-  image: /img/babies/20201028/available/M4
-  price: 499
-  sold: true
-- name: M5
-  gender: Male
-  image: /img/babies/20201028/available/M5
-  price: 449
-  sold: true
-- name: M6
-  gender: Male
-  image: /img/babies/20201028/available/M6
-  price: 499
-  sold: true
-- name: M7
-  gender: Male
-  image: /img/babies/20201028/available/M7
-  price: 449
-  sold: true
-- name: M8
-  gender: Male
-  image: /img/babies/20201028/available/M8
+- name: F4
+  gender: Female
+  image: /img/babies/20201028/available/F4
+  price: 349
+- name: F5
+  gender: Female
+  image: /img/babies/20201028/available/F5
+  price: 325
+- name: F6
+  gender: Female
+  image: /img/babies/20201028/available/F6
+  price: 325
+- name: F7
+  gender: Female
+  image: /img/babies/20201028/available/F7
+  price: 349
+- name: F8
+  gender: Female
+  image: /img/babies/20201028/available/F8
   price: 399
-  sold: true
+  
