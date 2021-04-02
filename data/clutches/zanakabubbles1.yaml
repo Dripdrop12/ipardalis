@@ -28,3 +28,7 @@ babies:
   image: /img/babies/20201015/available/M6
   price: 499  
   sold: true
+- name: M9
+  gender: Male
+  image: /img/babies/20201015/available/M9
+  price: 549
