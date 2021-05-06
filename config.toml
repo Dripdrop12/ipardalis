@@ -100,7 +100,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 3
     name = "Instagram"
-    url = "https://www.instagram.com/dripdrop214/"
+    url = "https://www.instagram.com/ipardalis/"
     pre = "<i class='fa fa-2x fa-instagram'></i>"
     
 [[menu.topbar]]
