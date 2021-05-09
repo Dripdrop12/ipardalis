@@ -13,7 +13,7 @@ clutchsize: 10
 deposit: true
 soldout: false
 soldoutmale: false
-soldoutfemale: false
+soldoutfemale: true
 maleprice: 450
 femaleprice: 399
 babies:
