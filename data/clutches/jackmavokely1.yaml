@@ -10,7 +10,7 @@ hatchend: 2021-03-17
 shipping: 2021-04-20
 hatchnum: 3
 clutchsize: 21
-deposit: true
+deposit: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false
