@@ -3,7 +3,7 @@ dam: daisy
 image: /img/ambilobe/zanakadaisy
 filial: F3
 desc: |
-  Another great Zanaka clutch! We will have siblings up on the blog to see what this pairing has produced :)
+  Another great Zanaka clutch!
 laid: 2020-07-20
 hatchstart: 2021-03-08
 hatchend: 2021-03-20
@@ -11,6 +11,7 @@ shipping: 2021-06-08
 hatchnum: 21
 clutchsize: 26
 deposit: false
+listed: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false

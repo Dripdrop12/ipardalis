@@ -11,9 +11,22 @@ shipping: 2021-03-21
 hatchnum: 23
 clutchsize: 31
 deposit: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20201221/available/F1
+  price: 325
+- name: F2
+  gender: Female
+  image: /img/babies/20201221/available/F2
+  price: 325
+- name: F3
+  gender: Female
+  image: /img/babies/20201221/available/F3
+  price: 325
