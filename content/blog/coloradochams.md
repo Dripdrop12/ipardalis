@@ -12,6 +12,10 @@ banner = "img/ambilobe/lineage/Artemis/artemis"
 
 ---
 
+### Arlo (WC)
+
+{{< gallery dir="img/ambilobe/lineage/Arlo" />}}
+
 ### Artemis
 
 {{< gallery dir="img/ambilobe/lineage/Artemis" />}}

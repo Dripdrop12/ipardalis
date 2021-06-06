@@ -3,7 +3,7 @@ title = "Zanaka x Sunny"
 date = "2020-07-17"
 tags = ["Zanaka", "sunny", "jude", "promise keeper"]
 categories = ["past clutches"]
-banner = "img/ambilobe/papafee/papafee1"
+banner = "img/babies/20200816/sold/nc"
 +++
 
 {{< load-photoswipe >}}

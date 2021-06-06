@@ -32,3 +32,13 @@ Dam Sire
 : [Macho]({{< ref "/blog/shaneconlin.md#macho" >}})
 
 ---
+
+### Perregrin/Pyro
+
+{{< gallery dir="img/ambilobe/lineage/Pyro" />}}
+
+Sire
+: [Sparkles]({{< ref "/blog/bobbyruddock.md#sparkles" >}})
+
+Dam
+: [Miss Piggy]({{< ref "/blog/moderndaydragons.md" >}})
