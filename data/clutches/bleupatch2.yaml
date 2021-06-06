@@ -11,58 +11,27 @@ shipping: 2021-01-28
 hatchnum: 33
 clutchsize: 41
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 350
 femaleprice: 325
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20201028/available/HB
-  sold: true
-- name: M6
-  gender: Male
-  image: /img/babies/20201028/available/M6
-  price: 499
-  sold: true
-- name: F1
+- name: F9
   gender: Female
-  image: /img/babies/20201028/available/F1
+  image: /img/babies/20201028/available/F9
   price: 325
-  sold: true
-- name: F2
+- name: F10
   gender: Female
-  image: /img/babies/20201028/available/F2
-  price: 325
-  sold: true
-- name: F3
-  gender: Female
-  image: /img/babies/20201028/available/F3
+  image: /img/babies/20201028/available/F10
   price: 349
-  sold: true
-- name: F4
+- name: F11
   gender: Female
-  image: /img/babies/20201028/available/F4
+  image: /img/babies/20201028/available/F11
   price: 349
-  sold: true
-- name: F5
+- name: F12
   gender: Female
-  image: /img/babies/20201028/available/F5
-  price: 325
-- name: F6
-  gender: Female
-  image: /img/babies/20201028/available/F6
-  price: 325
-- name: F7
-  gender: Female
-  image: /img/babies/20201028/available/F7
-  price: 349
-  sold: true
-- name: F8
-  gender: Female
-  image: /img/babies/20201028/available/F8
-  price: 399
-  sold: true
-  
+  image: /img/babies/20201028/available/F12
+  price: 299
+ 
