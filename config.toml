@@ -49,16 +49,22 @@ paginate = 10
     weight = 2
       
 [[menu.main]]
-    name = "Ambilobe"
-    url = "/categories/ambilobe/"
+    name = "Sires"
+    url = "/categories/ambilobe-sires/"
     parent = "ambilobe"
     weight = 1
+
+[[menu.main]]
+    name = "Dams"
+    url = "/categories/ambilobe-dams/"
+    parent = "ambilobe"
+    weight = 2
 
 [[menu.main]]
     name = "Retired Ambilobe"
     url = "/categories/retired-ambilobe/"
     parent = "ambilobe"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "F.minor"

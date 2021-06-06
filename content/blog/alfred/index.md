@@ -2,7 +2,7 @@
 title = "Alfred"
 date = "2019-10-21"
 tags = ["alfred", "jude", "alla", "JJ"]
-categories = ["ambilobe"]
+categories = ["ambilobe-sires"]
 banner = "img/ambilobe/alfred/alfred"
 +++
 

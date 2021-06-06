@@ -2,7 +2,7 @@
 title = "Lilly"
 date = "2019-06-06"
 tags = ["lilly", "jude", "sparkles", "kako"]
-categories = ["ambilobe"]
+categories = ["ambilobe-dams"]
 banner = "img/ambilobe/lilly/lilly"
 +++
 

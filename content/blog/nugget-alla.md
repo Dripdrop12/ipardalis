@@ -38,3 +38,11 @@ Hatch rate
 : 26/29
 
 {{< gallery dir="/img/babies/20201029/sold" />}}
+
+Hatch dates
+: 1/17/2021 - 3/10/21
+
+Hatch rate
+: 26/29
+
+{{< gallery dir="/img/babies/20210117/sold" />}}

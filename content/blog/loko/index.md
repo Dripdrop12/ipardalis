@@ -2,7 +2,7 @@
 title = "Loko"
 date = "2020-04-18"
 tags = ["loko", "kromatisk", "jj", "wet dream"]
-categories = ["ambilobe"]
+categories = ["ambilobe-dams"]
 banner = "img/ambilobe/loko/loko2"
 +++
   

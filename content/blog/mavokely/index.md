@@ -2,7 +2,7 @@
 title = "Mavokely"
 date = "2019-11-12"
 tags = ["mavokely", "amarillo", "felipe sanchez"]
-categories = ["ambilobe"]
+categories = ["ambilobe-dams"]
 banner = "img/ambilobe/mavokely/mavokely"
 +++
 
