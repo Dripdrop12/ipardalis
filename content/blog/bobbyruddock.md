@@ -35,3 +35,8 @@ Dam
 : [Leo]({{< ref "/blog/pantherco.md#leo" >}})
 
 ---
+
+### Sasha
+
+Sire
+: [Sinister]({{< ref "/blog/canvas.md#sinister" >}})

@@ -16,6 +16,8 @@ banner = "img/ambilobe/lineage/Artemis/artemis"
 
 {{< gallery dir="img/ambilobe/lineage/Arlo" />}}
 
+---
+
 ### Artemis
 
 {{< gallery dir="img/ambilobe/lineage/Artemis" />}}
@@ -25,3 +27,13 @@ Sire
 
 Dam
 : [Felipe Sannchez's daughter]({{< ref "/blog/chromatic.md#felipe-sanchez" >}})
+
+---
+
+### Perregrin/Pryo's Daughter
+
+Sire
+: [Perregrin/Pyro]({{< ref "blog/brightside.md#perregrin-pyro" >}})
+
+Dam
+: [Miss Piggy]({{< ref "blog/moderndaydragons.md#miss-piggy" >}})

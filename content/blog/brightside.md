@@ -41,4 +41,4 @@ Sire
 : [Sparkles]({{< ref "/blog/bobbyruddock.md#sparkles" >}})
 
 Dam
-: [Miss Piggy]({{< ref "/blog/moderndaydragons.md" >}})
+: [Sasha]({{< ref "/blog/bobbyruddock.md#sasha" >}})

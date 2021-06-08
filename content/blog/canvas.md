@@ -29,3 +29,7 @@ banner = "img/ambilobe/lineage/Bolt/bolt"
 {{< gallery dir="img/ambilobe/lineage/outline" />}}
 
 ---
+
+### Sinister
+
+{{< gallery dir="img/ambilobe/lineage/Sinister" />}}

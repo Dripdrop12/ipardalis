@@ -19,8 +19,8 @@ Filial
 Sire
 : [Arlo (WC)]({{< ref "blog/coloradochams.md#arlo" >}})
 
-Dam Sire
-: [Perregrin/Pyro]({{< ref "blog/brightside.md#perregrin-pyro" >}})
+Dam
+: [Perregrin/Pyro's Daughter]({{< ref "blog/coloradochams.md#perregrin-pryo-s-daughter" >}})
 
 ---
 

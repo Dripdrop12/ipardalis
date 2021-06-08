@@ -14,7 +14,7 @@ banner = "img/ambilobe/lineage/Pyro/pyro3"
 ### Miss Piggy
 
 Sire
-: Higgins
+: [Higgins]({{< ref "/blog/briancollins.md#higgins" >}})
 
 Dam Sire
 : [Candy Cane]({{< ref "/blog/chameleonparadise.md#candy-cane" >}})
