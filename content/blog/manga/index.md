@@ -14,7 +14,7 @@ Manga had some of the nicest yellows from all of Bleu and Patch's sons. He has a
 {{< gallery dir="/img/ambilobe/manga" />}}
 
 Filial
-: F4
+: F4-CG4
 
 Sire
 : [Bleu]({{< ref "blog/bleu/index.md" >}})

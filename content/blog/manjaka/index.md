@@ -14,7 +14,7 @@ Manjaka brings fresh genetics from a new WC sire, Arlo, who was acclimated by Ch
 {{< gallery dir="/img/ambilobe/manjaka" />}}
 
 Filial
-: F1
+: F1-CG4
 
 Sire
 : [Arlo (WC)]({{< ref "blog/coloradochams.md#arlo" >}})

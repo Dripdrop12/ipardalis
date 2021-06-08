@@ -5,15 +5,15 @@ filial: F4
 desc: |
   Alfred's first clutch. Very excited to see the fire yellow body blue bar males from this group!
 laid: 2020-08-20
-hatchstart: Not Yet
-hatchend: Not yet
-shipping: 3 months after hatch
-hatchnum: 0
+hatchstart: 2021-04-13
+hatchend: 2021-05-04
+shipping: 2021-08-04
+hatchnum: 22
 clutchsize: 24
 deposit: true
-soldout: false
+soldout: true
 soldoutmale: true
-soldoutfemale: false
+soldoutfemale: true
 maleprice: 450
 femaleprice: 399
 babies:
