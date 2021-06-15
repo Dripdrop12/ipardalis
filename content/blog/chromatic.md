@@ -1,7 +1,7 @@
 +++
 title = "Lineage: Chromatic Chameleons"
 date = "2016-03-21"
-tags = ["bleu", "maitso", "mavokely", "loko", "bolt", "felipe sanchez", "kromatisk"]
+tags = ["bleu", "maitso", "mavokely", "loko", "bolt", "felipe sanchez", "kromatisk", "shirley", "jackie"]
 categories = ["lineage"]
 banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 +++
@@ -45,3 +45,11 @@ Dam
 : [Marley's Daughter]({{< ref "/blog/canvas.md#marley" >}})
 
 ---
+
+### Shirley
+
+Sire
+: [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}})
+
+Dam
+: [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})

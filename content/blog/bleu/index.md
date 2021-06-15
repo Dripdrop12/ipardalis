@@ -16,10 +16,10 @@ Filial
 : F3
 
 Sire
-: <a href="/tags/stryfe/">Stryfe</a>
+: [Stryfe]({{< ref "blog/brightside.md#stryfe" >}})
 
 Dam
-: <a href="/tags/emma-frost/">Emma Frost</a>
+: [Emma Frost]({{< ref "blog/brightside.md#emma-frost" >}})
 
 
 {{< rawhtml >}}

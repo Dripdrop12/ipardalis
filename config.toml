@@ -163,7 +163,7 @@ paginate = 10
     email = "jon.mark.hill@ipardalis.com"
 
     about_us = "<p>Individually-raised Panther Chameleons. We're on our 4th generation of Ambilobe and 1st gen of Furcifer minor (Lesser Chameleons).</p>"
-    copyright = "Copyright (c) 2020, Jonathan Mark Hill; all rights reserved."
+    copyright = "Copyright (c) 2021, Jonathan Mark Hill; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

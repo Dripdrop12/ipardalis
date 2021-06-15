@@ -42,3 +42,37 @@ Sire
 
 Dam
 : [Sasha]({{< ref "/blog/bobbyruddock.md#sasha" >}})
+
+---
+
+### Polaris
+
+Sire
+: [Cyclops]({{< ref "/blog/brightside.md#cyclops" >}})
+
+Dam
+: [Pheonix]({{< ref "/blog/brightside.md#pheonix" >}})
+
+---
+
+### Cyclops
+
+{{< gallery dir="img/ambilobe/lineage/Cyclops" />}}
+
+---
+
+### Pheonix
+
+Sire
+: [Zephyros]({{< ref "/blog/mythicalexotics.md#zephyros" >}})
+
+Dam
+: Unknown
+
+---
+
+### Gambit
+
+*WC*
+
+{{< gallery dir="img/ambilobe/lineage/Gambit" />}}

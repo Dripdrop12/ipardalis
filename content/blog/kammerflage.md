@@ -35,12 +35,18 @@ Dam
 Sire
 : [Mavo-ra (Yellow Blood)]({{< ref "/blog/kammerflage.md#mavo-ra-yellow-blood" >}})
 
+Dam
+: Unknown
+
 ---
 
 ### Mavo-ra (Yellow Blood)
 
 Sire
 : [Mabonika-haboka (Mellow Yellow)]({{< ref "/blog/kammerflage.md#mabonika-haboka-mellow-yellow" >}})
+
+Dam
+: Unknown
 
 {{< gallery dir="/img/ambilobe/lineage/Yellow Blood" />}}
 
@@ -74,6 +80,9 @@ Dam
 Sire
 : [Miroborobo (Blaze)]({{< ref "/blog/kammerflage.md#miroborobo-blaze" >}})
 
+Dam
+: Unknown
+
 ---
 
 ### Miroborobo (Blaze)
@@ -82,7 +91,7 @@ Sire
 
 ---
 
-### Little Foot
+### Kely-tongotra (Little Foot)
 
 {{< gallery dir="/img/ambilobe/lineage/Little Foot" />}}
 
@@ -92,6 +101,9 @@ Sire
 
 Sire
 : [Mavo-ra (Yellow Blood)]({{< ref "/blog/kammerflage.md#mavo-ra-yellow-blood" >}})
+
+Dam
+: [Tsara-andro (Good Day)]({{< ref "/blog/kammerflage.md#tsara-andro-good-day" >}})
 
 {{< gallery dir="/img/ambilobe/lineage/Gigavony" />}}
 
@@ -126,6 +138,9 @@ Sire
 Sire
 : Dobo (Double)
 
+Dam
+: Unknown
+
 {{< gallery dir="img/ambilobe/lineage/Triple" />}}
 ---
 
@@ -134,12 +149,69 @@ Sire
 Sire
 : [Maizina-lanitra (Dark Sky)]({{< ref "/blog/kammerflage.md#maizina-lanitra-dark-sky" >}})
 
+Dam
+: Unknown
+
 {{< gallery dir="img/ambilobe/lineage/Fantara" />}}
 
 ---
 
 ### Maizina-lanitra (Dark Sky)
 
+Sire
+: [Kely-tongotra (Little Foot)]({{< ref "/blog/kammerflage.md#kely-tongotra-little-foot" >}})
+
+Dam
+: Unknown
+
 {{< gallery dir="img/ambilobe/lineage/Dark Sky" />}}
+
+---
+
+### Landy (Silk)
+
+Sire
+: [Giga-vony (Old Yeller)]({{< ref "/blog/kammerflage.md#giga-vony-old-yeller" >}})
+
+Dam
+: Au-sanga (Goldie Locks)
+
+{{< gallery dir="img/ambilobe/lineage/Landy" />}}
+
+---
+
+### Hamy (Sweetness)
+
+Sire
+: [Fantara (Falling Star)]({{< ref "/blog/kammerflage.md#fantara-falling-star" >}})
+
+Dam
+: [Mavo-loha (Blondie)]({{< ref "/blog/kammerflage.md#mavo-loha-blondie" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Hamy" />}}
+
+---
+
+### Mavo-loha (Blondie)
+
+Sire
+: [Mavo-ra (Yellow Blood)]({{< ref "/blog/kammerflage.md#mavo-ra-yellow-blood" >}})
+
+Dam
+: [Tsara-andro (Good Day)]({{< ref "/blog/kammerflage.md#tsara-andro-good-day" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Blondie" />}}
+
+---
+
+### Tsara-andro (Good Day)
+
+Sire
+: [Kely-tongotra (Little Foot)]({{< ref "/blog/kammerflage.md#kely-tongotra-little-foot" >}})
+
+Dam
+: Unknown
+
+{{< gallery dir="img/ambilobe/lineage/Good Day" />}}
 
 ---

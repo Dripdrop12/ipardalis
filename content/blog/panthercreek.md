@@ -17,7 +17,7 @@ Sire
 : [Mavo-ra (Yellow Blood)]({{< ref "/blog/kammerflage.md#mavo-ra-yellow-blood" >}})
 
 Dam Sire
-: [Little Foot]({{< ref "/blog/kammerflage.md#little-foot">}})
+: [Kely-tongotra (Little Foot)]({{< ref "/blog/kammerflage.md#kely-tongotra-little-foot" >}})
 
 ---
 
