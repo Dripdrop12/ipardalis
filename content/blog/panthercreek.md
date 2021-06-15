@@ -32,3 +32,13 @@ Dam Sire
 : [24k's daughter]({{< ref "/blog/chameleonparadise.md#24k">}})
 
 ---
+
+### Test
+
+Sire
+: [Bolt]({{< ref "/blog/canvas.md#bolt" >}})
+
+Dam Sire
+: [Marley]({{< ref "/blog/canvas.md#marley" >}})
+
+---
