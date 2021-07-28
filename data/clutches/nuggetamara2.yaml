@@ -5,12 +5,12 @@ filial: F4
 desc: |
   Second clutch from this pairing between Nugget and Artemis's daughter, Amara! 
 laid: 2020-11-24
-hatchstart: Not Yet
-hatchend: Not yet
-shipping: 3 months after hatch
-hatchnum: 0
-clutchsize: 14
-deposit: false
+hatchstart: 2021-07-22
+hatchend: 2021-07-25
+shipping: 2021-10-25
+hatchnum: 26
+clutchsize: 27
+deposit: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false

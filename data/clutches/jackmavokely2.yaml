@@ -10,7 +10,7 @@ hatchend: 2021-03-22
 shipping: 2021-06-14
 hatchnum: 15
 clutchsize: 23
-deposit: true
+deposit: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false
