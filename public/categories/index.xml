@@ -1,23 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on iPardalis</title>
-    <link>http://ipardalis.com/categories/</link>
-    <description>Recent content in Categories on iPardalis</description>
+    <title>Categories on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
+    <link>https://ipardalis.com/categories/</link>
+    <description>Recent content in Categories on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2019, Jonathan Mark Hill; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://ipardalis.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ipardalis.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>husbandry</title>
+      <link>https://ipardalis.com/categories/husbandry/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/husbandry/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Babies</title>
-      <link>http://ipardalis.com/categories/babies/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <title>past clutches</title>
+      <link>https://ipardalis.com/categories/past-clutches/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://ipardalis.com/categories/babies/</guid>
+      <guid>https://ipardalis.com/categories/past-clutches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ambilobe-dams</title>
+      <link>https://ipardalis.com/categories/ambilobe-dams/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/ambilobe-dams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ambilobe-sires</title>
+      <link>https://ipardalis.com/categories/ambilobe-sires/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/ambilobe-sires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minor</title>
+      <link>https://ipardalis.com/categories/minor/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>https://ipardalis.com/categories/updates/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retired ambilobe</title>
+      <link>https://ipardalis.com/categories/retired-ambilobe/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/retired-ambilobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lineage</title>
+      <link>https://ipardalis.com/categories/lineage/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/lineage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minor-lineage</title>
+      <link>https://ipardalis.com/categories/minor-lineage/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ipardalis.com/categories/minor-lineage/</guid>
       <description></description>
     </item>
     

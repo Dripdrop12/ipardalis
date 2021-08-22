@@ -25,14 +25,21 @@ babies:
 - name: F10
   gender: Female
   image: /img/babies/20201028/available/F10
-  price: 349
-- name: F11
-  gender: Female
-  image: /img/babies/20201028/available/F11
-  price: 349
-  sold: true
+  price: 325
 - name: F12
   gender: Female
   image: /img/babies/20201028/available/F12
   price: 299
+- name: F13
+  gender: Female
+  image: /img/babies/20201028/available/F13
+  price: 249
+- name: F14
+  gender: Female
+  image: /img/babies/20201028/available/F14
+  price: 249
+- name: F15
+  gender: Female
+  image: /img/babies/20201028/available/F15
+  price: 349
  

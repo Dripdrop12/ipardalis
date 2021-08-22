@@ -1,7 +1,7 @@
 sire: nugget
 dam: bohana
 image: /img/ambilobe/nuggetbohana
-filial: F1
+filial: F1-CG5
 desc: |
   This is a very special F1 clutch that will provide some nice new genetics in the ybbb pool!
 laid: 2020-08-25
@@ -11,10 +11,14 @@ shipping: 2021-08-01
 hatchnum: 16
 clutchsize: 21
 deposit: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
 maleprice: 449
 femaleprice: 399
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20201028/available/M1
+  price: 499

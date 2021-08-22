@@ -21,11 +21,11 @@ babies:
 - name: F1
   gender: Female
   image: /img/babies/20201221/available/F1
-  price: 325
+  price: 399
 - name: F2
   gender: Female
   image: /img/babies/20201221/available/F2
-  price: 325
+  price: 349
 - name: F3
   gender: Female
   image: /img/babies/20201221/available/F3
