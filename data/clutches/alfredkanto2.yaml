@@ -11,7 +11,7 @@ shipping: 2021-09-15
 hatchnum: 24
 clutchsize: 24
 deposit: true
-soldout: false
+soldout: true
 soldoutmale: true
 soldoutfemale: false
 maleprice: 450
