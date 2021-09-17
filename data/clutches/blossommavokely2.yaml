@@ -5,12 +5,12 @@ filial: F4
 desc: |
   Fantastic YBBB - we should have plenty of examples in the past clutches section for you to see what is in store from these guys!
 laid: 2021-01-02
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2021-09-08
+hatchend: 2021-09-22
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 23
 clutchsize: 26
-deposit: false
+deposit: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false

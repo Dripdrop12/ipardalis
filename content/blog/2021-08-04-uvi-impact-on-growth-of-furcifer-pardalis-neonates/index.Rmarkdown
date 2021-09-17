@@ -48,6 +48,29 @@ neonate_df %>%
   as_hux_table()
 ```
 
+```{r}
+uvi_groups <- neonate_df %>%
+  group_by(`Max UVI`, `Weigh Date`) %>%
+  summarize(mean_weight = mean(`Weight (grams)`, na.rm = T))
+
+neonate_df %>%
+  left_join(uvi_groups, by = c("Max UVI", "Weigh Date")) %>%
+  mutate(
+    max_uvi = factor(`Max UVI`, labels = c("MAX UVI: 3", "Max UVI: 6"))) %>%
+  group_by(Cage) %>%
+plot_ly(
+  x = ~`Weigh Date`, 
+  y = ~mean_weight, 
+  type = "scatter", 
+  text = ~Cage, 
+  color = ~max_uvi,
+  showlegend = FALSE) %>%
+  add_lines(
+    linetype = ~`Max UVI`, 
+    showlegend = TRUE) %>%
+  add_lines(y = ~`Weight (grams)`)
+  
+```
 
 # Pictures
 
