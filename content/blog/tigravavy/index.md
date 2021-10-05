@@ -8,7 +8,7 @@ banner = "img/ambilobe/tigravavy/tigravavy5"
 
 {{< load-photoswipe >}}
 
-tigravavy is a great YBBB from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons. He brings some great deep blue bars and a yellow body. We are very excited to see what he produces in concert with our existing lines!
+Tigravavy is a one of our favorite females from the Jude x Alla clutch. Her brothers have been everything from clean ybbb like Mondrian, Clyde, and Toby to more rainbow Ambilobe like Alfred, Blossom and Jack. Predominantly ybbb but a few beautiful odd balls mixed in. Tigravavy has deep browns and a golden body, great contrast. If her sons have even a fraction of her good looks, they will be wild!
 
 
 {{< gallery dir="/img/ambilobe/tigravavy" />}}

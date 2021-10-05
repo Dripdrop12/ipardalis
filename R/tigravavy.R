@@ -12,11 +12,11 @@ create_lineage_post(
   tags = c("tigravavy", "jude", "alla", "flash", "cowboy", "jj"),
   filial = "F3-CG12",
   sire = list(
-    name = "Jude",
+    name = "jude",
     loc = ""
   ),
   dam = list(
-    name = "Alla",
+    name = "alla",
     loc = ""
   )
 )
