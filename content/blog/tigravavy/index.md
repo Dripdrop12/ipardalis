@@ -17,10 +17,10 @@ Filial
 : *F3-CG12*
 
 Sire
-: [Jude]({{< ref "/blog/Jude/index.md" >}})
+: [Jude]({{< ref "/blog/jude/index.md" >}})
 
 Dam
-: [Alla]({{< ref "/blog/Alla/index.md" >}})
+: [Alla]({{< ref "/blog/alla/index.md" >}})
 
 ---
 
