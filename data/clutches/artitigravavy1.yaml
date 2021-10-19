@@ -1,0 +1,41 @@
+sire: arti
+dam: tigravavy
+image: /img/ambilobe/artitigravavy
+filial: F4-CG13
+desc: |
+  Really exciting group of YBBB from Arti and our most striking female from Jude x Alla
+laid: 2020-10-16
+hatchstart: 2021-06-28
+hatchend: 2021-07-29
+shipping: 2021-10-11
+hatchnum: 25
+clutchsize: 26
+deposit: false
+listed: true
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 399
+femaleprice: 299
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20210628/available/M1
+  price: 499
+- name: M2
+  gender: Male
+  image: /img/babies/20210628/available/M2
+  price: 399
+- name: M3
+  gender: Male
+  image: /img/babies/20210628/available/M3
+  price: 375
+- name: M4
+  gender: Male
+  image: /img/babies/20210628/available/M4
+  price: 375
+- name: M5
+  gender: Male
+  image: /img/babies/20210628/available/M5
+  price: 499
+  sold: true

@@ -19,8 +19,6 @@ neonate_df <- read_ods("UVB_data.ods", row_names = FALSE)
 
 {{< load-photoswipe >}}
 
-
-
 We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlled conditions to answer a simple question: 
 
 > How do the growth rates of babies raised under UVI 3 and UVI 6 compare?
