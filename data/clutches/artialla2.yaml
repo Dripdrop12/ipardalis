@@ -5,12 +5,12 @@ filial: F4-CG5
 desc: |
   Another great unrelated option from Arti
 laid: 2021-03-14
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2021-10-15
+hatchend: 2021-10-19
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 3
 clutchsize: 20
-deposit: false
+deposit: true
 listed: false
 soldout: false
 soldoutmale: false
