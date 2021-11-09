@@ -5,12 +5,13 @@ filial: F4
 desc: |
   Fantastic YBBB - we should have plenty of examples in the past clutches section for you to see what is in store from these guys!
 laid: 2021-01-02
-hatchstart: 2021-09-08
-hatchend: 2021-09-22
+hatchstart: 2021-08-08
+hatchend: 2021-08-22
 shipping: 3 months after hatch
 hatchnum: 23
 clutchsize: 26
-deposit: true
+deposit: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -18,4 +19,35 @@ maleprice: 450
 femaleprice: 399
 soldout: false
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20210808/available/M1
+  price: 375
+- name: M2
+  gender: Male
+  image: /img/babies/20210808/available/M2
+  price: 499
+- name: M3
+  gender: Male
+  image: /img/babies/20210808/available/M3
+  price: 475
+- name: M4
+  gender: Male
+  image: /img/babies/20210808/available/M4
+  price: 450
+- name: M5
+  gender: Male
+  image: /img/babies/20210808/available/M5
+  price: 499
+- name: M6
+  gender: Male
+  image: /img/babies/20210808/available/M6
+  price: 499
+- name: M7
+  gender: Male
+  image: /img/babies/20210808/available/M7
+  price: 475
+- name: M8
+  gender: Male
+  image: /img/babies/20210808/available/M8
+  price: 499
