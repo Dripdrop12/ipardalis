@@ -162,14 +162,15 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jon.mark.hill@ipardalis.com"
 
-    about_us = "<p>Individually-raised Panther Chameleons. We're on our 4th generation of Ambilobe and 1st gen of Furcifer minor (Lesser Chameleons).</p>"
-    copyright = "Copyright (c) 2021, Jonathan Mark Hill; all rights reserved."
+    about_us = "<p>Individually-raised Panther Chameleons. We're on our 4th generation of Ambilobe and 1st gen of Furcifer minor (Lesser Chameleons). We also have a few colubrid and ball python projects.</p>"
+    copyright = "Copyright (c) 2021, iPardalis, LLC; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     address = """<p><strong>Jonathan Mark Hill</strong>
+        <br>iPardalis, LLC
         <br>Poolesville, MD 20837
         <br>
         <strong>USA</strong>

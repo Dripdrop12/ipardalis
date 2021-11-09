@@ -6,6 +6,12 @@ description = "Ambilobe Panther Chameleons for sale. All our chameleons are at l
 
 {{< load-photoswipe >}}
 
-All of our juveniles will be a minimum of 3 months of age when they ship. However, you can place a $75 hold on any individual before that date. Holds are 100% refundable for any reason and will be applied to your balance when you're ready to ship.
+Follow us on social media! Check out [<i class='fa fa-1x fa-facebook'></i>](https://www.facebook.com/jonmarkhill), [<i class='fab  fa-1x fa-tiktok'></i>](tiktok.com/@ipardalis) or [<i class='fa fa-1x fa-instagram'></i>](https://www.instagram.com/ipardalis/) 
 
-Follow us on Facebook or Instagram for updates on future pairings!
+Check out our [reservation program]({{< ref "babies/upcoming.md" >}}) to reserve spots from future pairings!
+
+
+### Page info
+- Click a lineage collage to jump to the clutch section
+- Click the Sire/Dam name to jump into their ancestry report
+- **Every animal we breed is well researched and we keep our records up to date and available to the public**
