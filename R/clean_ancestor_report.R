@@ -70,14 +70,18 @@ add_lineage <- function(txt, sire, dam, filial) {
   if (sire$loc == "") {
     sire_txt <- glue(": [{sire$name}]({{{{< ref \"/blog/{sire$name}/index.md\" >}}}})")
   } else {
-    sire_id <- str_to_lower(sire$name) %>% str_replace("[:SPACE:]", "-")
+    sire_id <- str_to_lower(sire$name) %>% 
+      str_remove_all("[()]") %>% 
+      str_replace_all("[:SPACE:]", "-") 
     sire_txt <- glue(": [{sire$name}]({{{{< ref \"/blog/{sire$loc}#{sire_id}\" >}}}})")
   }
   
   if (dam$loc == "") {
     dam_txt <- glue(": [{dam$name}]({{{{< ref \"/blog/{dam$name}/index.md\" >}}}})")
   } else {
-    dam_id <- str_to_lower(dam$name) %>% str_replace("[:SPACE:]", "-")
+    dam_id <- str_to_lower(dam$name) %>% 
+      str_remove_all("[()]") %>% 
+      str_replace_all("[:SPACE:]", "-") 
     dam_txt <- glue(": [{dam$name}]({{{{< ref \"/blog/{dam$loc}#{dam_id}\" >}}}})")
   }
   

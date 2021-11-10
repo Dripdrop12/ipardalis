@@ -29,7 +29,7 @@ Dam
 {{< gallery dir="img/ambilobe/lineage/Foxey" />}}
 
 Sire
-: [Landy]({{< ref "/blog/tropical.md#dante" >}})
+: [Landy (Silk)]({{< ref "/blog/kammerflage.md#landy-silk" >}})
 
 Dam
 : [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})

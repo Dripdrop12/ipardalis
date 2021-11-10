@@ -14,4 +14,4 @@ Check out our [reservation program]({{< ref "babies/upcoming.md" >}}) to reserve
 ### Page info
 - Click a lineage collage to jump to the clutch section
 - Click the Sire/Dam name to jump into their ancestry report
-- **Every animal we breed is well researched and we keep our records up to date and available to the public**
+- **Every animal we breed is well researched and we keep our records up to date**

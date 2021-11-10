@@ -1,3 +1,5 @@
 # convert all jpg to webp
 
 find . -name '*.jpg' -exec mogrify -format webp {} +
+
+mogrify -format webp zava.jpg

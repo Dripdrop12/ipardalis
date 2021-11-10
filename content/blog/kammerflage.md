@@ -215,3 +215,23 @@ Dam
 {{< gallery dir="img/ambilobe/lineage/Good Day" />}}
 
 ---
+
+### Itso-triombe (Green Giant)
+
+Sire
+: [Landy (Silk)]({{< ref "/blog/kammerflage.md#landy-silk" >}})
+
+Dam
+: [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Green Giant" />}}
+
+### Jiona (June)
+
+Sire
+: [Manome-toky (Promise Keeper)]({{< ref "/blog/kammerflage.md#manome-toky-promise-keeper" >}})
+
+Dam
+: [Mitselatra (Stormy Weather)]({{< ref "/blog/kammerflage.md#mitselatra-stormy-weather" >}})
+
+---

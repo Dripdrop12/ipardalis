@@ -120,9 +120,15 @@ paginate = 10
     name = "Twitter"
     url = "https://twitter.com/Dripdrop214"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
-
+    
 [[menu.topbar]]
     weight = 6
+    name = "Tiktok"
+    url = "https://tiktok.com/@ipardalis"
+    pre = "<i class='fab fa-2x fa-tiktok'></i>"
+
+[[menu.topbar]]
+    weight = 7
     name = "Email"
     url = "mailto:jon.mark.hill@ipardalis.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
