@@ -2,7 +2,7 @@
 title = "Arti"
 date = "2020-04-06"
 tags = ["arti", "artemis", "felipe sanchez", "fantara"]
-categories = ["ambilobe-sires"]
+categories = ["retired-ambilobe"]
 banner = "img/ambilobe/arti/arti"
 +++
 

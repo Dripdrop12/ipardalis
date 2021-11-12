@@ -3,7 +3,7 @@ title = "Manjaka"
 date = "2020-12-01"
 tags = ["manjaka", "arlo", "pyro", "sparkles"]
 categories = ["ambilobe-sires"]
-banner = "img/ambilobe/manjaka/manjaka1"
+banner = "img/ambilobe/manjaka/manjaka5"
 +++
 
 {{< load-photoswipe >}}
@@ -14,10 +14,10 @@ Manjaka brings fresh genetics from a new WC sire, Arlo, who was acclimated by Ch
 {{< gallery dir="/img/ambilobe/manjaka" />}}
 
 Filial
-: F1-CG4
+: F1-CG5
 
 Sire
-: [Arlo (WC)]({{< ref "blog/coloradochams.md#arlo" >}})
+: [Arlo (WC)]({{< ref "blog/coloradochams.md#arlo-wc" >}})
 
 Dam
 : [Perregrin/Pyro's Daughter]({{< ref "blog/coloradochams.md#perregrin-pryo-s-daughter" >}})
