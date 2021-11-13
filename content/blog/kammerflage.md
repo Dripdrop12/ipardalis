@@ -235,3 +235,37 @@ Dam
 : [Mitselatra (Stormy Weather)]({{< ref "/blog/kammerflage.md#mitselatra-stormy-weather" >}})
 
 ---
+
+### Polisy-menapina (Agent Orange)
+
+Sire
+: [Manga-hay (Blue Heat)]({{< ref "/blog/kammerflage.md#manga-hay-blue-heat" >}})
+
+Dam
+: [Bolitika-zandry (Little Sister)]({{< ref "/blog/kammerflage.md#maizina-lanitra-dark-sky" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Agent Orange" />}}
+
+---
+
+### Manga-hay (Blue Heat)
+
+Sire
+: Unknown
+
+Dam
+: Unkown
+
+{{< gallery dir="img/ambilobe/lineage/Blue Heat" />}}
+
+---
+
+### Haran-dranomasina (Coral)
+
+Sire
+: Unknown
+
+Dam
+: Unkown
+
+{{< gallery dir="img/ambilobe/lineage/Coral" />}}

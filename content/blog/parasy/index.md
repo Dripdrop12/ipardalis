@@ -17,10 +17,10 @@ Filial
 : *F4-CG13*
 
 Sire
-: [jack]({{< ref "/blog/jack/index.md" >}})
+: [Jack]({{< ref "/blog/jack/index.md" >}})
 
 Dam
-: [mavokely]({{< ref "/blog/mavokely/index.md" >}})
+: [Mavokely]({{< ref "/blog/mavokely/index.md" >}})
 
 ---
 

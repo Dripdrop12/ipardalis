@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/Cowboy/Cowboy"
 
 {{< load-photoswipe >}}
 
-## [Chameleon Paradise](https://www.chameleonparadise.net/)
+## [Chameleon Paradise](https://chameleonparadise.com/)
 ---
 
 ### Cowboy
