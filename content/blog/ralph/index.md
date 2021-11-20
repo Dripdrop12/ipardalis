@@ -68,7 +68,6 @@ Dam
     <p>x. Tigravavy (F3-CG12). Tigravavy was born on 2019-12-12 at iPardalis.  </p>
     <img align="right" alt="" border="0" src="/blog/ralph/isbrightflame.jpg" />
     <p>6. <strong>Bright Flame. </strong>Bright Flame was produced by Canvas Chameleons.  He was the son of Canvas Chameleons Sire and Canvas Chameleons Dam. He had a relationship with Triple's daughter. </p>
-: [Kanto]({{< ref "/blog/Kanto/index.md" >}})
     <p>Children of Triple's daughter and Bright Flame</p>
     <p>i. Kanto [3]. Kanto was born on 20-02-15 at Living Art by Frank Payne.  </p>
     <h3>Generation 4</h3>
@@ -89,9 +88,6 @@ Dam
     <p>Children of Blue Bird's daughter and JJ (F7-CG10)</p>
     <p>i. Alla (F8-CG11) [5]. Alla was born on 2018-01-30 at Panther Creek Chameleons.  </p>
     <p>12. <strong>Canvas Chameleons Sire. </strong>He had a relationship with Canvas Chameleons Dam. </p>
-: [Kanto]({{< ref "/blog/Kanto/index.md" >}})
-: [Kanto]({{< ref "/blog/Kanto/index.md" >}})
-: [Kanto]({{< ref "/blog/Kanto/index.md" >}})
     <img align="right" alt="" border="0" src="/blog/ralph/istriple.jpg" />
     <p>14. <strong>Telo-heny (Triple). </strong>Telo-heny (Triple) was born on 2015-01-15 at Kammerflage Kreations.  He is the son of Dobo (Double). He had a relationship with Unknown. He also had a relationship with Unknown. </p>
     <p>Children of Unknown and Telo-heny (Triple)</p>
