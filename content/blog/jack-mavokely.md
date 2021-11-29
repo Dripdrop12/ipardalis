@@ -15,7 +15,7 @@ This pairing was between our third generation hold back, [Jack]({{< ref "/blog/j
 # [Jack]({{< ref "/blog/jack/index.md" >}}) x [Mavokely]({{< ref "/blog/mavokely/index.md" >}})
 
 Hatch dates
-: 1/20/2020 - 3/17/2020
+: 1/20/2021 - 3/17/2021
 
 Hatch rate
 : 3/21

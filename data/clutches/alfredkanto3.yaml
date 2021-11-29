@@ -67,4 +67,27 @@ babies:
   image: /img/babies/20210720/available/M11
   price: 499
   sold: true
-
+- name: F1
+  gender: Male
+  image: /img/babies/20210720/available/F1
+  price: 425
+- name: F2
+  gender: Male
+  image: /img/babies/20210720/available/F2
+  price: 325
+- name: F3
+  gender: Male
+  image: /img/babies/20210720/available/F3
+  price: 399
+- name: F4
+  gender: Male
+  image: /img/babies/20210720/available/F4
+  price: 349
+- name: F5
+  gender: Male
+  image: /img/babies/20210720/available/F5
+  price: 399
+- name: F6
+  gender: Male
+  image: /img/babies/20210720/available/F6
+  price: 399
