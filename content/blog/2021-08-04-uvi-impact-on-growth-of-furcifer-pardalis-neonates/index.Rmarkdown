@@ -2,6 +2,7 @@
 title: UVI Impact on Growth of Furcifer pardalis Neonates
 author: 'Jonathan Hill'
 date: '2021-08-04'
+banner: "img/uvi/header"
 slug: []
 categories: ["husbandry"]
 tags: ["bioactive", "uvi"]
@@ -14,6 +15,8 @@ require(kableExtra)
 require(formattable)
 require(dplyr)
 require(gtsummary)
+require(plotly)
+require(forcats)
 neonate_df <- read_ods("UVB_data.ods", row_names = FALSE)
 ```
 
@@ -32,6 +35,39 @@ We designed 6 cages in row 1 under a maximum UVI of 3 and 6 cages in row 2 under
 # Results
 
 ```{r, echo=FALSE, message=FALSE}
+uvi_groups <- neonate_df %>%
+  group_by(`Max UVI`, `Weigh Date`) %>%
+  summarize(mean_weight = mean(`Weight (grams)`, na.rm = T))
+
+p <- neonate_df %>%
+  left_join(uvi_groups, by = c("Max UVI", "Weigh Date")) %>%
+  mutate(
+    max_uvi = factor(`Max UVI`, labels = c("MAX UVI: 3", "Max UVI: 6"))) %>%
+  group_by(Cage) %>%
+plot_ly(
+  x = ~`Weight (grams)`, 
+  y = ~fct_reorder(Cage, `Weight (grams)`),
+  text = ~`Weigh Date`,
+  type = "scatter",
+  mode = "markers",
+  color = ~max_uvi,
+  colors = c("#1AFF1A", "#4B0092"),
+  marker = list(size = 10),
+  showlegend = TRUE) %>%
+  add_lines(showlegend = FALSE) %>%
+  layout(
+    title = "Individual growth rates of neonate Furcifer pardalis (6/3/21 - 8/24/21)",
+    xaxis = list(
+      title = "Weight (grams)"
+    ),
+    yaxis = list(
+      title = "Neonate (ID)"
+    )
+  )
+p
+```
+
+```{r, echo=FALSE, message=FALSE}
 neonate_df %>% 
   mutate(`Max UVI` = factor(`Max UVI`, labels = c("MAX UVI Level: 3", "Max UVI Level: 6"))) %>%
   tbl_summary(
@@ -46,29 +82,7 @@ neonate_df %>%
   as_hux_table()
 ```
 
-```{r}
-uvi_groups <- neonate_df %>%
-  group_by(`Max UVI`, `Weigh Date`) %>%
-  summarize(mean_weight = mean(`Weight (grams)`, na.rm = T))
 
-neonate_df %>%
-  left_join(uvi_groups, by = c("Max UVI", "Weigh Date")) %>%
-  mutate(
-    max_uvi = factor(`Max UVI`, labels = c("MAX UVI: 3", "Max UVI: 6"))) %>%
-  group_by(Cage) %>%
-plot_ly(
-  x = ~`Weigh Date`, 
-  y = ~mean_weight, 
-  type = "scatter", 
-  text = ~Cage, 
-  color = ~max_uvi,
-  showlegend = FALSE) %>%
-  add_lines(
-    linetype = ~`Max UVI`, 
-    showlegend = TRUE) %>%
-  add_lines(y = ~`Weight (grams)`)
-  
-```
 
 # Pictures
 
