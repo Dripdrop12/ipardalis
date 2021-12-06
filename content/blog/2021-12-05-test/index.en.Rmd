@@ -1,0 +1,146 @@
+---
+title: test
+author: Jon Hill
+date: '2021-12-05'
+slug: []
+categories: []
+tags: []
+---
+
+```{r setup, include=FALSE}
+require(knitr)
+require(readODS)
+require(kableExtra)
+require(formattable)
+require(dplyr)
+require(gtsummary)
+require(plotly)
+require(forcats)
+neonate_df <- read_ods("UVB_data.ods", row_names = FALSE)
+```
+
+{{< load-photoswipe >}}
+
+We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlled conditions to answer a simple question: 
+
+> How do the growth rates of babies raised under UVI 3 and UVI 6 compare?
+
+Michael Nash performed a similar experiment which he details in [this post](https://www.facebook.com/groups/520808048049695/posts/2269545149842634). Nash studied two groups of Furcifer lateralis neonates and found that UVI 7 and UVI 3 resulted in no noticable difference in growth rates for that species. Check out the UVI tag to the right for more articles on the topic as we write more on the topic.
+
+# Methods
+
+We designed 6 cages in row 1 under a maximum UVI of 3 and 6 cages in row 2 under a maximum UVI of 6. In this experiment, we controlled for diet, cage size and decor but not genetics. Future studies will use babies from the same clutch in order to ensure that genetics are less likely the cause of any observed difference in growth rates. The neonates were fed primarily fruit flies for the first few weeks followed by bean beetles and pin head crickets and larger sizes as their growth permitted (space between their eyes > size of the feeder). Every cage has drainage, abg mix, leaf litter, springtails and isopods. The neonates were individually placed in their cages on the same day they hatched. They were supplemented with Repashy Calcium Plus LoD.a
+
+# Results
+
+```{r, echo=FALSE, message=FALSE}
+uvi_groups <- neonate_df %>%
+  group_by(`Max UVI`, `Weigh Date`) %>%
+  summarize(mean_weight = mean(`Weight (grams)`, na.rm = T))
+
+p <- neonate_df %>%
+  left_join(uvi_groups, by = c("Max UVI", "Weigh Date")) %>%
+  mutate(
+    max_uvi = factor(`Max UVI`, labels = c("MAX UVI: 3", "Max UVI: 6"))) %>%
+  group_by(Cage) %>%
+plot_ly(
+  x = ~`Weight (grams)`, 
+  y = ~fct_reorder(Cage, `Weight (grams)`),
+  text = ~`Weigh Date`,
+  type = "scatter",
+  mode = "markers",
+  color = ~max_uvi,
+  colors = c("#1AFF1A", "#4B0092"),
+  marker = list(size = 10),
+  showlegend = TRUE) %>%
+  add_lines(showlegend = FALSE) %>%
+  layout(
+    title = "Individual growth rates of neonate Furcifer pardalis (6/3/21 - 8/24/21)",
+    xaxis = list(
+      title = "Weight (grams)"
+    ),
+    yaxis = list(
+      title = "Neonate (ID)"
+    )
+  )
+
+p
+
+```
+
+
+
+
+```{r, echo=FALSE, message=FALSE}
+neonate_df %>% 
+  mutate(`Max UVI` = factor(`Max UVI`, labels = c("MAX UVI Level: 3", "Max UVI Level: 6"))) %>%
+  tbl_summary(
+    by = `Max UVI`,
+    type = all_continuous() ~ "continuous2",
+    statistic = all_continuous() ~ c("{N_nonmiss}",
+                                     "{mean} ({sd})", 
+                                     "{median} ({p25}, {p75})", 
+                                     "{min}, {max}")
+  ) %>% 
+  add_p() %>%
+  as_hux_table()
+```
+
+
+
+# Pictures
+
+Along with the weight data, we took individual pictures. These data are very useful in identifying illness or genetic flaws that could explain any outliers on the small side.
+
+## Max UVI: 3
+
+### Cage A
+
+{{< gallery dir="img/uvi/e1/Cage A" />}}
+
+### Cage B
+
+{{< gallery dir="img/uvi/e1/Cage B" />}}
+
+### Cage C
+
+{{< gallery dir="img/uvi/e1/Cage C" />}}
+
+### Cage D
+
+{{< gallery dir="img/uvi/e1/Cage D" />}}
+
+### Cage E
+
+{{< gallery dir="img/uvi/e1/Cage E" />}}
+
+### Cage F
+
+{{< gallery dir="img/uvi/e1/Cage F" />}}
+
+## Max UVI: 6
+
+### Cage G
+
+{{< gallery dir="img/uvi/e1/Cage G" />}}
+
+### Cage H
+
+{{< gallery dir="img/uvi/e1/Cage H" />}}
+
+### Cage I
+
+{{< gallery dir="img/uvi/e1/Cage I" />}}
+
+### Cage J
+
+{{< gallery dir="img/uvi/e1/Cage J" />}}
+
+### Cage K
+
+{{< gallery dir="img/uvi/e1/Cage K" />}}
+
+### Cage L
+
+{{< gallery dir="img/uvi/e1/Cage L" />}}
+

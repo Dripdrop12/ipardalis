@@ -6,6 +6,7 @@ banner: "img/uvi/header"
 slug: []
 categories: ["husbandry"]
 tags: ["bioactive", "uvi"]
+plotly: true
 ---
 
 
@@ -28,6 +29,10 @@ We designed 6 cages in row 1 under a maximum UVI of 3 and 6 cages in row 2 under
 ```
 ## Error in path.expand(path): invalid 'path' argument
 ```
+
+<!--htmlpreserve-->
+
+
 
 <!--html_preserve--><table class="huxtable" style="border-collapse: collapse; border: 0px; margin-bottom: 2em; margin-top: 2em; ; margin-left: auto; margin-right: auto;  " id="tab:unnamed-chunk-2">
 <col><col><col><col><tr>
