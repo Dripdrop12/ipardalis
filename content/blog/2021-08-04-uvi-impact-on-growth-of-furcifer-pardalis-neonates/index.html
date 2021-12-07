@@ -6,6 +6,8 @@ banner: "img/uvi/header"
 slug: []
 categories: ["husbandry"]
 tags: ["bioactive", "uvi"]
+output: blogdown::html_page
+always_allow_html: yes
 plotly: true
 ---
 
@@ -20,7 +22,7 @@ plotly: true
 <script src="{{< blogdown/postref >}}index_files/plotly-main/plotly-latest.min.js"></script>
 
 
-<p>{{&lt; load-photoswipe &gt;}}</p>
+<p>{{< load-photoswipe >}}</p>
 <p>We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlled conditions to answer a simple question:</p>
 <blockquote>
 <p>How do the growth rates of babies raised under UVI 3 and UVI 6 compare?</p>
@@ -33,8 +35,7 @@ plotly: true
 <div id="results" class="section level1">
 <h1>Results</h1>
 <div id="htmlwidget-1" style="width:672px;height:480px;" class="plotly html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"visdat":{"18cbcc626fac":["function () ","plotlyVisDat"]},"cur_data":"18cbcc626fac","attrs":{"18cbcc626fac":{"x":{},"y":{},"text":{},"mode":"markers","marker":{"size":10},"showlegend":true,"color":{},"colors":["#1AFF1A","#4B0092"],"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"scatter"},"18cbcc626fac.1":{"x":{},"y":{},"text":{},"mode":"lines","marker":{"size":10},"showlegend":false,"color":{},"colors":["#1AFF1A","#4B0092"],"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"scatter","inherit":true}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"Individual growth rates of neonate Furcifer pardalis (6/3/21 - 8/24/21)","xaxis":{"domain":[0,1],"automargin":true,"title":"Weight (grams)"},"yaxis":{"domain":[0,1],"automargin":true,"title":"Neonate (ID)","type":"category","categoryorder":"array","categoryarray":["A","G","B","H","E","F","L","C","D","K","I","J"]},"hovermode":"closest","showlegend":true},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"x":[0.9,1.6,2.7,3.2,2.9,3.2,1.2,2.5,5.3,5.6,4.2,4.8,2.1,4.5,8.8,9.9,5.1,6.3],"y":["A","B","C","D","E","F","A","B","C","D","E","F","A","B","C","D","E","F"],"text":["7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021"],"mode":"markers","marker":{"color":"rgba(26,255,26,1)","size":10,"line":{"color":"rgba(26,255,26,1)"}},"showlegend":true,"type":"scatter","name":"MAX UVI: 3","textfont":{"color":"rgba(26,255,26,1)"},"error_y":{"color":"rgba(26,255,26,1)"},"error_x":{"color":"rgba(26,255,26,1)"},"line":{"color":"rgba(26,255,26,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":[1.4,2.4,3.7,9,3.8,2.9,2.1,3,6.6,14.5,6.4,5.1,6.1,5.1,16.3,27.6,15.3,11.2],"y":["G","H","I","J","K","L","G","H","I","J","K","L","G","H","I","J","K","L"],"text":["7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021"],"mode":"markers","marker":{"color":"rgba(75,0,146,1)","size":10,"line":{"color":"rgba(75,0,146,1)"}},"showlegend":true,"type":"scatter","name":"Max UVI: 6","textfont":{"color":"rgba(75,0,146,1)"},"error_y":{"color":"rgba(75,0,146,1)"},"error_x":{"color":"rgba(75,0,146,1)"},"line":{"color":"rgba(75,0,146,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":[0.9,1.2,2.1,null,1.6,2.5,4.5,null,2.7,5.3,8.8,null,3.2,5.6,9.9,null,2.9,4.2,5.1,null,3.2,4.8,6.3],"y":["A","A","A",null,"B","B","B",null,"C","C","C",null,"D","D","D",null,"E","E","E",null,"F","F","F"],"text":["7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021"],"mode":"lines+markers","marker":{"color":"rgba(26,255,26,1)","size":10,"line":{"color":"rgba(26,255,26,1)"}},"showlegend":false,"type":"scatter","name":"MAX UVI: 3","textfont":{"color":"rgba(26,255,26,1)"},"error_y":{"color":"rgba(26,255,26,1)"},"error_x":{"color":"rgba(26,255,26,1)"},"line":{"color":"rgba(26,255,26,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":[1.4,2.1,6.1,null,2.4,3,5.1,null,3.7,6.6,16.3,null,9,14.5,27.6,null,3.8,6.4,15.3,null,2.9,5.1,11.2],"y":["G","G","G",null,"H","H","H",null,"I","I","I",null,"J","J","J",null,"K","K","K",null,"L","L","L"],"text":["7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021"],"mode":"lines+markers","marker":{"color":"rgba(75,0,146,1)","size":10,"line":{"color":"rgba(75,0,146,1)"}},"showlegend":false,"type":"scatter","name":"Max UVI: 6","textfont":{"color":"rgba(75,0,146,1)"},"error_y":{"color":"rgba(75,0,146,1)"},"error_x":{"color":"rgba(75,0,146,1)"},"line":{"color":"rgba(75,0,146,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
-<p>{{&lt; plotly json=“/blog/2021-08-04-uni-impact-on-growth-of-furcifer-pardalis-neonates/plot.json” height=“400px” &gt;}}</p>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"visdat":{"18df145a04e81":["function () ","plotlyVisDat"]},"cur_data":"18df145a04e81","attrs":{"18df145a04e81":{"x":{},"y":{},"text":{},"mode":"markers","marker":{"size":10},"showlegend":true,"color":{},"colors":["#1AFF1A","#4B0092"],"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"scatter"},"18df145a04e81.1":{"x":{},"y":{},"text":{},"mode":"lines","marker":{"size":10},"showlegend":false,"color":{},"colors":["#1AFF1A","#4B0092"],"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"scatter","inherit":true}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"Individual growth rates of neonate Furcifer pardalis (6/3/21 - 8/24/21)","xaxis":{"domain":[0,1],"automargin":true,"title":"Weight (grams)"},"yaxis":{"domain":[0,1],"automargin":true,"title":"Neonate (ID)","type":"category","categoryorder":"array","categoryarray":["A","G","B","H","E","F","L","C","D","K","I","J"]},"hovermode":"closest","showlegend":true},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false,"displayModeBar":false},"data":[{"x":[0.9,1.6,2.7,3.2,2.9,3.2,1.2,2.5,5.3,5.6,4.2,4.8,2.1,4.5,8.8,9.9,5.1,6.3],"y":["A","B","C","D","E","F","A","B","C","D","E","F","A","B","C","D","E","F"],"text":["7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021"],"mode":"markers","marker":{"color":"rgba(26,255,26,1)","size":10,"line":{"color":"rgba(26,255,26,1)"}},"showlegend":true,"type":"scatter","name":"MAX UVI: 3","textfont":{"color":"rgba(26,255,26,1)"},"error_y":{"color":"rgba(26,255,26,1)"},"error_x":{"color":"rgba(26,255,26,1)"},"line":{"color":"rgba(26,255,26,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":[1.4,2.4,3.7,9,3.8,2.9,2.1,3,6.6,14.5,6.4,5.1,6.1,5.1,16.3,27.6,15.3,11.2],"y":["G","H","I","J","K","L","G","H","I","J","K","L","G","H","I","J","K","L"],"text":["7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","7/27/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/11/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021","8/24/2021"],"mode":"markers","marker":{"color":"rgba(75,0,146,1)","size":10,"line":{"color":"rgba(75,0,146,1)"}},"showlegend":true,"type":"scatter","name":"Max UVI: 6","textfont":{"color":"rgba(75,0,146,1)"},"error_y":{"color":"rgba(75,0,146,1)"},"error_x":{"color":"rgba(75,0,146,1)"},"line":{"color":"rgba(75,0,146,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":[0.9,1.2,2.1,null,1.6,2.5,4.5,null,2.7,5.3,8.8,null,3.2,5.6,9.9,null,2.9,4.2,5.1,null,3.2,4.8,6.3],"y":["A","A","A",null,"B","B","B",null,"C","C","C",null,"D","D","D",null,"E","E","E",null,"F","F","F"],"text":["7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021"],"mode":"lines+markers","marker":{"color":"rgba(26,255,26,1)","size":10,"line":{"color":"rgba(26,255,26,1)"}},"showlegend":false,"type":"scatter","name":"MAX UVI: 3","textfont":{"color":"rgba(26,255,26,1)"},"error_y":{"color":"rgba(26,255,26,1)"},"error_x":{"color":"rgba(26,255,26,1)"},"line":{"color":"rgba(26,255,26,1)"},"xaxis":"x","yaxis":"y","frame":null},{"x":[1.4,2.1,6.1,null,2.4,3,5.1,null,3.7,6.6,16.3,null,9,14.5,27.6,null,3.8,6.4,15.3,null,2.9,5.1,11.2],"y":["G","G","G",null,"H","H","H",null,"I","I","I",null,"J","J","J",null,"K","K","K",null,"L","L","L"],"text":["7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021",null,"7/27/2021","8/11/2021","8/24/2021"],"mode":"lines+markers","marker":{"color":"rgba(75,0,146,1)","size":10,"line":{"color":"rgba(75,0,146,1)"}},"showlegend":false,"type":"scatter","name":"Max UVI: 6","textfont":{"color":"rgba(75,0,146,1)"},"error_y":{"color":"rgba(75,0,146,1)"},"error_x":{"color":"rgba(75,0,146,1)"},"line":{"color":"rgba(75,0,146,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
 <table class="huxtable" style="border-collapse: collapse; border: 0px; margin-bottom: 2em; margin-top: 2em; ; margin-left: auto; margin-right: auto;  " id="tab:unnamed-chunk-2">
 <col><col><col><col><tr>
 <td style="vertical-align: top; text-align: left; white-space: normal; border-style: solid solid solid solid; border-width: 0pt 0pt 0.4pt 0pt;    padding: 6pt 6pt 6pt 6pt; font-weight: normal;"><p><strong>Characteristic</strong></p>
@@ -136,54 +137,54 @@ plotly: true
 <h2>Max UVI: 3</h2>
 <div id="cage-a" class="section level3">
 <h3>Cage A</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage A” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage A" />}}</p>
 </div>
 <div id="cage-b" class="section level3">
 <h3>Cage B</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage B” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage B" />}}</p>
 </div>
 <div id="cage-c" class="section level3">
 <h3>Cage C</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage C” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage C" />}}</p>
 </div>
 <div id="cage-d" class="section level3">
 <h3>Cage D</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage D” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage D" />}}</p>
 </div>
 <div id="cage-e" class="section level3">
 <h3>Cage E</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage E” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage E" />}}</p>
 </div>
 <div id="cage-f" class="section level3">
 <h3>Cage F</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage F” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage F" />}}</p>
 </div>
 </div>
 <div id="max-uvi-6" class="section level2">
 <h2>Max UVI: 6</h2>
 <div id="cage-g" class="section level3">
 <h3>Cage G</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage G” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage G" />}}</p>
 </div>
 <div id="cage-h" class="section level3">
 <h3>Cage H</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage H” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage H" />}}</p>
 </div>
 <div id="cage-i" class="section level3">
 <h3>Cage I</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage I” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage I" />}}</p>
 </div>
 <div id="cage-j" class="section level3">
 <h3>Cage J</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage J” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage J" />}}</p>
 </div>
 <div id="cage-k" class="section level3">
 <h3>Cage K</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage K” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage K" />}}</p>
 </div>
 <div id="cage-l" class="section level3">
 <h3>Cage L</h3>
-<p>{{&lt; gallery dir=“img/uvi/e1/Cage L” /&gt;}}</p>
+<p>{{< gallery dir="img/uvi/e1/Cage L" />}}</p>
 </div>
 </div>
 </div>
