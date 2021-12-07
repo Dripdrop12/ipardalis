@@ -10,7 +10,6 @@ output: blogdown::html_page
 always_allow_html: yes
 plotly: true
 bibliography: references.bib
-zotero: "My Library"
 ---
 
 ```{r setup, include=FALSE}
@@ -33,7 +32,9 @@ We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlle
 
 > How do the growth rates of babies raised under UVI 3 and UVI 6 compare?
 
-Michael Nash performed a similar experiment which he details in [this post](https://www.facebook.com/groups/520808048049695/posts/2269545149842634). Nash studied two groups of Furcifer lateralis neonates and found that UVI 7 and UVI 3 resulted in no noticable difference in growth rates for that species. Check out the UVI tag to the right for more articles on the topic as we write more on the topic.
+# Background
+
+Michael Nash performed a similar experiment which he details in [this post](https://www.facebook.com/groups/520808048049695/posts/2269545149842634). Nash studied two groups of Furcifer lateralis neonates and found that UVI 7 and UVI 3 resulted in no noticable difference in growth rates for that species. Check out the UVI tag to the right for more articles on the topic as we write more on the topic. @fergusonPantherChameleonsBask2003 tried something similar
 
 # Methods
 
