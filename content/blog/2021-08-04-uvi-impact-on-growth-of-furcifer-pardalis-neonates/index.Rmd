@@ -9,6 +9,8 @@ tags: ["bioactive", "uvi"]
 output: blogdown::html_page
 always_allow_html: yes
 plotly: true
+bibliography: references.bib
+zotero: "My Library"
 ---
 
 ```{r setup, include=FALSE}
@@ -27,7 +29,7 @@ neonate_df <- read_ods("UVB_data.ods", row_names = FALSE)
 
 `r shortcode("load-photoswipe", .type = "html")`
 
-We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlled conditions to answer a simple question: 
+We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlled conditions to answer a simple question:
 
 > How do the growth rates of babies raised under UVI 3 and UVI 6 compare?
 
@@ -35,7 +37,7 @@ Michael Nash performed a similar experiment which he details in [this post](http
 
 # Methods
 
-We designed 6 cages in row 1 under a maximum UVI of 3 and 6 cages in row 2 under a maximum UVI of 6. In this experiment, we controlled for diet, cage size and decor but not genetics. Future studies will use babies from the same clutch in order to ensure that genetics are less likely the cause of any observed difference in growth rates. The neonates were fed primarily fruit flies for the first few weeks followed by bean beetles and pin head crickets and larger sizes as their growth permitted (space between their eyes > size of the feeder). Every cage has drainage, abg mix, leaf litter, springtails and isopods. The neonates were individually placed in their cages on the same day they hatched. They were supplemented with Repashy Calcium Plus LoD.a
+We designed 6 cages in row 1 under a maximum UVI of 3 and 6 cages in row 2 under a maximum UVI of 6. In this experiment, we controlled for diet, cage size and decor but not genetics. Future studies will use babies from the same clutch in order to ensure that genetics are less likely the cause of any observed difference in growth rates. The neonates were fed primarily fruit flies for the first few weeks followed by bean beetles and pin head crickets and larger sizes as their growth permitted (space between their eyes &gt; size of the feeder). Every cage has drainage, abg mix, leaf litter, springtails and isopods. The neonates were individually placed in their cages on the same day they hatched. They were supplemented with Repashy Calcium Plus LoD.a
 
 # Results
 
@@ -87,8 +89,6 @@ neonate_df %>%
   add_p() %>%
   as_hux_table()
 ```
-
-
 
 # Pictures
 
@@ -147,7 +147,4 @@ Along with the weight data, we took individual pictures. These data are very use
 `r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage L" />}}')`
 
 
-
-
-
-
+## Reference
