@@ -6,6 +6,8 @@ banner: "img/uvi/header"
 slug: []
 categories: ["husbandry"]
 tags: ["bioactive", "uvi"]
+output: blogdown::html_page
+always_allow_html: yes
 plotly: true
 bibliography: references.bib
 ---
@@ -19,10 +21,12 @@ require(dplyr)
 require(gtsummary)
 require(plotly)
 require(forcats)
+require(htmlwidgets)
+require(blogdown)
 neonate_df <- read_ods("UVB_data.ods", row_names = FALSE)
 ```
 
-{{< load-photoswipe >}}
+`r shortcode("load-photoswipe", .type = "html")`
 
 We raised two clutches of Furcifer pardalis (Panther Chameleons) under controlled conditions to answer a simple question:
 
@@ -67,15 +71,10 @@ plot_ly(
     yaxis = list(
       title = "Neonate (ID)"
     )
-  )
-
+  ) %>%
+  config(displayModeBar = F)
 p
-
 ```
-
-{{< plotly json="/blog/2021-08-04-uni-impact-on-growth-of-furcifer-pardalis-neonates/plot.json" height="400px" >}}
-
-
 
 ```{r, echo=FALSE, message=FALSE}
 neonate_df %>% 
@@ -100,53 +99,53 @@ Along with the weight data, we took individual pictures. These data are very use
 
 ### Cage A
 
-{{< gallery dir="img/uvi/e1/Cage A" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage A" />}}')`
 
 ### Cage B
 
-{{< gallery dir="img/uvi/e1/Cage B" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage B" />}}')`
 
 ### Cage C
 
-{{< gallery dir="img/uvi/e1/Cage C" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage C" />}}')`
 
 ### Cage D
 
-{{< gallery dir="img/uvi/e1/Cage D" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage D" />}}')`
 
 ### Cage E
 
-{{< gallery dir="img/uvi/e1/Cage E" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage E" />}}')`
 
 ### Cage F
 
-{{< gallery dir="img/uvi/e1/Cage F" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage F" />}}')`
 
 ## Max UVI: 6
 
 ### Cage G
 
-{{< gallery dir="img/uvi/e1/Cage G" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage G" />}}')`
 
 ### Cage H
 
-{{< gallery dir="img/uvi/e1/Cage H" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage H" />}}')`
 
 ### Cage I
 
-{{< gallery dir="img/uvi/e1/Cage I" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage I" />}}')`
 
 ### Cage J
 
-{{< gallery dir="img/uvi/e1/Cage J" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage J" />}}')`
 
 ### Cage K
 
-{{< gallery dir="img/uvi/e1/Cage K" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage K" />}}')`
 
 ### Cage L
 
-{{< gallery dir="img/uvi/e1/Cage L" />}}
+`r htmltools::HTML('{{< gallery dir="img/uvi/e1/Cage L" />}}')`
 
 
 ## Reference
