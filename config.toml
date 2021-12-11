@@ -37,12 +37,20 @@ paginate = 10
     url  = "/babies/available"
     parent = "section.availablenow"
     weight = 1
-
+    
 [[menu.main]]
-    name = "Upcoming Clutches"
-    url  = "/babies/upcoming"
-    parent = "section.availablenow"
+    name = "Reservations"
+    url  = ""
+    parent = "menu.sales"
+    identifier = "section.reservations"
     weight = 2
+    post = 2
+    
+[[menu.main]]
+    name = "Ambilobe Cluthes"
+    url  = "/babies/upcoming"
+    parent = "section.reservations"
+    weight = 1
 
 [[menu.main]]
     name = "Projects"
