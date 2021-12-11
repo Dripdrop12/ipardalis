@@ -12,7 +12,7 @@ hatchnum: 3
 clutchsize: 20
 deposit: true
 listed: false
-soldout: false
+soldout: true
 soldoutmale: false
 soldoutfemale: false
 maleprice: 375

@@ -48,7 +48,7 @@ clean_txt <- function(location, breeder) {
     str_replace_all(" in ", " at ") %>%
     str_replace("born at", "produced by") %>%
     str_replace("died at", "died with") %>%
-    str_replace("/home/jon/chams_det_ancestor_report/", glue("/blog/{breeder}/")) %>%
+    str_replace("/home/jon/chams_det_ancestor_report/", "") %>%
     str_remove("</html>") %>%
     str_remove("</body>")
 }

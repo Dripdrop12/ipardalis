@@ -1,7 +1,6 @@
 +++
 title = "Lineage of iPardalis"
 description = "Healthy animals with a professional pedigree"
-
 +++
 
 {{< load-photoswipe >}}
