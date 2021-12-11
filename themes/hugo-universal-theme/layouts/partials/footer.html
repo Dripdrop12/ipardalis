@@ -5,7 +5,7 @@
         <div class="col-md-4 col-sm-6">
             <h4>{{ i18n "aboutUs" }}</h4>
 
-            {{ .Site.Params.about_us | markdownify }}
+            {{ .Site.Params.about_us | safeHTML }}
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -15,22 +15,22 @@
 
         <div class="col-md-4 col-sm-6">
 
-            {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
+            {{ if isset .Site.Params "recent_posts" }}{{ if (default true .Site.Params.footer.recent_posts.enable) }}
             <h4>{{ i18n "recentPosts" }}</h4>
 
             <div class="blog-entries">
-                {{ range first 3 (where .Site.Pages "Type" "blog") }}
+                {{ range first 3 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
                           {{ if isset .Params "banner" }}
-                          <picture>
-                            <source srcset="{{ .Site.BaseURL}}{{ .Params.banner }}.webp" type="image/webp">
-                            <source srcset="{{ .Site.BaseURL}}{{ .Params.banner }}.jpg" type="image/jpeg">
-                            <img class="img-responsive" src="{{ .Site.BaseURL}}{{ .Params.banner }}.jpg" alt="{{ .Title }}">
-                          </picture>
+                            <picture>
+                              <source srcset="{{ .Params.banner | relURL }}.webp" type="image/webp">
+                              <source srcset="{{ .Params.banner | relURL }}.jpg" type="image/jpeg">
+                              <img src="{{ .Params.banner | relURL }}.jpg" class="img-responsive" alt="{{ .Title }}">
+                            </picture>
                           {{ else }}
-                            <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="{{ .Title }}">
+                            <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .Title }}">
                           {{ end }}
                         </a>
                     </div>
@@ -42,7 +42,7 @@
             </div>
 
             <hr class="hidden-md hidden-lg">
-            {{ end }} {{ end }}
+            {{ end }}{{ end }}
 
         </div>
         <!-- /.col-md-4 -->
@@ -54,8 +54,7 @@
 
             {{ .Site.Params.address | markdownify }}
 
-            <a href="/babies/available" class="btn btn-small btn-template-main">{{ i18n "orderGoTo" }}</a>
-            <br>
+            <h4><a style="color:#eeeeee;" href="/babies/available">Orders</a></h4>
             <h5><a style="color:#eeeeee;" href="/tos/">Terms of Service</a></h5>
             <h5><a style="color:#eeeeee;" href="/faq/">FAQ</a></h5>
             <hr class="hidden-md hidden-lg hidden-sm">
@@ -82,10 +81,10 @@ _________________________________________________________ -->
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
             {{ end }}
             <p class="pull-right">
-              {{ i18n "templateBy" }} <a href="https://bootstrapious.com/free-templates">Bootstrapious</a>.
+              {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
               <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 
-              {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+              {{ i18n "portedBy" | markdownify }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
             </p>
         </div>
     </div>

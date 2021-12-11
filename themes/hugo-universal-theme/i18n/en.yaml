@@ -7,29 +7,29 @@
 - id: portedBy
   translation: "Ported to Hugo by"
 
-- id: orderGoTo
-  translation: "Go to order page"
+- id: contactGoTo
+  translation: "Go to contact page"
 
-- id: orderAddrTitle
-  translation: "Shipping From"
+- id: contactAddrTitle
+  translation: "Address"
 
-- id: orderTitle
-  translation: "Orders"
+- id: contactTitle
+  translation: "Contact"
 
-- id: orderForm
-  translation: "order form"
+- id: contactForm
+  translation: "Contact form"
 
-- id: orderName
+- id: contactName
   translation: "Your Name"
 
-- id: orderMail
+- id: contactMail
   translation: "Your Email"
 
-- id: orderMessage
+- id: contactMessage
   translation: "Your Message"
 
-- id: orderSend
-  translation: "Buy Now!"
+- id: contactSend
+  translation: "Send Message"
 
 - id: navHome
   translation: "go to homepage"
@@ -69,3 +69,48 @@
 
 - id: publishedOn
   translation: "on"
+
+- id: 404Error
+  translation: "Error 404: Page not found"
+
+- id: 404Message
+  translation: "We are sorry – this page is not here anymore"
+
+- id: 404NavHome
+  translation: "Go to homepage"
+
+- id: January
+  translation: January
+
+- id: February
+  translation: February
+
+- id: March
+  translation: March
+
+- id: April
+  translation: April
+
+- id: May
+  translation: May
+
+- id: June
+  translation: June
+
+- id: July
+  translation: July
+
+- id: August
+  translation: August
+
+- id: September
+  translation: September
+
+- id: October
+  translation: October
+
+- id: November
+  translation: November
+
+- id: December
+  translation: December

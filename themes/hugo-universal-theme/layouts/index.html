@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
 
   <body>
 
     <div id="all">
 
-        <header>
+        {{ partial "top.html" . }}
 
-          {{ partial "top.html" . }}
-
-          {{ partial "nav.html" . }}
-
-        </header>
+        {{ partial "nav.html" . }}
 
         {{ partial "carousel.html" . }}
 
         {{ partial "features.html" . }}
 
         {{ partial "testimonials.html" . }}
-        
-        {{ partial "recent_posts.html" . }}
 
         {{ partial "see_more.html" . }}
+
+        {{ partial "recent_posts.html" . }}
 
         {{ partial "clients.html" . }}
 
