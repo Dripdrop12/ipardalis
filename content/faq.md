@@ -1,7 +1,8 @@
 +++
-title = "Frequently Asked Questions"
+title = "FAQ"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
+menu = "main"
 +++
 
 We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have distinct color morphs, the most popular of which are Ambilobe (blue/red bar), Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding group is from the Ambilobe region of Madagascar.
