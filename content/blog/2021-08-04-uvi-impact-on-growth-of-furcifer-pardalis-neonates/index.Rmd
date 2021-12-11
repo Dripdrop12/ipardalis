@@ -2,6 +2,7 @@
 title: UVI Impact on Growth of Furcifer pardalis Neonates
 author: 'Jonathan Hill'
 date: '2021-08-04'
+type: "blog"
 banner: "img/uvi/header"
 slug: []
 categories: ["husbandry"]
@@ -64,7 +65,7 @@ plot_ly(
   showlegend = TRUE) %>%
   add_lines(showlegend = FALSE) %>%
   layout(
-    title = "Individual growth rates of neonate Furcifer pardalis (6/3/21 - 8/24/21)",
+    title = "Individual growth rates of neonate Furcifer pardalis (7/27/21 - 8/24/21)",
     xaxis = list(
       title = "Weight (grams)"
     ),
@@ -73,8 +74,11 @@ plot_ly(
     )
   ) %>%
   config(displayModeBar = F)
-p
+scope <- kaleido()
+scope$transform(p, "dotplot.png")
 ```
+[![](dotplot.png)](https://ipardalis.com/plot/plot.html)
+
 
 ```{r, echo=FALSE, message=FALSE}
 neonate_df %>% 
