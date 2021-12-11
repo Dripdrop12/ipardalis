@@ -1,0 +1,30 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(56,167,187,0.9);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 5px 15px;
+}
+
+.sold-out:hover {
+  box-shadow: 0 8px 16px 0 rgba(217, 83, 79,0.9);
+}
