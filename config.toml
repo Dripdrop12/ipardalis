@@ -3,6 +3,7 @@ title = "iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons fo
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableRobotsTXT = true
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -109,6 +110,20 @@ paginate = 10
     url = "/categories/retired-minor/"
     parent = "section.furciferminor"
     weight = 2
+
+[[menu.main]]
+    name = "Pituophis deppei jani"
+    identifier = "section.pituouphisdeppeijani"
+    parent = "menu.projects"
+    url = ""
+    weight = 1
+    post = 1
+
+[[menu.main]]
+    name = "P.d. jani Breeders"
+    url = "/categories/pd-jani/"
+    parent = "section.pituouphisdeppeijani"
+    weight = 1
 
 [[menu.main]]
     name = "Blog"

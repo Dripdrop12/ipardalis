@@ -11,7 +11,7 @@ shipping: 2021-09-03
 hatchnum: 26
 clutchsize: 26
 deposit: false
-listed: true
+listed: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false
