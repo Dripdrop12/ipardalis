@@ -32,6 +32,8 @@ We acquired Sugar from Aaron Herron. She's a shade darker than Longleaf and has 
 
 {{< gallery dir="/img/jani/lineage/aaronherron" />}}
 
+---
+
 # Longleaf
 
 Gender
@@ -48,6 +50,7 @@ Longleaf came to us from Andy Reeves. He has some amazing orange markings and hi
 
 {{< gallery dir="/img/jani/lineage/andyreeves" />}}
 
+---
 
 # Spicy
 
@@ -61,6 +64,8 @@ Birth Year
 
 {{< gallery dir="/img/jani/lineage/jayjacoby" />}}
 
+---
+
 # Butterfly
 
 Gender
@@ -72,3 +77,5 @@ Birth Year
 ### Parents from Aaron Crawford
 
 {{< gallery dir="/img/jani/lineage/aaroncrawford" />}}
+
+---
