@@ -2,7 +2,7 @@
 title = "tigravavy"
 date = "2019-12-12"
 tags = ["tigravavy", "jude", "alla", "flash", "cowboy", "jj"]
-categories = ["retired-ambilobe"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/tigravavy/tigravavy5"
 +++
 

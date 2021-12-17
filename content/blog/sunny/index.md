@@ -2,7 +2,7 @@
 title = "Sunny"
 date = "2019-06-10"
 tags = ["sunny", "jude", "sparkles", "kako"]
-categories = ["retired ambilobe"]
+categories = ["retired pardalis"]
 banner = "img/ambilobe/sunny/sunny"
 +++
 

@@ -2,7 +2,7 @@
 title = "Bleu"
 date = "2019-07-15"
 tags = ["bleu", "stryfe", "emma frost", "felipe sanchez"]
-categories = ["retired ambilobe"]
+categories = ["retired pardalis"]
 banner = "img/ambilobe/bleu/bleu"
 +++
 

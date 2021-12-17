@@ -2,7 +2,7 @@
 title = "Button"
 date = "2019-07-14"
 tags = ["Jude", "Alla", "button", "Flash", "Judy", "JJ"]
-categories = ["retired ambilobe"]
+categories = ["retired pardalis"]
 banner = "img/ambilobe/button/button"
 +++
 

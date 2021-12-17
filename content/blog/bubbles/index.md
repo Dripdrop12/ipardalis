@@ -2,7 +2,7 @@
 title = "Bubbles"
 date = "2019-08-16"
 tags = ["Jude", "Alla", "bubbles", "Flash", "Judy", "JJ"]
-categories = ["retired-ambilobe"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/bubbles/bubbles"
 +++
 

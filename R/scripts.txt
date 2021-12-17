@@ -4,6 +4,6 @@ find . -name '*.jpg' -exec mogrify -format webp {} +
 
 mogrify -format webp zava.jpg
 
-ffmpeg -i jacksonimelda.jpg jacksonimelda.webp
+ffmpeg -i zavamanjaya.jpg zavamanjaya.webp
 
 for i in *.jpg; do ffmpeg -i "$i" "${i%.*}.webp"; done

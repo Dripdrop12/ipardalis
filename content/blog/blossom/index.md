@@ -2,7 +2,7 @@
 title = "Blossom"
 date = "2019-07-09"
 tags = ["blossom", "jude", "alla", "JJ"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/blossom/blossom1"
 +++
 
