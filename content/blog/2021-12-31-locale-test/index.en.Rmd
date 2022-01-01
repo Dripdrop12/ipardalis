@@ -1,0 +1,119 @@
+---
+title: Community Funded Genetic Test for Furcifer pardalis Haplotype
+author: Jonathan Hill
+date: '2021-12-31'
+slug: locale-test
+categories:
+  - genetics
+tags: []
+banner: img/genetics/haplogroup
+---
+
+Panther Chameleons (Furcifer pardalis) display an amazing variety of colors within distinct locales that are physically separated by mountains, oceans, rivers and mangrove forests. The Panther Chameleon hobby has never had a reliable way to test animals for locale origin, and we have had to rely on import labels, guessing locale based off of male phenotypes, or what the breeder one gen upstream said. However, females do not display their phenotype and have always been "proven out" by breeding with a male from an assumed locale and observing their offspring to determine if they look like we would expect. There is significant overlap among phenotypes across locales, and it requires expert knowledge to determine an animal's true locale. It may even be impossible without good lineage information. This has resulted in a lot of locale crosses in captive breeding projects. Some locale crosses have had sterility issues and many hobbyists would prefer to work with pure locale animals. Other hobbyists would just like to know the locale breakdown in a given animal that they would like to breed.
+
+**This genetic test could fundamentally change our hobby and give us scientifically-backed evidence of locale lineage for the first time!** 
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/locale-test/widget/medium/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
+
+## Funding Tiers:
+
+Tier 1 ($150)
+- 1x free test during R&D phase
+
+Tier 2 ($300)
+- 2x free tests during R&D phase
+
+Tier 3 ($500)
+- Listed as a platinum sponsor on ipardalis.com
+- 3x free tests
+
+# Quick Primer
+
+Mitochondrial DNA (mtDNA) is inherited from the female and not recombined with nuclear (nuDNA) from the male during sexual reproduction. Therefore, any changes to the mtDNA can be directly attributed to a mutation somewhere up the maternal ancenstry tree because it is inherited from the female. These mutations occur roughly once every couple hundred generations, and neither the USA nor the EU have produced enough generations of Furcifer pardalis in captivity to expect more than one mtDNA mutation away from their wild ancestors. Maternal haplogroups are a very good way of looking back in time to a common ancestor and placing our captive animals in a specific location in the wild. [Here](https://ase.tufts.edu/chemistry/hhmi/documents/Protocols/Maternal%20Ancestry_Introduction_Reworked_Aug_25_2011.pdf) is a decent intro if you want to read more.
+
+# Test Methodology
+
+*We've done our best to translate Grbic et al. 2015 into trade-relevant language with locale names instead of haplotypes, but it is pretty technical. Feel free to jump on the comment thread below and let us know if you have any questions.*
+ 
+This test will compare each submission to baseline data collected in 2011 from 324 wild specimens in Madagascar, sequenced and geo-coded by [Grbic et al, 2015](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13241). We expect the test's requirement to be a piece of shed skin the size of a quarter or larger, but we will need to run a few examples to see if the genetic material found in chameleon skin is sufficient (it is for many lizard species). 
+
+We will examine both the mtDNA and nuDNA in the sample and match it with the 11 haplotypes identified in Grbic et al. Wild Furcifer pardalis populations are isolated enough that locales have a minumum of 6 unique genetic mutations that are not shared by any other population. As we discussed earlier, that genetic distance is much larger than any cb line could have developed in captivity. There are a lot more than 11 locales listed on [MadCham](https://www.madcham.de/en/category/chamaeleons-habitatsdaten/lokalformen-von-furcifer-pardalis/), so there will be gaps in the initial test. See the Haplotype Key below for details.
+
+In their paper, Grbic et al. created this **genealogical UMP network** to map out the mutations that define the haplotypes:
+
+![](/img/genetics/haplogroup.jpg)
+<small>Panther chameleon mtDNA genealogical UMP (Cassens et al. 2005) network. Haplotypes are represented with coloured circles, the sizes of which are proportional to the number of individuals (smallest = 1, largest = 72). Inferred missing haplotypes are shown as small black dots, and each line indicates a mutational change (numbers of mutations >1 are shown inside larger black dots). Haplotypes are grouped into colour-coded haplogroups; sub-haplogroups 1a and 1b correspond to samples from the northwest coast and the island Nosy Komba, respectively. Haplotypes in white with grey border circles correspond to animals from Reunion (R) and the pet market (L1–L3). (Grbic et al., 2015)</small>
+
+### Haplotype Key
+|Locale  | Haplotype |
+|------------------ | -------------:|
+|Ambanja  | 1a |
+|Nosy Komba  | 1b |
+|Nosy Be   |   2 |
+|Ambilobe East | 3 |
+|Ankify | 4* |
+|Amber Mountain, Ambilobe East, Antseranana (Diego Suarez) | 5 |
+|Amber Mountain | 6 |
+|Ambilobe West, Daraina | 7 |
+|Vohemar | 8 |
+|East Coast, Nosy Boraha | 9 |
+|Andapa, Sambava, Antalaha | 10 |
+|Between Sambava and Vohemar | 11** |
+<small>
+\* 1 sample
+** 2 samples
+</small>
+
+---
+
+![](/img/genetics/haplotype_map.jpg)
+
+### Ambilobe
+
+We usually think of Ambilobe as a coherent locale. However, this analysis shows that the eastern population between Ambilobe and Sirama is quite different from the western population found along the road towards Daraina. There is a mountain range that runs from the northeast of Ambilobe down to the southwest, and my guess is that is why there is this east-west divide. The western population is also at a much higher elevation, so there probably is some level of local adaptation occurring there. Our test could help identify the animals that could benefit from some cooler nighttime temps like their higher elevation ancestors if they're in haplotype 7 vs the lowland haplotype 3 group. I'm very curious to see how my Ambilobe shake out!
+
+### Ankify
+I looked up the exact coordinates of the pink dot (haplotype 4). That sample was taken just north of the mangrove forest that separates Ambanja from Ankify, in Ankify!
+
+<img src="ankify_loc.png" style="width:50%;" /> 
+
+Haplotype 4 only had 1 individual in it, but this is initial evidence that the Ankify population does not breed with other Ambanja in the wild because there was a noticeable genetic separation of 21 unique mutations relative to the main Ambanja haplotype. Interestingly, Ankify split off the tree before Ambilobe. There are a number of other "sub-locales" or small distinct populations along the northwest coast between Ambanja and Ambilobe as well as within the Ambanja range. It would be amazing if we could get better data on some of those populations.
+
+### Andapa, Antalaha, and Sambava
+Grbic et al. identified a single haplotype that includes what we would commonly consider three distinct locales. If you look at the light green, haplotype 10, in the UMP network (above), you will see it is one of the largest samples. There are very few mutations separating each node, but lots of nodes. That means that there is enough movement and interbreeding among these three locales that a genetic test will probably not be able to distinguish between them. We'll see if there is an identifying mutation as we get more samples, but initially the test will just report haplotype 10 for all three.
+
+# Results
+
+We will report the % match for each available haplotype followed by % unknown. There are a few popular locales that Grbic et al. did not sequence (Tamatave, Ankaramy, etc), so those will be gaps that we need to fill in future iterations of the test.
+
+For Example:
+
+- 50% haplotype 3 (Ambilobe East)
+- 25% haplotype 7 (Ambilobe West, Daraina)
+- 25% Unknown
+
+## Post-R&D Cost
+
+- $75 per test
+
+# Sponsors
+
+Huge thanks to everyone who pitched in! I'm extremely happy to see how many people dug into their pockets during this holiday season and supported this project.
+
+Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Correy Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty
+
+## Tier 1
+
+Heather Hallen-Adams, Christian Schmidt (Monterey Chameleons), Jennifer Betz (Chamelicious Chameleons)
+
+## Tier 2
+
+## Platinum Sponsors
+
+These platinum sponsors are companies that decided to step up and improve the science of chameleon keeping in a big way. Everyone who benefits from this new capability will be able to look back and recognize their historic contribution to the hobby, and I seriously hope you give them the props (and sales) they deserve!
+
+1. [Spectrum Chameleon Co.](https://spectrumchameleonco.com/)
+2. [West Coast Chameleon Brothers](https://www.chameleonbros.com/)
+3. [FramsChams Chameleon Breeders](https://framschams.com/)
+4. [iPardalis](https://ipardalis.com)
