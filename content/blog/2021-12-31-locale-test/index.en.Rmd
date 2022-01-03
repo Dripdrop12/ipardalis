@@ -35,6 +35,9 @@ Tier 3 ($500)
 
 Mitochondrial DNA (mtDNA) is inherited from the female and not recombined with nuclear (nuDNA) from the male during sexual reproduction. Therefore, any changes to the mtDNA can be directly attributed to a mutation somewhere up the maternal ancenstry tree because it is inherited from the female. These mutations occur roughly once every couple hundred generations, and neither the USA nor the EU have produced enough generations of Furcifer pardalis in captivity to expect more than one mtDNA mutation away from their wild ancestors. Maternal haplogroups are a very good way of looking back in time to a common ancestor and placing our captive animals in a specific location in the wild. [Here](https://ase.tufts.edu/chemistry/hhmi/documents/Protocols/Maternal%20Ancestry_Introduction_Reworked_Aug_25_2011.pdf) is a decent intro if you want to read more.
 
+**Haplotype**: a combination of alleles or a set of single nucleotide polymorphisms present on the same chromosome that are passed along generations from a single parent.
+**Haplogroup**: a group of simiar haplotypes that share a common ancestor
+
 # Test Methodology
 
 *We've done our best to translate Grbic et al. 2015 into trade-relevant language with locale names instead of haplotypes, but it is pretty technical. Feel free to jump on the comment thread below and let us know if you have any questions.*
@@ -88,7 +91,7 @@ Grbic et al. identified a single haplotype that includes what we would commonly 
 
 # Results
 
-We will report the % match for each available haplotype followed by % unknown. There are a few popular locales that Grbic et al. did not sequence (Tamatave, Ankaramy, etc), so those will be gaps that we need to fill in future iterations of the test.
+We will report the mtDNA haplogroup match for each available haplogroup followed by % unknown. There are a few popular locales that Grbic et al. did not sequence (Tamatave, Ankaramy, etc), so those will be gaps that we need to fill in future iterations of the test.
 
 For Example:
 
@@ -104,7 +107,7 @@ For Example:
 
 Huge thanks to everyone who pitched in! I'm extremely happy to see how many people dug into their pockets during this holiday season and supported this project.
 
-Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Correy Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty
+Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Corey Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty, Zachary Williford, Emily Lunsford
 
 ## Tier 1
 
