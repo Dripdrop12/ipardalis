@@ -128,13 +128,15 @@ After we finish developing the test, they should be available to the general pub
 
 Huge thanks to everyone who pitched in! I'm extremely happy to see how many people dug into their pockets during this holiday season and supported this project.
 
-Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Corey Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty, Emily Lunsford, Jake Dynnis (Eye Candy Chameleons), Nathan Boyd, Bill Strand (Dragonstrand), Greg Meehan
+Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Corey Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty, Emily Lunsford, Jake Dynnis (Eye Candy Chameleons), Nathan Boyd, Bill Strand (Dragonstrand), Greg Meehan, Elliot Imler, Jason Townsend, King Chams, Adam James (Lonestar Panthers)
 
 ## Tier 1
 
-Heather Hallen-Adams, Christian Schmidt (Monterey Chameleons), Jennifer Betz (Chamelicious Chameleons), Chris Young, Zachary Williford
+Heather Hallen-Adams, Jennifer Betz (Chamelicious Chameleons), Chris Young, Zachary Williford, Robert Hill
 
 ## Tier 2
+
+Christian Schmidt (Monterey Chameleons)
 
 ## Platinum Sponsors
 
@@ -146,3 +148,5 @@ These platinum sponsors are companies that decided to step up and improve the sc
 4. [iPardalis](https://ipardalis.com)
 5. [Coastal Camden Chameleons]()
 6. [Nature's Van Gogh](https://www.instagram.com/naturesvangogh/)
+7. [McZoo Exotics](https://mczooexotics.com/)
+8. [Roberson Reptiles](https://www.robersonreptiles.com)
