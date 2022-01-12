@@ -35,4 +35,5 @@ babies:
   gender: Female
   image: /img/babies/20210725/available/F7
   price: 399
+  sold: true
 

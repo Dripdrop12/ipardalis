@@ -128,7 +128,7 @@ After we finish developing the test, they should be available to the general pub
 
 Huge thanks to everyone who pitched in! I'm extremely happy to see how many people dug into their pockets during this holiday season and supported this project.
 
-Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Corey Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty, Emily Lunsford, Jake Dynnis (Eye Candy Chameleons), Nathan Boyd, Bill Strand (Dragonstrand), Greg Meehan, Elliot Imler, Jason Townsend, King Chams, Adam James (Lonestar Panthers)
+Donald Hedger, Stephanie Payne, Debbie Tobar, Erik Flores (Hill Country Chameleons), Julie Mokry, Leigh Hrutkay (Cloud9Chameleons), Corey Zetterman, Nicole Park, Isaac Martin Giacobone Schwartz, Sean Fogarty, Emily Lunsford, Jake Dynnis (Eye Candy Chameleons), Nathan Boyd, Bill Strand (Dragonstrand), Greg Meehan, Elliot Imler, Jason Townsend, King Chams, Adam James (Lonestar Panthers), Sarah Kelehear
 
 ## Tier 1
 
