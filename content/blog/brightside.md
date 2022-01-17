@@ -76,3 +76,21 @@ Dam
 *WC*
 
 {{< gallery dir="img/ambilobe/lineage/Gambit" />}}
+
+---
+
+### Legion
+
+*WC*
+
+{{< gallery dir="img/ambilobe/lineage/Legion" />}}
+
+---
+
+### Magik
+
+Sire
+: [Marley]({{< ref "/blog/canvas.md#marley" >}})
+
+Dam
+: Unknown

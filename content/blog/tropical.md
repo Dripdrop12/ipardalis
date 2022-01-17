@@ -31,3 +31,25 @@ Sire
 
 Dam
 : [Test]({{< ref "/blog/panthercreek.md#test" >}})
+
+---
+
+### Sonny
+
+{{< gallery dir="img/ambilobe/lineage/Sonny" />}}
+
+Sire
+: [Giga-vony (Old Yeller)]({{< ref "/blog/kammerflage.md#giga-vony-old-yeller" >}})
+
+Dam
+: [Fanala-Andriana (Frost Queen)]({{< ref "/blog/kammerflage.md#fanala-andriana-frost-queen" >}})
+
+---
+
+### Sonny's Daughter
+
+Sire
+: [Sonny]({{< ref "/blog/tropical.md#sonny" >}})
+
+Dam
+: Unknown

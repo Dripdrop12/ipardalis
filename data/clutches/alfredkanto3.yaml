@@ -32,6 +32,10 @@ babies:
   gender: Male
   image: /img/babies/20210720/available/M8
   price: 399
+- name: M9
+  gender: Male
+  image: /img/babies/20210720/available/M9
+  price: 449
 - name: M10
   gender: Male
   image: /img/babies/20210720/available/M10

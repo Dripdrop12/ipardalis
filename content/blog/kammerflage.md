@@ -262,10 +262,26 @@ Dam
 
 ### Haran-dranomasina (Coral)
 
+{{< gallery dir="img/ambilobe/lineage/Coral" />}}
+
 Sire
 : Unknown
 
 Dam
 : Unkown
 
-{{< gallery dir="img/ambilobe/lineage/Coral" />}}
+---
+
+### Fanala-Andriana (Frost Queen)
+
+Sire
+: [Marina-ge (Real G)]({{< ref "/blog/kammerflage.md#marina-ge-real-g" >}})
+
+Dam
+: Mazava-ratsy (Twilight)
+
+---
+
+### Marina-ge (Real G)
+
+{{< gallery dir="img/ambilobe/lineage/Real G" />}}
