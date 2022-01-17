@@ -27,6 +27,7 @@ babies:
   gender: Male
   image: /img/babies/20210720/available/M7
   price: 449
+  sold: true
 - name: M8
   gender: Male
   image: /img/babies/20210720/available/M8
