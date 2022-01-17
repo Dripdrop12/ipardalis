@@ -8,7 +8,7 @@ banner = "img/ambilobe/maro/maro"
 
 {{< load-photoswipe >}}
 
-Maro (F3) is a great edition to our YBBB project. We have been tracking the WC Legion line ever since we saw Jeremy Booker acquire him years ago. This Sammy x Storm pairing finally carries those genetics with nice yellow bodies on both sides.
+Maro (F3) is a great edition to our YBBB project. We have been tracking the WC Legion line ever since we saw Jeremy Booker acquire him years ago. This great Chi-town Chameleons Sammy x Storm pairing finally carries those genetics with nice yellow bodies on both sides!
 
 {{< gallery dir="/img/ambilobe/maro" />}}
 
