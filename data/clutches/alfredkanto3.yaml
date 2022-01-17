@@ -34,7 +34,7 @@ babies:
 - name: M10
   gender: Male
   image: /img/babies/20210720/available/M10
-  price: 425
+  price: 475
 - name: F1
   gender: Female
   image: /img/babies/20210720/available/F1
