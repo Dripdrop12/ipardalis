@@ -35,6 +35,10 @@ babies:
   gender: Male
   image: /img/babies/20210720/available/M10
   price: 425
+- name: F1
+  gender: Female
+  image: /img/babies/20210720/available/F1
+  price: 349
 - name: F2
   gender: Female
   image: /img/babies/20210720/available/F2
