@@ -7,14 +7,30 @@ desc: |
 laid: 2021-01-16
 hatchstart: 2021-10-03
 hatchend: 2021-10-08
-shipping: 3 months after hatch
+shipping: 2022-01-08
 hatchnum: 19
 clutchsize: 20
 deposit: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
-listed: false
+listed: true
 maleprice: 375
 femaleprice: 325
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20211003/available/M1
+  price: 325
+- name: M2
+  gender: Male
+  image: /img/babies/20211003/available/M2
+  price: 425
+- name: M3
+  gender: Male
+  image: /img/babies/20211003/available/M3
+  price: 399
+- name: M4
+  gender: Male
+  image: /img/babies/20211003/available/M4
+  price: 449
