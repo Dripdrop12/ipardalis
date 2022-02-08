@@ -10,11 +10,43 @@ hatchend: 2021-10-15
 shipping: 3 months after hatch
 hatchnum: 31
 clutchsize: 33
-deposit: true
+listed: true
+deposit: false
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20210927/available/M1
+  price: 499
+- name: M2
+  gender: Male
+  image: /img/babies/20210927/available/M2
+  price: 450
+- name: M3
+  gender: Male
+  image: /img/babies/20210927/available/M3
+  price: 450
+- name: M4
+  gender: Male
+  image: /img/babies/20210927/available/M4
+  price: 450
+- name: M5
+  gender: Male
+  image: /img/babies/20210927/available/M5
+  price: 499
+- name: M6
+  gender: Male
+  image: /img/babies/20210927/available/M6
+  price: 499
+- name: M7
+  gender: Male
+  image: /img/babies/20210927/available/M7
+  price: 450
+- name: F1
+  gender: Female
+  image: /img/babies/20210927/available/F1
+  price: 425
