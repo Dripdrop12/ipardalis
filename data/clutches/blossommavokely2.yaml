@@ -75,3 +75,7 @@ babies:
   gender: Male
   image: /img/babies/20210808/available/M12
   price: 475
+- name: M13
+  gender: Male
+  image: /img/babies/20210808/available/M13
+  price: 449

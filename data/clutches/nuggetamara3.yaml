@@ -36,3 +36,7 @@ babies:
   image: /img/babies/20211003/available/M4
   price: 449
   sold: true
+- name: M5
+  gender: Male
+  image: /img/babies/20211003/available/M5
+  price: 449
