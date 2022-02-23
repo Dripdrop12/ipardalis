@@ -21,16 +21,15 @@ babies:
 - name: M1
   gender: Male
   image: /img/babies/20211003/available/M1
-  price: 325
-  sold: true
+  price: 350
 - name: M2
   gender: Male
   image: /img/babies/20211003/available/M2
-  price: 425
+  price: 449
 - name: M3
   gender: Male
   image: /img/babies/20211003/available/M3
-  price: 399
+  price: 425
 - name: M4
   gender: Male
   image: /img/babies/20211003/available/M4
@@ -39,4 +38,8 @@ babies:
 - name: M5
   gender: Male
   image: /img/babies/20211003/available/M5
+  price: 449
+- name: M6
+  gender: Male
+  image: /img/babies/20211003/available/M6
   price: 449
