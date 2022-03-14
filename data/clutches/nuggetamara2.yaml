@@ -32,6 +32,7 @@ babies:
   gender: Male
   image: /img/babies/20210722/available/M5
   price: 449
+  sold: true
 - name: F1
   gender: Female
   image: /img/babies/20210722/available/F1
