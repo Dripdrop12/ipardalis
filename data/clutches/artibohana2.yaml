@@ -18,20 +18,10 @@ soldoutfemale: true
 maleprice: 450
 femaleprice: 399
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20210915/available/M1
-  price: 449
-  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20210915/available/M2
   price: 549
-- name: M3
-  gender: Male
-  image: /img/babies/20210915/available/M3
-  price: 499
-  sold: true
 - name: M4
   gender: Male
   image: /img/babies/20210915/available/M4

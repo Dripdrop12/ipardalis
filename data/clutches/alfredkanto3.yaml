@@ -18,44 +18,14 @@ soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-- name: M8
-  gender: Male
-  image: /img/babies/20210720/available/M8
-  price: 449
-  sold: true
-- name: M9
-  gender: Male
-  image: /img/babies/20210720/available/M9
-  price: 449
-  sold: true
-- name: M10
-  gender: Male
-  image: /img/babies/20210720/available/M10
-  price: 449
-  sold: true
 - name: F1
   gender: Female
   image: /img/babies/20210720/available/F1
   price: 399
-- name: F2
-  gender: Female
-  image: /img/babies/20210720/available/F2
-  price: 299
-  sold: true
-- name: F3
-  gender: Female
-  image: /img/babies/20210720/available/F3
-  price: 449
-  sold: true
 - name: F4
   gender: Female
   image: /img/babies/20210720/available/F4
   price: 325
-- name: F6
-  gender: Female
-  image: /img/babies/20210720/available/F6
-  price: 399
-  sold: true
 - name: F7
   gender: Female
   image: /img/babies/20210720/available/F7
