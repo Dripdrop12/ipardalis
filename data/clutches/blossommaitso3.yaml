@@ -11,11 +11,43 @@ shipping: 2021-09-20
 hatchnum: 33
 clutchsize: 33
 deposit: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
 maleprice: 450
-femaleprice: 399
+femaleprice: 399e
 soldout: false
 babies:
-
+- name: F1
+  gender: female
+  image: /img/babies/20210619/available/F1
+  price: 325
+- name: F2
+  gender: female
+  image: /img/babies/20210619/available/F2
+  price: 275
+- name: F3
+  gender: female
+  image: /img/babies/20210619/available/F3
+  price: 349
+- name: F4
+  gender: female
+  image: /img/babies/20210619/available/F4
+  price: 399
+- name: F5
+  gender: female
+  image: /img/babies/20210619/available/F5
+  price: 349
+- name: F6
+  gender: female
+  image: /img/babies/20210619/available/F6
+  price: 349
+- name: F7
+  gender: female
+  image: /img/babies/20210619/available/F7
+  price: 349
+- name: F8
+  gender: female
+  image: /img/babies/20210619/available/F8
+  price: 325

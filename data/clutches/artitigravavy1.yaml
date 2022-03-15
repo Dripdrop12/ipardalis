@@ -22,3 +22,11 @@ babies:
   gender: Male
   image: /img/babies/20210628/available/M4
   price: 450
+- name: F1
+  gender: Female
+  image: /img/babies/20210628/available/F1
+  price: 325
+- name: F2
+  gender: Female
+  image: /img/babies/20210628/available/F2
+  price: 325
