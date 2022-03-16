@@ -3,7 +3,7 @@ title = "Manjaka"
 date = "2020-12-01"
 tags = ["manjaka", "arlo", "pyro", "sparkles"]
 categories = ["ambilobe-sires"]
-banner = "img/ambilobe/manjaka/manjaka5"
+banner = "img/ambilobe/manjaka/manjaka2"
 +++
 
 {{< load-photoswipe >}}
