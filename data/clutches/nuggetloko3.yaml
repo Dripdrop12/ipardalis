@@ -22,10 +22,12 @@ babies:
   gender: Male
   image: /img/babies/20210927/available/M2
   price: 450
+  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20210927/available/M3
   price: 450
+  sold: true
 - name: F1
   gender: Female
   image: /img/babies/20210927/available/F1
