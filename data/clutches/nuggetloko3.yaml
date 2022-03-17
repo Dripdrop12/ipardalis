@@ -32,3 +32,4 @@ babies:
   gender: Female
   image: /img/babies/20210927/available/F1
   price: 425
+  sold: true
