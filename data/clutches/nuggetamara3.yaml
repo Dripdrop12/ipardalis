@@ -18,8 +18,7 @@ listed: true
 maleprice: 375
 femaleprice: 325
 babies:
-- name: M3
+- name: M7
   gender: Male
-  image: /img/babies/20211003/available/M3
+  image: /img/babies/20211003/available/M7
   price: 499
-  sold: true
