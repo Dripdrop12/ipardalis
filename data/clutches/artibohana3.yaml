@@ -8,11 +8,11 @@ laid: 2021-06-24
 hatchstart: 2022-02-21
 hatchend: Not yet
 shipping: 3 months after hatch
-hatchnum: 4
+hatchnum: 6
 clutchsize: 14
 deposit: true
 soldout: false
-soldoutmale: false
+soldoutmale: true
 soldoutfemale: false
 maleprice: 450
 femaleprice: 399
