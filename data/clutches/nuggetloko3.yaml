@@ -10,7 +10,7 @@ hatchend: 2021-10-15
 shipping: 3 months after hatch
 hatchnum: 31
 clutchsize: 33
-listed: true
+listed: false
 deposit: false
 soldout: false
 soldoutmale: false
@@ -27,6 +27,7 @@ babies:
   gender: Male
   image: /img/babies/20210927/available/M8
   price: 499
+  sold: true
 - name: F1
   gender: Female
   image: /img/babies/20210927/available/F1
