@@ -49,7 +49,7 @@ Dam
 ### Shirley
 
 Sire
-: [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}})
+: [Landy (Silk)]({{< ref "/blog/kammerflage.md#landy-silk" >}})
 
 Dam
 : [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
