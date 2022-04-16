@@ -5,12 +5,12 @@ filial: F4-CG11
 desc: |
   Really awesome ybbb potential here :)
 laid: 2021-08-15
-hatchstart: Not Yet
+hatchstart: 2022-04-15
 hatchend: Not Yet
 shipping: 3 months after hatch
 hatchnum: 0
 clutchsize: 28
-deposit: false
+deposit: true
 listed: false
 soldout: false
 soldoutmale: false
