@@ -10,7 +10,8 @@ hatchend: 2021-12-07
 shipping: 3 months after hatch
 hatchnum: 20
 clutchsize: 21
-deposit: true
+listed: true
+deposit: false
 listed: false
 soldout: false
 soldoutmale: true
@@ -18,3 +19,23 @@ soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20211204/available/F1
+  price: 399
+- name: F2
+  gender: Female
+  image: /img/babies/20211204/available/F2
+  price: 399
+- name: F3
+  gender: Female
+  image: /img/babies/20211204/available/F3
+  price: 399
+- name: F4
+  gender: Female
+  image: /img/babies/20211204/available/F4
+  price: 399
+- name: F5
+  gender: Female
+  image: /img/babies/20211204/available/F5
+  price: 399
