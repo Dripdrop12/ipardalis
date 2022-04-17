@@ -3,14 +3,14 @@ dam: loko
 image: /img/ambilobe/nuggetloko
 filial: F4-CG13
 desc: |
-  This is a YBBB pairing that'll create some of the best in the USA. Objectively.
+  A great group of YBBB Ambilobe
 laid: 2021-01-25
 hatchstart: 2021-09-27
 hatchend: 2021-10-15
 shipping: 3 months after hatch
 hatchnum: 31
 clutchsize: 33
-listed: false
+listed: true
 deposit: false
 soldout: false
 soldoutmale: false
@@ -18,18 +18,35 @@ soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-- name: M2
-  gender: Male
-  image: /img/babies/20210927/available/M2
-  price: 349
-  sold: true
-- name: M8
-  gender: Male
-  image: /img/babies/20210927/available/M8
-  price: 499
-  sold: true
-- name: F1
+- name: F2
   gender: Female
-  image: /img/babies/20210927/available/F1
+  image: /img/babies/20210927/available/F2
+  price: 350
+- name: F3
+  gender: Female
+  image: /img/babies/20210927/available/F3
+  price: 299
+- name: F4
+  gender: Female
+  image: /img/babies/20210927/available/F4
+  price: 350
+- name: F5
+  gender: Female
+  image: /img/babies/20210927/available/F5
+  price: 325
+- name: F6
+  gender: Female
+  image: /img/babies/20210927/available/F6
+  price: 499
+- name: F7
+  gender: Female
+  image: /img/babies/20210927/available/F7
   price: 425
-  sold: true
+- name: F8
+  gender: Female
+  image: /img/babies/20210927/available/F8
+  price: 350
+- name: F9
+  gender: Female
+  image: /img/babies/20210927/available/F9
+  price: 425
