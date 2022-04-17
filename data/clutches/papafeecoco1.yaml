@@ -12,7 +12,6 @@ hatchnum: 20
 clutchsize: 21
 listed: true
 deposit: false
-listed: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false
