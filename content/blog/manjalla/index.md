@@ -2,7 +2,7 @@
 title = "manjalla"
 date = "2020-12-05"
 tags = ["manjalla", "arlo", "pyro", "sparkles"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/manjalla/manjalla"
 +++
 
