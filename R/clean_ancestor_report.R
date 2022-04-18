@@ -21,12 +21,12 @@ create_lineage_post <- function(
   
   # Create blog directory and delete old gramps data
   breeder_dir <- glue("content/blog/{breeder}/")
-  gramps_report <- path(breeder_dir, "chams_det_ancestor_report.html")
+  gramps_report <- path(breeder_dir, "Family Tree 1_det_ancestor_report.html")
   dir_create(breeder_dir)
-  if (!dir_exists("~/chams_det_ancestor_report/")) stop("Re-run Gramps Report")
-  dir_copy("~/chams_det_ancestor_report/", breeder_dir, overwrite = TRUE)
-  dir_delete("~/chams_det_ancestor_report/")
-  file_move("~/chams_det_ancestor_report.html", gramps_report)
+  if (!dir_exists("~/Family Tree 1_det_ancestor_report/")) stop("Re-run Gramps Report")
+  dir_copy("~/Family Tree 1_det_ancestor_report/", breeder_dir, overwrite = TRUE)
+  dir_delete("~/Family Tree 1_det_ancestor_report/")
+  file_move("~/Family Tree 1_det_ancestor_report.html", gramps_report)
   
   read_lines("content/blog/arti/index.md") %>%
     str_replace_all(regex("arti", ignore_case = TRUE), breeder) %>% 
@@ -48,7 +48,7 @@ clean_txt <- function(location, breeder) {
     str_replace_all(" in ", " at ") %>%
     str_replace("born at", "produced by") %>%
     str_replace("died at", "died with") %>%
-    str_replace("/home/jon/chams_det_ancestor_report/", "") %>%
+    str_replace("/home/jon/Family Tree 1_det_ancestor_report/", "") %>%
     str_remove("</html>") %>%
     str_remove("</body>")
 }
