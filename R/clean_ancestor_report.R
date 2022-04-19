@@ -20,7 +20,7 @@ create_lineage_post <- function(
   )) {
   
   # Create blog directory and delete old gramps data
-  breeder_dir <- glue("content/blog/{breeder}/")
+  breeder_dir <- glue("content/blog/{str_to_lower(breeder)}/")
   gramps_report <- path(breeder_dir, "Family Tree 1_det_ancestor_report.html")
   dir_create(breeder_dir)
   if (!dir_exists("~/Family Tree 1_det_ancestor_report/")) stop("Re-run Gramps Report")
@@ -29,8 +29,9 @@ create_lineage_post <- function(
   file_move("~/Family Tree 1_det_ancestor_report.html", gramps_report)
   
   read_lines("content/blog/arti/index.md") %>%
+    add_title(breeder) %>%
     str_replace_all(regex("arti", ignore_case = TRUE), breeder) %>% 
-    replace_gramps_txt(clean_txt(gramps_report, breeder)) %>%
+    replace_gramps_txt(clean_txt(gramps_report)) %>%
     add_lineage(sire, dam, filial) %>%
     add_tags(tags) %>%
     update_category(sex) %>%
@@ -40,7 +41,7 @@ create_lineage_post <- function(
   file.edit(glue("content/blog/{breeder}/index.md"))
 } 
 
-clean_txt <- function(location, breeder) {
+clean_txt <- function(location) {
   
   read_lines(location) %>%
     .[-(1:grep("<body>", .))] %>%
@@ -68,21 +69,21 @@ add_lineage <- function(txt, sire, dam, filial) {
   filial_loc <- str_which(txt, "Filial") + 1
   
   if (sire$loc == "") {
-    sire_txt <- glue(": [{sire$name}]({{{{< ref \"/blog/{sire$name}/index.md\" >}}}})")
+    sire_txt <- glue(": [{str_to_upper(sire$name)}]({{{{< ref \"/blog/{str_to_lower(sire$name)}/index.md\" >}}}})")
   } else {
     sire_id <- str_to_lower(sire$name) %>% 
       str_remove_all("[()]") %>% 
       str_replace_all("[:SPACE:]", "-") 
-    sire_txt <- glue(": [{sire$name}]({{{{< ref \"/blog/{sire$loc}#{sire_id}\" >}}}})")
+    sire_txt <- glue(": [{str_to_upper(sire$name)}]({{{{< ref \"/blog/{sire$loc}#{sire_id}\" >}}}})")
   }
   
   if (dam$loc == "") {
-    dam_txt <- glue(": [{dam$name}]({{{{< ref \"/blog/{dam$name}/index.md\" >}}}})")
+    dam_txt <- glue(": [{str_to_upper(dam$name)}]({{{{< ref \"/blog/{str_to_lower(dam$name)}/index.md\" >}}}})")
   } else {
     dam_id <- str_to_lower(dam$name) %>% 
       str_remove_all("[()]") %>% 
       str_replace_all("[:SPACE:]", "-") 
-    dam_txt <- glue(": [{dam$name}]({{{{< ref \"/blog/{dam$loc}#{dam_id}\" >}}}})")
+    dam_txt <- glue(": [{str_to_upper(dam$name)}]({{{{< ref \"/blog/{dam$loc}#{dam_id}\" >}}}})")
   }
   
   filial_txt <- glue(": *{filial}*")
@@ -105,7 +106,7 @@ add_tags <- function(txt, tags) {
 
 update_category <- function(txt, sex) {
   cat_loc <- str_which(txt, "categories = ")
-  sex <- tolower(sex)
+  sex <- str_to_lower(sex)
   if (sex == "male") {
     cat_text <- "ambilobe-sires"
   } else {
@@ -122,3 +123,11 @@ add_birth_date <- function(txt, birth) {
   
   return(txt)
 }
+
+add_title <- function(txt, breeder) {
+  title_loc <- str_which(txt, "title = ")
+  txt[title_loc] <- glue("title = \"{str_to_upper(breeder)}\"")
+  
+  return(txt)
+}
+
