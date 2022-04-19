@@ -69,21 +69,21 @@ add_lineage <- function(txt, sire, dam, filial) {
   filial_loc <- str_which(txt, "Filial") + 1
   
   if (sire$loc == "") {
-    sire_txt <- glue(": [{str_to_upper(sire$name)}]({{{{< ref \"/blog/{str_to_lower(sire$name)}/index.md\" >}}}})")
+    sire_txt <- glue(": [{str_to_title(sire$name)}]({{{{< ref \"/blog/{str_to_lower(sire$name)}/index.md\" >}}}})")
   } else {
     sire_id <- str_to_lower(sire$name) %>% 
       str_remove_all("[()]") %>% 
       str_replace_all("[:SPACE:]", "-") 
-    sire_txt <- glue(": [{str_to_upper(sire$name)}]({{{{< ref \"/blog/{sire$loc}#{sire_id}\" >}}}})")
+    sire_txt <- glue(": [{str_to_title(sire$name)}]({{{{< ref \"/blog/{sire$loc}#{sire_id}\" >}}}})")
   }
   
   if (dam$loc == "") {
-    dam_txt <- glue(": [{str_to_upper(dam$name)}]({{{{< ref \"/blog/{str_to_lower(dam$name)}/index.md\" >}}}})")
+    dam_txt <- glue(": [{str_to_title(dam$name)}]({{{{< ref \"/blog/{str_to_lower(dam$name)}/index.md\" >}}}})")
   } else {
     dam_id <- str_to_lower(dam$name) %>% 
       str_remove_all("[()]") %>% 
       str_replace_all("[:SPACE:]", "-") 
-    dam_txt <- glue(": [{str_to_upper(dam$name)}]({{{{< ref \"/blog/{dam$loc}#{dam_id}\" >}}}})")
+    dam_txt <- glue(": [{str_to_title(dam$name)}]({{{{< ref \"/blog/{dam$loc}#{dam_id}\" >}}}})")
   }
   
   filial_txt <- glue(": *{filial}*")
@@ -126,7 +126,7 @@ add_birth_date <- function(txt, birth) {
 
 add_title <- function(txt, breeder) {
   title_loc <- str_which(txt, "title = ")
-  txt[title_loc] <- glue("title = \"{str_to_upper(breeder)}\"")
+  txt[title_loc] <- glue("title = \"{str_to_title(breeder)}\"")
   
   return(txt)
 }
