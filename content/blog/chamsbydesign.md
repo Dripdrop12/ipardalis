@@ -3,7 +3,7 @@ title = "Lineage: Chameleons by Design"
 date = "2016-03-21"
 tags = ["rick james", "firestarter", "lelafo"]
 categories = ["lineage"]
-banner = "img/ambilobe/lineage/Rick James/rickjames"
+banner = "img/ambilobe/lineage/RickJames/rickjames"
 +++
 
 {{< load-photoswipe >}}
@@ -14,7 +14,7 @@ banner = "img/ambilobe/lineage/Rick James/rickjames"
 
 ### Rick James (WC)
 
-{{< gallery dir="img/ambilobe/lineage/Rick James" />}}
+{{< gallery dir="img/ambilobe/lineage/RickJames" />}}
 
 ---
 

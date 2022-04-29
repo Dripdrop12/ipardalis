@@ -4,7 +4,7 @@ date = "2016-03-21"
 tags = ["zanaka", "alla", "jack", "alfred", "blossom", "Promise Keeper", "Mitselatra (Stormy Weather)", 
 "Herb", "triple"]
 categories = ["lineage"]
-banner = "img/ambilobe/lineage/Promise Keeper/promise_keeper1"
+banner = "img/ambilobe/lineage/PromiseKeeper/promise_keeper1"
 +++
 
 {{< load-photoswipe >}}
@@ -20,7 +20,7 @@ Sire
 Dam
 : [Vony-reny]({{< ref "/blog/kammerflage.md#vony-reny" >}})
 
-{{< gallery dir="/img/ambilobe/lineage/Promise Keeper" />}}
+{{< gallery dir="/img/ambilobe/lineage/PromiseKeeper" />}}
 
 ---
 
