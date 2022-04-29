@@ -285,3 +285,17 @@ Dam
 ### Marina-ge (Real G)
 
 {{< gallery dir="img/ambilobe/lineage/Real G" />}}
+
+---
+
+### Karmba-ady (Cage Combat)
+
+{{< gallery dir="img/ambilobe/lineage/Cage Combat" />}}
+
+Sire
+: Unknown
+
+Dam
+: Unknown
+
+---

@@ -36,9 +36,9 @@ create_lineage_post <- function(
     add_tags(tags) %>%
     update_category(sex) %>%
     add_birth_date(birth) %>%
-    write_lines(glue("content/blog/{breeder}/index.md"))
+    write_lines(glue("content/blog/{str_to_lower(breeder)}/index.md"))
   
-  file.edit(glue("content/blog/{breeder}/index.md"))
+  file.edit(glue("content/blog/{str_to_lower(breeder)}/index.md"))
 } 
 
 clean_txt <- function(location) {
