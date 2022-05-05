@@ -30,6 +30,67 @@ Dam
 
 ---
 
+### Ankoso-bolamena (Goldie)
+
+Sire
+: [Ihany-drako (My Friend)]({{< ref "/blog/kammerflage.md#ihany-drako-my-friend" >}})
+
+Dam
+: [Hay-vao (Novel)]({{< ref "/blog/kammerflage.md#hay-vao-novel" >}})
+
+---
+
+### Ihany-drako (My Friend)
+
+Sire
+: [Ampiosonga-fantatra (Also Known As)]({{< ref "/blog/kammerflage.md#ampiosong-fantatra-also-known-as" >}})
+
+Dam
+: Unknown
+
+{{< gallery dir="img/ambilobe/lineage/MyFriend" />}}
+
+---
+
+### Hay-vao (Novel)
+
+Sire
+: [WC Bakaina (Divergent)]({{< ref "/blog/kammerflage.md#bakaina-divergent" >}})
+
+Dam
+: [Goavy (Guava)]({{< ref "/blog/kammerflage.md#goavy-guava" >}})
+
+---
+
+### Ampiosonga-fantatra (Also Known As)
+
+Sire
+: Unknown
+
+Dam
+: Unknown
+
+{{< gallery dir="/img/ambilobe/lineage/Also Known As" />}}
+
+---
+
+### Bakaina (Divergent)
+*WC*
+
+{{< gallery dir="/img/ambilobe/lineage/Divergent" />}}
+
+---
+
+### Goavy (Guava)
+
+Sire
+: [WC Fanitso (Herb)]({{< ref "/blog/kammerflage.md#fanitso-herb" >}})
+
+Dam
+: Unknown
+
+---
+
 ### Vony-reny
 
 Sire
@@ -168,6 +229,18 @@ Dam
 
 ---
 
+### Au-Mirongatra (Gold Rush)
+
+Sire
+: [Landy (Silk)]({{< ref "/blog/kammerflage.md#landy-silk" >}})
+
+Dam
+: [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Gold Rush" />}}
+
+---
+
 ### Landy (Silk)
 
 Sire
@@ -285,6 +358,18 @@ Dam
 ### Marina-ge (Real G)
 
 {{< gallery dir="img/ambilobe/lineage/Real G" />}}
+
+---
+
+### Karmba-ady (Cage Combat)
+
+{{< gallery dir="img/ambilobe/lineage/Cage Combat" />}}
+
+Sire
+: Unknown
+
+Dam
+: Unknown
 
 ---
 
