@@ -46,6 +46,7 @@ babies:
   gender: female
   image: /img/babies/20210619/available/F6
   price: 349
+  sold: true
 - name: F7
   gender: female
   image: /img/babies/20210619/available/F7
