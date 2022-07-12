@@ -6,7 +6,7 @@ desc: |
   Really awesome ybbb potential here :)
 laid: 2021-06-07
 hatchstart: 2022-01-11
-hatchend: Not Yet
+hatchend: 2022-03-01
 shipping: 3 months after hatch
 hatchnum: 30
 clutchsize: 31
@@ -18,11 +18,10 @@ soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20220111/available/M1
-  price: 499
-  sold: true
+- name: F1
+  gender: Female
+  image: /img/babies/20220111/available/F1
+  price: 399
 - name: M2
   gender: Male
   image: /img/babies/20220111/available/M2
@@ -39,3 +38,11 @@ babies:
   gender: Male
   image: /img/babies/20220111/available/M5
   price: 499
+- name: M6
+  gender: Male
+  image: /img/babies/20220111/available/M6
+  price: 549
+- name: M7
+  gender: Male
+  image: /img/babies/20220111/available/M7
+  price: 549
