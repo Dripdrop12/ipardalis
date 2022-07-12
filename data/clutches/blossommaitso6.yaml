@@ -6,7 +6,7 @@ desc: |
   It is hard to figure out which I like more between Blossom and his brother paired against these girls. Another amazing YBBB (yellow body blue bar) option!
 laid: 2021-06-06
 hatchstart: 2022-01-06
-hatchend: 2022-01-11
+hatchend: 2022-02-26
 shipping: 3 months after hatch
 hatchnum: 34
 clutchsize: 35
@@ -22,21 +22,20 @@ babies:
 - name: M1
   gender: male
   image: /img/babies/20220106/available/M1
-  price: 399
-- name: M2
-  gender: male
-  image: /img/babies/20220106/available/M2
-  price: 450
-  sold: true
+  price: 425
 - name: M3
   gender: male
   image: /img/babies/20220106/available/M3
-  price: 549
-- name: M4
-  gender: male
-  image: /img/babies/20220106/available/M4
   price: 499
-  sold: true
+- name: M5
+  gender: male
+  image: /img/babies/20220106/available/M5
+  price: 399
+- name: M6
+  gender: male
+  image: /img/babies/20220106/available/M6
+  price: 549
+
 
 
 
