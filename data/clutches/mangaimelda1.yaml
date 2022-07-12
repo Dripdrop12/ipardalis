@@ -6,39 +6,19 @@ desc: |
   One of the few clutches we have from the Stryfe line via Bleu/Manga. Great pairing!
 laid: 2021-04-30
 hatchstart: 2021-12-03
-hatchend: 2021-12-09
+hatchend: 2022-02-19
 shipping: 3 months after hatch
 hatchnum: 15
 clutchsize: 19
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-- name: M1
+- name: M6
   gender: Male
-  image: /img/babies/20211203/available/M1
-  price: 449
-- name: M2
-  gender: Male
-  image: /img/babies/20211203/available/M2
-  price: 499
-  sold: true
-- name: M3
-  gender: Male
-  image: /img/babies/20211203/available/M3
-  price: 499
-  sold: true
-- name: M4
-  gender: Male
-  image: /img/babies/20211203/available/M4
-  price: 499
-  sold: true
-- name: M5
-  gender: Male
-  image: /img/babies/20211203/available/M5
-  price: 599
-  sold: true
+  image: /img/babies/20211203/available/M6
+  price: 399
