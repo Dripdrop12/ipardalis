@@ -50,4 +50,3 @@ Hatch dates
 Hatch rate
 : 34/35
 
-{{< gallery dir="/img/babies/20220106/sold" />}}
