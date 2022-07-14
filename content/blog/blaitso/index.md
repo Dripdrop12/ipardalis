@@ -17,10 +17,10 @@ Filial
 : *F4-CG13*
 
 Sire
-: [BLOSSOM]({{< ref "/blog/blossom/index.md" >}})
+: [Blossom]({{< ref "/blog/blossom/index.md" >}})
 
 Dam
-: [MAITSO]({{< ref "/blog/maitso/index.md" >}})
+: [Maitso]({{< ref "/blog/maitso/index.md" >}})
 
 ---
 

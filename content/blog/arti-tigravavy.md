@@ -12,7 +12,7 @@ This pairing was between our third generation hold back, [Tigravavy]({{< ref "/b
 
 ---
 
-# [Alfred]({{< ref "/blog/alfred/index.md" >}}) x [Kanto]({{< ref "/blog/kanto/index.md" >}})
+# [Arti]({{< ref "/blog/arti/index.md" >}}) x [Tigravavy]({{< ref "/blog/tigravavy/index.md" >}})
 
 Hatch dates
 : 6/28/2021 - 7/29/2021
