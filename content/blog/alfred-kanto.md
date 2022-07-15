@@ -1,7 +1,7 @@
 +++
 title = "Alfred x Kanto"
 date = "2021-04-13"
-tags = ["Alfred", "kanto", "jude", "bright flame"]
+tags = ["Alfred", "kanto", "jude", "brightflame"]
 categories = ["past clutches"]
 banner = "img/ambilobe/ralph/ralph"
 +++

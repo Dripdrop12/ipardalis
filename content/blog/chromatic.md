@@ -1,7 +1,7 @@
 +++
 title = "Lineage: Chromatic Chameleons"
 date = "2016-03-21"
-tags = ["bleu", "maitso", "mavokely", "loko", "bolt", "felipe sanchez", "kromatisk", "shirley", "jackie"]
+tags = ["bleu", "maitso", "mavokely", "loko", "bolt", "felipe sanchez", "kromatisk", "shirley", "jackie", "lokana"]
 categories = ["lineage"]
 banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 +++
