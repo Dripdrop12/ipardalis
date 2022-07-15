@@ -1,6 +1,6 @@
 +++
 title = "Papafee x Lokana"
-date = "2021-12-04"
+date = "2022-01-11"
 tags = ["papafee", "lokana", "kromatisk", "zanaka"]
 categories = ["past clutches"]
 banner = "img/babies/20220111/sold/M7"

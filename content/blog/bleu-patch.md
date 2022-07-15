@@ -1,14 +1,14 @@
 +++
 title = "Bleu x Patch"
 date = "2020-09-12"
-tags = ["bleu", "patch", "jude", "sparkles"]
+tags = ["bleu", "patch", "jude", "stryfe"]
 categories = ["past clutches"]
-banner = "img/babies/20201028/sold/manga"
+banner = "img/babies/20200912/sold/manga7"
 +++
 
 {{< load-photoswipe >}}
 
-This pairing was between our third generation hold back, [Patch]({{< ref "/blog/patch/index.md" >}}), and our male from Jeremy Booker, [Bleu]({{< ref "/blog/bleu/index.md" >}}), from [Brightside Chameleons]({{< ref "blog/brightside.md" >}}). Bleu is the only male with Stryfe in him and we are excited to see what that brings to the project.
+This pairing was between our third generation hold back, [Patch]({{< ref "/blog/patch/index.md" >}}), and our male from Jeremy Booker, [Bleu]({{< ref "/blog/bleu/index.md" >}}), from [Brightside Chameleons]({{< ref "blog/brightside.md" >}}). Bleu is the only male with Stryfe in him and we are excited to see what that brings to the project. [Manga]({{< ref "/blog/manga/index.md" >}}) was our keeper from this group.
 
 ---
 
