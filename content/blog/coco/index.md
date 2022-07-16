@@ -13,14 +13,19 @@ Coco brings a new WC line from Brightside Chameleon's Gambit into our project vi
 
 {{< gallery dir="/img/ambilobe/coco" />}}
 
+mtDNA Haplogroup*
+: 5 ([Ambilobe East, Antsiranana]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
-: *F3-CG3*
+: *F3-CG13*
 
 Sire
 : [Hendrix]({{< ref "/blog/ramblin.md#hendrix" >}})
 
 Dam
 : [Foxey]({{< ref "/blog/ramblin.md#foxey" >}})
+
+*preliminary results
 
 ---
 

@@ -13,6 +13,9 @@ Ralph is a great 4th generation continuation of the Alfred line with vibrant blu
 
 {{< gallery dir="/img/ambilobe/ralph" />}}
 
+mtDNA Haplogroup*
+: 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
 : *F4-CG13*
 
@@ -21,6 +24,8 @@ Sire
 
 Dam
 : [Kanto]({{< ref "/blog/kanto/index.md" >}})
+
+*preliminary results
 
 ---
 

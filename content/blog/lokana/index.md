@@ -13,6 +13,9 @@ Lokana is the half-sister of Loko. They each have a 50% chance of bringing Kroma
 
 {{< gallery dir="/img/ambilobe/lokana" />}}
 
+mtDNA Haplogroup*
+: 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
 : *F9-CG12*
 
@@ -21,6 +24,8 @@ Sire
 
 Dam
 : [Shirley]({{< ref "/blog/chromatic.md#shirley" >}})
+
+*preliminary results
 
 ---
 

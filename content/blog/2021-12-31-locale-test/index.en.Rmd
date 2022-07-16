@@ -61,7 +61,7 @@ In their paper, Grbic et al. created these **genealogical UMP networks** to map 
 |Nosy Be   |   2 |
 |Ambilobe East | 3 |
 |Ankify | 4* |
-|Amber Mountain, Ambilobe East, Antseranana (Diego Suarez) | 5 |
+|Ambilobe East, Antsiranana (Diego Suarez) | 5 |
 |Amber Mountain | 6 |
 |Ambilobe West, Daraina | 7 |
 |Vohemar | 8 |

@@ -10,9 +10,14 @@ Beautiful captive hatched (CH) female we picked up from Busy B's Exotics. Her br
 
 {{< gallery dir="/img/ambilobe/bohana" />}}
 
+mtDNA Haplogroup*
+: 5 ([Ambilobe East, Antsiranana]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
 : CH
 
 Hatched by [Busy B's Exotics](https://www.facebook.com/busybxotics/)
+
+*preliminary results
 
 ---

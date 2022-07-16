@@ -12,6 +12,9 @@ Daisy also has some really nice purples, hatched 6/5/19 from Jude x Kako. It wil
 
 {{< gallery dir="/img/ambilobe/daisy" />}}
 
+mtDNA Haplogroup*
+: 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
 : F3
 
@@ -20,6 +23,8 @@ Sire
 
 Dam
 : [Kako]({{< ref "blog/kako/index.md" >}})
+
+*preliminary results
 
 ---
 

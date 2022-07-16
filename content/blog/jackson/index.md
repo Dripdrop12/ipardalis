@@ -13,6 +13,9 @@ Jackson is a great YBBB from our 4th generation of Ambilobe. Son of Jack, he bri
 
 {{< gallery dir="/img/ambilobe/jackson" />}}
 
+mtDNA Haplogroup*
+: 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
 : *F4-CG13*
 
@@ -21,6 +24,8 @@ Sire
 
 Dam
 : [Mavokely]({{< ref "/blog/mavokely/index.md" >}})
+
+*preliminary results
 
 ---
 

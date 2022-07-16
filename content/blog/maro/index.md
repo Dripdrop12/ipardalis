@@ -12,6 +12,9 @@ Maro (F3) is a great edition to our YBBB project. We have been tracking the WC L
 
 {{< gallery dir="/img/ambilobe/maro" />}}
 
+mtDNA Haplogroup*
+: 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
+
 Filial
 : *F3*
 
@@ -20,6 +23,8 @@ Sire
 
 Dam
 : [Storm]({{< ref "/blog/chitown.md#storm" >}})
+
+*preliminary results
 
 ---
 
