@@ -17,7 +17,7 @@ We take very good care of our animals, and we have done our research. Please let
 
 After we have seen a picture of his/her enclosure. We only send our chameleons to homes that are prepared to receive them. It takes some time to get the setup right, and we would like to help you make sure it is ready from day one.
 
-Then you can pick him/her up at the nearest FedEx distribution center, usually the nearest airport. We will not ship direct because there is a good chance your pet would sit in a delivery truck, exposed to the elements, for too long.
+Then you can pick him/her up at the nearest FedEx distribution center, usually close to the nearest airport. We will not ship direct because there is a good chance your chameleon would sit in a delivery truck, exposed to the elements, for too long.
 
 ## 2. WHAT ARE THE POSTAL RATES?
 
