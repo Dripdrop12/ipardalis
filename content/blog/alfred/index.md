@@ -2,7 +2,7 @@
 title = "Alfred"
 date = "2019-10-21"
 tags = ["alfred", "jude", "alla", "JJ"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/alfred/alfred"
 +++
 

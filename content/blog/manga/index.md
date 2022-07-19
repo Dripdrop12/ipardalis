@@ -2,7 +2,7 @@
 title = "Manga"
 date = "2020-10-28"
 tags = ["manga", "bleu", "jude", "sparkles"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/manga/manga"
 +++
 

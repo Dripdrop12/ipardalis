@@ -2,7 +2,7 @@
 title = "Kiborin"
 date = "2021-06-20"
 tags = ["kiborin", "blossom", "maitso", "jude", "amarillo"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/kiborin/kiborin4"
 +++
 
