@@ -1,0 +1,126 @@
+#grampstextdoc .DAR-ChildList {
+	font-size: 10pt;
+	text-align: left; text-indent: -0.75cm;
+	margin-right: 0.00cm; margin-left: 1.75cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .DAR-ChildTitle {
+	font-size: 10pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 1.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	font-weight:bold; 
+}
+#grampstextdoc .DAR-Entry {
+	font-size: 12pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 1.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .DAR-First-Entry {
+	font-size: 12pt;
+	text-align: left; text-indent: -1.00cm;
+	margin-right: 0.00cm; margin-left: 1.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .DAR-Generation {
+	font-size: 14pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 0.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	font-style:italic; 
+}
+#grampstextdoc .DAR-MoreDetails {
+	font-size: 10pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 1.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .DAR-MoreHeader {
+	font-size: 10pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 1.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	font-weight:bold; 
+}
+#grampstextdoc .DAR-NoteHeader {
+	font-size: 10pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 1.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	font-weight:bold; 
+}
+#grampstextdoc .DAR-Title {
+	font-size: 16pt;
+	text-align: center; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 0.00cm;
+	margin-top: 0.25cm; margin-bottom: 0.25cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	font-weight:bold; 
+}
+#grampstextdoc .Endnotes-Header {
+	font-size: 14pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 0.00cm;
+	margin-top: 0.20cm; margin-bottom: 0.20cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	font-style:italic; 
+}
+#grampstextdoc .Endnotes-Ref {
+	font-size: 12pt;
+	text-align: left; text-indent: -0.90cm;
+	margin-right: 0.00cm; margin-left: 1.90cm;
+	margin-top: 0.20cm; margin-bottom: 0.00cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .Endnotes-Ref-Notes {
+	font-size: 12pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 1.90cm;
+	margin-top: 0.20cm; margin-bottom: 0.00cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .Endnotes-Source {
+	font-size: 12pt;
+	text-align: left; text-indent: -0.75cm;
+	margin-right: 0.00cm; margin-left: 0.75cm;
+	margin-top: 0.20cm; margin-bottom: 0.00cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
+#grampstextdoc .Endnotes-Source-Notes {
+	font-size: 12pt;
+	text-align: left; text-indent: 0.00cm;
+	margin-right: 0.00cm; margin-left: 0.75cm;
+	margin-top: 0.20cm; margin-bottom: 0.00cm;
+	border-top:none; border-bottom:none;
+	border-left:none; border-right:none;
+	
+}
