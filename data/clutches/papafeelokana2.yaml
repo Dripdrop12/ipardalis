@@ -10,7 +10,7 @@ hatchend: 2022-05-11
 shipping: 3 months after hatch
 hatchnum: 22
 clutchsize: 28
-deposit: true
+deposit: false
 listed: false
 soldout: false
 soldoutmale: false
