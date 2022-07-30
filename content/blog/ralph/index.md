@@ -3,7 +3,7 @@ title = "ralph"
 date = "2021-06-05"
 tags = ["ralph", "alfred", "kanto", "brightflame", "triple"]
 categories = ["ambilobe-sires"]
-banner = "img/ambilobe/ralph/ralph"
+banner = "img/ambilobe/ralph/ralph3"
 +++
 
 {{< load-photoswipe >}}
