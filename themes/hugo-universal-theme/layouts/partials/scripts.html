@@ -1,3 +1,15 @@
+<script> 
+ $$(document).ready(function () { 
+   window.buildTabsets("$idprefix$TOC"); 
+ }); 
+  
+ $$(document).ready(function () { 
+   $$('.tabset-dropdown > .nav-tabs > li').click(function () { 
+     $$(this).parent().toggleClass('nav-tabs-open') 
+   }); 
+ }); 
+ </script> 
+
 {{ template "_internal/google_analytics.html" . }}
 <script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -23,6 +35,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
 <script src="{{ "/js/gtag.js" | relURL }}"></script>
+
+<!-- pagedtable -->
+<script src="{{ "js/pagedtable.js" | relURL}}"></script>
+
+<!-- tabset -->
+<script src="{{ "js/tabset.js" | relURL}}"></script>
 
 <!-- d3js -->
 <script src="{{ "/js/d3.min.js" | relURL }}" charset="utf-8"></script>
@@ -52,3 +70,4 @@ theme_color="#38a7bb"
 logged_in_greeting="Hi! We're happy to chat if you have any questions."
 logged_out_greeting="Hi! We're happy to chat if you have any questions.">
 </div>
+
