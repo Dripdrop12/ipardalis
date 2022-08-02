@@ -1,0 +1,353 @@
+Sample ID	Region	Location	Location (GPS)	Sex	Date	Haplotype	Haplogroup	RAG1 allele 1	RAG1 allele 2
+MAD001	North-West	NW coast	S13°38.647 E048°27.018	male	29.10.2011	H01	1a	A4	A14
+MAD002	North-West	NW coast	S13°38.647 E048°27.018	female	29.10.2011	H01	1a	A4	A14
+MAD003	North-West	NW coast	S13°38.398 E048°27.274	female	29.10.2011	H01	1a	A4	A14
+MAD004	North-West	NW coast	S13°38.404 E048°27.294	male	29.10.2011	H01	1a	A4	A14
+MAD005	North-West	NW coast	S13°38.404 E048°27.294	male	29.10.2011	H01	1a	A2	A44
+MAD006	North-West	NW coast	S13°37.131 E048°28.740	male	29.10.2011	H05	1a	A4	A10
+MAD007	North-West	NW coast	S13°37.131 E048°28.740	male	29.10.2011	H05	1a	A2	A8
+MAD008	North-West	NW coast	S13°27.794 E048°32.337	juvenile	29.10.2011	H03	1a	A4	A45
+MAD009	North-West	NW coast	S13°26.994 E048°31.242	juvenile	29.10.2011	H04	1a	A4	A4
+MAD010	North-West	NW coast	S13°27.032 E048°31.096	male	29.10.2011	H02	1a	A2	A46
+MAD011	North-West	NW coast	S13°26.135 E048°30.610	female	29.10.2011	H02	1a	A4	A4
+MAD012	North-West	NW coast	S13°26.950 E048°31.397	male	29.10.2011	H02	1a	A4	A4
+MAD013	North-West	NW coast	S13°27.232 E048°31.999	female	29.10.2011	H03	1a	A4	A27
+MAD014	North-West	NW coast	S13°29.879 E048°33.852	female	29.10.2011	H06	1a	A10	A47
+MAD015	North-West	NW coast	S13°38.382 E048°27.299	male	29.10.2011	H01	1a	A4	A14
+MAD016	North-West	NW coast	S13°39.165 E048°26.899	female	30.10.2011	H01	1a	A4	A4
+MAD017	North-West	NW coast	S13°38.673 E048°26.330	female	30.10.2011	H01	1a	A2	A8
+MAD018	North-West	NW coast	S13°37.799 E048°26.051	male	30.10.2011	H01	1a	A4	A14
+MAD019	North-West	NW coast	S13°37.755 E048°26.036	male	30.10.2011	H01	1a	A2	A4
+MAD020	North-West	NW coast	S13°37.298 E048°25.523	female	30.10.2011	H01	1a	A4	A14
+MAD021	North-West	NW coast	S13°37.298 E048°25.523	female	30.10.2011	H01	1a	A2	A8
+MAD022	North-West	NW coast	S13°37.298 E048°25.523	male	30.10.2011	H07	1a	A10	A27
+MAD023	North-West	NW coast	S13°37.298 E048°25.523	female	30.10.2011	H01	1a	A4	A4
+MAD024	North-West	NW coast	S13°35.127 E048°21.747	male	30.10.2011	H18	10	A10	A10
+MAD025	North-West	Nosy Be	S13°22.873 E048°16.667	male	30.10.2011	H17	2	A2	A4
+MAD026	North-West	Nosy Be	S13°22.887 E048°16.645	male	30.10.2011	H14	2	A9	A28
+MAD027	North-West	Nosy Be	S13°22.881 E048°16.651	male	30.10.2011	H17	2	A2	A4
+MAD028	North-West	Nosy Be	S13°22.612 E048°16.726	male	30.10.2011	H17	2	A2	A28
+MAD029	North-West	Nosy Be	S13°21.741 E048°16.815	male	30.10.2011	H15	2	A2	A2
+MAD030	North-West	Nosy Be	S13°19.969 E048°18.373	male	30.10.2011	H15	2	A9	A10
+MAD031	North-West	Nosy Be	S13°19.969 E048°18.373	female	30.10.2011	H15	2	A4	A29
+MAD032	North-West	Nosy Be	S13°22.994 E048°12.538	male	30.10.2011	H16	2	A4	A10
+MAD033	North-West	Nosy Be	S13°22.970 E048°12.553	male	30.10.2011	H13	2	A2	A48
+MAD034	North-West	Nosy Be	S13°22.997 E048°12.518	male	30.10.2011	H13	2	A2	A16
+MAD035	North-West	Nosy Be	S13°23.013 E048°12.505	male	30.10.2011	H13	2	A2	A49
+MAD036	North-West	Nosy Be	S13°20.063 E048°11.298	male	30.10.2011	H16	2	A2	A4
+MAD037	North-West	Nosy Be	S13°20.063 E048°11.298	male	30.10.2011	H16	2	A2	A2
+MAD038	North-West	Nosy Be	S13°20.063 E048°11.298	male	30.10.2011	H16	2	A2	A4
+MAD039	North-West	Nosy Be	S13°18.673 E048°11.477	male	30.10.2011	H13	2	A2	A30
+MAD040	North-West	Nosy Be	S13°17.935 E048°11.726	male	30.10.2011	H13	2	A2	A30
+MAD041	North-West	Nosy Komba	S13°26.758 E048°20.669	male	31.10.2011	H08	1b	A4	A9
+MAD042	North-West	Nosy Komba	S13°26.871 E048°20.464	male	31.10.2011	H08	1b	A4	A4
+MAD043	North-West	Nosy Komba	S13°27.276 E048°21.490	female	31.10.2011	H09	1b	A4	A5
+MAD044	North-West	Nosy Komba	S13°27.338 E048°21.442	male	31.10.2011	H10	1b	A2	A31
+MAD045	North-West	Nosy Komba	S13°27.356 E048°21.421	male	31.10.2011	H08	1b	A4	A32
+MAD046	North-West	Nosy Komba	S13°27.372 E048°21.409	male	31.10.2011	H08	1b	A5	A9
+MAD047	North-West	Nosy Komba	S13°27.385 E048°21.409	juvenile	31.10.2011	H08	1b	A9	A9
+MAD048	North-West	Nosy Komba	S13°27.431 E048°21.363	male	31.10.2011	H08	1b	A9	A9
+MAD049	North-West	Nosy Komba	S13°27.467 E048°21.357	male	31.10.2011	H08	1b	A4	A32
+MAD050	North-West	Nosy Komba	S13°27.580 E048°21.364	male	31.10.2011	H08	1b	A9	A50
+MAD051	North-West	Nosy Komba	S13°27.229 E048°20.655	male	31.10.2011	H08	1b	A4	A4
+MAD052	North-West	Nosy Komba	S13°27.212 E048°20.635	male	31.10.2011	H08	1b	A2	A31
+MAD053	North-West	Nosy Komba	S13°26.982 E048°20.478	male	31.10.2011	H08	1b	A4	A4
+MAD054	North-West	NW coast	S13°28.948 E048°43.743	male	1.11.2011	H11	1a	A2	A10
+MAD055	North-West	NW coast	S13°26.360 E048°46.581	male	1.11.2011	H12	1a	A2	A51
+MAD056	North-West	NW coast	S13°26.360 E048°46.581	female	1.11.2011	H11	1a	A4	A22
+MAD057	North	Ambilobe east	S13°11.171 E048°59.359	male	1.11.2011	H19	3	A9	A9
+MAD058	North	Ambilobe east	S13°10.693 E048°58.490	female	1.11.2011	H20	3	A2	A9
+MAD059	North	Ambilobe east	S13°10.628 E048°58.415	male	1.11.2011	H20	3	A2	A29
+MAD060	North	Ambilobe east	S13°10.628 E048°58.415	female	1.11.2011	H20	3	A2	A22
+MAD061	North	Ambilobe east	S13°10.628 E048°58.415	female	1.11.2011	H21	3	A2	A10
+MAD062	North	Ambilobe east	S13°10.643 E048°58.401	male	1.11.2011	H19	3	A22	A52
+MAD063	North	Ambilobe east	S13°09.730 E048°56.063	male	1.11.2011	H22	4	A2	A4
+MAD064	North	Ambilobe east	S13°09.172 E048°55.230	male	1.11.2011	H19	3	A2	A8
+MAD065	North	Ambilobe east	S13°08.654 E048°54.462	male	1.11.2011	H23	4	A8	A10
+MAD066	North	Ambilobe east	S13°08.494 E048°54.199	male	1.11.2011	H19	3	A2	A5
+MAD068	North	Amber Mountain	S12°45.847 E049°14.115	male	2.11.2011	H24	5	A2	A11
+MAD070	North	Amber Mountain	S12°45.847 E049°14.115	female	2.11.2011	H24	5	A2	A2
+MAD072	North	Amber Mountain	S12°42.284 E049°14.940	male	2.11.2011	H24	5	A6	A53
+MAD073	North	Amber Mountain	S12°42.284 E049°14.940	male	2.11.2011	H24	5	A2	A33
+MAD074	North	Amber Mountain	S12°37.789 E049°21.135	male	2.11.2011	H27	5	A2	A23
+MAD075	North	Amber Mountain	S12°37.742 E049°21.172	male	2.11.2011	H27	5	A23	A54
+MAD077	North	Amber Mountain	S12°37.583 E049°21.430	male	2.11.2011	H27	5	A13	A55
+MAD078	North	Amber Mountain	S12°26.835 E049°15.480	male	2.11.2011	H31	4	A2	A2
+MAD079	North	Amber Mountain	S12°26.835 E049°15.480	male	2.11.2011	H33	4	A2	A8
+MAD080	North	Amber Mountain	S12°27.490 E049°14.279	male	2.11.2011	H33	4	A3	A34
+MAD081	North	Amber Mountain	S12°27.981 E049°13.712	juvenile	2.11.2011	H33	4	A2	A5
+MAD082	North	Amber Mountain	S12°29.878 E049°12.180	male	2.11.2011	H26	5	A56	A57
+MAD083	North	Amber Mountain	S12°30.588 E049°11.578	juvenile	2.11.2011	H26	5	A2	A58
+MAD085	North	Amber Mountain	S12°30.492 E049°11.610	male	2.11.2011	H29	5	A2	A12
+MAD086	North	Amber Mountain	S12°30.487 E049°11.613	male	2.11.2011	H26	5	A17	A35
+MAD087	North	Amber Mountain	S12°30.442 E049°11.654	male	2.11.2011	H26	5	A36	A59
+MAD088	North	Amber Mountain	S12°30.422 E049°11.667	male	2.11.2011	H28	5	A19	A60
+MAD089	North	Amber Mountain	S12°30.408 E049°11.683	juvenile	2.11.2011	H26	5	A2	A8
+MAD091	North	Amber Mountain	S12°30.331 E049°11.752	male	2.11.2011	H26	5	A5	A5
+MAD093	North	Amber Mountain	S12°30.227 E049°11.909	male	2.11.2011	H26	5	A12	A61
+MAD094	North	Amber Mountain	S12°30.220 E049°11.911	male	2.11.2011	H26	5	A5	A17
+MAD095	North	Amber Mountain	S12°30.181 E049°11.990	male	2.11.2011	H26	5	A2	A62
+MAD096	North	Amber Mountain	S12°30.181 E049°11.990	male	2.11.2011	H26	5	A5	A19
+MAD097	North	Amber Mountain	S12°30.162 E049°12.088	male	2.11.2011	H26	5	A8	A35
+MAD098	North	Amber Mountain	S12°30.162 E049°12.088	male	2.11.2011	H26	5	A8	A63
+MAD099	North	Amber Mountain	S12°30.099 E049°12.931	male	2.11.2011	H26	5	A5	A19
+MAD100	North	Amber Mountain	S12°30.005 E049°12.151	male	2.11.2011	H25	5	A64	A65
+MAD101	North	Antseranana	S12°20.062 E049°14.689	male	3.11.2011	H31	4	A2	A66
+MAD102	North	Antseranana	S12°20.062 E049°14.689	male	3.11.2011	H31	4	A5	A24
+MAD103	North	Antseranana	S12°20.044 E049°14.689	male	3.11.2011	H31	4	A2	A8
+MAD104	North	Antseranana	S12°20.065 E049°14.688	male	3.11.2011	H31	4	A8	A67
+MAD106	North	Antseranana	S12°20.117 E049°14.692	male	3.11.2011	H31	4	A25	A37
+MAD107	North	Antseranana	S12°20.462 E049°14.707	male	3.11.2011	H31	4	A2	A8
+MAD108	North	Antseranana	S12°21.612 E049°14.077	juvenile	3.11.2011	H31	4	A2	A8
+MAD109	North	Antseranana	S12°21.637 E049°14.075	male	3.11.2011	H31	4	A2	A38
+MAD110	North	Antseranana	S12°21.633 E049°14.074	male	3.11.2011	H31	4	A2	A2
+MAD111	North	Antseranana	S12°21.630 E049°14.074	female	3.11.2011	H31	4	A2	A68
+MAD112	North	Antseranana	S12°21.767 E049°14.058	male	3.11.2011	H31	4	A2	A24
+MAD113	North	Antseranana	S12°22.209 E049°13.840	male	3.11.2011	H31	4	A5	A5
+MAD114	North	Antseranana	S12°22.491 E049°13.679	juvenile	3.11.2011	H31	4	A2	A33
+MAD115	North	Antseranana	S12°22.569 E049°13.645	male	3.11.2011	H31	4	A2	A26
+MAD116	North	Antseranana	S12°22.572 E049°13.641	male	3.11.2011	H32	4	A2	A2
+MAD117	North	Antseranana	S12°21.879 E049°13.933	male	3.11.2011	H31	4	A2	A5
+MAD118	North	Antseranana	S12°21.880 E049°13.933	female	3.11.2011	H31	4	A5	A8
+MAD119	North	Antseranana	S12°19.638 E049°16.862	male	4.11.2011	H31	4	A5	A24
+MAD121	North	Antseranana	S12°18.975 E049°09.136	juvenile	4.11.2011	H31	4	A2	A69
+MAD122	North	Antseranana	S12°18.979 E049°09.144	male	4.11.2011	H34	4	A2	A70
+MAD123	North	Antseranana	S12°19.363 E049°16.794	male	4.11.2011	H31	4	A26	A37
+MAD124	North	Antseranana	S12°19.367 E049°16.791	female	4.11.2011	H31	4	A26	A12
+MAD125	North	Antseranana	S12°14.082 E049°21.137	juvenile	4.11.2011	H35	4	A2	A2
+MAD126	North	Antseranana	S12°14.777 E049°20.782	male	4.11.2011	H35	4	A2	A8
+MAD127	North	Antseranana	S12°14.804 E049°20.772	male	4.11.2011	H35	4	A8	A8
+MAD128	North	Amber Mountain	S12°33.257 E049°21.439	male	5.11.2011	H25	5	A11	A17
+MAD129	North	Amber Mountain	S12°33.267 E049°20.768	female	5.11.2011	H25	5	A2	A12
+MAD130	North	Amber Mountain	S12°33.360 E049°20.598	male	5.11.2011	H25	5	A2	A12
+MAD131	North	Amber Mountain	S12°33.565 E049°20.523	male	5.11.2011	H25	5	A2	A71
+MAD132	North	Amber Mountain	S12°33.501 E049°20.546	male	5.11.2011	H25	5	A25	A39
+MAD133	North	Amber Mountain	S12°33.501 E049°20.546	male	5.11.2011	H25	5	A2	A39
+MAD134	North	Amber Mountain	S12°33.617 E049°20.502	male	5.11.2011	H26	5	A2	A2
+MAD135	North	Amber Mountain	S12°33.607 E049°20.507	male	5.11.2011	H25	5	A11	A12
+MAD136	North	Amber Mountain	S12°33.791 E049°20.369	male	5.11.2011	H25	5	A11	A12
+MAD137	North	Amber Mountain	S12°33.788 E049°20.372	female	5.11.2011	H25	5	A2	A11
+MAD138	North	Amber Mountain	S12°33.905 E049°20.411	male	5.11.2011	H25	5	A11	A72
+MAD139	North	Amber Mountain	S12°34.321 E049°20.334	male	5.11.2011	H26	5	A5	A13
+MAD140	North	Amber Mountain	S12°34.286 E049°20.264	female	5.11.2011	H26	5	A2	A11
+MAD141	North	Amber Mountain	S12°34.505 E049°19.235	male	5.11.2011	H26	5	A13	A25
+MAD142	North	Amber Mountain	S12°34.510 E049°19.216	male	5.11.2011	H26	5	A2	A12
+MAD143	North	Amber Mountain	S12°34.506 E049°19.236	male	5.11.2011	H26	5	A17	A73
+MAD144	North	Amber Mountain	S12°34.503 E049°19.248	male	5.11.2011	H26	5	A2	A74
+MAD145	North	Amber Mountain	S12°34.575 E049°18.442	male	5.11.2011	H26	5	A5	A8
+MAD146	North	Amber Mountain	S12°34.574 E049°18.443	female	5.11.2011	H26	5	A5	A5
+MAD147	North	Amber Mountain	S12°34.680 E049°17.945	male	5.11.2011	H26	5	A13	A17
+MAD148	North	Amber Mountain	S12°34.679 E049°17.934	male	5.11.2011	H26	5	A2	A2
+MAD149	North	Amber Mountain	S12°34.466 E049°17.076	male	5.11.2011	H26	5	A2	A11
+MAD150	North	Amber Mountain	S12°34.465 E049°17.074	male	5.11.2011	H26	5	A2	A2
+MAD151	North	Amber Mountain	S12°34.567 E049°18.596	male	5.11.2011	H30	5	A5	A13
+MAD152	North	Amber Mountain	S12°34.285 E049°20.375	juvenile	5.11.2011	H26	5	A13	A13
+MAD153	North	Ambilobe west	S13°12.825 E049°09.345	male	6.11.2011	H37	6	A2	A75
+MAD154	North	Ambilobe west	S13°07.171 E049°21.278	male	6.11.2011	H36	6	A2	A2
+MAD155	North	Ambilobe west	S13°06.489 E049°23.116	male	6.11.2011	H36	6	A5	A76
+MAD156	North	Ambilobe west	S13°03.408 E049°24.397	female	6.11.2011	H36	6	A2	A77
+MAD157	North	Ambilobe west	S13°00.502 E049°28.220	male	6.11.2011	H38	6	A78	A79
+MAD158	North	Ambilobe west	S13°00.498 E049°28.226	male	6.11.2011	H38	6	A2	A2
+MAD159	North	Daraina	S13°06.481 E049°39.541	male	6.11.2011	H39	6	A13	A40
+MAD160	North	Daraina	S13°09.287 E049°40.176	male	6.11.2011	H40	6	A2	A12
+MAD161	North	Daraina	S13°09.807 E049°40.145	juvenile	6.11.2011	H42	6	A2	A20
+MAD162	North	Daraina	S13°09.807 E049°40.145	male	6.11.2011	H42	6	A2	A2
+MAD163	North	Daraina	S13°12.030 E049°39.841	female	6.11.2011	H42	6	A34	A80
+MAD164	North	Daraina	S13°11.946 E049°45.738	male	6.11.2011	H41	6	A2	A11
+MAD165	North	Daraina	S13°11.674 E049°46.346	female	6.11.2011	H42	6	A2	A23
+MAD166	North	Daraina	S13°14.150 E049°48.308	male	6.11.2011	H43	6	A5	A81
+MAD167	North	Daraina	S13°14.150 E049°48.308	female	6.11.2011	H41	6	A2	A5
+MAD168	North	Daraina	S13°14.473 E049°48.423	female	6.11.2011	H43	6	A2	A2
+MAD169	North	Daraina	S13°14.851 E049°48.728	male	6.11.2011	H41	6	A1	A82
+MAD170	North-East	Vohemar-Bemanevika	S13°21.951 E049°58.858	male	6.11.2011	H47	7	A1	A5
+MAD171	North-East	Vohemar-Bemanevika	S13°22.001 E049°58.918	male	6.11.2011	H47	7	A1	A5
+MAD173	North-East	Vohemar-Bemanevika	S13°26.300 E049°56.511	male	7.11.2011	H46	7	A1	A6
+MAD174	North-East	Vohemar-Bemanevika	S13°26.304 E049°56.492	female	7.11.2011	H44	7	A5	A19
+MAD175	North-East	Vohemar-Bemanevika	S13°40.991 E050°01.259	male	7.11.2011	H48	7	A3	A20
+MAD176	North-East	Vohemar-Bemanevika	S13°40.997 E050°01.270	female	7.11.2011	H48	7	A20	A41
+MAD177	North-East	Vohemar-Bemanevika	S13°42.615 E049°59.977	male	7.11.2011	H48	7	A5	A5
+MAD178	North-East	Vohemar-Bemanevika	S13°43.406 E049°59.116	male	7.11.2011	H48	7	A2	A5
+MAD179	North-East	Vohemar-Bemanevika	S13°47.052 E049°57.201	male	7.11.2011	H48	7	A6	A20
+MAD180	North-East	Vohemar-Bemanevika	S13°47.052 E049°57.201	male	7.11.2011	H67	9b	A2	A5
+MAD181	North-East	Vohemar-Bemanevika	S13°54.568 E049°57.359	male	7.11.2011	H48	7	A2	A5
+MAD182	North-East	Vohemar-Bemanevika	S13°54.571 E049°57.365	male	7.11.2011	H48	7	A1	A42
+MAD183	North-East	Vohemar-Bemanevika	S13°56.371 E049°58.068	female	7.11.2011	H60	8	A2	A5
+MAD184	North-East	Vohemar-Bemanevika	S13°56.376 E049°58.064	male	7.11.2011	H52	8	A6	A83
+MAD185	North-East	Vohemar-Bemanevika	S13°58.835 E049°58.158	male	7.11.2011	H50	8	A1	A6
+MAD186	North-East	Vohemar-Bemanevika	S14°01.398 E049°59.615	male	7.11.2011	H52	8	A1	A41
+MAD187	North-East	Vohemar-Bemanevika	S14°04.572 E050°02.728	male	7.11.2011	H52	8	A1	A3
+MAD188	North-East	Vohemar-Bemanevika	S14°04.892 E050°03.565	male	7.11.2011	H44	7	A6	A15
+MAD190	North-East	Vohemar-Bemanevika	S14°08.625 E050°02.843	male	7.11.2011	H67	9b	A3	A6
+MAD191	North-East	Sambava-Andapa-Antalaha	S14°12.452 E050°03.123	male	7.11.2011	H60	8	A6	A6
+MAD192	North-East	Sambava-Andapa-Antalaha	S14°16.020 E050°04.694	male	7.11.2011	H61	8	A1	A3
+MAD193	North-East	Sambava-Andapa-Antalaha	S14°16.020 E050°04.694	female	7.11.2011	H52	8	A7	A18
+MAD194	North-East	Sambava-Andapa-Antalaha	S14°16.085 E050°04.484	female	7.11.2011	H52	8	A6	A6
+MAD195	North-East	Sambava-Andapa-Antalaha	S14°16.085 E050°04.484	male	7.11.2011	H51	8	A6	A18
+MAD196	North-East	Sambava-Andapa-Antalaha	S14°16.085 E050°04.484	female	7.11.2011	H52	8	A3	A18
+MAD197	North-East	Sambava-Andapa-Antalaha	S14°16.295 E050°03.137	juvenile	7.11.2011	H51	8	A1	A6
+MAD198	North-East	Sambava-Andapa-Antalaha	S14°17.044 E050°02.543	male	7.11.2011	H51	8	A6	A6
+MAD199	North-East	Sambava-Andapa-Antalaha	S14°23.672 E049°57.396	male	7.11.2011	H51	8	A3	A6
+MAD200	North-East	Sambava-Andapa-Antalaha	S14°31.732 E049°51.950	male	7.11.2011	H53	8	A6	A15
+MAD201	North-East	Sambava-Andapa-Antalaha	S14°38.797 E049°37.377	male	8.11.2011	H63	8	A3	A6
+MAD202	North-East	Sambava-Andapa-Antalaha	S14°38.896 E049°37.340	female	8.11.2011	H63	8	A3	A3
+MAD203	North-East	Sambava-Andapa-Antalaha	S14°38.900 E049°37.339	juvenile	8.11.2011	H63	8	A6	A6
+MAD204	North-East	Sambava-Andapa-Antalaha	S14°38.921 E049°37.334	male	8.11.2011	H65	8	A3	A6
+MAD205	North-East	Sambava-Andapa-Antalaha	S14°38.921 E049°37.334	female	8.11.2011	H63	8	A3	A3
+MAD206	North-East	Sambava-Andapa-Antalaha	S14°38.921 E049°37.334	juvenile	8.11.2011	H64	8	A3	A6
+MAD207	North-East	Sambava-Andapa-Antalaha	S14°38.921 E049°37.334	male	8.11.2011	H65	8	A1	A6
+MAD208	North-East	Sambava-Andapa-Antalaha	S14°39.385 E049°37.278	male	8.11.2011	H63	8	A3	A3
+MAD209	North-East	Sambava-Andapa-Antalaha	S14°39.403 E049°37.169	male	8.11.2011	H65	8	A3	A3
+MAD210	North-East	Sambava-Andapa-Antalaha	S14°39.401 E049°37.167	male	8.11.2011	H63	8	A3	A84
+MAD211	North-East	Sambava-Andapa-Antalaha	S14°39.401 E049°37.167	juvenile	8.11.2011	H63	8	A3	A3
+MAD212	North-East	Sambava-Andapa-Antalaha	S14°39.401 E049°37.167	male	8.11.2011	H63	8	A3	A85
+MAD213	North-East	Sambava-Andapa-Antalaha	S14°39.401 E049°37.165	male	8.11.2011	H63	8	A3	A7
+MAD214	North-East	Sambava-Andapa-Antalaha	S14°39.822 E049°37.027	male	8.11.2011	H65	8	A3	A6
+MAD215	North-East	Sambava-Andapa-Antalaha	S14°39.820 E049°37.026	male	8.11.2011	H62	8	A3	A7
+MAD216	North-East	Sambava-Andapa-Antalaha	S14°39.820 E049°37.026	male	8.11.2011	H63	8	A3	A3
+MAD217	North-East	Sambava-Andapa-Antalaha	S14°38.930 E049°37.291	male	8.11.2011	H63	8	A3	A6
+MAD218	North-East	Sambava-Andapa-Antalaha	S14°38.349 E049°37.962	male	8.11.2011	H63	8	A3	A3
+MAD219	North-East	Sambava-Andapa-Antalaha	S14°35.181 E049°43.853	male	8.11.2011	H54	8	A3	A86
+MAD220	North-East	Sambava-Andapa-Antalaha	S14°25.551 E050°09.300	male	8.11.2011	H62	8	A6	A6
+MAD221	North-East	Sambava-Andapa-Antalaha	S14°25.551 E050°09.300	male	8.11.2011	H62	8	A3	A18
+MAD222	North-East	Sambava-Andapa-Antalaha	S14°32.379 E050°09.969	male	8.11.2011	H53	8	A3	A7
+MAD223	North-East	Sambava-Andapa-Antalaha	S14°32.379 E050°09.970	female	8.11.2011	H53	8	A6	A7
+MAD224	North-East	Sambava-Andapa-Antalaha	S14°32.379 E050°09.970	female	8.11.2011	H53	8	A7	A18
+MAD225	North-East	Sambava-Andapa-Antalaha	S14°34.226 E050°09.988	male	8.11.2011	H53	8	A3	A7
+MAD226	North-East	Sambava-Andapa-Antalaha	S14°38.186 E050°11.621	male	8.11.2011	H56	8	A3	A3
+MAD227	North-East	Sambava-Andapa-Antalaha	S14°38.190 E050°11.627	male	8.11.2011	H56	8	A3	A3
+MAD228	North-East	Sambava-Andapa-Antalaha	S14°38.956 E050°12.086	male	8.11.2011	H56	8	A3	A3
+MAD229	North-East	Sambava-Andapa-Antalaha	S14°43.158 E050°13.113	male	8.11.2011	H56	8	A3	A21
+MAD230	North-East	Sambava-Andapa-Antalaha	S14°43.161 E050°13.107	juvenile	8.11.2011	H56	8	A3	A21
+MAD231	North-East	Sambava-Andapa-Antalaha	S14°43.161 E050°13.107	male	8.11.2011	H56	8	A3	A7
+MAD232	North-East	Sambava-Andapa-Antalaha	S14°44.600 E050°13.139	juvenile	8.11.2011	H56	8	A3	A87
+MAD233	North-East	Sambava-Andapa-Antalaha	S14°44.600 E050°13.139	male	8.11.2011	H56	8	A3	A7
+MAD234	North-East	Sambava-Andapa-Antalaha	S14°57.269 E050°18.174	male	9.11.2011	H59	8	A3	A3
+MAD235	North-East	Sambava-Andapa-Antalaha	S14°57.268 E050°18.174	male	9.11.2011	H59	8	A6	A7
+MAD236	North-East	Sambava-Andapa-Antalaha	S14°59.581 E050°18.736	female	9.11.2011	H58	8	A1	A6
+MAD237	North-East	Sambava-Andapa-Antalaha	S14°59.581 E050°18.736	juvenile	9.11.2011	H57	8	A7	A15
+MAD238	North-East	Sambava-Andapa-Antalaha	S14°59.623 E050°18.754	male	9.11.2011	H57	8	A7	A7
+MAD239	North-East	Sambava-Andapa-Antalaha	S14°59.774 E050°18.832	juvenile	9.11.2011	H58	8	A1	A7
+MAD240	North-East	Sambava-Andapa-Antalaha	S14°59.774 E050°18.832	juvenile	9.11.2011	H57	8	A6	A7
+MAD241	North-East	Sambava-Andapa-Antalaha	S14°59.774 E050°18.832	juvenile	9.11.2011	H57	8	A1	A15
+MAD242	North-East	Sambava-Andapa-Antalaha	S14°52.487 E050°15.890	male	9.11.2011	H57	8	A3	A3
+MAD243	North-East	Sambava-Andapa-Antalaha	S14°52.487 E050°15.890	male	9.11.2011	H57	8	A7	A7
+MAD244	North-East	Sambava-Andapa-Antalaha	S14°51.322 E050°15.567	male	9.11.2011	H57	8	A3	A21
+MAD245	North-East	Sambava-Andapa-Antalaha	S14°51.326 E050°15.572	male	9.11.2011	H55	8	A3	A21
+MAD246	North-East	Sambava-Andapa-Antalaha	S14°51.326 E050°15.572	male	9.11.2011	H55	8	A3	A3
+MAD247	North-East	Sambava-Andapa-Antalaha	S14°51.326 E050°15.572	male	9.11.2011	H55	8	A7	A7
+MAD248	North-East	Vohemar-Bemanevika	S13°32.996 E049°59.232	female	9.11.2011	H45	7	A1	A5
+MAD249	North-East	Vohemar-Bemanevika	S13°32.991 E049°59.205	male	9.11.2011	H45	7	A5	A88
+MAD250	North-East	Vohemar-Bemanevika	S13°32.989 E049°59.204	male	9.11.2011	H44	7	A1	A15
+MAD251	North-East	Vohemar-Bemanevika	S13°32.989 E049°59.204	male	9.11.2011	H45	7	A2	A3
+MAD252	North-East	Vohemar-Bemanevika	S13°32.929 E049°59.204	male	9.11.2011	H49	7	A38	A89
+MAD253	North-East	Vohemar-Bemanevika	S13°32.941 E049°58.947	female	9.11.2011	H48	7	A6	A90
+MAD254	North-East	Vohemar-Bemanevika	S13°32.941 E049°58.947	male	9.11.2011	H46	7	A2	A42
+MAD255	North-East	Vohemar-Bemanevika	S13°32.943 E049°58.945	male	9.11.2011	H45	7	A5	A5
+MAD256	North-East	Vohemar-Bemanevika	S13°32.944 E049°58.947	male	9.11.2011	H45	7	A36	A40
+MAD257	East	East coast	S18°03.452 E049°22.512	female	5.11.2012	H68	9a	A1	A1
+MAD258	East	East coast	S18°01.588 E049°23.408	male	5.11.2012	H68	9a	A1	A1
+MAD259	East	East coast	S17°39.333 E049°29.036	male	6.11.2012	H68	9a	A1	A1
+MAD261	East	East coast	S17°20.219 E049°24.313	male	6.11.2012	H68	9a	A1	A1
+MAD262	East	East coast	S17°20.080 E049°24.322	male	6.11.2012	H68	9a	A1	A1
+MAD263	East	East coast	S17°20.059 E049°24.330	male	6.11.2012	H68	9a	A1	A1
+MAD264	East	East coast	S17°11.236 E049°27.570	male	6.11.2012	H68	9a	A1	A1
+MAD265	East	East coast	S17°11.234 E049°27.554	male	6.11.2012	H68	9a	A1	A1
+MAD266	East	East coast	S17°11.234 E049°27.554	male	6.11.2012	H68	9a	A1	A1
+MAD267	East	East coast	S17°11.234 E049°27.553	female	6.11.2012	H68	9a	A1	A1
+MAD268	East	East coast	S17°11.234 E049°27.556	male	6.11.2012	H68	9a	A1	A1
+MAD269	East	East coast	S17°05.429 E049°29.268	male	6.11.2012	H68	9a	A1	A1
+MAD270	East	East coast	S17°05.336 E049°29.302	male	6.11.2012	H68	9a	A1	A1
+MAD271	East	East coast	S17°00.578 E049°32.359	female	6.11.2012	H68	9a	A1	A1
+MAD272	East	East coast	S16°57.440 E049°34.111	male	6.11.2012	H68	9a	A1	A1
+MAD273	East	East coast	S16°58.587 E049°33.413	female	6.11.2012	H68	9a	A1	A1
+MAD274	East	East coast	S16°59.013 E049°33.382	male	6.11.2012	H68	9a	A1	A1
+MAD275	East	East coast	S16°54.200 E049°25.150	female	7.11.2012	H68	9a	A1	A1
+MAD276	East	East coast	S16°54.171 E049°35.188	male	7.11.2012	H68	9a	A1	A1
+MAD277	East	East coast	S16°48.438 E049°43.269	male	7.11.2012	H68	9a	A1	A1
+MAD278	East	East coast	S16°48.429 E049°43.271	female	7.11.2012	H68	9a	A1	A1
+MAD279	East	East coast	S16°48.393 E049°43.251	juvenile	7.11.2012	H68	9a	A1	A1
+MAD280	East	East coast	S16°43.325 E049°43.199	male	7.11.2012	H68	9a	A1	A1
+MAD281	East	East coast	S16°25.282 E049°49.412	female	7.11.2012	H66	8	A3	A7
+MAD282	East	East coast	S16°38.016 E049°47.374	male	8.11.2012	H68	9a	A1	A1
+MAD283	East	East coast	S16°58.169 E049°34.032	male	8.11.2012	H68	9a	A1	A1
+MAD284	East	East coast	S16°58.096 E049°34.029	male	8.11.2012	H68	9a	A1	A1
+MAD285	East	East coast	S16°58.097 E049°34.030	male	8.11.2012	H68	9a	A1	A1
+MAD286	East	East coast	S16°58.091 E049°34.032	male	8.11.2012	H68	9a	A1	A1
+MAD287	East	East coast	S16°57.591 E049°34.066	male	8.11.2012	H68	9a	A1	A1
+MAD288	East	East coast	S16°57.586 E049°34.066	male	8.11.2012	H68	9a	A1	A1
+MAD289	East	East coast	S16°57.292 E049°34.148	male	8.11.2012	H68	9a	A1	A1
+MAD290	East	East coast	S16°56.181 E049°34.039	male	8.11.2012	H68	9a	A1	A1
+MAD291	East	Nosy Boraha	S16°58.300 E049°51.455	male	9.11.2012	H68	9a	A1	A1
+MAD292	East	Nosy Boraha	S16°58.300 E049°51.455	male	9.11.2012	H68	9a	A1	A1
+MAD293	East	Nosy Boraha	S16°56.578 E049°51.159	male	9.11.2012	H68	9a	A1	A1
+MAD294	East	Nosy Boraha	S16°56.433 E049°51.214	female	9.11.2012	H68	9a	A3	A1
+MAD295	East	Nosy Boraha	S16°55.560 E049°51.264	male	9.11.2012	H68	9a	A3	A1
+MAD296	East	Nosy Boraha	S16°55.352 E049°51.404	female	9.11.2012	H68	9a	A1	A1
+MAD297	East	Nosy Boraha	S16°55.132 E049°51.476	juvenile	9.11.2012	H68	9a	A1	A91
+MAD298	East	Nosy Boraha	S16°52.380 E049°53.350	male	9.11.2012	H68	9a	A1	A1
+MAD299	East	Nosy Boraha	S16°52.389 E049°53.357	female	9.11.2012	H68	9a	A1	A1
+MAD300	East	Nosy Boraha	S16°52.389 E049°53.357	female	9.11.2012	H68	9a	A1	A1
+MAD301	East	Nosy Boraha	S16°52.364 E049°53.512	male	9.11.2012	H68	9a	A3	A1
+MAD302	East	Nosy Boraha	S16°52.356 E049°53.517	male	9.11.2012	H68	9a	A1	A1
+MAD303	East	Nosy Boraha	S16°52.356 E049°53.517	female	9.11.2012	H68	9a	A1	A1
+MAD304	East	Nosy Boraha	S16°52.355 E049°53.517	male	9.11.2012	H68	9a	A3	A1
+MAD305	East	Nosy Boraha	S16°52.348 E049°53.588	male	9.11.2012	H68	9a	A1	A1
+MAD306	East	Nosy Boraha	S16°51.513 E049°54.203	female	10.11.2012	H68	9a	A1	A1
+MAD307	East	Nosy Boraha	S16°51.507 E049°54.212	male	10.11.2012	H68	9a	A3	A1
+MAD308	East	Nosy Boraha	S16°51.357 E049°54.345	male	10.11.2012	H68	9a	A1	A1
+MAD309	East	Nosy Boraha	S16°51.583 E049°56.349	male	10.11.2012	H68	9a	A1	A1
+MAD310	East	Nosy Boraha	S16°51.425 E049°56.469	male	10.11.2012	H68	9a	A1	A1
+MAD311	East	Nosy Boraha	S16°51.425 E049°56.469	juvenile	10.11.2012	H69	9a	A1	A1
+MAD312	East	Nosy Boraha	S16°49.568 E049°57.408	male	10.11.2012	H68	9a	A3	A1
+MAD313	East	Nosy Boraha	S16°52.350 E049°56.216	male	10.11.2012	H68	9a	A1	A1
+MAD314	East	Nosy Boraha	S16°54.562 E049°54.498	male	10.11.2012	H68	9a	A1	A1
+MAD315	East	Nosy Boraha	S16°55.434 E049°54.363	male	10.11.2012	H68	9a	A1	A1
+MAD316	East	Nosy Boraha	S16°56.459 E049°54.149	male	10.11.2012	H68	9a	A1	A1
+MAD317	East	Nosy Boraha	S16°56.492 E049°54.113	male	10.11.2012	H68	9a	A1	A1
+MAD318	East	Nosy Boraha	S17°00.009 E049°51.501	juvenile	10.11.2012	H68	9a	A1	A43
+MAD319	East	Nosy Boraha	S17°00.004 E049°51.371	juvenile	10.11.2012	H68	9a	A1	A1
+MAD320	East	Nosy Boraha	S16°59.588 E049°51.292	male	10.11.2012	H68	9a	A1	A1
+MAD321	East	Nosy Boraha	S16°54.018 E049°52.356	male	11.11.2012	H68	9a	A1	A1
+MAD322	East	East coast	S17°13.077 E049°24.317	male	13.11.2012	H68	9a	A1	A1
+MAD323	East	East coast	S17°39.231 E049°28.489	male	13.11.2012	H68	9a	A1	A1
+MAD324	East	East coast	S17°46.033 E049°29.045	male	14.11.2012	H68	9a	A1	A1
+MAD325	East	East coast	S17°46.034 E049°29.044	male	14.11.2012	H68	9a	A1	A1
+MAD326	East	East coast	S17°47.105 E049°29.040	male	14.11.2012	H68	9a	A1	A1
+MAD327	East	East coast	S17°50.261 E049°28.130	male	14.11.2012	H68	9a	A1	A1
+MAD328	East	East coast	S17°50.261 E049°28.130	male	14.11.2012	H68	9a	A1	A1
+MAD329	East	East coast	S17°51.207 E049°28.045	juvenile	14.11.2012	H68	9a	A1	A1
+MAD330	East	East coast	S18°03.446 E049°22.515	male	14.11.2012	H68	9a	A1	A1
+MAD076	North	Amber Mountain	S12°37.742 E049°21.172	male	2.11.2011	DNA degraded	none		
+MAD092	North	Amber Mountain	S12°30.331 E049°11.752	male	2.11.2011	DNA degraded	None		
+MAD105	North	Antseranana	S12°20.114 E049°14.694	male	3.11.2011	DNA degraded	None		
+MAD172	North-East	Vohemar-Bemanevika	S13°26.016 E049°56.932	male	7.11.2011	DNA degraded	None		
+MAD189	North-East	Vohemar-Bemanevika	S14°04.192 E050°03.564	male	7.11.2011	DNA degraded	None		
+MAD260	East	East coast	S17°35.058 E049°27.572	male	6.11.2012	DNA degraded	None		
+REU001	Reunion	Reunion island	no data	male	10.06.2012	R	None	A2	A4
+REU002	Reunion	Reunion island	no data	male	10.06.2012	R	None	A2	A92
+LAB001	North-West	Ankaramy	no data	male	28.11.2012	L1	None	A93	A95
+LAB002	North-West	Ankaramy	no data	female	28.11.2012	H68	None	A1	A16
+LAB003	North-West	Nosy Radama	no data	female	28.11.2012	L1	None	A6	A96
+LAB004	North-West	Nosy Radama	no data	juvenile	28.11.2012	L1	None	A1	A16
+LAB005	North-West	Nosy Radama	no data	juvenile	28.11.2012	L1	None	A16	A16
+LAB006	North-West	Nosy Mitsio	no data	male	28.11.2012	H68	None	A1	A1
+LAB007	North-West	Nosy Mitsio	no data	male	28.11.2012	H68	None	A1	A93
+LAB008	North-West	Nosy Mitsio	no data	female	28.11.2012	H68	None	A1	A1
+LAB009	North-West	NW coast	no data	male	28.11.2012	L2	None	A8	A10
+LAB010	North-West	NW coast	no data	male	28.11.2012	H68	None	A1	A97
+LAB011	North-West	NW coast	no data	male	28.11.2012	H68	None	A1	A1
+LAB012	North-East	Sambava-Andapa-Antalaha	no data	male	28.11.2012	H68	None	A1	A1
+LAB013	North-East	Sambava-Andapa-Antalaha	no data	male	28.11.2012	H68	None	A1	A94
+LAB014	North-East	Sambava-Andapa-Antalaha	no data	male	28.11.2012	L3	None	A1	A98
+LAB015	North-East	Sambava-Andapa-Antalaha	no data	male	28.11.2012	H51	None	A1	A94
+LAB016	North-East	Sambava-Andapa-Antalaha	no data	male	28.11.2012	H68	None	A1	A15
+LAB017	North-East	Sambava-Andapa-Antalaha	no data	female	28.11.2012	H68	None	A3	A6
+LAB018	North	Ambilobe east	no data	male	28.11.2012	H68	None	A1	A1
+LAB019	North	Ambilobe east	no data	male	28.11.2012	H19	None	A93	A99
+LAB020	North	Ambilobe east	no data	male	28.11.2012	H68	None	A1	A1
+LAB021	North	Ambilobe east	no data	male	28.11.2012	H68	None	A3	A100
+LAB022	North	Ambilobe east	no data	female	28.11.2012	H22	None	A1	A1
+LAB023	North	Ambilobe east	no data	female	28.11.2012	H68	None	A1	A1
+LAB024	North	Ambilobe east	no data	male	28.11.2012	H68	None	A1	A43
+LAB025	North-West	NW coast	no data	female	28.11.2012	H68	None	A1	A1
+LAB026	North-West	NW coast	no data	female	28.11.2012	H68	None	A101	A102

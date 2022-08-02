@@ -2,89 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>https://ipardalis.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ipardalis.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>husbandry</title>
-      <link>https://ipardalis.com/categories/husbandry/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ipardalis.com/categories/husbandry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ambilobe-sires</title>
-      <link>https://ipardalis.com/categories/ambilobe-sires/</link>
-      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ipardalis.com/categories/ambilobe-sires/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ambilobe-dams</title>
-      <link>https://ipardalis.com/categories/ambilobe-dams/</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <link>/categories/ambilobe-dams/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ipardalis.com/categories/ambilobe-dams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retired-ambilobe</title>
-      <link>https://ipardalis.com/categories/retired-ambilobe/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ipardalis.com/categories/retired-ambilobe/</guid>
+      <guid>/categories/ambilobe-dams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>past clutches</title>
-      <link>https://ipardalis.com/categories/past-clutches/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <link>/categories/past-clutches/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ipardalis.com/categories/past-clutches/</guid>
+      <guid>/categories/past-clutches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetics</title>
+      <link>/categories/genetics/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ambilobe-sires</title>
+      <link>/categories/ambilobe-sires/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ambilobe-sires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>husbandry</title>
+      <link>/categories/husbandry/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/husbandry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retired-pardalis</title>
+      <link>/categories/retired-pardalis/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/retired-pardalis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>minor</title>
-      <link>https://ipardalis.com/categories/minor/</link>
+      <link>/categories/minor/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ipardalis.com/categories/minor/</guid>
+      <guid>/categories/minor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>updates</title>
-      <link>https://ipardalis.com/categories/updates/</link>
+      <link>/categories/updates/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ipardalis.com/categories/updates/</guid>
+      <guid>/categories/updates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lineage</title>
-      <link>https://ipardalis.com/categories/lineage/</link>
+      <link>/categories/lineage/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ipardalis.com/categories/lineage/</guid>
+      <guid>/categories/lineage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>minor-lineage</title>
-      <link>https://ipardalis.com/categories/minor-lineage/</link>
+      <link>/categories/minor-lineage/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ipardalis.com/categories/minor-lineage/</guid>
+      <guid>/categories/minor-lineage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pd-jani</title>
+      <link>/categories/pd-jani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/pd-jani/</guid>
       <description></description>
     </item>
     

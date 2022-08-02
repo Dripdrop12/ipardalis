@@ -20,10 +20,12 @@ require(kableExtra)
 require(formattable)
 require(dplyr)
 require(gtsummary)
+require(huxtable)
 require(plotly)
 require(forcats)
 require(htmlwidgets)
 require(blogdown)
+require(reticulate)
 neonate_df <- read_ods("UVB_data.ods", row_names = FALSE)
 ```
 
@@ -56,7 +58,7 @@ Although the group raised under a maximum UVI of 6 had a few large neonates, the
 ```{r, echo=FALSE, message=FALSE}
 uvi_groups <- neonate_df %>%
   group_by(`Max UVI`, `Weigh Date`) %>%
-  summarize(mean_weight = mean(`Weight (grams)`, na.rm = T))
+  summarize(mean_weight = mean(`Weight (grams)`, na.rm = T), .groups = "keep")
 
 p <- neonate_df %>%
   left_join(uvi_groups, by = c("Max UVI", "Weigh Date")) %>%
@@ -84,8 +86,8 @@ plot_ly(
     )
   ) %>%
   config(displayModeBar = F)
-scope <- kaleido()
-scope$transform(p, "dotplot.png")
+# scope <- kaleido()
+# scope$transform(p, "dotplot.png")
 ```
 [![](dotplot.png)](https://ipardalis.com/plot/plot.html)
 

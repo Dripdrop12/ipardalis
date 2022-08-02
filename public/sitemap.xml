@@ -2,561 +2,801 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ipardalis.com/tags/bioactive/</loc>
+    <loc>/categories/ambilobe-dams/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kromatisk/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lokana/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/papafee/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/vaosary/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2022/01/12/vaosary/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bumble-bee/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2022/01/11/bumble-bee/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2022/01/11/papafee-lokana/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/past-clutches/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/zanaka/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/12/31/2021-12-31-locale-test/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/genetics/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/coco/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hendrix/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/12/04/papafee-coco/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ambilobe-sires/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bleu/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/imelda/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jimanga/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/12/03/jimanga/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/manga/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/12/03/manga-imelda/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/artemis/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/arti/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/10/17/arti-daisy/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/daisy/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ghost/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/10/17/ghost/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jude/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/alla/</loc>
+    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dehibe/</loc>
+    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/10/16/dehibe/</loc>
+    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jj/</loc>
+    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/artalla/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/10/15/artalla/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/10/15/arti-alla/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/divergent/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gold-rush/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/my-friend/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/10/06/zozoro/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/09/15/arti-bohana/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bohana/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bangheera/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/flamethrower/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/grape-inferno/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mainty/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/09/05/mainty/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bioactive/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/</loc>
+    <loc>/categories/husbandry/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/</loc>
+    <loc>/tags/uvi/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/husbandry/</loc>
+    <loc>/blog/2021/08/04/2021-08-04-uvi-impact-on-growth-of-furcifer-pardalis-neonates/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/uvi/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2021/08/04/2021-08-04-uvi-impact-on-growth-of-furcifer-pardalis-neonates/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/parasites/</loc>
+    <loc>/tags/parasites/</loc>
     <lastmod>2021-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2021/07/18/parasites_origin/</loc>
+    <loc>/blog/2021/07/18/parasites_origin/</loc>
     <lastmod>2021-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2021/07/12/parasites_and_ethics/</loc>
+    <loc>/tags/jiolahy/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/07/14/jiolahy/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/perrigrin/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pyro/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/the-don/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/legion/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mara/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/07/13/mara/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/maro/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/07/13/maro/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/nova/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sammy/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/07/12/parasites_and_ethics/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/alfred/</loc>
+    <loc>/blog/2021/06/28/arti-tigravavy/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tigravavy/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/amarillo/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/blossom/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/20/blossom-mavokely/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kiborin/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/20/kiborin/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/maitso/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mavokely/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/retired-pardalis/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sparkles/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/blaitso/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/19/blaitso/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/alfred/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/ambilobe-sires/</loc>
+    <loc>/tags/brightflame/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/brightflame/</loc>
+    <loc>/tags/kanto/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/kanto/</loc>
+    <loc>/tags/ralph/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/ralph/</loc>
+    <loc>/blog/2021/06/05/ralph/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2021/06/05/ralph/</loc>
+    <loc>/tags/triple/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/triple/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+    <loc>/tags/loko/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/agent-orange/</loc>
+    <loc>/tags/nugget/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/zandrin/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/04/zandrin/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/noko/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/03/noko/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/03/nugget-loko/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/amara/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/01/nugget-amara/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tigerlilly/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/01/tigerlilly/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tony/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/06/01/tony/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kosmo/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/05/01/kosmo/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/skyline/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/paige/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/04/17/paige/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pj/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sonny/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/04/13/alfred-kanto/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021/04/11/nugget-bohana/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/agent-orange/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/ambilobe-dams/</loc>
+    <loc>/tags/lelafo/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2021/04/02/lelafo/</loc>
+    <loc>/blog/2021/04/02/lelafo/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/lelafo/</loc>
+    <loc>/tags/odin/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/odin/</loc>
+    <loc>/tags/vulcan/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/vulcan/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/green-giant/</loc>
+    <loc>/tags/green-giant/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/herb/</loc>
+    <loc>/tags/herb/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/promise-keeper/</loc>
+    <loc>/tags/promise-keeper/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/retired-ambilobe/</loc>
+    <loc>/blog/2021/03/21/zava/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2021/03/21/zava/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+    <loc>/blog/2021/03/08/zanaka-daisy/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/amarillo/</loc>
+    <loc>/blog/2021/01/27/blossom-maitso/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jack/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/jack/</loc>
+    <loc>/blog/2021/01/21/parasy/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/mavokely/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2021/01/21/parasy/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2021/01/20/jack-mavokely/</loc>
+    <loc>/blog/2021/01/20/jack-mavokely/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2021/01/20/jackson/</loc>
+    <loc>/blog/2021/01/20/jackson/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/jude/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>/tags/nuhana/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/past-clutches/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>/blog/2021/01/14/nuhana/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/sparkles/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>/tags/arlo/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/arlo/</loc>
+    <loc>/tags/manjalla/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2020/12/06/manjaya/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2020/12/05/manjalla/</loc>
     <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/manjalla/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/12/05/manjalla/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/pyro/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/bolt/</loc>
+    <loc>/tags/bolt/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/coco/</loc>
+    <loc>/blog/2020/12/04/coco/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/12/04/coco/</loc>
+    <loc>/tags/foxey/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/foxey/</loc>
+    <loc>/tags/gambit/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/gambit/</loc>
+    <loc>/tags/landy/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/hendrix/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/landy/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/imelda/</loc>
+    <loc>/blog/2020/12/03/imelda/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/12/03/imelda/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/kromatisk/</loc>
+    <loc>/blog/2020/12/02/lokana/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/lokana/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/12/02/lokana/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/12/01/manjaka/</loc>
+    <loc>/tags/manjaka/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/manjaka/</loc>
+    <loc>/blog/2020/12/01/manjaka/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/bleu/</loc>
+    <loc>/blog/2020/10/28/manga/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/10/28/manga/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <loc>/tags/bubbles/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/manga/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <loc>/blog/2020/10/15/zanaka-bubbles/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/09/12/bleu-patch/</loc>
+    <loc>/blog/2020/09/12/bleu-patch/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/patch/</loc>
+    <loc>/tags/patch/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/07/17/papafee/</loc>
+    <loc>/tags/stryfe/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2020/07/17/papafee/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/papafee/</loc>
+    <loc>/tags/sunny/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/sunny/</loc>
+    <loc>/blog/2020/07/17/zanaka-sunny/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/zanaka/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/07/17/zanaka-sunny/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/alla/</loc>
+    <loc>/blog/2020/07/10/nugget-alla/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/jj/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/nugget/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/07/10/nugget-alla/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/07/05/husbandry/</loc>
+    <loc>/blog/2020/07/05/husbandry/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/07/05/housing/</loc>
+    <loc>/blog/2020/07/05/housing/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/04/18/loko/</loc>
+    <loc>/blog/2020/04/18/loko/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/loko/</loc>
+    <loc>/tags/wet-dream/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/wet-dream/</loc>
-    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/bing/</loc>
+    <loc>/tags/bing/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/04/14/bing/</loc>
+    <loc>/blog/2020/04/14/bing/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/minor/</loc>
+    <loc>/categories/minor/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/feng/</loc>
+    <loc>/tags/feng/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/04/07/feng/</loc>
+    <loc>/blog/2020/04/07/feng/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/artemis/</loc>
+    <loc>/blog/2020/04/06/arti/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/04/06/arti/</loc>
+    <loc>/tags/fantara/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/arti/</loc>
+    <loc>/tags/felipe-sanchez/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/fantara/</loc>
-    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/felipe-sanchez/</loc>
-    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/tags/bohana/</loc>
+    <loc>/blog/2020/04/05/newline/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/04/05/newline/</loc>
+    <loc>/categories/updates/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/updates/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/04/04/amara/</loc>
+    <loc>/blog/2020/04/04/amara/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/amara/</loc>
-    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2020/03/29/bohana/</loc>
+    <loc>/blog/2020/03/29/bohana/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/02/15/kanto/</loc>
+    <loc>/blog/2020/02/15/kanto/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/huo/</loc>
+    <loc>/tags/huo/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2020/01/01/huo/</loc>
+    <loc>/blog/2020/01/01/huo/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/cowboy/</loc>
+    <loc>/tags/cowboy/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/flash/</loc>
+    <loc>/tags/flash/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/tigravavy/</loc>
+    <loc>/blog/2019/12/12/tigravavy/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/12/12/tigravavy/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2019/11/13/maitso/</loc>
+    <loc>/blog/2019/11/13/maitso/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/maitso/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2019/11/12/mavokely/</loc>
+    <loc>/blog/2019/11/12/mavokely/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/10/21/alfred/</loc>
+    <loc>/blog/2019/10/21/alfred/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/10/20/jack/</loc>
+    <loc>/blog/2019/10/20/jack/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/mitselatra-stormy-weather/</loc>
+    <loc>/tags/mitselatra-stormy-weather/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/08/21/zanaka/</loc>
+    <loc>/blog/2019/08/21/zanaka/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/08/16/bubbles/</loc>
+    <loc>/blog/2019/08/16/bubbles/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/bubbles/</loc>
+    <loc>/tags/judy/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/judy/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2019/07/15/bleu/</loc>
+    <loc>/blog/2019/07/15/bleu/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/emma-frost/</loc>
+    <loc>/tags/emma-frost/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/stryfe/</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2019/07/14/button/</loc>
+    <loc>/tags/button/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/button/</loc>
+    <loc>/blog/2019/07/14/button/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/07/09/blossom/</loc>
+    <loc>/blog/2019/07/09/blossom/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/blossom/</loc>
+    <loc>/blog/2019/07/09/jude-alla/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/07/09/jude-alla/</loc>
-    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/30/bio-bin/</loc>
+    <loc>/blog/2019/06/30/bio-bin/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/kako/</loc>
+    <loc>/tags/kako/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/10/sunny/</loc>
+    <loc>/blog/2019/06/10/sunny/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/09/nugget/</loc>
+    <loc>/blog/2019/06/09/nugget/</loc>
     <lastmod>2019-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/08/patch/</loc>
+    <loc>/blog/2019/06/08/patch/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/07/daisy/</loc>
+    <loc>/blog/2019/06/07/daisy/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/daisy/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/06/lilly/</loc>
+    <loc>/tags/lilly/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/lilly/</loc>
+    <loc>/blog/2019/06/06/lilly/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2019/06/05/jude-kako/</loc>
+    <loc>/blog/2019/06/05/jude-kako/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/di/</loc>
+    <loc>/tags/di/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2018/11/04/di/</loc>
+    <loc>/blog/2018/11/04/di/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2018/01/30/alla/</loc>
+    <loc>/blog/2018/01/30/alla/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/blue-bird/</loc>
+    <loc>/tags/blue-bird/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/blue-birds-daughter/</loc>
+    <loc>/tags/blue-birds-daughter/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2017/11/21/kako/</loc>
+    <loc>/blog/2017/11/21/kako/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/leo/</loc>
+    <loc>/tags/leo/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/leos-daughter/</loc>
+    <loc>/tags/leos-daughter/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/candy-cane/</loc>
+    <loc>/tags/candy-cane/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2017/10/17/flash-judy/</loc>
+    <loc>/blog/2017/10/17/flash-judy/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2017/10/17/jude/</loc>
+    <loc>/blog/2017/10/17/jude/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2017/03/21/first-clutch/</loc>
+    <loc>/blog/2017/03/21/first-clutch/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/athena/</loc>
+    <loc>/tags/athena/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/lineage/</loc>
+    <loc>/categories/lineage/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/22/coloradochams/</loc>
+    <loc>/blog/2016/03/22/chams101/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/22/kevinstanford/</loc>
+    <loc>/blog/2016/03/22/chitown/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/22/livingart/</loc>
+    <loc>/blog/2016/03/22/coloradochams/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/22/moderndaydragons/</loc>
+    <loc>/blog/2016/03/22/kevinstanford/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/categories/minor-lineage/</loc>
+    <loc>/blog/2016/03/22/livingart/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/miss-piggy/</loc>
+    <loc>/blog/2016/03/22/moderndaydragons/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/perregrin/</loc>
+    <loc>/blog/2016/03/22/strohlsherptiles/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/dio/</loc>
+    <loc>/categories/minor-lineage/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/miss-piggy/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/perregrin/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dio/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/firestarter/</loc>
+    <loc>/tags/firestarter/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/jackie/</loc>
+    <loc>/tags/jackie/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/jake/</loc>
+    <loc>/tags/jake/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/king/</loc>
+    <loc>/tags/king/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/bobbyruddock/</loc>
+    <loc>/blog/2016/03/21/bobbyruddock/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/brightside/</loc>
+    <loc>/blog/2016/03/21/brightside/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/canvas/</loc>
+    <loc>/blog/2016/03/21/canvas/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/chameleonparadise/</loc>
+    <loc>/blog/2016/03/21/chameleonparadise/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/chamsbydesign/</loc>
+    <loc>/blog/2016/03/21/chamsbydesign/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/chromatic/</loc>
+    <loc>/blog/2016/03/21/yamaguchi/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/joshuaillencik/</loc>
+    <loc>/blog/2016/03/21/chromatic/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/kammerflage/</loc>
+    <loc>/blog/2016/03/21/highlighter/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/kazkameleons/</loc>
+    <loc>/blog/2016/03/21/joshuaillencik/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/newenglandchameleons/</loc>
+    <loc>/blog/2016/03/21/kammerflage/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/pantherco/</loc>
+    <loc>/blog/2016/03/21/kazkameleons/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/panthercreek/</loc>
+    <loc>/blog/2016/03/21/naturesvangogh/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/21/shaneconlin/</loc>
+    <loc>/blog/2016/03/21/newenglandchameleons/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/macho/</loc>
+    <loc>/blog/2016/03/21/pantherco/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/marley/</loc>
+    <loc>/blog/2016/03/21/panthercreek/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/outline/</loc>
+    <loc>/blog/2016/03/21/shaneconlin/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/rambo/</loc>
+    <loc>/tags/macho/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/rick-james/</loc>
+    <loc>/tags/mango-saphire/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/shirley/</loc>
+    <loc>/tags/marley/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/dante/</loc>
+    <loc>/tags/outline/</loc>
+    <lastmod>2016-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rambo/</loc>
+    <lastmod>2016-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rick-james/</loc>
+    <lastmod>2016-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/shirley/</loc>
+    <lastmod>2016-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dante/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/20/ramblin/</loc>
+    <loc>/blog/2016/03/20/ramblin/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/20/tropical/</loc>
+    <loc>/blog/2016/03/20/tropical/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/higgins/</loc>
+    <loc>/tags/higgins/</loc>
     <lastmod>2016-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/19/briancollins/</loc>
+    <loc>/blog/2016/03/19/briancollins/</loc>
     <lastmod>2016-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2016/03/19/mythicalexotics/</loc>
+    <loc>/blog/2016/03/19/mythicalexotics/</loc>
     <lastmod>2016-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/jakes-daughter/</loc>
+    <loc>/tags/jakes-daughter/</loc>
     <lastmod>2015-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2015/02/11/judy/</loc>
+    <loc>/blog/2015/02/11/judy/</loc>
     <lastmod>2015-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/blog/2015/01/10/flash/</loc>
+    <loc>/blog/2015/01/10/flash/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/tags/kings-daughter/</loc>
+    <loc>/tags/kings-daughter/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipardalis.com/ambilobe/</loc>
+    <loc>/ambilobe/</loc>
   </url><url>
-    <loc>https://ipardalis.com/babies/</loc>
+    <loc>/babies/</loc>
   </url><url>
-    <loc>https://ipardalis.com/babies/available/</loc>
+    <loc>/babies/available/</loc>
   </url><url>
-    <loc>https://ipardalis.com/faq/</loc>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>https://ipardalis.com/ambilobe/lineage/</loc>
+    <loc>/ambilobe/lineage/</loc>
   </url><url>
-    <loc>https://ipardalis.com/tos/</loc>
+    <loc>/categories/pd-jani/</loc>
   </url><url>
-    <loc>https://ipardalis.com/babies/upcoming/</loc>
+    <loc>/tags/pd-jani/</loc>
+  </url><url>
+    <loc>/blog/1/01/01/pdjani/</loc>
+  </url><url>
+    <loc>/tos/</loc>
+  </url><url>
+    <loc>/babies/upcoming/</loc>
   </url>
 </urlset>
