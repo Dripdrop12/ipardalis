@@ -179,7 +179,7 @@ Even without understanding the exact genotype and number of genes which encode f
 
 # Debunked Misconceptions
 
-Knowing that the polygenic inheritance is the best explanation for how body color is determined in Panther Chameleons helps dispel the following myths (feel free to comment in the section below if you can think of more).
+Knowing that polygenic inheritance is the best explanation for how body color is determined in Panther Chameleons helps dispel the following myths (feel free to comment in the section below if you can think of more).
 
 1.  **There are no dominant or recessive genes for body color**. There are animals on various ends of the color spectrum but most fall in the middle (including females). I have noticed that reds tend to sit underneath other colors in Ambilobe locale animals, so even when you don't see them on the top layer - they are there underneath and between chromatophores. Yellows and greens tend to be located at the very top layer of the skin. These general locations can create the perception that yellow is "dominant" because it is the top layer of color when multiple colors co-exist. Practically speaking, that may be fair, but genetically/phenotypically speaking, that is false.
 
