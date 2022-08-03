@@ -1,6 +1,6 @@
 ---
 title: Furcifer pardalis Body Color Inheritance Theory
-author: Jonathan Hill
+author: Jonathan Hill 
 date: '2022-07-23'
 slug: body-color-theory
 categories: 
