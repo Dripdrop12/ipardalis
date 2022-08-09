@@ -21,4 +21,8 @@ babies:
 - name: M6
   gender: Male
   image: /img/babies/20211203/available/M6
-  price: 399
+  price: 450
+- name: M7
+  gender: Male
+  image: /img/babies/20211203/available/M7
+  price: 599
