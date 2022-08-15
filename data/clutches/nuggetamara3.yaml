@@ -30,7 +30,4 @@ babies:
   gender: Female
   image: /img/babies/20211003/available/F3
   price: 325
-- name: F4
-  gender: Female
-  image: /img/babies/20211003/available/F4
-  price: 399
+

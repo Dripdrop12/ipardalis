@@ -26,3 +26,4 @@ babies:
   gender: Male
   image: /img/babies/20211203/available/M7
   price: 599
+  sold: true
