@@ -2,7 +2,7 @@
 title = "maro"
 date = "2021-07-13"
 tags = ["maro", "sammy", "nova", "legion"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/maro/maro"
 +++
 
