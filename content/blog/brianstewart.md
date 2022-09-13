@@ -3,16 +3,16 @@ title = "Lineage: Brian Stewart"
 date = "2016-03-19"
 tags = ["arti", "maize", "beans", "squash"]
 categories = ["lineage"]
-banner = "img/ambilobe/lineage/Unknown/Unknown1"
+banner = "img/ambilobe/lineage/Noname/noname1"
 +++
 
 {{< load-photoswipe >}}
 
 ---
 
-### Unknown
+### Noname
 
-{{< gallery dir="/img/ambilobe/lineage/Unknown" />}}
+{{< gallery dir="/img/ambilobe/lineage/Noname" />}}
 
 Sire
 : [Stryfe]({{< ref "blog/brightside.md#stryfe" >}})
