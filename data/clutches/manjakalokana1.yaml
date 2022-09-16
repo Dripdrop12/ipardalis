@@ -3,18 +3,52 @@ dam: lokana
 image: /img/ambilobe/manjakalokana
 filial: F2-CG13
 desc: |
-  Some fresh genetics from the Colorado Chameleon WC Arlo line combined with a female from Chromatic Chameleons. A great combination unrelated to anything we have!
+  Some fresh genetics from the Colorado Chameleon WC Arlo line via F1 Manjaka combined with a female from Chromatic Chameleons. A great combination unrelated to our main line!
 laid: 2021-10-04
 hatchstart: 2022-05-31
 hatchend: 2022-06-05
 shipping: 3 months after hatch
 hatchnum: 29
 clutchsize: 30
-deposit: true
-listed: false
+deposit: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 499
 femaleprice: 399
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20220605/available/F1
+  price: 399
+- name: M1
+  gender: Male
+  image: /img/babies/20220605/available/M1
+  price: 549
+- name: F2
+  gender: Female
+  image: /img/babies/20220605/available/F2
+  price: 399
+- name: M2
+  gender: Male
+  image: /img/babies/20220605/available/M2
+  price: 549
+- name: F3
+  gender: Female
+  image: /img/babies/20220605/available/F3
+  price: 399
+  sold: true
+- name: M3
+  gender: Male
+  image: /img/babies/20220605/available/M3
+  price: 499
+  sold: true
+- name: F4
+  gender: Female
+  image: /img/babies/20220605/available/F4
+  price: 449
+- name: M4
+  gender: Male
+  image: /img/babies/20220605/available/M4
+  price: 499
