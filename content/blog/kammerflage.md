@@ -74,6 +74,16 @@ Dam
 
 ---
 
+### So-soa (So Beautiful)
+
+Sire
+: [WC Bakaina (Divergent)]({{< ref "/blog/kammerflage.md#bakaina-divergent" >}})
+
+Dam
+: Unknown
+
+---
+
 ### Bakaina (Divergent)
 *WC*
 
@@ -384,3 +394,19 @@ Dam
 : Unknown
 
 ---
+
+### Varatra (Thunderbolt)
+
+{{< gallery dir="img/ambilobe/lineage/Thunderbolt" />}}
+
+Sire
+: [Dragona-manapoaka (Dragonfire)]({{< ref "/blog/kammerflage.md#dragona-manapoaka-dragonfire" >}})
+
+Dam
+: Unknown
+
+---
+
+### Dragona-manapoaka (Dragonfire)
+
+{{< gallery dir="img/ambilobe/lineage/Dragonfire" />}}

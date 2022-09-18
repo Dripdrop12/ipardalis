@@ -34,3 +34,7 @@ Dam
 
 ---
 
+### Rambo's Daughter
+
+Sire
+: [Rambo]({{< ref "/blog/kazkameleons.md#rambo" >}})

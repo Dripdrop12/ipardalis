@@ -35,3 +35,23 @@ Dam
 : [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
 
 ---
+
+### Clapton
+
+{{< gallery dir="img/ambilobe/lineage/Clapton" />}}
+
+Sire
+: [Varatra (Thunderbolt)]({{< ref "/blog/kammerflage.md#varatra-thunderbolt" >}})
+
+Dam
+: [So-Soa (So Beautiful)]({{< ref "/blog/kammerflage.md#so-soa-so-beautiful" >}})
+
+---
+
+### Layla
+
+Sire
+: [DynamiteTNT]({{< ref "/blog/eyecandy.md#dynamitetnt" >}})
+
+Dam Sire
+: [Mr America Jr.]({{< ref "/blog/roseexoticreptiles.md#mr-america-jr" >}})

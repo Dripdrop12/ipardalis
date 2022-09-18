@@ -34,3 +34,19 @@ Dam Sire
 {{< gallery dir="img/ambilobe/lineage/Noki" />}}
 
 ---
+
+### (s)AINT
+
+{{< gallery dir="img/ambilobe/lineage/(s)AINT" />}}
+
+Sire
+: Nergal
+
+Dam Sire
+: Dio
+
+---
+
+### Nergal
+
+{{< gallery dir="img/ambilobe/lineage/Nergal" />}}
