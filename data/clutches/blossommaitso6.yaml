@@ -31,6 +31,7 @@ babies:
   gender: male
   image: /img/babies/20220106/available/M6
   price: 549
+  sold: true
 
 
 
