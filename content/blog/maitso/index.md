@@ -2,7 +2,7 @@
 title = "Maitso"
 date = "2019-11-13"
 tags = ["maitso", "amarillo", "felipe sanchez"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/maitso/maitso"
 +++
 

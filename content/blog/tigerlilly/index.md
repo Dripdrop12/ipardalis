@@ -2,7 +2,7 @@
 title = "tigerlilly"
 date = "2021-06-01"
 tags = ["tigerlilly", "nugget", "amara", "jude", "artemis"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/tigerlilly/tigerlilly"
 +++
 

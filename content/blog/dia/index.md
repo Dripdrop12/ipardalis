@@ -2,7 +2,7 @@
 title = "Dia (WC)"
 date = "2022-06-28"
 tags = ["dia"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/dia/dia"
 +++
 

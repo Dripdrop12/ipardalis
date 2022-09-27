@@ -3,22 +3,22 @@ title = "Lineage: Brian Stewart"
 date = "2016-03-19"
 tags = ["arti", "maize", "beans", "squash"]
 categories = ["lineage"]
-banner = "img/ambilobe/lineage/Noname/noname1"
+banner = "img/ambilobe/lineage/McNulty/mcnulty1"
 +++
 
 {{< load-photoswipe >}}
 
 ---
 
-### Noname
+### McNulty
 
-{{< gallery dir="/img/ambilobe/lineage/Noname" />}}
+{{< gallery dir="/img/ambilobe/lineage/McNulty" />}}
 
 Sire
 : [Stryfe]({{< ref "blog/brightside.md#stryfe" >}})
 
 Dam Sire
-: Unknown
+: Unknown Kammers Sire
 
 ---
 

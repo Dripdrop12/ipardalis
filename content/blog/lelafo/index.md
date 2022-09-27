@@ -2,7 +2,7 @@
 title = "Lelafo"
 date = "2021-04-02"
 tags = ["lelafo", "vulcan", "odin", "agent orange"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/lelafo/lelafo"
 +++
 
