@@ -21,7 +21,7 @@ babies:
 - name: F2
   gender: Female
   image: /img/babies/20220511/available/F2
-  price: 425
+  price: 499
 - name: M1
   gender: Male
   image: /img/babies/20220511/available/M1
@@ -30,4 +30,4 @@ babies:
 - name: M3
   gender: Male
   image: /img/babies/20220511/available/M3
-  price: 425
+  price: 499
