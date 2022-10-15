@@ -20,7 +20,7 @@ When adding a new animal to your project, you start with a base estimate for wha
 
 Many people do not see dirty colors - if they see some yellow, somewhere, anywhere... "it is yellow!" However, we need to look for **every** color that is present. Red between the scales at the dermal layer can bleed up to the top layer in the offspring. Red rain mixed with yellow can become more red over time or in the next generation. Gold/orange is not the same as neon yellow. Many people try to jam every animal into yellow-body blue-bar (ybbb), red-body blue-bar (rbbb) or yellow-body red-bar (ybrb) when very few animals actually fit in those extreme phenotypes and the vast majority lie somewhere in the middle. However, these extreme phenotypes are used to describe base estimates, poorly. Many people describe Ambilobe as either yellow body or red body when 95% of them are green or orange bodied, not red or yellow.
 
-iPardalis always publishes lineage collages which represent 87.5% of the base distribution of each pairing accurately. We share the sire, dam sire, and dam's dam sire in a collage like this:
+iPardalis has the goal of a base estimate of 90% or better on any animal we add to our ybbb and rbbb projects. We always publish lineage collages which represent 87.5% of the base distribution of each pairing. We share the sire, dam sire, and dam's dam sire in a collage like this:
 
 {{< rawhtml >}}    
 <figure>
@@ -28,6 +28,16 @@ iPardalis always publishes lineage collages which represent 87.5% of the base di
 <figcaption>Papafee (center), Lokana (top), Kromatisk (top right, photo credit Chromatic Chameleons), Silk (top left, photo credit Kammerflage Kreations) = 87.5% of the information</figcaption>   
 </figure>
 {{</ rawhtml >}}
+
+---
+
+{{< rawhtml >}}    
+<figure>
+<img src="/img/genetics/tree.png" style="width:75%" />
+<figcaption>You will often find that the nearest animal not shown on the lineage collage even carries our target phenotype</figcaption>   
+</figure>
+{{</ rawhtml >}}
+[Vaosary's breeder page](https://ipardalis.com/blog/2022/01/12/vaosary/)
 
 ---
 
@@ -57,9 +67,9 @@ When we hit on a very consistent clutch like [Jude x Kako](https://ipardalis.com
 
 ## Genetic Diversity
 
-Sometimes we will pair a less-than-perfect male to a female we have a high degree of confidence in. We only do this in order to add genetic diversity into the project and know we will not keep *any* females from these pairings. The goal is just to mine out a nice male from the female's lineage and avoid males that look like the sire. I have sometimes pejoratively referred to these as "throw-away" clutches because the only goal is to introduce genetic diversity while knowing we will not be able to use any of the females for fear that they resemble their sire.
+Sometimes we will pair a less-than-perfect male to a female we have a high degree of confidence in. We do this to add genetic diversity into the project, and we will not breed *any* females from these pairings unless the males prove out well. The goal is to get a nice male from the female's lineage and avoid the less-than-perfect sire's traits. I have sometimes pejoratively referred to these as "throw-away" clutches because the goal is to introduce genetic diversity while knowing we will not be able to use the females for fear that they resemble their sire.
 
-The key with this process is to make sure the sire isn't too far removed from our project goals because the chance that you will hit on a yellow body blue bar with a red body red bar sire, for example, is basically zero even if the female has solid yellow body blue bar lineage. The sire of a throw away can't be too far off, otherwise, it could be a 100% throw-away clutch without any males worth keeping.
+The key with this process is to make sure the sire isn't too far removed from our project goals because the chance that you will hit on a yellow body blue bar with a red body red bar sire, for example, is basically zero even if the female has yellow body blue bar lineage. The sire of a throw away can't be too far off, otherwise, it could be a 100% throw-away clutch without any males worth keeping.
 
 ## Retained Sperm
 
