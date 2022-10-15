@@ -59,7 +59,7 @@ When we hit on a very consistent clutch like [Jude x Kako](https://ipardalis.com
 
 Sometimes we will pair a less-than-perfect male to a female we have a high degree of confidence in. We only do this in order to add genetic diversity into the project and know we will not keep *any* females from these pairings. The goal is just to mine out a nice male from the female's lineage and avoid males that look like the sire. I have sometimes pejoratively referred to these as "throw-away" clutches because the only goal is to introduce genetic diversity while knowing we will not be able to use any of the females for fear that they resemble their sire.
 
-The key with this process is to make sure the sire isn't too far removed from our project goals because the chance that you will hit on a yellow body blue bar with a red body red bar sire, for example, is basically zero even if the female has solid yellow body blue bar lineage. The sire of a throw away can't be too far off, otherwise, it could end of being a 100% throw-away clutch without any males worth keeping.
+The key with this process is to make sure the sire isn't too far removed from our project goals because the chance that you will hit on a yellow body blue bar with a red body red bar sire, for example, is basically zero even if the female has solid yellow body blue bar lineage. The sire of a throw away can't be too far off, otherwise, it could be a 100% throw-away clutch without any males worth keeping.
 
 ## Retained Sperm
 
