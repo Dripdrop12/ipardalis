@@ -67,6 +67,19 @@ This updating process is why we publish all of the male offspring from [every cl
 
 When we hit on a very consistent clutch like [Jude x Kako](https://ipardalis.com/blog/2019/06/05/jude-kako/), we will keep and breed as many females as we can because we know those females are going to be just as consistent as their brothers.
 
+### Proving Out Females
+
+There are two big challenges to prove out a female:
+
+1. Raising male offspring to see their coloration
+2. Knowing what it is
+
+Most first-time breeders can not do either of these things. They do not have the infrastructure to raise their males until they color up, and if they raise them in groups under sub-par conditions, their males only present stressed and submissive colors. They never get to see their true potential and genetics.
+
+Being able to recognize early signs of rainbows vs clean phenotype outcomes in the juvenile stage of development takes practice. I often refer to young babies showing potential as "zebras" because clean colors present as white against a distinct barring that almost looks like a zebra. Then as they develop, those clean whites either fill in with one color or a mix. One of our best rbbb, [Ralph]({{< ref "blog/ralph" >}}), was an amazingly clean zebra that started to glow orange. Slowly that white filled in without any other color and we immediately stashed him around 3 months old. Small details, like a red gular, are signs of red body/rainbow results if you are breeding for ybbb, so you can see early on if the animal has red features which could become more prominent as they age.
+
+For yellows, the green/yellow spectrum is what you want to see because there is actually a distinct chromatophore which creates color along that spectrum without the ability to produce red. There's another chromatophore which produces color along the gold/orange/red spectrum which is confused with yellow (it is actually gold, not neon yellow). In Ambilobe, this red spectrum chromatophore is more common at the dermal layer (between scales), so you can look for it there in juveniles. Reds often become more prominent around 6 months of age, but these animals can shift from gold to red throughout their lives. I have never seen a true neon yellow/green animal shift to red because these are actually physical differences that do not change over time.
+
 ## Genetic Diversity
 
 Sometimes we will pair a less-than-perfect male to a female we have a high degree of confidence in. We do this to add genetic diversity into the project, and we will not breed *any* females from these pairings unless the males prove out well. The goal is to get a nice male from the female's lineage and avoid the less-than-perfect sire's traits. I have sometimes pejoratively referred to these as "throw-away" clutches because the goal is to introduce genetic diversity while knowing we will not be able to use the females for fear that they resemble their sire.
