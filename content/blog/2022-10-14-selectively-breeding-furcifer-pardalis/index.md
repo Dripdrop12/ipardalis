@@ -41,7 +41,7 @@ iPardalis has the goal of a base estimate of 90% or better on any animal we add 
 
 ---
 
-As you work your way through the dam's lineage, you gain information about her traits, but you can never know what she carries with 100% confidence. You can look at her brothers for clues, but unless you have a large enough sample to get some sense for the mean result, you are probably just cherry picking the best brother, which is not an accurate estimate for her. That is much more likely to be a rare event than an accurate representation of the mean of the distribution, her traits.
+As you work your way through a dam's lineage, you gain information about her traits, but you can never know what she carries with 100% confidence. You can look at her brothers for clues, but unless you have a large enough sample to get some sense for the mean result, you are probably just cherry picking the best brother, which is not an accurate estimate for her. That is much more likely to be a rare event than an accurate representation of the mean of the distribution, her traits.
 
 | Lineage Pic                | Information Gain |
 |------------------------|------------------|
@@ -53,7 +53,7 @@ As you work your way through the dam's lineage, you gain information about her t
 
 ---
 
-This table shows roughly how much information you gain from each key male relative in a lineage tree. Notice - sire's sire is provides a 0% information gain. Every trait from the sire's lineage is visible in him. Looking at the sire's sire is completely useless information because panther chameleon colors are not [mendelian traits](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/). Sire's sires are only helpful in determining which pairings you want to do from a genetic distance/diversity standpoint, but they are irrelevant for selective breeding purposes.
+This table shows roughly how much information you gain from each key male relative in a lineage tree. Notice - sire's sire provides a 0% information gain. Every trait from the sire's lineage is visible in him. Looking at the sire's sire is completely useless information because panther chameleon colors are not [mendelian traits](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/). Sire's sires are only helpful in determining which pairings you want to do from a genetic distance/diversity standpoint, but they are irrelevant for selective breeding purposes.
 
 ## Updating Your Estimate
 
