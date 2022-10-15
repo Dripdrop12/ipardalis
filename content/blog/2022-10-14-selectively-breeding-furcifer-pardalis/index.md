@@ -10,7 +10,7 @@ banner: /img/ambilobe/papafeelokana
 
 ## Introduction
 
-Given that Panther Chameleon (Furcifer pardalis) colors are polymorphic traits, and they are a sexually dimorphic species, selective breeding for a given color is challenging and many people fail to achieve a consistent result. If you are not familiar with what a polymorphic trait is, you should probably start by reading our previous genetics post about our \[Furcifer pardalis Body Color Inheritance Theory\]({{< ref "blog/2022-07-23-body-color-theory" >}}). Polymorphic traits do not have discrete results, and they produce a distribution of results with a mean roughly situated between the sire (father) and dam (mother). However, when breeding for male color, dams have to be estimated using their male ancestors before they have been bred and using their male offspring after they have been bred. We can just look at the sire to see what traits he carries, so there is basically no uncertainty there. He is what he is.
+Given that Panther Chameleon (Furcifer pardalis) colors are polymorphic traits, and they are a sexually dimorphic species, selective breeding for a given color is challenging and many people fail to achieve a consistent result. If you are not familiar with what a polymorphic trait is, you should probably start by reading our previous genetics post about our [Furcifer pardalis Body Color Inheritance Theory]({{< ref "blog/2022-07-23-body-color-theory" >}}). Polymorphic traits do not have discrete results, and they produce a distribution of results with a mean roughly situated between the sire (father) and dam (mother). However, when breeding for male color, dams have to be estimated using their male ancestors before they have been bred and using their male offspring after they have been bred. We can just look at the sire to see what traits he carries, so there is basically no uncertainty there. He is what he is.
 
 Most breeders do not understand Panther Chameleon genetics and cannot be expected to produce a given phenotype such as yellow body blue bar or red body blue bar. Many will even throw their hands up and say "you can't know." We learn more about Panther Chameleon genetics with every pairing and share that information in blog posts and photo galleries. Hopefully, that provides a better grounding for what we do and don't know, and it enables our customers to make informed decisions.
 
@@ -45,7 +45,7 @@ In our project, we do not use females from pairings which have too much variatio
 
 This updating process is why we publish all of the male offspring from [every clutch](https://ipardalis.com/categories/past-clutches/) we produce, not just a few flashy hold-backs. The entire distribution and the consistent result is more important than that one-off male at the tail end of the distribution. Quality females are all about the mean of the distribution, not the 1 in 1000 result.
 
-When we hit on a very consistent clutch like \[Jude x Kako\]({{< ref "blog/jude-kako.md" >}}), we will keep and breed as many females as we can because we know those females are going to be just as consistent as their brothers.
+When we hit on a very consistent clutch like [Jude x Kako](https://ipardalis.com/blog/2019/06/05/jude-kako/), we will keep and breed as many females as we can because we know those females are going to be just as consistent as their brothers.
 
 ## Genetic Diversity
 
