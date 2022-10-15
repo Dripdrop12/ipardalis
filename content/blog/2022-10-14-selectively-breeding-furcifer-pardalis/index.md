@@ -22,18 +22,25 @@ Many people do not see dirty colors - if they see some yellow, somewhere, anywhe
 
 iPardalis always publishes lineage collages which represent 87.5% of the base distribution of each pairing accurately. We share the sire, dam sire, and dam's dam sire in a collage like this:
 
-{{< rawhtml >}}    Papafee (center), Lokana (top), Kromatisk (top right, photo credit Chromatic Chameleons), Silk (top left, photo credit Kammerflage Kreations) = 87.5% of the information   {{</ rawhtml >}}
+{{< rawhtml >}}    
+<figure>
+<img src="/img/ambilobe/papafeelokana.jpg" style="width:75%" />
+<figcaption>Papafee (center), Lokana (top), Kromatisk (top right, photo credit Chromatic Chameleons), Silk (top left, photo credit Kammerflage Kreations) = 87.5% of the information</figcaption>   
+</figure>
+{{</ rawhtml >}}
 
-------------------------------------------------------------------------
+---
 
 As you work your way through the dam's lineage, you gain information about her traits, but you can never know what she carries with 100% confidence. You can look at her brothers for clues, but unless you have a large enough sample to get some sense for the mean result, you are probably just cherry picking the best brother, which is not an accurate estimate for her. That is much more likely to be a rare event than an accurate representation of her traits.
 
-| Lineage                | Information Gain |
+| Lineage Pic                | Information Gain |
 |------------------------|------------------|
 | Sire                   | 50%              |
 | Dam's Sire             | 25%              |
 | Dam's Dam's Sire       | 12.5%            |
 | Dam's Dam's Dam's Sire | 6.25%            |
+
+---
 
 This table shows roughly how much information you gain from each key male relative in a lineage tree. Notice - sire's sire is not here because he would provide a 0% information gain. Every trait from the sire's lineage is visible in him, or the trait isn't there. Looking at the sire's sire is completely useless information. It is only helpful in determining which pairings you want to do from a genetic distance/diversity standpoint, but it is irrelevant for selective breeding purposes.
 
