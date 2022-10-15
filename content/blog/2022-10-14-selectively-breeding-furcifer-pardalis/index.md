@@ -53,7 +53,9 @@ As you work your way through a dam's lineage, you gain information about her tra
 
 ---
 
-This table shows roughly how much information you gain from each key male relative in a lineage tree. Our lineage collages are designed to accurately represent these probabilities with the most prominent picture being the sire with other relevant sires scaled down to reflect their importance in the expected outcome. Notice - sire's sire provides a 0% information gain. Every trait from the sire's lineage is visible in him. Looking at the sire's sire is completely useless information because panther chameleon colors are not [mendelian traits](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/). Sire's sires are only helpful in determining which pairings you want to do from a genetic distance/diversity standpoint, but they are irrelevant for selective breeding purposes.
+This table shows roughly how much information you gain from each key male relative in a lineage tree. Our lineage collages are designed to accurately represent these probabilities with the most prominent picture being the sire with other relevant sires scaled down to reflect their importance in the expected outcome. 
+
+Notice - sire's sire provides a 0% information gain. Every trait from the sire's lineage is visible in him. Looking at the sire's sire is completely useless information because panther chameleon colors are not [mendelian traits](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/). Sire's sires are only helpful in determining which pairings you want to do from a genetic distance/diversity standpoint, but they are irrelevant for selective breeding purposes.
 
 ## Updating Your Estimate
 
