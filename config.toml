@@ -1,5 +1,5 @@
 baseurl = "https://ipardalis.com/"
-title = "iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me."
+title = "Ambilobe Panther Chameleons for sale - iPardalis"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -176,6 +176,7 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
+    title = "Ambilobe Panther Chameleons for sale - iPardalis"
     author = "Jonathan Mark Hill"
     defaultKeywords = ["Panther Chameleons for sale", "Ambilobe", 
       "Yellow Body Blue Bar Ambilobe", "YBBB", "OBBB", "iPardalis", "juvenile panther chameleon",
