@@ -14,7 +14,7 @@ Arti is a great YBBB from the Kammerflage Fantara line produced by Brian Stewart
 {{< gallery dir="/img/ambilobe/arti" />}}
 
 Filial
-: F3
+: F3-CG12
 
 Sire
 : [Artemis]({{< ref "blog/coloradochams.md#artemis" >}})
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 <div id="grampstextdoc">

@@ -13,7 +13,7 @@ Amara is Arti's sister from the Kammerflage Fantara line produced by Brian Stewa
 {{< gallery dir="/img/ambilobe/amara" />}}
 
 Filial
-: F3
+: F3-CG12
 
 Sire
 : [Artemis]({{< ref "blog/coloradochams.md#artemis" >}})
@@ -21,9 +21,7 @@ Sire
 Dam
 : [Felipe Sanchez's daughter]({{< ref "blog/chromatic.md#felipe-sanchez" >}})
 
----
-
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 <div id="grampstextdoc">

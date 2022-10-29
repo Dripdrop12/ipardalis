@@ -13,7 +13,7 @@ Alla is our most successful female breeder to date. She has a gregarious persona
 {{< gallery dir="/img/ambilobe/alla" />}}
 
 Filial
-: Unknown
+: F8-CG11
 
 Sire
 : [JJ]({{< ref "blog/panthercreek.md#jj" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="3 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}<div id="grampstextdoc">
   <div id="header">
