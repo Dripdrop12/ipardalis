@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" height=400px >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

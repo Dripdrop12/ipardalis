@@ -11,7 +11,7 @@ banner = "img/ambilobe/robina/robina2"
 Robina is a female we acquired from Ramblin' Exotics Clapton x Layla pairing. Her sire, Clapton, and dam sire, DynamiteTNT, both have phenomenal blue bars which I believe will complement Ralph's really well. With any luck, a few Ralph clones could pop out because Robina is an RBBB x RBBB female. She has some interesting turquoise and subtle differences from most of my other females. She is awesome!
 
 
-{{< gallery dir="/img/ambilobe/robina" width=250px />}}
+{{< gallery dir="/img/ambilobe/robina" />}}
 
 Filial
 : *F3-CG14*
