@@ -13,7 +13,7 @@ Jack is a beautiful Ambilobe from our Jude x Alla pairing. When he was young, hi
 {{< gallery dir="/img/ambilobe/jack" />}}
 
 Filial
-: F3
+: F3-CG12
 
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}} 
 <div id="grampstextdoc">

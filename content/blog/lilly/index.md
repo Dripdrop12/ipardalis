@@ -9,6 +9,12 @@ banner = "img/ambilobe/lilly/lilly"
 {{< load-photoswipe >}}
 
 Lilly has some really nice purples, hatched 6/5/19 from Jude x Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. Her daughters will hopefully be equally beautiful, but we have a theory that her coloration indicates her sons will be killer yellow body blue bar (YBBB) Ambilobe!
+
+{{< gallery dir="/img/ambilobe/lilly" />}}
+
+Filial
+: *F3-CG4*
+
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
 
@@ -17,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 

@@ -13,7 +13,7 @@ Sunny was my second favorite female from the Jude x Kako clutch, hatched 6/5/19.
 {{< gallery dir="/img/ambilobe/sunny" />}}
 
 Filial
-: F3
+: *F3-CG4*
 
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 

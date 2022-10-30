@@ -13,7 +13,7 @@ Zanaka is a giant F2 Ambilobe from Kammerflage Kreations. His personality was ge
 {{< gallery dir="/img/ambilobe/zanaka" />}}
 
 Filial
-: F2
+: *F2-CG11*
 
 Sire
 : [Manome-toky (Promise Keeper)]({{< ref "/blog/kammerflage.md#manome-toky-promise-keeper" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}} 
 

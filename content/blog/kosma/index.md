@@ -14,7 +14,7 @@ Kosma is Kosmo's sister. Kosmo is one of my favorite RBBB Ambilobe produced over
 {{< gallery dir="/img/ambilobe/kosma" />}}
 
 Filial
-: * *
+: *unknown*
 
 Sire
 : [Skyline]({{< ref "/blog/chams101.md#skyline" >}})
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="1 Generation Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

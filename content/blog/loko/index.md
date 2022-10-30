@@ -13,7 +13,7 @@ Loko is a premium CB Ambilobe from some of the best lines in the USA. Her sire, 
 {{< gallery dir="/img/ambilobe/loko" />}}
 
 Filial Group
-: F5
+: F5-CG13
 
 Sire
 : [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}})
@@ -23,7 +23,7 @@ Dam
  
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
  

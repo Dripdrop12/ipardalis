@@ -16,7 +16,7 @@ mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
 
 Filial
-: F3
+: F3-CG4
 
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
@@ -28,7 +28,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 

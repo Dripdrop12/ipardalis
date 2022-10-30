@@ -13,7 +13,7 @@ We got lucky holding back Blossom from Jude x Alla. He looks like a mini-JJ, All
 {{< gallery dir="/img/ambilobe/blossom" />}}
 
 Filial
-: F3
+: F3-CG12
 
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}} 
 

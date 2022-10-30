@@ -13,7 +13,7 @@ Maitso's sire, Amarillo, is the top yellow boby blue bar Ambilobe in the USA. He
 {{< gallery dir="/img/ambilobe/maitso" />}}
 
 Filial
-: F3
+: F3-CG5
 
 Sire
 : [Amarillo]({{< ref "/blog/bobbyruddock.md#amarillo" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}} 
   <div id="grampstextdoc">

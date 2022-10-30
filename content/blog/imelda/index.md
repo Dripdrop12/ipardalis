@@ -14,7 +14,7 @@ Imelda brings a new WC line from Brightside Chameleon's Gambit into our project 
 {{< gallery dir="/img/ambilobe/imelda" />}}
 
 Filial
-: *F3-CG3*
+: *F3-CG13*
 
 Sire
 : [Hendrix]({{< ref "/blog/ramblin.md#hendrix" >}})
@@ -24,16 +24,16 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">
     <div id="header">
-      <h1>Ancestral Report for Imelda (F3-CG3)</h1>
+      <h1>Ancestral Report for Imelda (F3-CG13)</h1>
     </div>
     <h3>Generation 1</h3>
-    <p>1. <strong>Imelda (F3-CG3). </strong>Imelda was born on 2020-12-03 at Ramblin' Exotics.  She is the daughter of Hendrix (F2-CG2) and Foxey (F9-CG12). </p>
-    <p>More about Imelda (F3-CG3):</p>
+    <p>1. <strong>Imelda (F3-CG13). </strong>Imelda was born on 2020-12-03 at Ramblin' Exotics.  She is the daughter of Hendrix (F2-CG2) and Foxey (F9-CG12). </p>
+    <p>More about Imelda (F3-CG13):</p>
     <p>Adopted: 2021-03-15, iPardalis.  </p>
     <h3>Generation 2</h3>
     <img align="right" alt="" border="0" src="ishendrix.jpg" />
@@ -44,8 +44,8 @@ Dam
     <p>More about Foxey (F9-CG12):</p>
     <p>Adopted: Ramblin' Exotics.  </p>
     <p>Children of Foxey (F9-CG12) and Hendrix (F2-CG2)</p>
-    <p>i. Coco (F3-CG3). Coco was born on 2020-12-03 at Ramblin' Exotics.  </p>
-    <p>ii. Imelda (F3-CG3) [1]. Imelda was born on 2020-12-03 at Ramblin' Exotics.  </p>
+    <p>i. Coco (F3-CG13). Coco was born on 2020-12-03 at Ramblin' Exotics.  </p>
+    <p>ii. Imelda (F3-CG13) [1]. Imelda was born on 2020-12-03 at Ramblin' Exotics.  </p>
     <h3>Generation 3</h3>
     <img align="right" alt="" border="0" src="isDante.jpg" />
     <p>4. <strong>Dante (F1). </strong>Dante was produced by Brightside Chameleons.  He is the son of Gambit (WC) and Polaris. He had a relationship with Sunkist (F1). </p>

@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="3 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="3 Generation Tree" >}}
 
 {{< rawhtml >}}
 

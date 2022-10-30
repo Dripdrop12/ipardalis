@@ -13,7 +13,7 @@ Bubbles is a massive female. At the one year mark, she already weighs 90 grams w
 {{< gallery dir="/img/ambilobe/bubbles" />}}
 
 Filial
-: F3
+: F3-CG12
 
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" style="width:100%;" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" style="width:100%;" >}}
 
 {{< rawhtml >}} 
 

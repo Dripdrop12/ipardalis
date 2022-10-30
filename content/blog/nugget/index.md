@@ -13,7 +13,7 @@ Nugget was an alpha male from Jude and Kako's [first clutch]({{< ref "/blog/jude
 {{< gallery dir="/img/ambilobe/nugget" />}}
 
 Filial
-: F3
+: F3-CG4
 
 Sire
 : [Jude]({{< ref "blog/jude/index.md" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 <div id="grampstextdoc">

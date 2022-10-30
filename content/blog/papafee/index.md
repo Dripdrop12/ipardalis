@@ -14,7 +14,7 @@ Papafee is a monster yellow-bodied Ambilobe. He was our sole holdback from Zanak
 {{< gallery dir="/img/ambilobe/papafee" />}}
 
 Filial
-: F3
+: *F3-CG12*
 
 Sire
 : [Zanaka]({{< ref "blog/zanaka/index.md" >}})
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
 <div id="grampstextdoc">

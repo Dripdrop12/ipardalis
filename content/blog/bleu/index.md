@@ -13,7 +13,7 @@ Bleu is a male we picked up from the Stryfe line. He was raised by Jeremy Booker
 {{< gallery dir="/img/ambilobe/bleu" />}}
 
 Filial
-: F3
+: F3-CG11
 
 Sire
 : [Stryfe]({{< ref "blog/brightside.md#stryfe" >}})
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

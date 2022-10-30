@@ -17,7 +17,7 @@ mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
 
 Filial
-: *F9-CG12*
+: *F9-CG13*
 
 Sire
 : [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}})
@@ -29,7 +29,7 @@ Dam
 
 ---
 
-{{< figure src="tree.png" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">
