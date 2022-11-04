@@ -1,5 +1,5 @@
 baseurl = "https://ipardalis.com/"
-title = "Ambilobe Panther Chameleons for sale - iPardalis"
+title = "iPardalis - Ambilobe Panther Chameleons for sale"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
