@@ -1,7 +1,7 @@
 +++
 title = "Lineage: Colorado Chameleon"
 date = "2016-03-22"
-tags = ["artemis", "arti", "fantara", "athena"]
+tags = ["artemis", "arti", "fantara", "athena", "arlo"]
 categories = ["lineage"]
 banner = "img/ambilobe/lineage/Artemis/artemis"
 +++
