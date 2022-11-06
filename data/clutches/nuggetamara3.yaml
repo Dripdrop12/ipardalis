@@ -25,9 +25,9 @@ babies:
 - name: F2
   gender: Female
   image: /img/babies/20211003/available/F2
-  price: 325
+  price: 299
 - name: F3
   gender: Female
   image: /img/babies/20211003/available/F3
-  price: 325
+  price: 349
 

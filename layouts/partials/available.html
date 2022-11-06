@@ -9,8 +9,6 @@
             
             {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
             
-            
-            
             <div class="row">
               
               <div class="col-md-10">
@@ -32,8 +30,6 @@
                           Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
                         </figcaption>
                       </picture>
-                   
-                    
                   </div>
                   {{ if modBool (add $i 1) 3 }}
                   </div>
@@ -80,7 +76,6 @@
                       <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
                     </h2>
                   </div>
-                  <hr>
                   <p><em>{{.filial}}</em></p>
                   {{ if .desc }}
                     <p>{{.desc}}</p>
@@ -117,8 +112,6 @@
                     <p>Please feel free to contact us via email or check out our <a href="{{ $baseURL }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
                     
                   {{ else }}
-                    
-                    <hr><h4>Available Juveniles</h4><hr>
                     
                     <div class="row">
                       

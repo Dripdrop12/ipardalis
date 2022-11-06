@@ -18,16 +18,6 @@ soldoutfemale: false
 maleprice: 375
 femaleprice: 325
 babies:
-- name: F1
-  gender: Female
-  image: /img/babies/20210722/available/F1
-  price: 399
-  sold: true
-- name: F5
-  gender: Female
-  image: /img/babies/20210722/available/F5
-  price: 325
-  sold: true
 - name: F6
   gender: Female
   image: /img/babies/20210722/available/F6

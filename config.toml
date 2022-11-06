@@ -213,7 +213,7 @@ paginate = 10
     about_us = "<p>Individually-raised Panther Chameleons. We're on our 5th generation of Ambilobe and 1st gen of Furcifer minor (Lesser Chameleons). We also have a few colubrid and ball python projects.</p>"
     copyright = "Copyright (c) 2022, iPardalis, LLC; all rights reserved."
 
-    # Format dates with Go's time formatting
+    # Format dates with Go's time formatting ta
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
