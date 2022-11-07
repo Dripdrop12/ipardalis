@@ -9,7 +9,7 @@ description = "Panther chameleon reservation program. Top quality panther chamel
 {{< notice note >}}
 Everyone who has made a reservation in 2022 will receive a $150 discount. If you would like to redeem your discount from a previous reservation, contact us! 
 
-All reservations made between now and Thanksgiving will have their discount applied to their invoice. For example, a reservation listed at $499 is $349 after the discount. You just need to put $75 down to lock it in!
+All reservations made between now and Thanksgiving will have their discount applied to their invoice. For example, a reservation listed at $499 is $349 after the Thanksgiving Giveback sale. You just need to put $75 down to lock it in!
 {{< /notice >}}
 
 # Reserve first, pick first
