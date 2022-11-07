@@ -1,6 +1,6 @@
 baseurl = "https://ipardalis.com/"
 title = "iPardalis - Ambilobe Panther Chameleons for sale"
-theme = "hugo-universal-theme"
+theme = ["hugo-notice", "hugo-universal-theme"]
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableRobotsTXT = true
