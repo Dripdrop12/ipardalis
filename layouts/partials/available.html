@@ -6,135 +6,36 @@
             {{ $baseURL := .Site.BaseURL }}
             
             {{ .Content }}
-            
+            <button type="button" onclick="introJs().start()" class="btn btn-info">
+              Quick Tour
+            </button>
+            <hr>
+            <div class="row">
             {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
             
-            <div class="row">
-              
-              <div class="col-md-10">
-                <div class="row">
-                  
-                  {{ range $i, $element := where $clutches ".listed" true }}
-                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }} 
-                  {{ $pairingimage := .image }}
-                  <div class="col-md-4">
-                    
-                      <picture>
-                        <source srcset="{{$pairingimage}}.webp" type="image/webp">
-                        <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
-                        <a href="{{ printf "%s/babies/available#%s" $baseURL $clutchid }}" >
-                        <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:100%;">
-                        </a>
-                        <figcaption>
-                          Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
-                          Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
-                        </figcaption>
-                      </picture>
-                  </div>
-                  {{ if modBool (add $i 1) 3 }}
-                  </div>
-                  <hr>
-                  <div class="row">
-                  
-                  {{ end }}
-                  {{ end }}
-                </div>
-              </div>
-            </div>
-            
-            
-            
-            
+            {{ $.Scratch.Set "babycount" 0 }}
             {{ range $i, $element := where $clutches ".listed" true }}
             
               {{ $pairingimage := .image }}
               {{ $sire := .sire }}
               {{ $dam := .dam }}
+              {{ $hatchend := .hatchend }}
+              {{ $hatchstart := .hatchstart }}
+              {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+              {{ $filial := .filial }}
               {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
-              
-            <div class="row">
-              <div style="position:-webkit-sticky; position:sticky;top:75px;margin-left:975px;">
-                <picture style="position:absolute;right:-150px;">
-                  <source srcset="{{$pairingimage}}.webp" type="image/webp">
-                  <source srcset="{{$pairingimage}}.jpg" type="image/jpeg">
-                  <img src="{{$pairingimage}}.jpg" alt="Contact Us!" style="width:100%;">
-                  <figcaption>
-                    Sire: <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>,
-                    Dam: <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
-                    <a style="position:absolute;right:0;" href="{{ $baseURL }}/babies/available">back to top</a>
-                  </figcaption>
-                  
-                </picture>
-              </div>
-              
-              <div class="col-md-10">
-                  <hr>
-                  <div class="heading">
-                    <h2 id="{{ $clutchid }}">
-                      <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
-                       x 
-                      <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
-                    </h2>
+              {{ range $j, $baby := .babies }}
+                {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                <div class="col-md-4">
+                  {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                </div>
+                {{ if modBool ($.Scratch.Get "babycount") 3 }}
                   </div>
-                  <p><em>{{.filial}}</em></p>
-                  {{ if .desc }}
-                    <p>{{.desc}}</p>
-                  {{ end }}
-                  <div class="row">
-                    <div class="col-md-4">
-                      <dl>
-                        <dt>Hatch start:</dt> 
-                        <dd>{{ .hatchstart }}</dd>
-                        <dt>Hatch end:</dt>
-                        <dd>{{ .hatchend }}</dd>
-                      </dl>
-                    </div>
-                    <div class="col-md-4">
-                      <dl>
-                        <dt>Hatch Rate:</dt> 
-                        <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
-                        <dt>Estimated ship date:</dt>
-                        <dd>{{ .shipping }}</dd>
-                      </dl>
-                    </div>
-                    <div class="col-md-4">
-                      <dl>
-                        {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
-                        <dt>Older Siblings:</dt> 
-                        <dd><a href="{{ ref $.Page (printf "blog/%s-%s.md" .sire .dam) }}">gallery</a></dd>
-                        {{end}}
-                      </dl>
-                    </div>
-                  </div>
-                  {{ if eq .soldout true }}
-                    <hr>
-                    <strong>SOLD OUT</strong>
-                    <p>Please feel free to contact us via email or check out our <a href="{{ $baseURL }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
-                    
-                  {{ else }}
-                    
-                    <div class="row">
-                      
-                      {{ range $j, $baby := .babies }}
-                        <div class="col-md-4">
-                          {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam ) }}
-                        </div>
-                        {{ if modBool (add $j 1) 3 }}
-                        </div>
-                        <div class="row">  
-                          
-                        {{ end }}
-                      {{ end }}
-                    </div>
-                  {{ end }}
-              </div>
-            </div>
-            {{ else }}
-            <hr>
-            <strong>SOLD OUT</strong>
-            <p>Please feel free to contact us via email or check out our <a href="{{ $baseURL }}/babies/upcoming">upcoming clutches</a> and reservation program.</p>
+                  <div class="row">  
+                {{ end }}
+              {{ end }}
             {{ end }}
-
+            </div>
       </section>
     </div>
   </div>

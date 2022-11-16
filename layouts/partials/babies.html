@@ -28,32 +28,118 @@
     <hr>
   </div>
       {{ else }}
-  <div class="card">
-    <div class="form-group" style="padding:5px;">
-      <label><h4>{{.context.name}}</h4></label>
-      <figure>
-        <picture>
-          <source srcset="{{.context.image}}.webp" type="image/webp">
-          <source srcset="{{.context.image}}.jpg" type="image/jpeg">
-          <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
-        </picture>
-        <a href="{{.context.image}}.jpg"></a>
-        <figcaption>click to zoom</figcaption>
-      </figure>
-      
-      <hr>
+        {{ if eq (.scratch.Get "babycount") 1 }}
+        <div class="card">
+          <div class="form-group" style="padding:5px;">
+            <label>
+              <h4>
+              {{.context.name}}
+              </h4>
+              <span data-intro="F numbers represent the number of generations from the most recent wild caught animal and CG numbers represent the number of generations from the most distant wild caught animal">
+                <strong>Filial Group: </strong><em>{{.filial}}</em>
+              </span> |
+              <span data-intro="Sire x Dam <br><br>Click these links for full ancestry reports of either the sire or the dam. We keep very good records. There are often more than 5 generations of lineage and a dendrogram on these pages!">
+                <strong >Pairing: </strong>
+                <a href="{{ ref .page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
+                               x 
+                <a href="{{ ref .page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+              </span>
+              
+            </label>
+            
+            <figure data-intro="The exact animal for sale! Click to zoom">
+              <picture>
+                <source srcset="{{.context.image}}.webp" type="image/webp">
+                <source srcset="{{.context.image}}.jpg" type="image/jpeg">
+                <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
+              </picture>
+              <a href="{{.context.image}}.jpg"></a>
+              <figcaption>click to zoom</figcaption>
+            </figure>
+            <hr>
+            
+            <ul>
+              <li data-intro="We calculate age based on the starting date that the entire clutch hatches, and we do not list any animals under 12 grams of weight, regardless of their age - Gender is guaranteed <br><br> Every animal is priced individually based on our personal breeding goals and market value. We try to produce top-quality animals and offer them at middle-market prices.">
+               {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
+              </li>
+              <li data-intro="This label is based on lineage and it is an estimate.">YBBB Ambilobe</li>
+              {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
+              <li>
+              <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}" data-intro="Every animal from previous clutches from the same pairing can be found here">Sibling gallery</a>
+              </li>
+              {{end}}
+            </ul>
+            {{ if .context.desc }}
+            <hr>
+            <div class="row">
+              <div class="col-md-12">
+                <p>{{.context.desc}}</p>
+              </div>
+            </div>
+            <hr>
+            {{ end }}
+            <button type="submit" class="btn btn-template-main" data-intro="Press this button and checkout to place an order. It automatically calculates tax and shipping, FedEx Priority Overnight. If you add 2 animals to your cart, it automatically takes $50 off each one!"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+          </div>
+          
+          <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
+          <input type="hidden" name="price" value="{{ .context.price }}" />
+          <hr>
+        </div>
+        {{ else }}
         
-      <ul>
-        <li><p><strong>${{.context.price}}</strong></p></li>
-        <li><p>{{.context.gender}}</p></li>
-      </ul>
-      <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
-    </div>
-    
-    <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
-    <input type="hidden" name="price" value="{{ .context.price }}" />
-    <hr>
-  </div>
+        <div class="card">
+          <div class="form-group" style="padding:5px;">
+            <label>
+              <h4>
+              {{.context.name}}
+              </h4>
+              <strong>Filial Group: </strong><em>{{.filial}}</em> | 
+              <strong>Pairing: </strong>
+              <a href="{{ ref .page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
+                             x 
+              <a href="{{ ref .page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+            </label>
+            
+            <figure>
+              <picture>
+                <source srcset="{{.context.image}}.webp" type="image/webp">
+                <source srcset="{{.context.image}}.jpg" type="image/jpeg">
+                <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
+              </picture>
+              <a href="{{.context.image}}.jpg"></a>
+              <figcaption>click to zoom</figcaption>
+            </figure>
+            <hr>
+            
+            <ul>
+              <li>
+               {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
+              </li>
+              <li>YBBB Ambilobe</li>
+              {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
+              <li>
+              <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}">Sibling gallery</a>
+              </li>
+              {{end}}
+            </ul>
+            {{ if .context.desc }}
+            <hr>
+            <div class="row">
+              <div class="col-md-12">
+                <p>{{.context.desc}}</p>
+              </div>
+            </div>
+            <hr>
+            {{ end }}
+            <button type="submit" class="btn btn-template-main"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+          </div>
+          
+          <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
+          <input type="hidden" name="price" value="{{ .context.price }}" />
+          <hr>
+        </div>
+        {{ end }}
+  
       {{ end }}
   {{ end }}
 </form>
