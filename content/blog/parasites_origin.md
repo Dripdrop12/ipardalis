@@ -8,7 +8,11 @@ banner = "img/parasitology/origin"
 
 Rye, for good luck.
 
+{{< rawhtml >}}    
+<figure>
 <img src="/img/parasitology/origin.jpg" width = 75% />
+</figure>
+{{</ rawhtml >}}
 
 We received 5 females from reputable CB sources that had issues during/after quarantine since 2017. The first 2 were in 2017. They never had great appetites and seemed to have respiratory issues. We brought them to the vet and kept them isolated for 60 days; however, the vet did not see anything wrong with them, and after they seemed to be healthy enough, we tried to breed them. Neither one made it through egg laying, and we could not root cause what happened. The only treatment we had tried was a natural antibiotic and anti-parasitic remedy called [Reptaid](https://www.ambernaturalz.com/index.php/product/reptaid/). Those animals had never had a fecal exam, but I now suspect they had [coccidiosis](https://en.wikipedia.org/wiki/Coccidiosis). Many animals that have coccidia infections are asymptomatic and can live long, healthy lives. However, it can cause severe problems in immunocompromised (during egg laying or shipping) and young animals. The main symptoms are diarrhea, regurgitation, anorexia and terrible smelling feces. 
 
@@ -26,7 +30,11 @@ Then in early 2021, our Alfred x Kanto clutch did not thrive for the first time 
 
 That brings us to today. The price tag of regular fecals and vet visits is not feasible in a breeding program of our scale, so we bought lab equipment to do our own fecals. We received 2 perfectly healthy CB females and did fecals on them. Both were positive for Coccidia and one had more than any other sample. Her fecal made the cover picture for the intro post:
 
+{{< rawhtml >}}
+<figure>
 <img src="/img/parasitology/7A_070621_5.jpg" width=50% >
+</figure>
+{{</ rawhtml >}}
 
 We cancelled all of our shipments and informed customers of the need to get a clean fecal on every animal before we could resume shipments. The third positive fecal was our HB male who has been in 4 different enclosures as he matured. None of those enclosures can be traced directly back to an external female, so the scope of the problem is not known. Our first goal this summer is to run multiple fecals on every animal and eliminate all signs of parasites. That can be through assiduous cleaning and natural antiparasitics like Reptaid, but we will also be consulting with our vet to determine when to use drugs like Ponazuril and Toltrazuril.
 
