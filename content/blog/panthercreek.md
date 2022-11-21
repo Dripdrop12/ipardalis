@@ -36,9 +36,9 @@ Dam Sire
 ### Test
 
 Sire
-: [Bolt]({{< ref "/blog/canvas.md#bolt" >}})
+: [Marley]({{< ref "/blog/canvas.md#marley" >}})
 
 Dam Sire
-: [Marley]({{< ref "/blog/canvas.md#marley" >}})
+: Unknown
 
 ---

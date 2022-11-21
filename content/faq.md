@@ -35,11 +35,12 @@ We watch the market for similar quality animals and ensure that our pricing is f
 
 - [Chameleon Academy](https://chameleonacademy.com/)
   - The most comprehensive guide to chameleon husbandry on the web
+  - Check out the new [Panther Chameleon Care Guide](https://chameleonacademy.com/panther-chameleon-care/)
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
 - [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
   - Olimpia has written some great guides on various topics like [On the Specific Care of Females](http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](http://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
-
+- [Chameleons.info](https://www.chameleons.info/en/furcifer-pardalis/)
 ---
 
 > In case you haven't found the answer for your question please feel free to contact us, we will be happy to help you.

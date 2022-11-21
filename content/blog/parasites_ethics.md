@@ -12,7 +12,7 @@ We believe that sharing information about our experience with parasites will not
 
 Our bottom line? It's been bad for that. We have heard multiple rumors of competitors using the information for sales purposes, lying about how they do not have any parasites. Here's a good rule of thumb: if someone has more than 10 chameleons, they have parasites. The prevalence rate is too high and parasites have evolved to stick around. The available drugs are not very effective at eliminating them and cleaners don't kill them. So if someone says they haven't found any - they haven't looked hard enough, or they don't know what they are looking for, probably both.
 
-> Those of you who have used this information to disparage our project. You don’t share our goals and the community will shun you. That tactic is beneath you. We know what you stand for. Keep at it, and see where that ploy gets you.
+> For those of you who have used this information to disparage our project, you don’t share our goals and the community will shun you. We know what you stand for. You will find yourself on the outside looking in.
 
 The reality is chameleons have some aggressive parasites that have evolved to be pooped from the top of a tree, survive the fall and make their way back to a host 10-20 feet up. Parasites of terrestrial species have it easy. These guys are harder to kill, they are stickier and they can reproduce at a higher rate so a low dose still produces enough eggs to complete their direct life cycle. They may even exhibit vertical transmission from mother to child. A captive environment is a cake walk for these guys, and it can get out of control easily.
 
