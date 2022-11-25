@@ -3,7 +3,14 @@
     {{ if .context.sold }}
   <div class="card sold-out">
     <div class="form-group" style="padding:5px;">
-      <label><h4>{{.context.name}}</h4></label>
+      <label>
+        <h4>{{.context.name}}</h4>
+        <strong>Filial Group: </strong><em>{{.filial}}</em> | 
+        <strong>Pairing: </strong>
+        <a href="{{ ref .page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
+                       x 
+        <a href="{{ ref .page (printf "blog/%s/index.md" .dam) }}">{{title .dam}}</a>
+      </label>
       
       <figure>
         <picture>
@@ -18,8 +25,25 @@
       <hr>
         
       <ul>
-        <li><p>{{.context.gender}}</p></li>
+        <li>
+         {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
+        </li>
+        <li>YBBB Ambilobe</li>
+        {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
+        <li>
+        <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}">Sibling gallery</a>
+        </li>
+        {{end}}
       </ul>
+      {{ if .context.desc }}
+      <hr>
+      <div class="row">
+        <div class="col-md-12">
+          <p>{{.context.desc}}</p>
+        </div>
+      </div>
+      <hr>
+      {{ end }}
       <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
     </div>
     
