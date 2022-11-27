@@ -28,7 +28,13 @@
         <li>
          {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
         </li>
-        <li>YBBB Ambilobe</li>
+        <li>
+          {{ if .context.phenotype }}
+            {{.context.phenotype}}
+          {{ else }}
+            YBBB Ambilobe
+          {{ end }}
+        </li>
         {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
         <li>
         <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}">Sibling gallery</a>
@@ -145,7 +151,13 @@
               <li>
                {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
               </li>
-              <li>YBBB Ambilobe</li>
+              <li>
+              {{ if .context.phenotype }}
+                {{.context.phenotype}}
+              {{ else }}
+                YBBB Ambilobe
+              {{ end }}
+              </li>
               {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
               <li>
               <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}">Sibling gallery</a>
