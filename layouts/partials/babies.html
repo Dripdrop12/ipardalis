@@ -62,13 +62,13 @@
         <div class="card">
           <div class="form-group" style="padding:5px;">
             <label>
-              <h4 data-intro="This is just a label we use to track each individual in a clutch - M for male and F for female with a number">
+              <h4 data-intro="A label we use to track each individual - M for male and F for female with a number">
               {{.context.name}}
               </h4>
               <span data-intro="Filial (F) numbers represent the number of generations from the most recent wild caught animal <br><br>Current Generation (CG) numbers represent the number of generations from the most distant wild caught animal">
                 <strong>Filial Group: </strong><em>{{.filial}}</em>
               </span> |
-              <span data-intro="Sire x Dam <br><br>Click these links for full ancestry reports of either the sire or the dam. We keep very good records. There are often more than 5 generations of lineage and a dendrogram on these pages!">
+              <span data-intro="Sire x Dam <br><br>Click these links for full ancestry reports of our breeders. We keep very good records. There are often more than 5 generations of lineage on these pages!">
                 <strong >Pairing: </strong>
                 <a href="{{ ref .page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a>
                                x 
@@ -92,7 +92,7 @@
               <li data-intro="We calculate age based on the starting date that the entire clutch hatches, and we do not list any animals under 12 grams of weight, regardless of their age - Gender is guaranteed <br><br> Every animal is priced individually based on our personal breeding goals and market value. We try to produce top-quality animals and offer them at middle-market prices.">
                {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
               </li>
-              <li data-intro="This label is based on lineage and it is an estimate.">
+              <li data-intro="This label is based on lineage and it is an estimate. <br><br>The first letter represents body color and the third represents bar color - YBBB - Yellow Body Blue Bar.">
                 {{ if .context.phenotype }}
                   {{.context.phenotype}}
                 {{ else }}
@@ -101,7 +101,7 @@
               </li>
               {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
               <li>
-              <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}" data-intro="Every animal from previous clutches from the same pairing can be found here">Sibling gallery</a>
+              <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}" data-intro="Every animal from previous clutches from the this pairing can be found here">Sibling gallery</a>
               </li>
               {{end}}
             </ul>
@@ -114,7 +114,7 @@
             </div>
             <hr>
             {{ end }}
-            <button type="submit" class="btn btn-template-main" data-intro="Press this button and checkout to place an order. It automatically calculates tax and shipping, FedEx Priority Overnight. If you add 2 animals to your cart, it automatically takes $50 off each one!"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+            <button type="submit" class="btn btn-template-main" data-intro="Press this button and checkout to place an order. It automatically calculates tax and shipping, FedEx Priority Overnight. If you add 2 animals to your cart, it takes $50 off each one!"><i class="fa fa-shopping-cart"></i>Add to cart</button>
           </div>
           
           <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
