@@ -86,7 +86,13 @@
               <li data-intro="We calculate age based on the starting date that the entire clutch hatches, and we do not list any animals under 12 grams of weight, regardless of their age - Gender is guaranteed <br><br> Every animal is priced individually based on our personal breeding goals and market value. We try to produce top-quality animals and offer them at middle-market prices.">
                {{.ageMonths}} month old {{.context.gender}} (<strong>${{.context.price}}</strong>)
               </li>
-              <li data-intro="This label is based on lineage and it is an estimate.">YBBB Ambilobe</li>
+              <li data-intro="This label is based on lineage and it is an estimate.">
+                {{ if .context.phenotype }}
+                  {{.context.phenotype}}
+                {{ else }}
+                  YBBB Ambilobe
+                {{ end }}
+              </li>
               {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
               <li>
               <a href="{{ ref .page (printf "blog/%s-%s.md" .sire .dam) }}" data-intro="Every animal from previous clutches from the same pairing can be found here">Sibling gallery</a>
