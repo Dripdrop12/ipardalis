@@ -66,6 +66,7 @@ babies:
   gender: Male
   image: /img/babies/20220605/available/M7
   price: 449
+  sold: true
 - name: HB
   gender: Male
   image: /img/babies/20220605/available/HB
