@@ -1,0 +1,50 @@
+sire: tratra
+dam: parasy
+image: /img/ambilobe/tratraparasy
+filial: F1-CG14
+desc: |
+  New line with our WC Tratra and 4th generation YBBB, Parasy.
+laid: 2022-12-04
+hatchstart: Not yet
+hatchend: Not yet
+shipping: 3 months after hatch
+hatchnum: 0
+clutchsize: 30
+deposit: true
+listed: false
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 450
+femaleprice: 399
+babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20220111/available/F1
+  price: 399
+  sold: true
+- name: M2
+  gender: Male
+  image: /img/babies/20220111/available/M2
+  price: 499
+- name: M3
+  gender: Male
+  image: /img/babies/20220111/available/M3
+  price: 450
+- name: M4
+  gender: Male
+  image: /img/babies/20220111/available/M4
+  price: 475
+- name: M5
+  gender: Male
+  image: /img/babies/20220111/available/M5
+  price: 499
+  sold: true
+- name: M6
+  gender: Male
+  image: /img/babies/20220111/available/M6
+  price: 549
+- name: M7
+  gender: Male
+  image: /img/babies/20220111/available/M7
+  price: 549
