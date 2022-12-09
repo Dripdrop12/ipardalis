@@ -12,7 +12,7 @@ We added [Zanaka]({{< ref "/blog/zanaka/index.md" >}}) (F2) to our project becau
 
 ---
 
-# [Zanaka]({{< ref "/blog/zanaka/index.md" >}}) x [Bubbles]({{< ref "/blog/bubbles/index.md" >}})
+# 1st Clutch
 *F3-CG13*
 
 Hatch dates

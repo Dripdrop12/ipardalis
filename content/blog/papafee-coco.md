@@ -12,7 +12,7 @@ This pairing was between our fourth generation hold back, [Papafee]({{< ref "/bl
 
 ---
 
-# [Papafee]({{< ref "/blog/papafee/index.md" >}}) x [Coco]({{< ref "/blog/coco/index.md" >}})
+# 1st Clutch
 
 Hatch dates
 : 12/04/2021 - 12/07/2021
