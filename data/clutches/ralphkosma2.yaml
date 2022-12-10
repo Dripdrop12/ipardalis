@@ -14,8 +14,8 @@ deposit: false
 soldout: false
 soldoutmale: false
 soldoutfemale: false
-maleprice: 449
-femaleprice: 349
+maleprice: 399
+femaleprice: 299
 soldout: false
 babies:
 
