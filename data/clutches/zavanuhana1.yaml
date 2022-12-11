@@ -10,6 +10,7 @@ hatchend: 2022-08-25
 shipping: 3 months after hatch
 hatchnum: 17
 clutchsize: 25
+listed: true
 deposit: false
 soldout: false
 soldoutmale: true
@@ -17,3 +18,11 @@ soldoutfemale: false
 maleprice: 425
 femaleprice: 325
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20220825/available/M1
+  price: 399
+- name: M2
+  gender: Male
+  image: /img/babies/20220825/available/M2
+  price: 399
