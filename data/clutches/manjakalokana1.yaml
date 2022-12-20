@@ -30,6 +30,12 @@ babies:
   gender: Female
   image: /img/babies/20220605/available/F3
   price: 325
+  sold: true
+- name: F7
+  gender: Female
+  image: /img/babies/20220605/available/F7
+  price: 349
+  desc: Her tail got crimped in her door and can't curl quite right
 - name: F5
   gender: Female
   image: /img/babies/20220605/available/F5
