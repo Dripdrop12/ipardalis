@@ -10,7 +10,7 @@ hatchend: 2022-08-21
 shipping: 3 months after hatch
 hatchnum: 8
 clutchsize: 14
-listed: false
+listed: true
 deposit: false
 soldout: false
 soldoutmale: false
@@ -18,8 +18,8 @@ soldoutfemale: false
 maleprice: 499
 femaleprice: 399
 babies:
-- name: M1
+- name: M2
   gender: Male
-  image: /img/babies/20220821/available/M1
-  price: 549
+  image: /img/babies/20220821/available/M2
+  price: 499
   phenotype: Rainbow Ambilobe
