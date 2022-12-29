@@ -18,22 +18,21 @@ soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-- name: F1
-  gender: Female
-  image: /img/babies/20220816/available/F1
-  price: 299
 - name: M1
   gender: Male
   image: /img/babies/20220816/available/M1
-  price: 349
-- name: F2
+  price: 399
+- name: F1
   gender: Female
-  image: /img/babies/20220816/available/F2
-  price: 275
-  sold: true
+  image: /img/babies/20220816/available/F1
+  price: 349
 - name: F3
   gender: Female
   image: /img/babies/20220816/available/F3
+  price: 325
+- name: F5
+  gender: Female
+  image: /img/babies/20220816/available/F5
   price: 299
 - name: M3
   gender: Male
