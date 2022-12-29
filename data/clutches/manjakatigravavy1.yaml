@@ -11,15 +11,14 @@ shipping: 3 months after hatch
 hatchnum: 3
 clutchsize: 17
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 425
 femaleprice: 349
 babies:
-- name: M1
+- name: M2
   gender: Male
-  image: /img/babies/20220716/available/M1
+  image: /img/babies/20220716/available/M2
   price: 425
-  sold: true
