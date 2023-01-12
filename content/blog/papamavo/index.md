@@ -3,7 +3,7 @@ title = "Papamavo"
 date = "2022-03-01"
 tags = ["papamavo", "papafee", "lokana", "kromatisk"]
 categories = ["ambilobe-sires"]
-banner = "img/ambilobe/papamavo/papamavo2"
+banner = "img/ambilobe/papamavo/papamavo6"
 +++
 
 {{< load-photoswipe >}}
