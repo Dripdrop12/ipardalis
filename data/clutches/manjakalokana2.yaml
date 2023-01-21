@@ -63,6 +63,7 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M9
   price: 499
+  sold: true
 - name: M10
   gender: Male
   image: /img/babies/20220714/available/M10
