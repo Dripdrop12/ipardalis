@@ -3,7 +3,7 @@ title = "Jude"
 date = "2017-10-17"
 tags = ["jude", "flash", "judy", "candy cane", "jack", "blossom", "nugget", 
   "alfred", "daisy", "sunny", "lilly", "button", "patch"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/jude/DSC00383"
 +++
 

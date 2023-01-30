@@ -2,7 +2,7 @@
 title = "Maize"
 date = "2022-01-13"
 tags = ["maize", "mcnulty", "artemis"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/maize/maize2"
 +++
 

@@ -2,7 +2,7 @@
 title = "Nugget"
 date = "2019-06-09"
 tags = ["nugget", "jude", "sparkles", "kako"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/nugget/nugget1"
 +++
 

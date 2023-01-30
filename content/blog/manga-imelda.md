@@ -12,8 +12,6 @@ This pairing was between our fourth generation hold back, [Manga]({{< ref "/blog
 
 ---
 
-# [Manga]({{< ref "/blog/manga/index.md" >}}) x [Imelda]({{< ref "/blog/imelda/index.md" >}})
-
 Hatch dates
 : 12/03/2021 - 2/19/2022
 

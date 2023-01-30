@@ -2,7 +2,7 @@
 title = "Papafee"
 date = "2020-07-17"
 tags = ["papafee", "zanaka", "jude", "promise keeper"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/papafee/papafee1"
 +++
 

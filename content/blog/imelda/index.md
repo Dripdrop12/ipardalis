@@ -2,7 +2,7 @@
 title = "imelda"
 date = "2020-12-03"
 tags = ["imelda", "hendrix", "foxey", "landy", "bolt", "gambit"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/imelda/imelda"
 +++
 

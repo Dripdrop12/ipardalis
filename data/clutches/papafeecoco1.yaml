@@ -10,7 +10,7 @@ hatchend: 2021-12-07
 shipping: 3 months after hatch
 hatchnum: 20
 clutchsize: 21
-listed: true
+listed: false
 deposit: false
 soldout: false
 soldoutmale: true

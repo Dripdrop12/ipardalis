@@ -2,7 +2,7 @@
 title = "Bohana (CH)"
 date = "2020-03-29"
 tags = ["bohana"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/bohana/Bohana"
 +++
 

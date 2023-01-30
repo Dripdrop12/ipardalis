@@ -18,31 +18,11 @@ soldoutfemale: false
 maleprice: 499
 femaleprice: 399
 babies:
-- name: F1
-  gender: Female
-  image: /img/babies/20220605/available/F1
-  price: 349
-  sold: true
-- name: F2
-  gender: Female
-  image: /img/babies/20220605/available/F2
-  price: 325
-  sold: true
-- name: F3
-  gender: Female
-  image: /img/babies/20220605/available/F3
-  price: 325
-  sold: true
 - name: F7
   gender: Female
   image: /img/babies/20220605/available/F7
   price: 349
   desc: Her tail got crimped in her door and can't curl quite right
-- name: F5
-  gender: Female
-  image: /img/babies/20220605/available/F5
-  price: 325
-  sold: true
 - name: F6
   gender: Female
   image: /img/babies/20220605/available/F6

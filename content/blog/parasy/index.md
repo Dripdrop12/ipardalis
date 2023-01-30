@@ -2,7 +2,7 @@
 title = "parasy"
 date = "2021-01-21"
 tags = ["jack", "mavokely", "amarillo"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/parasy/parasy"
 +++
 

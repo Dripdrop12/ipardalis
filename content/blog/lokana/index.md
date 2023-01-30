@@ -2,7 +2,7 @@
 title = "lokana"
 date = "2020-12-02"
 tags = ["lokana", "kromatisk", "landy"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/lokana/lokana"
 +++
 

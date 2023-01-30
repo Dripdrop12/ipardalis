@@ -46,11 +46,6 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M5
   price: 499
-- name: M6
-  gender: Male
-  image: /img/babies/20220714/available/M6
-  price: 399
-  sold: true
 - name: M7
   gender: Male
   image: /img/babies/20220714/available/M7
@@ -59,20 +54,10 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M8
   price: 549
-- name: M9
-  gender: Male
-  image: /img/babies/20220714/available/M9
-  price: 499
-  sold: true
 - name: M10
   gender: Male
   image: /img/babies/20220714/available/M10
   price: 599
-- name: M11
-  gender: Male
-  image: /img/babies/20220714/available/M11
-  price: 499
-  sold: true
 - name: M12
   gender: Male
   image: /img/babies/20220714/available/M12

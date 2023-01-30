@@ -2,7 +2,7 @@
 title = "Amara"
 date = "2020-04-04"
 tags = ["amara", "artemis", "felipe sanchez", "fantara"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/amara/amara"
 +++
 
