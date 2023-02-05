@@ -21,13 +21,15 @@ babies:
 - name: F7
   gender: Female
   image: /img/babies/20220605/available/F7
-  price: 349
+  price: 299
   desc: Her tail got crimped in her door and can't curl quite right
 - name: F6
   gender: Female
   image: /img/babies/20220605/available/F6
   price: 399
+  desc: She lost the very tip of her tail due to stuck shed
 - name: M7
   gender: Male
   image: /img/babies/20220605/available/M7
   price: 449
+  phenotype: YBRB Ambilobe
