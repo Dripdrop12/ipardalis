@@ -28,6 +28,7 @@ babies:
   image: /img/babies/20220605/available/F6
   price: 399
   desc: She lost the very tip of her tail due to stuck shed
+  sold: true
 - name: M7
   gender: Male
   image: /img/babies/20220605/available/M7
