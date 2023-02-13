@@ -26,10 +26,12 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M1
   price: 449
+  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20220714/available/M2
   price: 449
+  sold: true
 - name: F2
   gender: Female
   image: /img/babies/20220714/available/F2
@@ -43,6 +45,7 @@ babies:
   image: /img/babies/20220714/available/M4
   price: 449
   phenotype: Rainbow Ambilobe
+  sold: true
 - name: M5
   gender: Male
   image: /img/babies/20220714/available/M5
@@ -51,6 +54,7 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M7
   price: 325
+  sold: true
 - name: M8
   gender: Male
   image: /img/babies/20220714/available/M8
