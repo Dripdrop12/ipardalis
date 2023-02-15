@@ -20,7 +20,7 @@ Sire
 : [Capella]({{< ref "/blog/chromatic.md#capella" >}})
 
 Dam
-: [JJ's Daughter]({{< ref "/blog/chromatic.md#jjs-daughter" >}})
+: [Kromatisk's Daughter]({{< ref "/blog/chromatic.md#jjs-daughter" >}})
 
 ---
 

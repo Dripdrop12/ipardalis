@@ -16,7 +16,7 @@ create_lineage_post(
     loc = "chromatic.md"
   ),
   dam = list(
-    name = "JJ's daughter",
+    name = "Kromatisk's daughter",
     loc = "chromatic.md"
   )
 )

@@ -88,6 +88,24 @@ Dam
 
 ---
 
+### Kromatisk's Daughter
+
+Sire
+: [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}})
+
+Dam
+: [Xanthos' daughter]({{< ref "/blog/chromatic.md#xanthos-daughter" >}})
+
+---
+
+### Xanthos' Daughter
+
+Sire
+: [Xanthos]({{< ref "/blog/chromatic.md#xanthos" >}})
+
+Dam
+: [Sienna]({{< ref "/blog/chromatic.md#sienna" >}})
+
 ### Xanthos
 
 Sire
