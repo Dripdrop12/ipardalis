@@ -6,17 +6,17 @@ require(dplyr)
 source("R/clean_ancestor_report.R")
 
 create_lineage_post(
-  breeder = "lokana",
-  birth = "2020-12-02",
+  breeder = "kintana",
+  birth = "2022-07-31",
   sex = "female",
-  tags = c("lokana", "kromatisk", "landy"),
-  filial = "F9-CG12",
+  tags = c("kintana", "capella", "kromatisk", "jj", "felipe sanchez"),
+  filial = "F3-CG14",
   sire = list(
-    name = "Kromatisk",
+    name = "Capella",
     loc = "chromatic.md"
   ),
   dam = list(
-    name = "Shirley",
+    name = "JJ's daughter",
     loc = "chromatic.md"
   )
 )

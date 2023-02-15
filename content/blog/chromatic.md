@@ -14,25 +14,37 @@ banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 
 ### Felipe Sanchez
 
-{{< gallery dir="img/ambilobe/lineage/Felipe Sanchez" />}}
-
 Sire
-: [Bolt]({{< ref "/blog/canvas.md#bolt" >}})
+: [WC Bolt]({{< ref "/blog/canvas.md#bolt" >}})
 
 Dam
 : [Cowboy's daughter]({{< ref "/blog/chameleonparadise.md#cowboy" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Felipe Sanchez" />}}
+
+---
+
+### Capella
+
+Sire
+: [Felipe Sanchez]({{< ref "/blog/chromatic.md#felipe-sanchez" >}})
+
+Dam
+: [JJ's Daughter]({{< ref "/blog/chromatic.md#jjs-daughter" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Capella" />}}
 
 ---
 
 ### Kromatisk
 
-{{< gallery dir="img/ambilobe/lineage/Kromatisk" />}}
-
 Sire
 : [JJ]({{< ref "/blog/panthercreek.md#jj" >}})
 
 Dam
-: [Jackie]({{< ref "/blog/chromatic.md#jackie" >}})
+: [Daisy]({{< ref "/blog/chromatic.md#daisy" >}})
+
+{{< gallery dir="img/ambilobe/lineage/Kromatisk" />}}
 
 ---
 
@@ -53,3 +65,45 @@ Sire
 
 Dam
 : [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
+
+---
+
+### Daisy
+
+Sire
+: Seventeen
+
+Dam
+: [Dio's daughter]({{< ref "/blog/joshuaillencik.md#dio" >}})
+
+---
+
+### JJ's Daughter
+
+Sire
+: [JJ]({{< ref "/blog/panthercreek.md#jj" >}})
+
+Dam
+: [Daisy]({{< ref "/blog/chromatic.md#daisy" >}})
+
+---
+
+### Xanthos
+
+Sire
+: Unknown
+
+Dam
+: Unknown
+
+{{< gallery dir="img/ambilobe/lineage/Xanthos" />}}
+
+---
+
+### Sienna
+
+Sire
+: Unknown
+
+Dam
+: Unknown
