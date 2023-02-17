@@ -5,13 +5,13 @@ filial: F4-CG6
 desc: |
   It is hard to figure out which I like more between Blossom and his brother paired against these girls. Another amazing YBBB (yellow body blue bar) option!
 laid: 2021-06-06
-hatchstart: 2022-01-06
-hatchend: 2022-02-26
+hatchstart: 2022-06-06
+hatchend: 2022-07-26
 shipping: 3 months after hatch
 hatchnum: 34
 clutchsize: 35
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
@@ -19,16 +19,15 @@ maleprice: 399
 femaleprice: 325
 soldout: false
 babies:
-- name: F1
+- name: F3
   gender: female
-  image: /img/babies/20220106/available/F1
-  price: 275
-  sold: true
-- name: F2
+  image: /img/babies/20220106/available/F4
+  price: 325
+- name: F4
   gender: female
-  image: /img/babies/20220106/available/F2
-  price: 299
-  sold: true
+  image: /img/babies/20220106/available/F3
+  price: 325
+
 
 
 
