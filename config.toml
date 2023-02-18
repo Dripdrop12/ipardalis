@@ -48,7 +48,7 @@ paginate = 10
     post = 2
     
 [[menu.main]]
-    name = "Ambilobe Cluthes"
+    name = "Ambilobe Clutches"
     url  = "/babies/upcoming"
     parent = "section.reservations"
     weight = 1
