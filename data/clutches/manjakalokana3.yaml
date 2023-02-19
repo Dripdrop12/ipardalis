@@ -28,6 +28,7 @@ babies:
   image: /img/babies/20220904/available/M1
   price: 449
   phenotype: YBRB Ambilobe
+  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20220904/available/M2
