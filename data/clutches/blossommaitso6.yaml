@@ -11,7 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 34
 clutchsize: 35
 deposit: false
-listed: true
+listed: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false
