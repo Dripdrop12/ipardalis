@@ -31,11 +31,11 @@ babies:
   gender: Female
   image: /img/babies/20221105/available/F3
   price: 399
+  sold: true
 - name: M1
   gender: Male
   image: /img/babies/20221105/available/M1
   price: 349
-  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20221105/available/M2
