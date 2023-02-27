@@ -30,6 +30,10 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M3
   price: 499
+- name: M13
+  gender: Male
+  image: /img/babies/20220714/available/M13
+  price: 399
 - name: M5
   gender: Male
   image: /img/babies/20220714/available/M5
