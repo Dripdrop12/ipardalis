@@ -50,3 +50,4 @@ babies:
   gender: Male
   image: /img/babies/20220714/available/M12
   price: 699
+  sold: true
