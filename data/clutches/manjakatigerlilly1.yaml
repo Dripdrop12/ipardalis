@@ -34,6 +34,7 @@ babies:
   gender: Male
   image: /img/babies/20221107/available/M3
   price: 499
+  sold: true
 - name: F4
   gender: Female
   image: /img/babies/20221107/available/F4
