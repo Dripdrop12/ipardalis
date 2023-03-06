@@ -2,7 +2,7 @@
 title = "Zozoro"
 date = "2021-10-06"
 tags = ["gold rush", "my friend", "divergent"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/zozoro/zozoro"
 +++
 
