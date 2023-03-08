@@ -2,7 +2,7 @@
 title = "Jiolahy"
 date = "2021-07-14"
 tags = ["jiolahy", "the don", "perrigrin", "pyro"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/jiolahy/jiolahy"
 +++
 
