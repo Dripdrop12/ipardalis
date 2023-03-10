@@ -23,6 +23,7 @@ babies:
   image: /img/babies/20220910/available/M1
   price: 449
   phenotype: RBBB Ambilobe
+  sold: true
 - name: F1
   gender: Female
   image: /img/babies/20220910/available/F1
