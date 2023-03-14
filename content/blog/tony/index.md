@@ -1,8 +1,8 @@
 +++
 title = "tony"
 date = "2021-06-01"
-tags = ["tony", "nugget", "artemis"]
-categories = ["ambilobe-sires"]
+tags = ["tony", "amara", "nugget", "artemis"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/tony/tony7"
 +++
 
