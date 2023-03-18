@@ -44,7 +44,7 @@ babies:
 - name: M6
   gender: Male
   image: /img/babies/20220910/available/M6
-  price: 399
+  price: 449
 - name: F6
   gender: Female
   image: /img/babies/20220910/available/F6
