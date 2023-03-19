@@ -13,7 +13,7 @@ clutchsize: 22
 deposit: true
 listed: false
 soldout: false
-soldoutmale: false
+soldoutmale: true
 soldoutfemale: false
 maleprice: 425
 femaleprice: 350
