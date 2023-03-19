@@ -10,7 +10,7 @@ hatchend: Not Yet
 shipping: 3 months after hatch
 hatchnum: 0
 clutchsize: 14
-deposit: false
+deposit: true
 listed: false
 soldout: false
 soldoutmale: false
