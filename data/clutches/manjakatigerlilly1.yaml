@@ -21,7 +21,8 @@ babies:
 - name: F1
   gender: Female
   image: /img/babies/20221107/available/F1
-  price: 399
+  price: 299
+  desc: This female is large and colorful, like a male. I do not expect her to color up fully, or breed sucessfully.
 - name: F2
   gender: Female
   image: /img/babies/20221107/available/F2
