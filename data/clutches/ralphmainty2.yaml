@@ -12,7 +12,7 @@ hatchnum: 2
 clutchsize: 39
 deposit: true
 soldout: false
-soldoutmale: true
+soldoutmale: false
 soldoutfemale: false
 maleprice: 499
 femaleprice: 349
