@@ -22,10 +22,12 @@ babies:
   gender: Female
   image: /img/babies/20221105/available/F2
   price: 325
+  sold: true
 - name: F5
   gender: Female
   image: /img/babies/20221105/available/F5
   price: 325
+  sold: true
 - name: F6
   gender: Female
   image: /img/babies/20221105/available/F6
