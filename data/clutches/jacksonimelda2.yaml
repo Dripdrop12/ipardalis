@@ -40,3 +40,4 @@ babies:
   gender: Male
   image: /img/babies/20221105/available/M8
   price: 549
+  sold: true
