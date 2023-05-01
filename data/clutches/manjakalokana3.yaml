@@ -18,11 +18,6 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 349
 babies:
-- name: M5
-  gender: Male
-  image: /img/babies/20220904/available/M5
-  price: 549
-  sold: true
 - name: M6
   gender: Male
   image: /img/babies/20220904/available/M6
