@@ -238,7 +238,7 @@ paginate = 10
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us via social media, email or phone (585-967-5007)</p>
       <p class="hidden-md hidden-lg"><a href="tel: +585 967 5007" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      <a href="mailto:jon.mark.hill@ipardalis.com" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
       <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
       """
