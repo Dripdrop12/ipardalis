@@ -22,3 +22,19 @@ babies:
   gender: Male
   image: /img/babies/20220904/available/M6
   price: 599
+- name: M8
+  gender: Male
+  image: /img/babies/20220904/available/M8
+  price: 199
+- name: F2
+  gender: Female
+  image: /img/babies/20220904/available/F2
+  price: 175
+- name: F3
+  gender: Female
+  image: /img/babies/20220904/available/F3
+  price: 249
+- name: F4
+  gender: Female
+  image: /img/babies/20220904/available/F4
+  price: 249
