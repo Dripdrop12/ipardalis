@@ -59,6 +59,7 @@ babies:
   gender: Female
   image: /img/babies/20221221/F4
   price: 399
+  sold: true
 - name: M7
   gender: Male
   image: /img/babies/20221221/M7
@@ -88,7 +89,6 @@ babies:
   gender: Female
   image: /img/babies/20221221/F7
   price: 449
-  sold: true
 - name: M11
   gender: Male
   image: /img/babies/20221221/M11
