@@ -2,7 +2,7 @@
 title = "Manjaka"
 date = "2020-12-01"
 tags = ["manjaka", "arlo", "pyro", "sparkles"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/manjaka/manjaka2"
 +++
 
