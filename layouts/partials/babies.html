@@ -59,7 +59,7 @@
   </div>
       {{ else }}
         {{ if eq (.scratch.Get "babycount") 1 }}
-        <div class="card">
+        <div class="card" data-hint="You receive a $50 discount per animal if you order more than one" data-hint-position="bottom-right">
           <div class="form-group" style="padding:5px;">
             <label>
               <h4 data-intro="A label we use to track each individual - M for male and F for female with a number">
@@ -120,6 +120,7 @@
           <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
           <input type="hidden" name="price" value="{{ .context.price }}" />
           <hr>
+         
         </div>
         {{ else }}
         
