@@ -9,7 +9,7 @@
             <button type="button" onclick="introJs().start()" class="btn btn-info">
               Quick Tour
             </button>
-            <hr>
+            <hr data-hint="You receive a $50 discount per animal if you order more than one" data-hint-position="bottom-left">
             <div class="row">
             {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
             
