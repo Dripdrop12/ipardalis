@@ -1,7 +1,7 @@
 +++
 title = "Jackson x Imelda"
 date = "2022-08-16"
-tags = ["jackson", "imelda", "bleu", "hendrix"]
+tags = ["jackson", "imelda", "jack", "hendrix"]
 categories = ["past clutches"]
 banner = "img/babies/20220816/available/M3"
 +++

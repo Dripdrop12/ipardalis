@@ -18,15 +18,15 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 349
 babies:
+- name: M4
+  gender: Male
+  image: /img/babies/20230204/M4
+  price: 399
 - name: M3
   gender: Male
   image: /img/babies/20230204/M3
   price: 449
   sold: true
-- name: M4
-  gender: Male
-  image: /img/babies/20230204/M4
-  price: 399
 - name: M5
   gender: Male
   image: /img/babies/20230204/M5
