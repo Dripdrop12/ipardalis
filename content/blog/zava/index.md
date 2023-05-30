@@ -1,7 +1,7 @@
 +++
 title = "zava"
 date = "2021-03-21"
-tags = ["green giant", "promise keeper", "herb"]
+tags = ["zava", "green giant", "promise keeper", "herb"]
 categories = ["retired-pardalis"]
 banner = "img/ambilobe/zava/zava"
 +++
