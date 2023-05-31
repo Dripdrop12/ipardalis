@@ -64,7 +64,7 @@ babies:
 - name: M8
   gender: Male
   image: /img/babies/20221221/M8
-  price: 399
+  price: 449
 - name: F5
   gender: Female
   image: /img/babies/20221221/F5
