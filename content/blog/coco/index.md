@@ -2,7 +2,7 @@
 title = "coco"
 date = "2020-12-04"
 tags = ["coco", "hendrix", "foxey", "landy", "bolt", "gambit"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/coco/coco"
 +++
 

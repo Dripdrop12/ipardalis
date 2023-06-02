@@ -2,7 +2,7 @@
 title = "Robina"
 date = "2022-03-07"
 tags = ["robina", "clapton", "dynamiteTNT"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/robina/robina2"
 +++
 

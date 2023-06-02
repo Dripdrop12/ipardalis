@@ -2,7 +2,7 @@
 title = "Mara"
 date = "2021-07-13"
 tags = ["mara", "sammy", "nova", "legion"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/mara/mara1"
 +++
 
