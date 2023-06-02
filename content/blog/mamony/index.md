@@ -2,7 +2,7 @@
 title = "Mamony"
 date = "2021-06-20"
 tags = ["mamony", "blossom", "maitso", "jude", "amarillo"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/mamony/mamony"
 +++
 
