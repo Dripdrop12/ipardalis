@@ -1,0 +1,32 @@
+sire: tratra
+dam: parasi
+image: /img/ambilobe/tratraparasi
+filial: F1-CG15
+desc: |
+  Some fresh genetics from our WC Tratra combined with a great female from F1 Manjaka and Parasy!
+laid: 2023-04-20
+hatchstart: Not yet
+hatchend: Not yet
+shipping: 3 months after hatch
+hatchnum: 0
+clutchsize: 23
+deposit: true
+listed: false
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 449
+femaleprice: 325
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20220820/available/M1
+  price: 449
+- name: M3
+  gender: Male
+  image: /img/babies/20220820/available/M3
+  price: 499
+- name: F1
+  gender: Female
+  image: /img/babies/20220820/available/F1
+  price: 299
