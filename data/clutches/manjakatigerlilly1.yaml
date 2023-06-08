@@ -36,4 +36,5 @@ babies:
   image: /img/babies/20221107/available/M6
   price: 599
   phenotype: Rainbow Ambilobe
+  sold: true
 
