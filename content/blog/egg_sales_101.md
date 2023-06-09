@@ -185,7 +185,7 @@ Some people have floated the idea that impulse buyers have more time to prepare 
 
 ### 14. Unwanted Females Suffer
 
-Female panther chameleons suffer as much as it is in a hobby where they are not properly valued. People buying multiple eggs to increase their male chances or "guaranteed male" eggs will make this problem worse than it already is. It is much better for people to explicitly seek out a female because it is more likely that she will be cared for properly and valued as she should be.
+Female panther chameleons suffer enough as it is in a hobby where they are not properly valued. People buying multiple eggs to increase their male chances or "guaranteed male" eggs will make this problem worse than it already is. It is much better for people to explicitly seek out a female because it is more likely that she will be cared for properly and valued as she should be.
 
 > Egg sales are bad for female panther chameleons' wellbeing
 
