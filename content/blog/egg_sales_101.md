@@ -24,6 +24,7 @@ Please don't support this unethical practice.
 
 Egg sales are not ethical because:
 
+1.  Animal welfare comes first
 1.  Eggs don't always hatch
 2.  Hatchlings don't always survive
 3.  3 months old is the minimum age a novice can be entrusted with
@@ -37,13 +38,18 @@ Egg sales are not ethical because:
 9.  Panther Chameleons have genetic determined sex - male eggs are a scam
 10. Eggs are more expensive than juveniles, but sold as cheaper
 11. Egg sales are fundamentally deceptive
-12. Peoples' desire to raise a hatchling should not trump animal welfare
 13. We should not sell to impulse buyers, period - extra time to
     prepare is not actually a good thing
 14. Unwanted females suffer
 15. Shipping eggs could have negative effects
 
-### 1. Eggs Don't Always Hatch
+### 1. Animal Welfare Comes First
+
+Many scammers talk about what an amazing experience it is to raise a 1-day old puppy on a bottle... wait. No, I mean egg farmers love to talk about how amazing the experience is for their customers. They use this to distract from the fact that more hatchlings are dead, permanently disabled or short-lived because of this "once in a lifetime" experience. Any argument that tries to justify decreased animal welfare is not ethical.
+
+> Peoples' desire to raise a hatchling should not be our focus
+
+### 2. Eggs Don't Always Hatch
 
 Over the past 8 years, we have hatched and raised 114 Ambilobe Panther
 Chameleon clutches. Our minimum hatch rate was 0% which has happened
@@ -60,7 +66,7 @@ the best in the country.
 > if the purchase is non-refundable because they are often forced to buy
 > over-priced juveniles or something else on "store credit."
 
-### 2. Hatchlings Don't Always Survive
+### 3. Hatchlings Don't Always Survive
 
 We didn't keep the same quality data on this; however, some clutches
 hatch weak and some animals do not grow and thrive even under perfect
@@ -74,7 +80,7 @@ could very easily end up with a non-viable animal.
 > juvenile that leaves their facility is going to thrive with their
 > customer.
 
-### 3. Three Month Old Minimum Age
+### 4. Three Month Old Minimum Age
 
 After decades of work in our community, we have come up with some basic
 rules of thumb about when a baby is ready for a novice to care for it.
@@ -92,7 +98,7 @@ pre-dates our project by many years. We also ensure that they are at least 12 gr
 
 There will always be a spread between bargain shoppers and breeders when it comes to their ability to raise hatchlings successfully. No matter how well educated, prepared or supported they are, they will never reach a breeder level of survival rate. That spread is the number of baby chameleons the scammers are responsible for killing by selling eggs. It could be 1 out of 2 or as many as 4 out of 5. Whatever it is - it is wrong to kill them in the hands of novices.
 
-### 4. Lineage Cannot be Confirmed
+### 5. Lineage Cannot be Confirmed
 
 One of the most important aspects of the Panther Chameleon hobby is
 local form and phenotype. Buyers are often using this to assess the
@@ -104,7 +110,7 @@ sellers can price that in without any accountability.
 > Sellers who are attracted to less pre-sale accountability are not
 > ethical
 
-### 5. Flippers Love Selling Eggs
+### 6. Flippers Love Selling Eggs
 
 The first group of people who love selling eggs are the people who used
 to sell sick and nearly dead animals at expos or online. These people
@@ -121,7 +127,7 @@ bad for our hobby.
 > knowledge and skill that customers need and flippers get in the way of
 > that knowledge transfer.
 
-### 6. Scammers REALLY Love Selling Eggs
+### 7. Scammers REALLY Love Selling Eggs
 
 It is hard to think of a better red flag that someone is a scammer than the fact that they sell eggs. They tend to speak in ridiculously certain terms about one of the more challenging niches of herpetoculture - chameleons. They throw around more guarantees than a Nigerian prince who works for the IRS. You want a blue ambanja?! Sure, here's a random cross-locale egg for $600. You like YBBB?! I have this rainbow egg for $200. You want an egg from Sire x!?! I have this egg from Sire y. Scammers absolutely love this dynamic.
 
@@ -132,25 +138,25 @@ It is hard to think of a better red flag that someone is a scammer than the fact
 </figure> 
 {{</ rawhtml >}}
 
-### 7. Broken Husbandry Filter
+### 8. Broken Husbandry Filter
 
 People selling eggs, let's call them egg farmers, don't need to know how to raise babies to sell eggs. However, their customers need to raise babies if they are going to succeed. This is not good. We should reward people who have learned and shared this information with our community, not the egg farmers who have no clue what they are doing.
 
 > Egg farmers cannot help their customers raise healthy and strong chameleons
 
-### 8.  It Takes Too Long For The Scam to Play Out
+### 9.  It Takes Too Long For The Scam to Play Out
 
 Panther chameleon eggs can take up to 18 months to hatch, but they average around 7 months. This long duration gives scammers a very long time to take advantage of people who don't realize they're just flipping whatever egg they can get their hands on, unhealthy eggs, sterile eggs, you name it. Whatever they have done with their unfair information advantage, isn't really going to be widely understood for up to 2 years. As long as they can keep up their cartoonish bluster, fake accounts, and paid marketing campaigns on social media, they can usually keep the music playing for far too long.
 
 > The time it takes for eggs to hatch results in delayed accountability for wrongdoing; therefore, buying and selling eggs promotes less ethical practices in the hobby
 
-### 9.  Panther Chameleons Have Genotypic Sex Determination
+### 10.  Panther Chameleons Have Genotypic Sex Determination
 
 One of the more prominent scams in the egg business is worth calling out as it's own thing. Furcifer pardalis (Panther Chameleons) have [genotypic sex determination](https://pubmed.ncbi.nlm.nih.gov/26286647/). You cannot determine if an egg will hatch male or female. We all know males are worth nearly twice as much and most egg buyers would be encouraged by more certainty that they are buying males. A $200 egg sounds much less appealing when you can just buy a ready to breed female at $250... so, it's a male! 
 
 > Male eggs are scams on many different levels
 
-### 10. The Ticket Price is a Big Lie
+### 11. The Ticket Price is a Big Lie
 
 One layer of the scam is related to affordability. Like many get rich quick schemes and affordable options, this is a lie too. Most people compare the price of an egg and the price of the nicest full-grown panther chameleon they have ever seen. They imagine they're getting that amazing animal in the egg, so they buy into the idea that it is an amazing deal pretty quickly. Hence why this is such an effective scam. However, here are the extra costs that are incurred from 0-3 months of age. I'm not even going to attempt the cost comparison with the fully proven adult male they envision buying, which is a 1 out of 100 result or more.
 
@@ -165,17 +171,11 @@ One layer of the scam is related to affordability. Like many get rich quick sche
 
 Breeders can spread these costs across dozens of clutches and across dozens of animals within each clutch. Our estimate for the cost when done this way is roughly $150 per head, but no one raising a single hatchling is going to come close to that number. They will spend much more money than a breeder would to raise their hatchling to 3 months old.
 
-### 11. Egg Sales are Fundamentally Deceptive
+### 12. Egg Sales are Fundamentally Deceptive
 
 Everything from the bluster, to the duration, to the lack of accountability, to the hidden costs is fundamentally deceptive.
 
 > Being deceptive is not ethical - we need more transparency, not less
-
-### 12. Animal Welfare Comes First
-
-Many scammers talk about what an amazing experience it is to raise a 1-day old puppy on a bottle... wait. No, I mean egg farmers love to talk about how amazing the experience is for their customers. They use this to distract from the fact that more hatchlings are dead, permanently disabled or short-lived because of this "once in a lifetime" experience. Any argument that tries to justify decreased animal welfare is not ethical.
-
-> Peoples' desire to raise a hatchling should not trump animal welfare
 
 ### 13. We Should not Sell to Impulse Buyers, Period
 
