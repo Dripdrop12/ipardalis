@@ -2,7 +2,7 @@
 title = "Parasites and Ethics: Ethics"
 date = "2022-11-19"
 tags = ["parasites"]
-categories = ["husbandry"]
+categories = ["husbandry", "ethics"]
 banner = "img/parasitology/ethics"
 +++
 

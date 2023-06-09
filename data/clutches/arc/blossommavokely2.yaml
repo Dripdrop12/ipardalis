@@ -17,7 +17,6 @@ soldoutmale: false
 soldoutfemale: false
 maleprice: 450
 femaleprice: 399
-soldout: false
 babies:
 - name: F1
   gender: female
