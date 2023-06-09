@@ -152,7 +152,7 @@ One of the more prominent scams in the egg business is worth calling out as it's
 
 ### 10. The Ticket Price is a Big Lie
 
-One layer of the scam is related to affordability. Like many get rich quick schemes and affordable options, this is a lie too. Most people compare the price of an egg and the price of the nicest full-grown panther chameleon they have ever seen. They imagine they're getting that amazing animal in the egg, so they buy into the idea that it is an amazing deal pretty quickly. Hence why this is such an effective scam. However, here are the extra costs that are incurred from 0-3 months of age. I'm not even going to attempt the cost comparison with the fully proven adult male they envision buying, which is a 1 out of 100 result or less.
+One layer of the scam is related to affordability. Like many get rich quick schemes and affordable options, this is a lie too. Most people compare the price of an egg and the price of the nicest full-grown panther chameleon they have ever seen. They imagine they're getting that amazing animal in the egg, so they buy into the idea that it is an amazing deal pretty quickly. Hence why this is such an effective scam. However, here are the extra costs that are incurred from 0-3 months of age. I'm not even going to attempt the cost comparison with the fully proven adult male they envision buying, which is a 1 out of 100 result or more.
 
 - $75 food
 - $50 extra decor for baby cage
