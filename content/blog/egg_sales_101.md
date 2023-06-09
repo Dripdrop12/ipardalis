@@ -140,7 +140,7 @@ It is hard to think of a better red flag that someone is a scammer than the fact
 
 ### 8. Broken Husbandry Filter
 
-People selling eggs, let's call them egg farmers, don't need to know how to raise babies to sell eggs. However, their customers need to raise babies if they are going to succeed. This is not good. We should reward people who have learned and shared this information with our community, not the egg farmers who have no clue what they are doing.
+People selling eggs don't need to know how to raise babies to sell eggs. However, their customers need to raise babies if they are going to succeed. This is not good. We should reward people who have learned and shared this information with our community, not the egg farmers who have no clue what they are doing.
 
 > Egg farmers cannot help their customers raise healthy and strong chameleons
 
