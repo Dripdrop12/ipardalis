@@ -41,6 +41,7 @@ Egg sales are not ethical because:
 13. We should not sell to impulse buyers, period - extra time to
     prepare is not actually a good thing
 14. Unwanted females suffer
+15. Shipping eggs could have negative effects
 
 ### 1. Eggs Don't Always Hatch
 
@@ -187,6 +188,10 @@ Some people have floated the idea that impulse buyers have more time to prepare 
 Female panther chameleons suffer as much as it is in a hobby where they are not properly valued. People buying multiple eggs to increase their male chances or "guaranteed male" eggs will make this problem worse than it already is. It is much better for people to explicitly seek out a female because it is more likely that she will be cared for properly and valued as she should be.
 
 > Egg sales are bad for female panther chameleons' wellbeing
+
+### 15. Shipping Eggs Could Have Negative Effects
+
+We shared some baseline data on hatch rates and survival to 3 months old; however, there is some evidence that shipping eggs can result in higher deformities and mortality in and of itself. We need more data on it to make definitive claims about cause and effect but the cautionary principle applies here. Eggs have not evolved to be moved around during incubation, so we should limit that as much as we can in captivity.
 
 ## Conclusion
 
