@@ -2,7 +2,7 @@
 title = "Vaosary"
 date = "2022-01-12"
 tags = ["vaosary", "papafee", "lokana", "kromatisk"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/vaosary/vaosary2"
 +++
 
