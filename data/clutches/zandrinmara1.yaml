@@ -26,6 +26,10 @@ babies:
   gender: Male
   image: /img/babies/20221221/M3
   price: 449
+- name: M12
+  gender: Male
+  image: /img/babies/20221221/M12
+  price: 499
 - name: M5
   gender: Male
   image: /img/babies/20221221/M5
@@ -37,15 +41,28 @@ babies:
 - name: F2
   gender: Female
   image: /img/babies/20221221/F2
-  price: 299
+  price: 325
+- name: F8
+  gender: Female
+  image: /img/babies/20221221/F8
+  price: 325
 - name: F3
   gender: Female
   image: /img/babies/20221221/F3
+  price: 349
+- name: F9
+  gender: Female
+  image: /img/babies/20221221/F9
   price: 299
 - name: M8
   gender: Male
   image: /img/babies/20221221/M8
   price: 449
+- name: F6
+  gender: Female
+  image: /img/babies/20221221/F6
+  price: 399
+  sold: true
 - name: M10
   gender: Male
   image: /img/babies/20221221/M10
@@ -54,7 +71,21 @@ babies:
   gender: Female
   image: /img/babies/20221221/F7
   price: 449
+  sold: true
 - name: M11
   gender: Male
   image: /img/babies/20221221/M11
   price: 499
+- name: M13
+  gender: Male
+  image: /img/babies/20221221/M13
+  price: 499
+- name: M14
+  gender: Male
+  image: /img/babies/20221221/M14
+  price: 349
+- name: F10
+  gender: Female
+  image: /img/babies/20221221/F10
+  price: 325
+  
