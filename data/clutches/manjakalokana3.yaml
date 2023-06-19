@@ -22,6 +22,7 @@ babies:
   gender: Male
   image: /img/babies/20220904/available/M8
   price: 199
+  desc: runt of the group - pet quality
 - name: F3
   gender: Female
   image: /img/babies/20220904/available/F3
