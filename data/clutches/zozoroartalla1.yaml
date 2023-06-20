@@ -26,4 +26,5 @@ babies:
   gender: Male
   image: /img/babies/20230204/M5
   price: 499
+  sold: true
 
