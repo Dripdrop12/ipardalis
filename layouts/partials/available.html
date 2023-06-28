@@ -14,7 +14,7 @@
             {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
             
             {{ $.Scratch.Set "babycount" 0 }}
-            {{ range $i, $element := where $clutches ".listed" true }}
+            {{ range $i, $element := (sort (where $clutches ".listed" true) "hatchend" "desc") }}
             
               {{ $pairingimage := .image }}
               {{ $sire := .sire }}

@@ -9,10 +9,10 @@
             <div class="row">
             
             {{ $clutches := sort .Site.Data.clutches "laid" }}
-            {{ range $i, $element := where $clutches ".deposit" true }}
+            {{ range $i, $element := (sort (where $clutches ".deposit" true) "laid") }}
               <div class="col-sm-6">
                 <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
-                  <div class="card">
+                  <div class={{ if eq .soldout true }} "card sold-out" {{ else }} "card" {{ end }}>
                     <div class="form-group">
                       <picture>
                         <source srcset="{{.image}}.webp" type="image/webp">
@@ -68,7 +68,7 @@
                         </ul>
                         
                         {{ if and (eq .soldoutmale true) (eq .soldoutfemale false) }}
-                          <label for="gender">Gender:</label>
+                          <label for="gender"></label>
                           <select name="gender" id="gender" class="btn btn-template-main">
                             <option value="female">Female</option>
                           </select> 
@@ -76,9 +76,20 @@
                             <i class="fa fa-shopping-cart"></i>
                             Add to cart
                           </button>
-                          <span><strong>Males: SOLD OUT</strong></span>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Males:</dt>
+                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub> (SOLD OUT)</dd>
+                            </dl>
+                          </div>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Females:</dt>
+                              <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                            </dl>
+                          </div>
                         {{ else if and (eq .soldoutfemale true) (eq .soldoutmale false) }}
-                          <label for="gender">Gender:</label>
+                          <label for="gender"></label>
                           <select name="gender" id="gender" class="btn btn-template-main">
                             <option value="male">Male</option>
                           </select> 
@@ -86,11 +97,39 @@
                             <i class="fa fa-shopping-cart"></i>
                             Add to cart
                           </button>
-                          <span><strong>Females: SOLD OUT</strong></span>
-                        {{ else if eq .soldout true }}
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Males:</dt>
+                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                            </dl>
+                          </div>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Females:</dt>
+                              <dd>SOLD OUT</dd>
+                            </dl>
+                          </div>
+                        {{ else if or (eq .soldout true) (and (eq .soldoutmale true) (eq .soldoutfemale true)) }}
+                          <select name="gender" id="gender" class="btn btn-template-main disabled">
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                          </select>
                           <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Males:</dt>
+                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                            </dl>
+                          </div>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Females:</dt>
+                              <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                            </dl>
+                          </div>
                         {{ else }}
-                          <label for="gender">Gender:</label>
+                          
+                          <label for="gender"></label>
                           <select name="gender" id="gender" class="btn btn-template-main">
                             <option value="male">Male</option>
                             <option value="female">Female</option>
@@ -99,6 +138,18 @@
                             <i class="fa fa-shopping-cart"></i>
                             Add to cart
                           </button>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Males:</dt>
+                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                            </dl>
+                          </div>
+                          <div class="col-md-3">
+                            <dl>
+                              <dt>Females:</dt>
+                              <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                            </dl>
+                          </div>
                         {{ end }}
                       </div>
                     </div>
