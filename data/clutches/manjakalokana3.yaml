@@ -18,7 +18,6 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 349
 babies:
-
 - name: F4
   gender: Female
   image: /img/babies/20220904/available/F4
