@@ -32,6 +32,7 @@ babies:
   gender: Female
   image: /img/babies/20230115/F6
   price: 449
+  sold: true
   phenotype: RBBB Ambilobe
 - name: F7
   gender: Female
