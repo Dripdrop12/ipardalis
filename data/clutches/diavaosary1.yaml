@@ -12,7 +12,7 @@ hatchnum: 0
 clutchsize: 28
 deposit: true
 reservedmale: 0
-totalmale: 5
+totalmale: 3
 reservedfemale: 2
 totalfemale: 5
 soldout: false

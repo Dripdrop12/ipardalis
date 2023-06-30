@@ -7,7 +7,7 @@ require(stringr)
 
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
-    file_name = "R/test.csv", 
+    file_name = "R/morphmarket.csv", 
     sire_list = c("jackson", "manjaka", "ralph", "tony", "zandrin", "zava", "zozoro")){
   
   clutch_list <- dir_map(clutch_dir, read_yaml, type = "file")
@@ -55,9 +55,12 @@ gen_morph_market <- function(
       Prey_Food = "Cricket",
       Min_Shipping = 40,
       Max_Shipping = 100,
-      Is_Negotiable = "Will Consider"
+      Is_Negotiable = "Will Consider",
+      Photo_Urls = paste0("https://ipardalis.com", `soldoutmale-image`, ".jpg")
     ) %>%
-    select(Category:Is_Negotiable)
+    select(Category:Photo_Urls)
   
   write.csv(clutch_df, file_name, row.names = FALSE)
 }
+
+gen_morph_market()
