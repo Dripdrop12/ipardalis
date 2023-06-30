@@ -45,9 +45,9 @@ gen_morph_market <- function(
       Sex = `soldoutmale-gender`,
       Dob = format(hatchend, "%m-%d-%Y"),
       Maturity = case_when(
-        age_months >= 3 ~ "juvenile",
+        age_months >= 9 ~ "Adult",
         age_months >= 5 ~ "Subadult",
-        age_months >= 9 ~ "Adult"
+        age_months >= 3 ~ "juvenile"
       ),
       Traits = str_replace(`soldoutmale-phenotype`, "Rainbow", "Classic"),
       Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`soldoutmale-desc`), "", `soldoutmale-desc`)),
