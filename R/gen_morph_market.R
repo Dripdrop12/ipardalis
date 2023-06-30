@@ -4,6 +4,7 @@ require(dplyr)
 require(tidyr)
 require(lubridate)
 require(stringr)
+require(purrr)
 
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
