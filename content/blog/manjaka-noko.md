@@ -13,7 +13,7 @@ This pairing was between our female from [Nugget]({{< ref "/blog/Nugget/index.md
 ---
 
 Hatch dates
-: 11/19/22 - 11/29/2022
+: 11/19/22 - 11/29/22
 
 Hatch rate
 : 24/24
@@ -22,3 +22,12 @@ Hatch rate
 
 ---
 
+Hatch dates
+: 2/9/23 - 2/13/23
+
+Hatch rate
+: 27/33
+
+{{< gallery dir="/img/babies/20230213" />}}
+
+---
