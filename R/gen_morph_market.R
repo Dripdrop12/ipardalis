@@ -9,7 +9,7 @@ require(purrr)
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
     file_name = "R/morphmarket.csv",
-    morph_market_export = "~/Downloads/animals(1).csv",
+    morph_market_export = "~/Downloads/animals(3).csv",
     sire_list = c("jackson", "manjaka", "ralph", "tony", "zandrin", "zava", "zozoro")){
   
   clutch_list <- dir_map(clutch_dir, read_yaml, type = "file")
@@ -50,9 +50,9 @@ gen_morph_market <- function(
       Sex = `soldoutmale-gender`,
       Dob = format(hatchend, "%m-%d-%Y"),
       Maturity = case_when(
-        age_months >= 9 ~ "Adult",
-        age_months >= 5 ~ "Subadult",
-        age_months >= 3 ~ "juvenile"
+        age_months > 9 ~ "Adult",
+        age_months > 5 ~ "Subadult",
+        age_months >= 3 ~ "Juvenile"
       ),
       Traits = str_replace(`soldoutmale-phenotype`, "Rainbow", "Classic"),
       Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`soldoutmale-desc`), "", `soldoutmale-desc`)),
@@ -74,7 +74,7 @@ gen_morph_market <- function(
   
   out <- sync_morph_market(clutch_df, morph_market_df) 
   
-  write.csv(clutch_df, file_name, row.names = FALSE)
+  write.csv(out, file_name, row.names = FALSE)
 }
 
 sync_morph_market <- function(clutch_df, morph_market_df) {
@@ -84,7 +84,8 @@ sync_morph_market <- function(clutch_df, morph_market_df) {
       Category = `Category*`,
       Title = `Title*`,
       Animal_Id = `Animal_Id*`,
-      Maturity = `Maturity*`)
+      Maturity = `Maturity*`) %>%
+    select(-Video_Url, -Weight, -Length, -Length_Type)
   
   bind_rows(to_keep, clutch_df) %>%
     select(Category:Is_For_Trade)
