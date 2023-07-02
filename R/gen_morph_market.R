@@ -8,7 +8,8 @@ require(purrr)
 
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
-    file_name = "R/morphmarket.csv", 
+    file_name = "R/morphmarket.csv",
+    morph_market_export = "~/Downloads/animals(1).csv",
     sire_list = c("jackson", "manjaka", "ralph", "tony", "zandrin", "zava", "zozoro")){
   
   clutch_list <- dir_map(clutch_dir, read_yaml, type = "file")
@@ -42,6 +43,10 @@ gen_morph_market <- function(
         `soldoutmale-phenotype`, " Panther Chameleon"
       ),
       Price = `soldoutmale-price`,
+      State = "For Sale",
+      Visibility = "Public",
+      Enabled = "Active",
+      Is_Group = "No",
       Sex = `soldoutmale-gender`,
       Dob = format(hatchend, "%m-%d-%Y"),
       Maturity = case_when(
@@ -52,16 +57,37 @@ gen_morph_market <- function(
       Traits = str_replace(`soldoutmale-phenotype`, "Rainbow", "Classic"),
       Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`soldoutmale-desc`), "", `soldoutmale-desc`)),
       Origin = "Self Produced",
+      Proven_Breeder = "No",
+      Quantity = 1,
       Prey_State = "Live",
       Prey_Food = "Cricket",
       Min_Shipping = 40,
       Max_Shipping = 100,
       Is_Negotiable = "Will Consider",
+      Is_Rep_Photo = "No",
+      Is_For_Trade = "No",
       Photo_Urls = paste0("https://ipardalis.com", `soldoutmale-image`, ".jpg")
     ) %>%
     select(Category:Photo_Urls)
   
+  morph_market_df <- readr::read_csv(morph_market_export)
+  
+  out <- sync_morph_market(clutch_df, morph_market_df) 
+  
   write.csv(clutch_df, file_name, row.names = FALSE)
+}
+
+sync_morph_market <- function(clutch_df, morph_market_df) {
+  to_keep <- morph_market_df %>% 
+    filter(State == "Not For Sale" | `Category*` == "More Colubrids") %>%
+    rename(
+      Category = `Category*`,
+      Title = `Title*`,
+      Animal_Id = `Animal_Id*`,
+      Maturity = `Maturity*`)
+  
+  bind_rows(to_keep, clutch_df) %>%
+    select(Category:Is_For_Trade)
 }
 
 gen_morph_market()
