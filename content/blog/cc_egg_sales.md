@@ -3,7 +3,7 @@ title = "Chameleon Chronicles: Ethics"
 date = "2023-06-23" 
 tags = []
 categories = ["ethics", "podcasts"]
-banner = "img/cc_egg_sales"
+banner = "img/babies/20221105/available/M8"
 +++
 
 Great discussion with Amanda & Lee Ready of Ready's Rainforest, The Reptile Gumbo Podcast, and Dr. Rob Coke DVM about egg sales and other random ideas that popped into our heads.
