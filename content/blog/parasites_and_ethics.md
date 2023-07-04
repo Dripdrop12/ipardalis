@@ -49,7 +49,7 @@ Here's what we have planned so far:
 - *Parasites and Ethics: Coccidia found in Furcifer pardalis*
 - *Parasites and Ethics: New Protocols*
 - *Parasites and Ethics: Food*
-- *Parasites and Ethics: Enclosures & Hygeine*
+- *Parasites and Ethics: Enclosures & Hygiene*
 - *Parasites and Ethics: Detection & Treatment*
 - *Parasites and Ethics: July 2021 Results*
 
