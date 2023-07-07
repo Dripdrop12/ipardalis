@@ -27,5 +27,10 @@ babies:
   image: /img/babies/20230204/M11
   price: 649
   desc: HB release
-
+  sold: true
+- name: M2
+  gender: Male
+  image: /img/babies/20230204/M21
+  price: 699
+  desc: HB release
 
