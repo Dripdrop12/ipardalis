@@ -42,6 +42,10 @@ babies:
   gender: Female
   image: /img/babies/20221221/F9
   price: 299
+- name: F6
+  gender: Female
+  image: /img/babies/20221221/F6
+  price: 349
 - name: M10
   gender: Male
   image: /img/babies/20221221/M10
@@ -58,3 +62,4 @@ babies:
   gender: Female
   image: /img/babies/20221221/F10
   price: 325
+  sold: true

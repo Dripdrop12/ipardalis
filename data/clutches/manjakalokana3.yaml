@@ -21,4 +21,8 @@ babies:
 - name: F4
   gender: Female
   image: /img/babies/20220904/available/F4
-  price: 249
+  price: 325
+- name: F5
+  gender: Female
+  image: /img/babies/20220904/available/F5
+  price: 299
