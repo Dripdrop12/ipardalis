@@ -3,7 +3,7 @@ title = "Jimanga"
 date = "2021-12-03"
 tags = ["jimanga", "manga", "imelda", "hendrix", "bleu"]
 categories = ["ambilobe-sires"]
-banner = "img/ambilobe/jimanga/jimanga"
+banner = "img/ambilobe/jimanga/jimanga8"
 +++
 
 {{< load-photoswipe >}}
