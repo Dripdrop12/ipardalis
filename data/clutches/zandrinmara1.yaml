@@ -49,11 +49,11 @@ babies:
 - name: M10
   gender: Male
   image: /img/babies/20221221/M10
-  price: 499
+  price: 599
 - name: M11
   gender: Male
   image: /img/babies/20221221/M11
-  price: 449
+  price: 499
 - name: M14
   gender: Male
   image: /img/babies/20221221/M14
