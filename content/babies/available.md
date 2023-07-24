@@ -6,8 +6,8 @@ description = "Ambilobe Panther Chameleons for sale. All our chameleons are at l
 
 {{< load-photoswipe >}}
 
-{{< notice note >}}
-Use code "SUMMERSALE" for 30% off!
+{{< notice warning >}}
+We cannot ship between 7/31 and 8/18 - if you purchase during that time frame, those orders will go out the week of 8/21. Thanks!
 {{< /notice >}}
 
 
