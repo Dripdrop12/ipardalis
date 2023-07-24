@@ -12,7 +12,7 @@ We planned on discussing
 
 - Ethics
 - The impact of egg sales on the community
-- Why we choose not to sale eggs 
+- Why we chose not to sell eggs 
 
 This was a great show with 2 chameleon breeders and a top reptile veterinarian. 
 
