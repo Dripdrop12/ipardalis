@@ -93,7 +93,7 @@ This is an spherical species of Coccidia. There is no oocyst residuum with two s
 
 Figure 4: Sporulated oocysts have two clear sporocysts and others have an unsporulated mass. Although a stieda body is not evident in these pictures, I believe it is *Isospora brygooi*.
 
-*Isospora brygooi* primarily infects/damages the intestinal wall. The absorptive function of the small intestine is readily compensated by the large intestine, but an infection of the large intestine or cecum can result in more serious illness. The small intestine cannot compensate for a defect there and the tissue does not recover as easily ("Overview of Coccidiosis in Animals - Digestive System" n.d.).
+*Isospora brygooi* primarily infects/damages the intestinal wall. The absorptive function of the small intestine is readily compensated by the large intestine, but an infection of the large intestine or cecum can result in more serious illness. The small intestine cannot compensate for a defect in the large intestine/cecum and the tissue does not recover as easily ("Overview of Coccidiosis in Animals - Digestive System" n.d.).
 
 ## *Choleoeimeria glawi*
 
