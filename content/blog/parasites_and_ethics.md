@@ -19,7 +19,7 @@ banner = "img/parasitology/7A_070621_5"
 
 # Why Parasites?
 
-We were notified that an animal we sold to a customer had a positive fecal exam for Coccidia in early 2020. It was the first time there was proof that our colony of Furcifer pardalis (Panther Chameleons) had parasites. We have never purchased a WC animal, and we have never purchased an animal from a source who isn't highly respected in the hobby. After hearing of this result, we took 12 animals into our exotic vet for health checks and fecal exams. It was very expensive, and every animal was returned to us with a clean bill of health. This was not adequate, and this series will explain why.
+We were notified that an animal we sold to a customer had a positive fecal exam for Coccidia in early 2020. It was the first time there was proof that our breeding group of Furcifer pardalis (Panther Chameleons) had parasites. We have never purchased a WC animal, and we have never purchased an animal from a source who isn't highly respected in the hobby. After hearing of this result, we took 12 animals into our exotic vet for health checks and fecal exams. It was very expensive, and every animal was returned to us with a clean bill of health. This was not adequate, and this series will explain why.
 
 # Why Ethics?
 
@@ -46,7 +46,7 @@ Here's what we have planned so far:
 
 - [*Parasites and Ethics: Origin Story*]({{< ref "blog/parasites_origin.md" >}})
 - [*Parasites and Ethics: Ethics*]({{< ref "blog/parasites_ethics.md" >}})
-- *Parasites and Ethics: Coccidia found in Furcifer pardalis*
+- [*Parasites and Ethics: Coccidia found in Furcifer pardalis*]({{< ref "blog/parasites_coccidia" >}})
 - *Parasites and Ethics: New Protocols*
 - *Parasites and Ethics: Food*
 - *Parasites and Ethics: Enclosures & Hygiene*

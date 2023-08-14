@@ -2,7 +2,7 @@ baseurl = "https://ipardalis.com/"
 title = "iPardalis - Ambilobe Panther Chameleons for sale"
 theme = ["hugo-notice", "hugo-universal-theme"]
 languageCode = "en-us"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.qmd$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableRobotsTXT = true
 
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -282,3 +282,6 @@ paginate = 10
 
 [imaging]
     quality = 25 
+
+[markup.goldmark.renderer]
+unsafe= true
