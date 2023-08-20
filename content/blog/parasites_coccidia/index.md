@@ -87,7 +87,7 @@ Modry et al. (2001) is the main paper I could find identifying species of Coccid
 
 ## *Isospora brygooi*
 
-This is an spherical species of Coccidia. There is no oocyst residuum with two sporocysts with distinct dome-like stieda bodies. Sporocyst residuum is irregularly spread among its sporozoites. It sporulates exogenously (outside the infected chameleon), so a mix of unsporulated oocysts should be found with sporulated oocysts. [Figure 4](#fig-isospora) is an example from some of our fecal exams:
+This is a spherical species of Coccidia. There is no oocyst residuum with two sporocysts with distinct dome-like stieda bodies. Sporocyst residuum is irregularly spread among its sporozoites. It sporulates exogenously (outside the infected chameleon), so a mix of unsporulated oocysts should be found with sporulated oocysts. [Figure 4](#fig-isospora) is an example from some of our fecal exams:
 
 <img src="7A_070621_5.jpg" title="fig:" id="fig-isospora" style="width:75.0%" data-ref-parent="fig-isospora" alt="(a)" />
 
