@@ -10,7 +10,7 @@ hatchend: 2023-03-13
 shipping: 3 months after hatch
 hatchnum: 21
 clutchsize: 25
-deposit: true
+deposit: false
 reservedmale: 0
 totalmale: 5
 reservedfemale: 1

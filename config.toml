@@ -159,18 +159,18 @@ paginate = 10
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/jonmarkhill/"
     pre = "<i class='fa fa-2x fa-linkedin'></i>"
-
-[[menu.topbar]]
-    weight = 5
-    name = "Twitter"
-    url = "https://twitter.com/Dripdrop214"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
     
 [[menu.topbar]]
-    weight = 6
+    weight = 5
     name = "Tiktok"
     url = "https://tiktok.com/@ipardalis"
     pre = "<i class='fab fa-2x fa-tiktok'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "YouTube"
+    url = "https://www.youtube.com/@ipardalis"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
 
 [[menu.topbar]]
     weight = 7
@@ -236,7 +236,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us via social media, email or phone (585-967-5007)</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us via social media, email or phone (585-967-5007) or the link below</p>
       <p class="hidden-md hidden-lg"><a href="tel: 585 967 5007" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="mailto:jon.mark.hill@ipardalis.com" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
