@@ -22,4 +22,5 @@ babies:
   gender: Male
   image: /img/babies/20221129/M2
   price: 449
+  sold: true
 
