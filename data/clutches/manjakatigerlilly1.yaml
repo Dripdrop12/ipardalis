@@ -22,10 +22,6 @@ babies:
   gender: Female
   image: /img/babies/20221107/available/F2
   price: 275
-- name: F3
-  gender: Female
-  image: /img/babies/20221107/available/F3
-  price: 275
 - name: F5
   gender: Female
   image: /img/babies/20221107/available/F5

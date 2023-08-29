@@ -22,11 +22,6 @@ babies:
   gender: Female
   image: /img/babies/20230213/F1
   price: 249
-- name: M1
-  gender: Male
-  image: /img/babies/20230213/M1
-  price: 499
-  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20230213/M2
@@ -35,11 +30,6 @@ babies:
   gender: Male
   image: /img/babies/20230213/M3
   price: 399
-- name: F2
-  gender: Female
-  image: /img/babies/20230213/F2
-  price: 449
-  sold: true
 - name: M4
   gender: Male
   image: /img/babies/20230213/M4
@@ -56,9 +46,4 @@ babies:
   gender: Female
   image: /img/babies/20230213/F4
   price: 275
-- name: M6
-  gender: Male
-  image: /img/babies/20230213/M6
-  price: 599
-  sold: true
 
