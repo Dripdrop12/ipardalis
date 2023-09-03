@@ -10,15 +10,62 @@ hatchend: 2023-04-29
 shipping: 3 months after hatch
 hatchnum: 24
 clutchsize: 39
-deposit: true
+deposit: false
 reservedmale: 2
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
 soldout: false
 soldoutmale: false
+listed: true
 soldoutfemale: false
 maleprice: 499
 femaleprice: 349
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20230429/M1
+  price: 499
+  phenotype: RBBB Ambilobe
+- name: F1
+  gender: Female
+  image: /img/babies/20230429/F1
+  price: 499
+  phenotype: RBBB Ambilobe
+  sold: true
+- name: F2
+  gender: Female
+  image: /img/babies/20230429/F2
+  price: 399
+  phenotype: RBBB Ambilobe
+- name: F3
+  gender: Female
+  image: /img/babies/20230429/F3
+  price: 399
+  phenotype: RBBB Ambilobe
+- name: F4
+  gender: Female
+  image: /img/babies/20230429/F4
+  price: 499
+  phenotype: RBBB Ambilobe
+  sold: true
+- name: M2
+  gender: Male
+  image: /img/babies/20230429/M2
+  price: 499
+  phenotype: Rainbow Ambilobe
+- name: M3
+  gender: Male
+  image: /img/babies/20230429/M3
+  price: 499
+  phenotype: Rainbow Ambilobe
+- name: F5
+  gender: Female
+  image: /img/babies/20230429/F5
+  price: 399
+  phenotype: RBBB Ambilobe
+- name: F6
+  gender: Female
+  image: /img/babies/20230429/F6
+  price: 399
+  phenotype: RBBB Ambilobe
