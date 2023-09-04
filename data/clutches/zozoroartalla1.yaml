@@ -20,7 +20,6 @@ femaleprice: 349
 babies:
 - name: M2
   gender: Male
-  image: /img/babies/20230204/M21
+  image: /img/babies/20230204/M2_1
   price: 649
-  desc: HB release
 
