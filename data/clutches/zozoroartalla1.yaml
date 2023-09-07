@@ -22,4 +22,29 @@ babies:
   gender: Male
   image: /img/babies/20230204/M2_1
   price: 649
+- name: F1
+  gender: Female
+  image: /img/babies/20230204/F1
+  price: 399
+- name: F2
+  gender: Female
+  image: /img/babies/20230204/F2
+  price: 349
+- name: F3
+  gender: Female
+  image: /img/babies/20230204/F3
+  price: 349
+- name: F4
+  gender: Female
+  image: /img/babies/20230204/F4
+  price: 399
+- name: F5
+  gender: Female
+  image: /img/babies/20230204/F5
+  price: 299
+  desc: Slight lip issue - fully healed
+- name: F6
+  gender: Female
+  image: /img/babies/20230204/F6
+  price: 349
 
