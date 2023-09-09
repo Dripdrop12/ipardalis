@@ -45,7 +45,9 @@ gen_morph_market <- function(
         age_months >= 3 ~ "Juvenile"
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
-      Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`)),
+      Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "    
+                    Sire: https://ipardalis.com/tags/", sire, "/", "    
+                    Dam: https://ipardalis.com/tags/", dam, "/"),
       Origin = "Self Produced",
       Proven_Breeder = "No",
       Quantity = 1,
@@ -56,7 +58,7 @@ gen_morph_market <- function(
       Is_Negotiable = "Will Consider",
       Is_Rep_Photo = "No",
       Is_For_Trade = "No",
-      Photo_Urls = paste0("https://ipardalis.com", `babies-image`, ".jpg")
+      Photo_Urls = paste0("https://ipardalis.com", `babies-image`, ".jpg https://ipardalis.com", image, ".jpg")
     ) %>%
     select(Category:Photo_Urls)
   
