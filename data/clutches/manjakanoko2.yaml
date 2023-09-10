@@ -26,6 +26,7 @@ babies:
   gender: Male
   image: /img/babies/20230213/M3_1
   price: 449
+  phenotype: Rainbow Ambilobe
 - name: M7
   gender: Male
   image: /img/babies/20230213/M7
@@ -34,6 +35,7 @@ babies:
   gender: Male
   image: /img/babies/20230213/M8
   price: 449
+  phenotype: Rainbow Ambilobe
   desc: Fully healed eye injury
 - name: M4
   gender: Male
@@ -43,6 +45,7 @@ babies:
   gender: Male
   image: /img/babies/20230213/M5_1
   price: 399
+  phenotype: Rainbow Ambilobe
 - name: F3
   gender: Female
   image: /img/babies/20230213/F3
