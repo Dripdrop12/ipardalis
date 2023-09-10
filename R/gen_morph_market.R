@@ -45,9 +45,8 @@ gen_morph_market <- function(
         age_months >= 3 ~ "Juvenile"
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
-      Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "    
-                    Sire: https://ipardalis.com/tags/", sire, "/", "    
-                    Dam: https://ipardalis.com/tags/", dam, "/"),
+      Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "
+      Search for ", sire, " or ", dam, " on our website for 5+ generations of lineage"),
       Origin = "Self Produced",
       Proven_Breeder = "No",
       Quantity = 1,

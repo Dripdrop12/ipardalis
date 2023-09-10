@@ -18,32 +18,52 @@ maleprice: 399
 femaleprice: 349
 deposit: false
 babies:
-- name: F1
-  gender: Female
-  image: /img/babies/20230213/F1
-  price: 249
 - name: M2
   gender: Male
-  image: /img/babies/20230213/M2
-  price: 349
+  image: /img/babies/20230213/M2_1
+  price: 399
 - name: M3
   gender: Male
-  image: /img/babies/20230213/M3
+  image: /img/babies/20230213/M3_1
+  price: 449
+- name: M7
+  gender: Male
+  image: /img/babies/20230213/M7
   price: 399
+- name: M8
+  gender: Male
+  image: /img/babies/20230213/M8
+  price: 449
+  desc: Fully healed eye injury
 - name: M4
   gender: Male
-  image: /img/babies/20230213/M4
-  price: 599
+  image: /img/babies/20230213/M4_1
+  price: 499
 - name: M5
   gender: Male
-  image: /img/babies/20230213/M5
-  price: 349
+  image: /img/babies/20230213/M5_1
+  price: 399
 - name: F3
   gender: Female
   image: /img/babies/20230213/F3
-  price: 399
+  price: 299
+- name: M9
+  gender: Male
+  image: /img/babies/20230213/M9
+  price: 599
 - name: F4
   gender: Female
   image: /img/babies/20230213/F4
   price: 275
-
+- name: F5
+  gender: Female
+  image: /img/babies/20230213/F5
+  price: 275
+- name: F6
+  gender: Female
+  image: /img/babies/20230213/F6
+  price: 275
+- name: M10
+  gender: Male
+  image: /img/babies/20230213/M10
+  price: 399
