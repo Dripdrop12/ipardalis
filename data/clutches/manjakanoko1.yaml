@@ -11,16 +11,16 @@ shipping: 3 months after hatch
 hatchnum: 24
 clutchsize: 24
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 399
 femaleprice: 349
 babies:
-- name: M2
+- name: M3
   gender: Male
-  image: /img/babies/20221129/M2
-  price: 449
-  sold: true
+  image: /img/babies/20221129/M3_1
+  price: 649
+  phenotype: YBRB Ambilobe
 
