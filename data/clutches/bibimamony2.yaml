@@ -5,12 +5,16 @@ filial: F1-CG14
 desc: |
   A great F1 group with our WC Bibi x a 4th gen female from Blossom x Amarillo.
 laid: 2022-11-05
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2023-08-07
+hatchend: 2023-08-16
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 29
 clutchsize: 29
-deposit: false
+deposit: true
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
 soldout: false
 soldoutmale: false
 soldoutfemale: false
