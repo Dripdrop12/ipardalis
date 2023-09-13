@@ -22,12 +22,6 @@ soldoutfemale: false
 maleprice: 499
 femaleprice: 349
 babies:
-- name: F1
-  gender: Female
-  image: /img/babies/20230429/F1
-  price: 499
-  phenotype: RBBB Ambilobe
-  sold: true
 - name: F2
   gender: Female
   image: /img/babies/20230429/F2
