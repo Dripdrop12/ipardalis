@@ -17,7 +17,8 @@ gen_morph_market <- function(
   clutch_df <- clutch_df %>%
     filter(listed == TRUE) %>%
     unnest_wider(babies, names_sep = "-") %>%
-    mutate(across(c(laid, hatchstart, hatchend), ymd)) %>%
+    mutate(across(c(laid, hatchstart, hatchend), ymd)) %>% 
+    filter(is.na(`babies-sold`)) %>%
     mutate(
       `babies-phenotype` = if_else(
         condition = is.na(`babies-phenotype`),
