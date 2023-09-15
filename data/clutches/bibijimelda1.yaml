@@ -10,7 +10,7 @@ hatchend: Not yet
 shipping: 3 months after hatch
 hatchnum: 2
 clutchsize: 22
-deposit: true
+deposit: false
 reservedmale: 2
 totalmale: 2
 reservedfemale: 0
