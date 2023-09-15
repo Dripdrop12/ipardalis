@@ -2,7 +2,7 @@
 title = "Miafina (WC)"
 date = "2022-06-29"
 tags = ["miafina"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/miafina/miafina"
 +++
 

@@ -2,7 +2,7 @@
 title = "Mami"
 date = "2022-05-11"
 tags = ["mami", "papafee", "lokana", "kromatisk"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/mami/mami2"
 +++
 

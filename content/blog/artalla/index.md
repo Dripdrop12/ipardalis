@@ -2,7 +2,7 @@
 title = "Artalla"
 date = "2021-10-15"
 tags = ["artalla", "arti", "alla", "jj", "artemis"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/artalla/artalla1"
 +++
 

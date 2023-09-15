@@ -2,7 +2,7 @@
 title = "paige"
 date = "2021-04-17"
 tags = ["paige", "pj", "sonny", "pyro"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/paige/paige2"
 +++
 

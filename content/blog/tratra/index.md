@@ -2,7 +2,7 @@
 title = "Tratra (WC)"
 date = "2022-06-29"
 tags = ["tratra"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/tratra/tratra"
 +++
 

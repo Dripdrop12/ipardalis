@@ -23,4 +23,5 @@ babies:
   image: /img/babies/20221129/M3_1
   price: 699
   phenotype: YBRB Ambilobe
+  sold: true
 

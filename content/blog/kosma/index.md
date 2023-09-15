@@ -2,7 +2,7 @@
 title = "Kosma"
 date = "2021-05-02"
 tags = ["kosmo", "skyline"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/kosma/kosma"
 +++
 
