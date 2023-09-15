@@ -1,0 +1,52 @@
+sire: zandrin
+dam: avana
+image: /img/ambilobe/zandrinavana
+filial: F5-CG15
+desc: |
+  This is a reboot for Zandrin with some proven cb females, like Avana, from our Zozoro x Artalla pairing.
+laid: 2023-08-20
+hatchstart: Not yet
+hatchend: Not yet
+shipping: 3 months after hatch 
+hatchnum: 0
+clutchsize: 21
+deposit: true
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+listed: false
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 449
+femaleprice: 349
+babies:
+- name: M5
+  gender: Male
+  image: /img/babies/20221221/M5
+  price: 399
+- name: F1
+  gender: Female
+  image: /img/babies/20221221/F1
+  price: 299
+- name: F2
+  gender: Female
+  image: /img/babies/20221221/F2
+  price: 299
+- name: F8
+  gender: Female
+  image: /img/babies/20221221/F8
+  price: 299
+- name: F9
+  gender: Female
+  image: /img/babies/20221221/F9
+  price: 249
+- name: F11
+  gender: Female
+  image: /img/babies/20221221/F11
+  price: 299
+- name: M14
+  gender: Male
+  image: /img/babies/20221221/M14
+  price: 349
