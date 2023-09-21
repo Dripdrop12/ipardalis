@@ -27,29 +27,11 @@ babies:
   image: /img/babies/20230429/F3
   price: 349
   phenotype: RBBB Ambilobe
-- name: F4
-  gender: Female
-  image: /img/babies/20230429/F4
-  price: 499
-  phenotype: RBBB Ambilobe
-  sold: true
-- name: M2
-  gender: Male
-  image: /img/babies/20230429/M2
-  price: 499
-  phenotype: Rainbow Ambilobe
-  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20230429/M3
   price: 499
   phenotype: Rainbow Ambilobe
-- name: F5
-  gender: Female
-  image: /img/babies/20230429/F5
-  price: 399
-  phenotype: RBBB Ambilobe
-  sold: true
 - name: F6
   gender: Female
   image: /img/babies/20230429/F6
