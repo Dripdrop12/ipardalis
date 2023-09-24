@@ -42,6 +42,10 @@ babies:
   gender: Female
   image: /img/babies/20221221/F11
   price: 299
+- name: M12
+  gender: Male
+  image: /img/babies/20221221/M12_1
+  price: 549
 - name: M14
   gender: Male
   image: /img/babies/20221221/M14
