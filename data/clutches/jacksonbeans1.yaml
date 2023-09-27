@@ -25,7 +25,8 @@ babies:
 - name: M1
   gender: Male
   image: /img/babies/20230314/M1
-  price: 399
+  price: 349
+  desc: Crimped tail (doesn't curl into a perfect spiral) - marked down $50
 - name: F1
   gender: Female
   image: /img/babies/20230314/F1
