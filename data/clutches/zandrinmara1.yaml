@@ -21,7 +21,7 @@ babies:
 - name: M5
   gender: Male
   image: /img/babies/20221221/M5
-  price: 399
+  price: 449
 - name: F1
   gender: Female
   image: /img/babies/20221221/F1
@@ -49,4 +49,4 @@ babies:
 - name: M14
   gender: Male
   image: /img/babies/20221221/M14
-  price: 349
+  price: 449
