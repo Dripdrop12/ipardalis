@@ -6,19 +6,45 @@ desc: |
   We only did a few clutches with Kiborin, so these will be a great ybbb option from a limited gene pool
 laid: 2022-08-07
 hatchstart: 2023-06-11
-hatchend: Not yet
+hatchend: 2023-07-05
 shipping: 3 months after hatch
 hatchnum: 30
 clutchsize: 35
-deposit: true
+deposit: false
 reservedmale: 0
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 425
 femaleprice: 299
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20230705/M1
+  price: 599
+  phenotype: OBBB Ambilobe
+- name: M2
+  gender: Male
+  image: /img/babies/20230705/M2
+  price: 599
+- name: M3
+  gender: Male
+  image: /img/babies/20230705/M3
+  price: 449
+- name: F1
+  gender: Female
+  image: /img/babies/20230705/F1
+  price: 325
+- name: M4
+  gender: Male
+  image: /img/babies/20230705/M4
+  price: 499
+- name: M5
+  gender: Male
+  image: /img/babies/20230705/M5
+  price: 349
+  phenotype: Rainbow Ambilobe
