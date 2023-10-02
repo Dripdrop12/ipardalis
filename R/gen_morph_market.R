@@ -27,8 +27,8 @@ gen_morph_market <- function(
       ),
       age_months = interval(hatchend, today()) %/% months(1),
       Category = "Panther Chameleons",
-      Group_Id = paste0(sire, "-", dam, hatchend),
-      Animal_Id = paste0(`babies-name`, "-", Group_Id),
+      Group_Id = str_replace_all(paste0(sire, "-", dam, hatchend), " ", "-"),
+      Animal_Id = str_replace_all(paste0(`babies-name`, "-", Group_Id), " ", "-"),
       Title = paste0(
         age_months, " Month-old ",
         `babies-phenotype`, " Panther Chameleon"
@@ -43,7 +43,7 @@ gen_morph_market <- function(
       Maturity = case_when(
         age_months > 9 ~ "Adult",
         age_months > 5 ~ "Subadult",
-        age_months >= 3 ~ "Juvenile"
+        age_months >= 2 ~ "Juvenile"
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
       Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "
