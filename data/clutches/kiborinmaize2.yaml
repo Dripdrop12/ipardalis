@@ -41,6 +41,7 @@ babies:
   gender: Male
   image: /img/babies/20230705/M3
   price: 449
+  sold: true
 - name: F1
   gender: Female
   image: /img/babies/20230705/F1
