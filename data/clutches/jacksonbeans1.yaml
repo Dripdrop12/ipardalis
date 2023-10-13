@@ -27,6 +27,7 @@ babies:
   image: /img/babies/20230314/M1
   price: 349
   desc: Crimped tail (doesn't curl into a perfect spiral) - marked down $50
+  phenotype: Rainbow Ambilobe
 - name: F1
   gender: Female
   image: /img/babies/20230314/F1
