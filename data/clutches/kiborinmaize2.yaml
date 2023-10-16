@@ -66,3 +66,4 @@ babies:
   gender: Male
   image: /img/babies/20230705/M8
   price: 325
+  sold: true
