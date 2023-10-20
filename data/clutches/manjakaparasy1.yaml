@@ -18,18 +18,8 @@ soldoutfemale: false
 maleprice: 450
 femaleprice: 399
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20220820/available/M1
-  price: 449
-  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20220820/available/M3
   price: 399
   desc: Minor jaw injury on the left side
-- name: F1
-  gender: Female
-  image: /img/babies/20220820/available/F1
-  price: 299
-  sold: true
