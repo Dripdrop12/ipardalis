@@ -20,15 +20,15 @@ deposit: false
 babies:
 - name: M2
   gender: Male
-  image: /img/babies/20230213/M2_1
-  price: 399
+  image: /img/babies/20230213/M2_2
+  price: 449
 - name: M7
   gender: Male
-  image: /img/babies/20230213/M7
-  price: 399
+  image: /img/babies/20230213/M7_1
+  price: 349
 - name: M4
   gender: Male
-  image: /img/babies/20230213/M4_1
+  image: /img/babies/20230213/M4_2
   price: 499
 - name: F3
   gender: Female
