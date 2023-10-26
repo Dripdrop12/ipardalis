@@ -26,6 +26,7 @@ babies:
   gender: Female
   image: /img/babies/20221221/F1
   price: 299
+  sold: true
 - name: F2
   gender: Female
   image: /img/babies/20221221/F2

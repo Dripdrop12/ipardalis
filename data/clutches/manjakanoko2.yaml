@@ -32,6 +32,7 @@ babies:
   image: /img/babies/20230213/M4_2
   price: 499
   phenotype: Rainbow Ambilobe
+  sold: true
 - name: F3
   gender: Female
   image: /img/babies/20230213/F3
