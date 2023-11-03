@@ -60,4 +60,5 @@ babies:
   gender: Male
   image: /img/babies/20230711/M9
   price: 549
+  sold: true
 
