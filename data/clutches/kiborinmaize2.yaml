@@ -80,3 +80,27 @@ babies:
   image: /img/babies/20230705/M16
   price: 349
   phenotype: Rainbow Ambilobe
+- name: M17
+  gender: Male
+  image: /img/babies/20230705/M17
+  price: 325
+  phenotype: Rainbow Ambilobe
+- name: M18
+  gender: Male
+  image: /img/babies/20230705/M18
+  price: 349
+  phenotype: Rainbow Ambilobe
+- name: F3
+  gender: Female
+  image: /img/babies/20230705/F3
+  price: 299
+- name: M19
+  gender: Male
+  image: /img/babies/20230705/M19
+  price: 499
+  phenotype: OBBB Ambilobe 
+- name: F4
+  gender: Female
+  image: /img/babies/20230705/F4
+  price: 249
+  
