@@ -9,7 +9,7 @@ require(purrr)
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
     file_name = "R/morphmarket.csv",
-    morph_market_export = "~/Downloads/animals(3).csv"){
+    morph_market_export = "~/Downloads/animals(4).csv"){
   
   clutch_list <- dir_map(clutch_dir, read_yaml, type = "file")
   clutch_df <- as.data.frame(do.call(bind_rows, clutch_list))
