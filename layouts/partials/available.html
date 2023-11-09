@@ -7,9 +7,6 @@
             
             {{ .Content }}
             
-            <button type="button" onclick="introJs().start()" class="btn btn-info">
-              Quick Tour
-            </button>
             <hr>
             {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
             {{ $listedclutches := where $clutches "listed" true}}
@@ -34,6 +31,11 @@
             <div id="sales_types" class="tab-content">
               <div class="tab-pane fade active in" id="juveniles">
                 <h5>(3-5 months old)</h5>
+                
+                <button type="button" onclick="introJs().start()" class="btn btn-info">
+                  Quick Tour
+                </button>
+                <p></p>
                 
                 <div class="row">
                 {{ $juvenilerange := slice 3 4 5}}
