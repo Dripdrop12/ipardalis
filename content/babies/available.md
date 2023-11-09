@@ -6,7 +6,9 @@ description = "Ambilobe Panther Chameleons for sale. All our chameleons are at l
 
 {{< load-photoswipe >}}
 
-The Juveniles tab has a quick tour which explains lineage, filial group, ID, locale and phenotype information for each of our listings. Check out our [Facebook](https://www.facebook.com/jonmarkhill) page or [Instagram](https://www.instagram.com/ipardalis/) account for updates on our project.  
+The Juveniles tab has a quick tour which explains lineage, filial group, ID, locale and phenotype information for each of our listings. 
+
+Check out our [Facebook](https://www.facebook.com/jonmarkhill) page or [Instagram](https://www.instagram.com/ipardalis/) account for updates on our project!  
 
 > **Automatic volume discounts on 2+ animals**
 
