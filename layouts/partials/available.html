@@ -6,36 +6,510 @@
             {{ $baseURL := .Site.BaseURL }}
             
             {{ .Content }}
+            
             <button type="button" onclick="introJs().start()" class="btn btn-info">
               Quick Tour
             </button>
             <hr>
-            <div class="row">
             {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
-            
-            {{ $.Scratch.Set "babycount" 0 }}
-            {{ range $i, $element := (sort (where $clutches ".listed" true) "hatchend" "desc") }}
-            
-              {{ $pairingimage := .image }}
-              {{ $sire := .sire }}
-              {{ $dam := .dam }}
-              {{ $hatchend := .hatchend }}
-              {{ $hatchstart := .hatchstart }}
-              {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
-              {{ $filial := .filial }}
-              {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
-              {{ range $j, $baby := .babies }}
-                {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
-                <div class="col-md-4">
-                  {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
-                </div>
-                {{ if modBool ($.Scratch.Get "babycount") 3 }}
-                  </div>
-                  <div class="row">  
+            {{ $listedclutches := where $clutches "listed" true}}
+            <ul class="nav nav-tabs">
+              <li class="active"><a href="#juveniles" data-toggle="tab">Juveniles</a></li>
+              <li><a href="#subadults" data-toggle="tab">Subadults</a></li>
+              <li><a href="#adults" data-toggle="tab">Adults</a></li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                  Ambilobe Phenotypes <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="#ybbb" data-toggle="tab">YBBB</a></li>
+                  <li><a href="#ybrb" data-toggle="tab">YBRB</a></li>
+                  <li><a href="#rainbow" data-toggle="tab">Rainbow</a></li>
+                  <li><a href="#obbb" data-toggle="tab">OBBB</a></li>
+                  <li><a href="#rbbb" data-toggle="tab">RBBB</a></li>
+                </ul>
+              </li>
+              <li><a href="#upcoming" data-toggle="tab">Upcoming Clutches</a></li>
+            </ul>
+            <div id="sales_types" class="tab-content">
+              <div class="tab-pane fade active in" id="juveniles">
+                <h5>(3-5 months old)</h5>
+                
+                <div class="row">
+                {{ $juvenilerange := slice 3 4 5}}
+                {{ $juvenileclutches := slice }}
+
+                {{ range $listedclutches }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  {{ if in $juvenilerange $ageMonths }}
+                    {{ $juvenileclutches = $juvenileclutches | append . }}
+                  {{ end }}
                 {{ end }}
-              {{ end }}
-            {{ end }}
+
+                {{ $.Scratch.Set "babycount" 0 }}
+                
+                {{ range $i, $element := (sort $juvenileclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  {{ range $j, $baby := .babies }}
+                    {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                    <div class="col-md-4">
+                      {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch "juvenile" true) }}
+                    </div>
+                    {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                      </div>
+                      <div class="row">  
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="subadults">
+                <h5>(6-8 months old)</h5>
+                <div class="row">
+                {{ $subadultrange := slice 6 7 8}}
+                {{ $subadultclutches := slice }}
+
+                {{ range $listedclutches }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  {{ if in $subadultrange $ageMonths }}
+                    {{ $subadultclutches = $subadultclutches | append . }}
+                  {{ end }}
+                {{ end }}
+
+                {{ $.Scratch.Set "babycount" 0 }}
+                
+                {{ range $i, $element := (sort $subadultclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  {{ range $j, $baby := .babies }}
+                    {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                    <div class="col-md-4">
+                      {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                    </div>
+                    {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                      </div>
+                      <div class="row">  
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="adults">
+                <h5>(9+ months old)</h5>
+                <div class="row">
+                {{ $adultrange := slice 9}}
+                {{ $adultclutches := slice }}
+
+                {{ range $listedclutches }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  {{ if ge $ageMonths 9 }}
+                    {{ $adultclutches = $adultclutches | append . }}
+                  {{ end }}
+                {{ end }}
+
+                {{ $.Scratch.Set "babycount" 0 }}
+                
+                {{ range $i, $element := (sort $adultclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  {{ range $j, $baby := .babies }}
+                    {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                    <div class="col-md-4">
+                      {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                    </div>
+                    {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                      </div>
+                      <div class="row">  
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="ybbb">
+                <h5>YBBB (Yellow Body Blue Bar)</h5>
+                <div class="row">
+                {{ $.Scratch.Set "babycount" 0 }}
+                {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  
+                  {{ range $j, $baby := .babies }}
+                    
+                    {{ $phenotype := "" }}
+                    {{ if .phenotype }}
+                      
+                    {{ else }}
+                      {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                      <div class="col-md-4">
+                        {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                      </div>
+                      {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                        </div>
+                        <div class="row">  
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="ybrb">
+                <h5>YBRB (Yellow Body Red Bar)</h5>
+                <div class="row">
+                {{ $.Scratch.Set "babycount" 0 }}
+                {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  
+                  {{ range $j, $baby := .babies }}
+                    
+                    {{ if .phenotype }}
+                      {{ if in .phenotype "YBRB" }}
+                        {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                        <div class="col-md-4">
+                          {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                        </div>
+                        {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                          </div>
+                          <div class="row">  
+                        {{ end }}
+                      {{ end }}
+                    {{ else }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="rainbow">
+                <h5>Rainbow (indeterminate phenotype)</h5>
+                <div class="row">
+                {{ $.Scratch.Set "babycount" 0 }}
+                {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  
+                  {{ range $j, $baby := .babies }}
+                    
+                    {{ if .phenotype }}
+                      {{ if in .phenotype "Rainbow" }}
+                        {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                        <div class="col-md-4">
+                          {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                        </div>
+                        {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                          </div>
+                          <div class="row">  
+                        {{ end }}
+                      {{ end }}
+                    {{ else }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="obbb">
+                <h5>OBBB (Orange Body Blue Bar)</h5>
+                <div class="row">
+                {{ $.Scratch.Set "babycount" 0 }}
+                {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  
+                  {{ range $j, $baby := .babies }}
+                    
+                    {{ if .phenotype }}
+                      {{ if in .phenotype "OBBB" }}
+                        {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                        <div class="col-md-4">
+                          {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                        </div>
+                        {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                          </div>
+                          <div class="row">  
+                        {{ end }}
+                      {{ end }}
+                    {{ else }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="rbbb">
+                <h5>RBBB (Red Body Blue Bar)</h5>
+                <div class="row">
+                {{ $.Scratch.Set "babycount" 0 }}
+                {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                
+                  {{ $pairingimage := .image }}
+                  {{ $sire := .sire }}
+                  {{ $dam := .dam }}
+                  {{ $hatchend := .hatchend }}
+                  {{ $hatchstart := .hatchstart }}
+                  {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                  
+                  {{ $filial := .filial }}
+                  {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                  
+                  {{ range $j, $baby := .babies }}
+                    
+                    {{ if .phenotype }}
+                      {{ if in .phenotype "RBBB" }}
+                        {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                        <div class="col-md-4">
+                          {{ partial "babies.html" (dict "context" . "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                        </div>
+                        {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                          </div>
+                          <div class="row">  
+                        {{ end }}
+                      {{ end }}
+                    {{ else }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+                </div>
+              </div>
+              <div class="tab-pane fade" id="upcoming">
+                <div class="container">
+
+                  <div class="row">
+                      <div class="col-md-11">
+                          <section>
+                            <h3>Reservation Process</h3>
+                            <p><strong>This is a great way to spread out the cost if you need more time to pay down your cham.</strong></p>
+                            <p>We run a $75 reservation program for all of our upcoming clutches. Reservations are 100% refundable for any reason and will be applied to your balance when you're ready to ship. You are welcome to pay down more of your balance as you wait for them to hatch and grow. When the first group of babies reaches the 3 month mark, we run down the list before offering any to the public. You pick your cham in the order you pay, so early reservations get early picks. If you choose to pass or do not respond to our messages within 24 hours, we will post the animals for sale.</p>
+
+<p>We work with customers to get a juvenile from their preferred phenotype. It is a very rough science, but we have watched thousands of babies mature, and it is your best bet if you have a specific look you want.</p>
+                            <hr>
+                            <div class="row">
+                            
+                            {{ $clutches := sort .Site.Data.clutches "laid" }}
+                            {{ range $i, $element := (sort (where $clutches ".deposit" true) "laid") }}
+                              <div class="col-sm-6">
+                                <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+                                  <div class={{ if eq .soldout true }} "card sold-out" {{ else }} "card" {{ end }}>
+                                    <div class="form-group">
+                                      <picture>
+                                        <source srcset="{{.image}}.webp" type="image/webp">
+                                        <source srcset="{{.image}}.jpg" type="image/jpeg">
+                                        <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
+                                      </picture>
+                                      
+                                      <hr>
+                                      
+                                      <div style="padding-left:5px;">
+                                        <div class="heading">
+                                          <h3>
+                                            <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a> x 
+                                            <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title  .dam}}</a>
+                                          </h3>
+                                        </div>
+                                        <em>{{.filial}}</em>
+                                        {{ if .desc }}
+                                          <p>{{.desc}}</p>
+                                        {{ end }}
+                                        <div class="row">
+                                          <div class="col-md-4">
+                                            <dl>
+                                              <dt>Laid:</dt>
+                                              <dd>{{ .laid }}</dd>
+                                              {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
+                                              <dt>Older Siblings:</dt> 
+                                              <dd><a href="{{ ref $.Page (printf "blog/%s-%s.md" .sire .dam) }}">gallery</a></dd>
+                                              {{end}}
+                                            </dl>
+                                          </div>
+                                          <div class="col-md-4">
+                                            <dl>
+                                              <dt>Hatch start:</dt> 
+                                              <dd>{{ .hatchstart }}</dd>
+                                              <dt>Hatch end:</dt>
+                                              <dd>{{ .hatchend }}</dd>
+                                            </dl>
+                                          </div>
+                                          <div class="col-md-4">
+                                            <dl>
+                                              <dt>Hatch Rate:</dt> 
+                                              <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                                              <dt>Estimated ship date:</dt>
+                                              <dd>{{ .shipping }}</dd>
+                                            </dl>
+                                          </div>
+                                        </div>
+                                        
+                                        <hr>
+                                        <ul>
+                                          <li><p><strong>$75 Now</strong> (males are ${{.maleprice}} plus shipping and females are ${{.femaleprice}} plus shipping after {{.shipping}})</p></li>
+                                        </ul>
+                                        
+                                        {{ if and (eq .soldoutmale true) (eq .soldoutfemale false) }}
+                                          <label for="gender"></label>
+                                          <select name="gender" id="gender" class="btn btn-template-main">
+                                            <option value="female">Female</option>
+                                          </select> 
+                                          <button type="submit" class="btn btn-template-main">
+                                            <i class="fa fa-shopping-cart"></i>
+                                            Add to cart
+                                          </button>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Males:</dt>
+                                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub> (SOLD)</dd>
+                                            </dl>
+                                          </div>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Females:</dt>
+                                              <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                                            </dl>
+                                          </div>
+                                        {{ else if and (eq .soldoutfemale true) (eq .soldoutmale false) }}
+                                          <label for="gender"></label>
+                                          <select name="gender" id="gender" class="btn btn-template-main">
+                                            <option value="male">Male</option>
+                                          </select> 
+                                          <button type="submit" class="btn btn-template-main">
+                                            <i class="fa fa-shopping-cart"></i>
+                                            Add to cart
+                                          </button>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Males:</dt>
+                                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                                            </dl>
+                                          </div>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Females:</dt>
+                                              <dd>SOLD OUT</dd>
+                                            </dl>
+                                          </div>
+                                        {{ else if or (eq .soldout true) (and (eq .soldoutmale true) (eq .soldoutfemale true)) }}
+                                          <select name="gender" id="gender" class="btn btn-template-main disabled">
+                                            <option value="male">Male</option>
+                                            <option value="female">Female</option>
+                                          </select>
+                                          <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Males:</dt>
+                                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                                            </dl>
+                                          </div>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Females:</dt>
+                                              <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                                            </dl>
+                                          </div>
+                                        {{ else }}
+                                          
+                                          <label for="gender"></label>
+                                          <select name="gender" id="gender" class="btn btn-template-main">
+                                            <option value="male">Male</option>
+                                            <option value="female">Female</option>
+                                          </select> 
+                                          <button type="submit" class="btn btn-template-main">
+                                            <i class="fa fa-shopping-cart"></i>
+                                            Add to cart
+                                          </button>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Males:</dt>
+                                              <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                                            </dl>
+                                          </div>
+                                          <div class="col-md-3">
+                                            <dl>
+                                              <dt>Females:</dt>
+                                              <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                                            </dl>
+                                          </div>
+                                        {{ end }}
+                                      </div>
+                                    </div>
+                                    <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
+                                    <input type="hidden" name="price" value="75" />
+                                    <input type="hidden" name="category" value="Reservations" />
+                                    
+                                    <hr>
+                                  </div>
+                                </form>
+                              </div>
+                              {{ if modBool (add $i 1) 2 }}
+                              </div>
+                              <hr>
+                              <div class="row">
+                              {{ end }}
+                            {{ end }}
+                            </div>
+                
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
+            
       </section>
     </div>
   </div>

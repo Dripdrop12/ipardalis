@@ -21,36 +21,7 @@ paginate = 10
 
 [[menu.main]]
     name = "For Sale"
-    identifier = "menu.sales"
-    url  = "/img/salesheader.webp"
-    weight = 1
-
-[[menu.main]]
-    name = "Available Now!"
-    url  = ""
-    parent = "menu.sales"
-    identifier = "section.availablenow"
-    weight = 1
-    post = 1
-
-[[menu.main]]
-    name = "Ambilobe Panther Chameleons"
     url  = "/babies/available"
-    parent = "section.availablenow"
-    weight = 1
-    
-[[menu.main]]
-    name = "Reservations"
-    url  = ""
-    parent = "menu.sales"
-    identifier = "section.reservations"
-    weight = 2
-    post = 2
-    
-[[menu.main]]
-    name = "Ambilobe Clutches"
-    url  = "/babies/upcoming"
-    parent = "section.reservations"
     weight = 1
 
 [[menu.main]]

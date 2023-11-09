@@ -58,7 +58,7 @@
     <hr>
   </div>
       {{ else }}
-        {{ if eq (.scratch.Get "babycount") 1 }}
+        {{ if and (eq (.scratch.Get "babycount") 1) (.juvenile) }}
         <div class="card">
           <div class="form-group" style="padding:5px;">
             <label>
