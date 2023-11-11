@@ -1,17 +1,17 @@
 +++
-title = "Tsara"
-date = "2022-06-01"
-tags = ["tsara", "manjaka", "lokana", "arlo", "kromatisk", "landy"]
-categories = ["ambilobe-dams"]
-banner = "img/ambilobe/tsara/tsara2"
+title = "Ranoka"
+date = "2022-06-05"
+tags = ["ranoka", "manjaka", "lokana", "arlo", "kromatisk", "landy"]
+categories = ["ambilobe-sires"]
+banner = "img/ambilobe/ranoka/ranoka7"
 +++
 
 {{< load-photoswipe >}}
 
-Tsara Tarehy means attractive in Malagasy. We named the two sisters from [Manjaka x Lokana]({{< ref "/blog/manjaka-lokana.md" >}}) Tsara and Tarehy :). Check out that clutch to see how consistent their YBBB phenotypes were. It is a very good proxy for what these two sisters bring to the table: great yellows and bars that shift from Landy to Manjaka's blues. Very good complement to our existing lines!
+Ranoka is a really interesting mix of F1 Manjaka and Kromatisk, Lokana's sire. He has the radiant yellow that Manjaka has, but he also has the red embers at the edge of the yellow like Kromatisk - this almost looks orange at times and gives it an almost 3D look against a blue background. Really unique animal!
 
 
-{{< gallery dir="/img/ambilobe/tsara" />}}
+{{< gallery dir="/img/ambilobe/ranoka" />}}
 
 Filial
 : *F2-CG14*
@@ -29,16 +29,18 @@ Dam
 {{< rawhtml >}}
   <div id="grampstextdoc">
     <div id="header">
-      <h1>Ancestral Report for Tsara (F2-CG14)</h1>
+      <h1>Ancestral Report for Ranoka (F2-CG14)</h1>
     </div>
     <h3>Generation 1</h3>
-    <img align="right" alt="" border="0" src="istsara2.jpg" />
-    <p>1. <strong>Tsara (F2-CG14). </strong>Tsara was born on 2022-06-01 at iPardalis.  She is the daughter of Manjaka (F1-CG5) and Lokana (F9-CG13). </p>
+    <img align="right" alt="" border="0" src="isranoka4.jpg" />
+    <p>1. <strong>Ranoka (F2-CG14). </strong>Ranoka was born on 2022-06-05 at iPardalis.  He is the son of Manjaka (F1-CG5) and Lokana (F9-CG13). </p>
     <h3>Generation 2</h3>
     <img align="right" alt="" border="0" src="ismanjaka.jpg" />
-    <p>2. <strong>Manjaka (F1-CG5). </strong>Manjaka (F1-CG5) was born on 2020-12-01 at Colorado Chameleon.  He is the son of Arlo (WC) and Perregrin's daugher (F3-CG4). He had a relationship with Lokana (F9-CG13). </p>
+    <p>2. <strong>Manjaka (F1-CG5). </strong>Manjaka (F1-CG5) was born on 2020-12-01 at Colorado Chameleon.  He is the son of Arlo (WC) and Perregrin's daugher (F3-CG4). He had a relationship with Lokana (F9-CG13). He also had a relationship with Parasy (F4-CG13). </p>
     <p>More about Manjaka (F1-CG5):</p>
     <p>Adopted: 2021-03-07, iPardalis. </p>
+    <p>Children of Parasy (F4-CG13) and Manjaka (F1-CG5)</p>
+    <p>i. Parasi (F2-CG14). Parasi was born on 2022-08-20 at iPardalis.  </p>
     <img align="right" alt="" border="0" src="islokana.jpg" />
     <p>3. <strong>Lokana (F9-CG13). </strong>Lokana was born on 2020-12-02 at Chromatic Chameleons.  She is the daughter of Kromatisk (F8-CG12) and Shirley (F9-CG12). </p>
     <p>More about Lokana (F9-CG13):</p>
@@ -47,9 +49,11 @@ Dam
     <p>i. Bumble Bee (F4-CG14). Bumble Bee was born on 2022-01-11 at iPardalis.  </p>
     <p>ii. Vaosary (F4-CG14). Vaosary was born on 2022-01-11 at iPardalis.  </p>
     <p>iii. Papamavo (F4-CG14). Papamavo was born on 2022-03-01 at iPardalis.  </p>
+    <p>iv. Mami (F4-CG14). Mami was born on 2022-05-11 at iPardalis.  </p>
     <p>Children of Lokana (F9-CG13) and Manjaka (F1-CG5)</p>
-    <p>i. Tsara (F2-CG14) [1]. Tsara was born on 2022-06-01 at iPardalis.  </p>
+    <p>i. Tsara (F2-CG14). Tsara was born on 2022-06-01 at iPardalis.  </p>
     <p>ii. Tarehy (F2-CG14). Tarehy was born on 2022-05-31 at iPardalis.  </p>
+    <p>iii. Ranoka (F2-CG14) [1]. Ranoka was born on 2022-06-05 at iPardalis.  </p>
     <h3>Generation 3</h3>
     <img align="right" alt="" border="0" src="isarlo.jpg" />
     <p>4. <strong>Arlo (WC). </strong>He had a relationship with Perregrin's daugher (F3-CG4). </p>

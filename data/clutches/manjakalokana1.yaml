@@ -11,28 +11,17 @@ shipping: 3 months after hatch
 hatchnum: 29
 clutchsize: 30
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 499
 femaleprice: 399
 babies:
-- name: F7
-  gender: Female
-  image: /img/babies/20220605/available/F7
-  price: 299
-  sold: true
-  desc: Her tail got crimped in her door and can't curl quite right
-- name: F6
-  gender: Female
-  image: /img/babies/20220605/available/F6
-  price: 399
-  desc: She lost the very tip of her tail due to stuck shed
-  sold: true
-- name: M7
+- name: Ranoka
   gender: Male
-  image: /img/babies/20220605/available/M7
-  price: 449
-  phenotype: YBRB Ambilobe
-  sold: true
+  image: /img/ambilobe/ranoka/ranoka7
+  price: 1199
+  phenotype: Rainbow Ambilobe
+  desc: Rare opportunity at a unique adult specimen
+

@@ -1,7 +1,7 @@
 +++
 title = "Tarehy"
 date = "2022-05-31"
-tags = ["tarehy", "manjaka", "arlo", "kromatisk", "landy"]
+tags = ["tarehy", "manjaka", "lokana", "arlo", "kromatisk", "landy"]
 categories = ["ambilobe-dams"]
 banner = "img/ambilobe/tarehy/tarehy"
 +++
