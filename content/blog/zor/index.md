@@ -8,7 +8,7 @@ banner = "img/ambilobe/zor/zor4"
 
 {{< load-photoswipe >}}
 
-Zor is a great YBBB we produced with our Kammerflage male from Gold Rush named [Zozoro]({{< ref "/blog/zozoro/index.md" >}}). We paired him to our gorgeous female from Arti x Alla, [Artalla]({{< ref "/blog/artalla/index.md" >}}). He brings some great baby blue bars and a lime green to yellow body. We only paired him a few times before letting him go to his forever home because we kept another brother that is very similar, but with deeper blues.
+Zor is a great YBBB we produced with our Kammerflage male from Gold Rush named [Zozoro]({{< ref "/blog/zozoro/index.md" >}}). We paired him to our gorgeous female from Arti x Alla, [Artalla]({{< ref "/blog/artalla/index.md" >}}). He brings some great baby blue bars and a lime green to yellow body. We only paired him a few times before letting him go to his forever home.
 
 
 {{< gallery dir="/img/ambilobe/zor" />}}
