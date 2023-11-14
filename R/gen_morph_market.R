@@ -5,6 +5,7 @@ require(tidyr)
 require(lubridate)
 require(stringr)
 require(purrr)
+require(glue)
 
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
@@ -47,7 +48,7 @@ gen_morph_market <- function(
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
       Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "
-      Search for ", sire, " or ", dam, " on our website for 5+ generations of lineage"),
+      We've included sire and dam dendrograms, but you can search for ", sire, " or ", dam, " on our website for 5+ generations of lineage!"),
       Origin = "Self Produced",
       Proven_Breeder = "No",
       Quantity = 1,
@@ -58,7 +59,11 @@ gen_morph_market <- function(
       Is_Negotiable = "Will Consider",
       Is_Rep_Photo = "No",
       Is_For_Trade = "No",
-      Photo_Urls = paste0("https://ipardalis.com", `babies-image`, ".jpg https://ipardalis.com", image, ".jpg")
+      sire_doh = readr::read_lines(glue("content/blog/{sire}/index.md")) %>% 
+        .[grepl("date = ", .)] %>% lubridate::as_date() %>% stringr::str_replace_all("-", "/"),
+      dam_doh = readr::read_lines(glue("content/blog/{dam}/index.md")) %>% 
+        .[grepl("date = ", .)] %>% lubridate::as_date() %>% stringr::str_replace_all("-", "/"),
+      Photo_Urls = glue("https://ipardalis.com{`babies-image`}.jpg https://ipardalis.com{image}.jpg https://ipardalis.com/blog/{sire_doh}/{sire}/tree.png https://ipardalis.com/blog/{dam_doh}/{dam}/tree.png")
     ) %>%
     select(Category:Photo_Urls)
   

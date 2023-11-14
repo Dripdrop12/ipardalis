@@ -24,7 +24,7 @@ femaleprice: 299
 babies:
 - name: M9
   gender: Male
-  image: /img/babies/20230705/M9
+  image: /img/babies/20230705/M9_1
   price: 549
   phenotype: Rainbow Ambilobe
 - name: M6
@@ -34,51 +34,35 @@ babies:
   phenotype: Rainbow Ambilobe
 - name: M10
   gender: Male
-  image: /img/babies/20230705/M10
-  price: 399
+  image: /img/babies/20230705/M10_1
+  price: 499
   phenotype: Rainbow Ambilobe
-- name: M4
-  gender: Male
-  image: /img/babies/20230705/M4
-  price: 449
-  phenotype: Rainbow Ambilobe
-  sold: true
 - name: M11
   gender: Male
-  image: /img/babies/20230705/M11
-  price: 449
+  image: /img/babies/20230705/M11_1
+  price: 399
   phenotype: Rainbow Ambilobe
 - name: M7
   gender: Male
-  image: /img/babies/20230705/M7_1
-  price: 399
+  image: /img/babies/20230705/M7_2
+  price: 499
   phenotype: Rainbow Ambilobe
 - name: M12
   gender: Male
-  image: /img/babies/20230705/M12
+  image: /img/babies/20230705/M12_1
   price: 599
-- name: M13
-  gender: Male
-  image: /img/babies/20230705/M13
-  price: 599
-  sold: true
-- name: M14
-  gender: Male
-  image: /img/babies/20230705/M14
-  price: 299
-  sold: true
+  phenotype: Rainbow Ambilobe
 - name: F2
   gender: Female
   image: /img/babies/20230705/F2
   price: 299
 - name: M15
   gender: Male
-  image: /img/babies/20230705/M15
+  image: /img/babies/20230705/M15_1
   price: 349
-  phenotype: Rainbow Ambilobe
 - name: M16
   gender: Male
-  image: /img/babies/20230705/M16
+  image: /img/babies/20230705/M16_1
   price: 349
   phenotype: Rainbow Ambilobe
 - name: M17

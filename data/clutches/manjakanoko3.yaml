@@ -11,10 +11,14 @@ shipping: 3 months after hatch
 hatchnum: 20
 clutchsize: 29
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 399
 femaleprice: 349
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20230619/M1
+  price: 349
