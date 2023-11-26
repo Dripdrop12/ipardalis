@@ -31,11 +31,13 @@ babies:
   gender: Male
   image: /img/babies/20230629/M2
   price: 549
+  phenotype: YBRB Ambilobe
 - name: M3
   gender: Male
   image: /img/babies/20230629/M3
   price: 599
   sold: true
+  phenotype: YBRB Ambilobe
 - name: M4
   gender: Male
   image: /img/babies/20230629/M4
@@ -46,11 +48,13 @@ babies:
   image: /img/babies/20230629/M5
   price: 1499
   sold: true
+  phenotype: RBBB Ambilobe
 - name: M6
   gender: Male
   image: /img/babies/20230629/M6
   price: 799
   sold: true
+  phenotype: YBRB Ambilobe
 - name: M7
   gender: Male
   image: /img/babies/20230629/M7
