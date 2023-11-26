@@ -10,7 +10,7 @@ hatchend: 2023-07-05
 shipping: 3 months after hatch
 hatchnum: 28
 clutchsize: 28
-deposit: true
+deposit: false
 reservedmale: 1
 totalmale: 3
 reservedfemale: 2
@@ -18,7 +18,47 @@ totalfemale: 5
 soldout: false
 soldoutmale: false
 soldoutfemale: false
+listed: true
 maleprice: 499
 femaleprice: 449
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20230629/M1
+  price: 549
+  sold: true
+- name: M2
+  gender: Male
+  image: /img/babies/20230629/M2
+  price: 549
+- name: M3
+  gender: Male
+  image: /img/babies/20230629/M3
+  price: 599
+  sold: true
+- name: M4
+  gender: Male
+  image: /img/babies/20230629/M4
+  price: 549
+  phenotype: YBRB Ambilobe
+- name: M5
+  gender: Male
+  image: /img/babies/20230629/M5
+  price: 1499
+  sold: true
+- name: M6
+  gender: Male
+  image: /img/babies/20230629/M6
+  price: 799
+  sold: true
+- name: M7
+  gender: Male
+  image: /img/babies/20230629/M7
+  price: 549
+- name: M9
+  gender: Male
+  image: /img/babies/20230629/M9
+  price: 899
+  sold: true
+
 
