@@ -43,6 +43,7 @@ babies:
   image: /img/babies/20230629/M4
   price: 549
   phenotype: YBRB Ambilobe
+  sold: true
 - name: M5
   gender: Male
   image: /img/babies/20230629/M5
