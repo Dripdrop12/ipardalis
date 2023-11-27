@@ -11,7 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 24
 clutchsize: 41
 deposit: false
-listed: true
+listed: false
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -26,3 +26,4 @@ babies:
   gender: Female
   image: /img/babies/20221105/available/F10
   price: 299
+  sold: true
