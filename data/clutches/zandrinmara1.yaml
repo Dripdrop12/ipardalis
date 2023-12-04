@@ -30,8 +30,10 @@ babies:
   gender: Female
   image: /img/babies/20221221/F8
   price: 299
+  sold: true
 - name: F11
   gender: Female
   image: /img/babies/20221221/F11
   price: 299
+  sold: true
 
