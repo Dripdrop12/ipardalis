@@ -33,6 +33,7 @@ babies:
   image: /img/babies/20230705/M6_2
   price: 399
   phenotype: Rainbow Ambilobe
+  sold: true
 - name: M10
   gender: Male
   image: /img/babies/20230705/M10_1
