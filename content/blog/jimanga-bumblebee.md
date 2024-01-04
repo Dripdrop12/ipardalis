@@ -21,12 +21,3 @@ Hatch rate
 {{< gallery dir="/img/babies/20230710" />}}
 
 ---
-
-Hatch dates
-: 8/02/23 - 8/22/23
-
-Hatch rate
-: 19/24
-
-
----
