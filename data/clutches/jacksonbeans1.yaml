@@ -15,7 +15,7 @@ reservedmale: 4
 totalmale: 4
 reservedfemale: 0
 totalfemale: 5
-listed: true
+listed: false
 soldout: false
 soldoutmale: true
 soldoutfemale: false
