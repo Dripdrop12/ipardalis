@@ -24,4 +24,5 @@ babies:
   price: 1199
   phenotype: Rainbow Ambilobe
   desc: Rare opportunity at a unique adult specimen
+  sold: true
 
