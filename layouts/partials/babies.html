@@ -50,7 +50,14 @@
       </div>
       <hr>
       {{ end }}
-      <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
+      <button class="btn btn-danger disabled" disabled>
+        
+        {{if .context.reserved }} 
+          <i class="fa fa-grin-hearts"></i>Reserved 
+        {{ else }}
+          <i class="fa fa-truck"></i> Sold Out 
+        {{ end }}
+      </button>
     </div>
     
     <input type="hidden" name="name" value="{{ .context.name }} - {{ title .sire }} x {{ title .dam }}" />
