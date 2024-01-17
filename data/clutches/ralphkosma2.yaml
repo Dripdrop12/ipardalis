@@ -11,6 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 27
 clutchsize: 27
 deposit: false
+listed: true
 reservedmale: 5   
 totalmale: 5
 reservedfemale: 0
@@ -21,4 +22,41 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 299
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20230901/M1
+  price: 499
+  sold: true
+  phenotype: RBBB Ambilobe
+- name: M2
+  gender: Male
+  image: /img/babies/20230901/M2
+  price: 449
+  phenotype: RBBB Ambilobe
+- name: M3
+  gender: Male
+  image: /img/babies/20230901/M3
+  price: 499
+  sold: true
+  phenotype: RBBB Ambilobe
+- name: M4
+  gender: Male
+  image: /img/babies/20230901/M4
+  price: 449
+  phenotype: RBBB Ambilobe
+- name: M5
+  gender: Male
+  image: /img/babies/20230901/M5
+  price: 449
+  phenotype: RBBB Ambilobe
+- name: M6
+  gender: Male
+  image: /img/babies/20230901/M6
+  price: 499
+  phenotype: RBBB Ambilobe
+- name: M7
+  gender: Male
+  image: /img/babies/20230901/M7
+  price: 449
+  phenotype: RBBB Ambilobe
+  sold: true
