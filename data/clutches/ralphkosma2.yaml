@@ -42,7 +42,7 @@ babies:
 - name: M4
   gender: Male
   image: /img/babies/20230901/M4
-  price: 449
+  price: 499
   phenotype: RBBB Ambilobe
 - name: M5
   gender: Male
@@ -52,7 +52,7 @@ babies:
 - name: M6
   gender: Male
   image: /img/babies/20230901/M6
-  price: 499
+  price: 449
   phenotype: RBBB Ambilobe
 - name: M7
   gender: Male
