@@ -1,5 +1,7 @@
 +++
 title = "Taiyang (WC)"
+header_title = "Wild Caught Ambilobe Panther Chameleon"
+description = "Our wild caught panther chameleon imported by One World Exotica"
 date = "2023-10-03"
 tags = ["taiyang"]
 categories = ["ambilobe-sires"]

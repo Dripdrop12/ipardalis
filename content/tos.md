@@ -1,5 +1,6 @@
 +++
 title = "TOS"
+header_title = "Terms of Service"
 url = "/tos/"
 menu = "main"
 description = "iPardalis terms of service"

@@ -4,7 +4,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 {{ $title_plain := .Params.header_title | markdownify | plainify }}
-<title>{{ $title_plain }}</title>
+{{ with .Params.header_title }}
+  <title>{{ . }}</title>
+{{ else }}
+<title>{{ .Site.Title }}</title>
+{{ end }}
+
 <meta name="author" content="{{ .Param "author" }}" />
 {{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
 {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
