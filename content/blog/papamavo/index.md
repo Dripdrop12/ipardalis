@@ -3,12 +3,13 @@ title = "Papamavo"
 date = "2022-03-01"
 tags = ["papamavo", "papafee", "lokana", "kromatisk"]
 categories = ["ambilobe-sires"]
+description = "Papamavo is one of our 5th generation Ambilobe Panther Chameleon breeders from Papafee x Lokana. He has great vibrancy and a solid yellow body. His attitude is a bit more feisty than his father, but he's calming down a bit now as he reaches adulthood. We are excited to see what he does for us!"
 banner = "img/ambilobe/papamavo/papamavo6"
 +++
 
 {{< load-photoswipe >}}
 
-Papamavo is one of our 5th generation Ambilobe breeders from Papafee x Lokana. He has great vibrancy and a solid yellow body. His attitude is a bit more feisty than his father, but he's calming down a bit now as he reaches adulthood. We are excited to see what he does for us!
+Papamavo is one of our 5th generation Ambilobe Panther Chameleon breeders from Papafee x Lokana. He has great vibrancy and a solid yellow body. His attitude is a bit more feisty than his father, but he's calming down a bit now as he reaches adulthood. We are excited to see what he does for us!
 
 
 {{< gallery dir="/img/ambilobe/papamavo" />}}

@@ -76,11 +76,6 @@ paginate = 10
     parent = "section.furciferminor"
     weight = 1
 
-[[menu.main]]
-    name = "Retired minor"
-    url = "/categories/retired-minor/"
-    parent = "section.furciferminor"
-    weight = 2
 
 [[menu.main]]
     name = "Pituophis deppei jani"
@@ -155,12 +150,12 @@ paginate = 10
     author = "Jonathan Mark Hill"
     defaultKeywords = ["Panther Chameleons for sale", "Ambilobe", 
       "Yellow Body Blue Bar Ambilobe", "YBBB", "OBBB", "iPardalis", "juvenile panther chameleon",
-      "Lesser chameleon", "Furcifer minor", "Ball pythons", "pituophis deppei jani",
-      "Northern Mexican Pine Snakes", "Mandarin Rat Snakes"
+      "Lesser chameleon", "Chameleons for sale", "Panther Chameleon for sale", "pituophis deppei jani",
+      "Northern Mexican Pine Snakes", "Chameleon for sale", "Good pet reptile", "Beginning species of chameleon"
       ]
     defaultDescription = """\
-      We specialize in yellow-bodied Ambilobe panther chameleons,
-      Furcifer minor, Northern Mexican Pine Snakes, Mandarin Rat Snakes, \
+      We specialize in yellow-bodied and red-bodied Ambilobe panther chameleons,
+      Northern Mexican Pine Snakes, \
       and other exotic reptiles.
       """
 
