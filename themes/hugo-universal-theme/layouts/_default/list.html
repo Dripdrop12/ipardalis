@@ -32,10 +32,10 @@
                                           <picture>
                                             <source srcset="{{ .Params.banner | relURL }}.webp" type="image/webp">
                                             <source srcset="{{ .Params.banner | relURL }}.jpg" type="image/jpeg">
-                                            <img src="{{ .Params.banner | relURL }}.jpg" class="img-responsive" alt="">
+                                            <img src="{{ .Params.banner | relURL }}.jpg" class="img-responsive" alt="{{ .Params.title }}">
                                           </picture>
                                           {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .Params.title }}">
                                           {{ end }}
                                       </a>
                                   </div>
