@@ -3,7 +3,7 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-{{ $title_plain := .Title | markdownify | plainify }}
+{{ $title_plain := .Params.header_title | markdownify | plainify }}
 <title>{{ $title_plain }}</title>
 <meta name="author" content="{{ .Param "author" }}" />
 {{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}

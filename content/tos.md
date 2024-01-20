@@ -2,6 +2,7 @@
 title = "TOS"
 url = "/tos/"
 menu = "main"
+description = "iPardalis terms of service"
 +++
 
 By purchasing from iPardalis, you are agreeing to our terms of service.

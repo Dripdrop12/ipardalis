@@ -1,7 +1,8 @@
 +++
-title = "Current Listing"
+title = "Panther Chameleons for sale"
+header_title = "Chameleon for sale"
 id = "available"
-description = "Ambilobe Panther Chameleons for sale. All our chameleons are at least 3 months of age."
+description = "Individually-raised Ambilobe Panther Chameleons for sale. All our chameleons are at least 3 months of age, healthy, vibrant and ready to thrive as a pet in your home."
 +++
 
 {{< load-photoswipe >}}
