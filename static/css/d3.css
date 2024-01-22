@@ -1,7 +1,0 @@
-path.link {
-  fill: none;
-  stroke-width: 2px;
-}
-.node:not(:hover) .nodetext {
-  display: none;
-}
