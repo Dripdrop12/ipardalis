@@ -3,7 +3,7 @@ title = "Ambilobe Panther Chameleons for sale"
 header_title = "Chameleon for sale"
 id = "available"
 description = "Individually-raised Ambilobe Panther Chameleons for sale. All our chameleons are at least 3 months of age, healthy, vibrant, with a range of colors and ready to thrive as a pet in your home."
-keywords = ["Ethical herpetoculture", "Individually-raised", "Panther Chameleons", "Baby Chameleons", "Chameleons for sale"]
+keywords = ["Panther Chameleons", "Baby Chameleons"]
 +++
 
 {{< load-photoswipe >}}
