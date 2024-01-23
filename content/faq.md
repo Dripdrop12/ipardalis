@@ -1,7 +1,7 @@
 +++
-title = "FAQ"
+title = "Frequently Asked Questions"
 header_title = "How do I purchase a chameleon?"
-description = "Frequently asked questions"
+description = "Frequently asked questions about owning a panther chameleon"
 keywords = ["FAQ","How do I","questions","what if"]
 menu = "main"
 +++

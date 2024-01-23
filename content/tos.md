@@ -1,9 +1,9 @@
 +++
-title = "TOS"
-header_title = "Terms of Service"
+title = "iPardalis Terms of Service"
+header_title = "Terms of Service (TOS)"
 url = "/tos/"
 menu = "main"
-description = "iPardalis terms of service"
+description = "iPardalis terms of service are the best in the industry."
 +++
 
 By purchasing from iPardalis, you are agreeing to our terms of service.
