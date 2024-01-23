@@ -1,5 +1,8 @@
 +++ 
-title = "The Ethics of Egg Sales" 
+title = "The Ethics of Egg Sales"
+header_title = "Egg scams and how to avoid them"
+description = "Egg sales are one of the more common scams in the chameleon hobby. Read this article to understand why it is such a clever trick."
+keywords = ["scam", "reptile industry", "ethics", "chameleon eggs for sale", "hatch your own chameleon", "chameleons101", "We invented hatching your own chameleon at home", "Kristopher's Khameleons", "Dave's Reptiles"]
 date = "2023-06-07" 
 tags = [""]
 categories = ["ethics"] 
