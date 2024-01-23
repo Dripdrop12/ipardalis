@@ -1,6 +1,6 @@
 +++
-title = "iPardalis Terms of Service"
-header_title = "Terms of Service (TOS)"
+title = "TOS"
+header_title = "iPardalis Terms of Service (TOS)"
 url = "/tos/"
 menu = "main"
 description = "iPardalis terms of service are the best in the panther chameleon industry."

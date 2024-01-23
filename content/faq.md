@@ -1,5 +1,5 @@
 +++
-title = "Frequently Asked Questions"
+title = "FAQ"
 header_title = "How do I purchase a chameleon?"
 description = "Frequently asked questions about owning a panther chameleon"
 keywords = ["FAQ","How do I","questions","what if"]
