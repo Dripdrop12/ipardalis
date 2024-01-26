@@ -1,30 +1,16 @@
 <footer id="footer">
     <div class="container">
-
         {{ if isset .Site.Params "about_us" }}
         <div class="col-md-4 col-sm-6">
             <h4>{{ i18n "aboutUs" }}</h4>
-
             {{ .Site.Params.about_us | safeHTML }}
-            
-            <a href="https://usark.org/">
-              <picture>
-                <source srcset="/img/usark_silver-01.jpg" type="image/jpeg">
-                <img src="/img/usark_silver-01.jpg" class="img-responsive" alt="US ARK Membership">
-              </picture>
-            </a>
-
             <hr class="hidden-md hidden-lg hidden-sm">
-
         </div>
         <!-- /.col-md-4 -->
         {{ end }}
-
         <div class="col-md-4 col-sm-6">
-
             {{ if isset .Site.Params "recent_posts" }}{{ if (default true .Site.Params.footer.recent_posts.enable) }}
             <h4>{{ i18n "recentPosts" }}</h4>
-
             <div class="blog-entries">
                 {{ range first 3 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
                 <div class="item same-height-row clearfix">
@@ -47,37 +33,51 @@
                 </div>
                 {{ end }}
             </div>
-            
-            <hr>
-            <a href="https://responsiblereptilekeeping.org/about">
-              <picture>
-                <source srcset="/img/rrk-1.webp" type="image/jpeg">
-                <img src="/img/rrk-1.webp" class="img-responsive" alt="Responsible Reptile Keeping">
-              </picture>
-            </a>
-
             <hr class="hidden-md hidden-lg">
             {{ end }}{{ end }}
-
         </div>
         <!-- /.col-md-4 -->
 
         {{ if isset .Site.Params "address" }}
         <div class="col-md-4 col-sm-6">
-
           <h4>{{ i18n "orderTitle" }}</h4>
-
             {{ .Site.Params.address | markdownify }}
-
             <h4><a style="color:#eeeeee;" href="/babies/available">Orders</a></h4>
             <h5><a style="color:#eeeeee;" href="/tos/">Terms of Service</a></h5>
             <h5><a style="color:#eeeeee;" href="/faq/">FAQ</a></h5>
             <hr class="hidden-md hidden-lg hidden-sm">
-
         </div>
         <!-- /.col-md-4 -->
         {{ end }}
-
+      <div class="row">
+        <div class="col-md-4 col-sm-6">
+          <a href="https://usark.org/">
+            <picture>
+              <source srcset="/img/usark_silver-01.jpg" type="image/jpeg">
+              <img src="/img/usark_silver-01.jpg" class="img-responsive" alt="US ARK Membership">
+            </picture>
+          </a>
+          <hr class="hidden-md hidden-lg hidden-sm">
+        </div>
+        <div class="col-md-4 col-sm-6">
+          <a href="https://responsiblereptilekeeping.org/about">
+            <picture>
+              <source srcset="/img/rrk-1.webp" type="image/webp">
+              <img src="/img/rrk-1.webp" class="img-responsive" alt="Responsible Reptile Keeping">
+            </picture>
+          </a>
+          <hr class="hidden-md hidden-lg hidden-sm">
+        </div>
+        <div class="col-md-4 col-sm-6">
+          <a href="https://www.chameleonforums.com/">
+            <picture>
+              <source srcset="/img/cf-logo.png" type="image/png">
+              <img src="/img/cf-logo.png" class="img-responsive" alt="Responsible Reptile Keeping">
+            </picture>
+          </a>
+          <hr class="hidden-md hidden-lg hidden-sm">
+        </div>
+      </div>
     </div>
     <!-- /.container -->
 </footer>

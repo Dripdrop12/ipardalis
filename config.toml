@@ -180,7 +180,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jon.mark.hill@ipardalis.com"
 
-    about_us = "<p>Individually-raised Panther Chameleons. We're working with our 7th generation of Ambilobe and 2nd gen of Furcifer minor (Lesser Chameleons). We also have a few colubrid and ball python projects.</p>"
+    about_us = "<p>Individually-raised Panther Chameleons. We're working with our 7th generation of Ambilobe and 2nd gen of Furcifer minor (Lesser Chameleons). We also have a few colubrid and ball python projects. As lifelong reptile keepers, we hold membership in Responsible Reptile Keeping and USARK and we sponsor Reptifiles and the Chameleon Forums.</p>"
     copyright = "Copyright (c) 2024, iPardalis, LLC; all rights reserved."
 
     # Format dates with Go's time formatting ta
