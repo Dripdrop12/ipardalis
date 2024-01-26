@@ -7,10 +7,12 @@
 
             {{ .Site.Params.about_us | safeHTML }}
             
-            <picture>
-              <source srcset="/img/usark_silver-01.jpg" type="image/jpeg">
-              <img src="/img/usark_silver-01.jpg" class="img-responsive" alt="US ARK Membership">
-            </picture>
+            <a href="https://usark.org/">
+              <picture>
+                <source srcset="/img/usark_silver-01.jpg" type="image/jpeg">
+                <img src="/img/usark_silver-01.jpg" class="img-responsive" alt="US ARK Membership">
+              </picture>
+            </a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -45,6 +47,14 @@
                 </div>
                 {{ end }}
             </div>
+            
+            <hr>
+            <a href="https://responsiblereptilekeeping.org/about">
+              <picture>
+                <source srcset="/img/rrk-1.webp" type="image/jpeg">
+                <img src="/img/rrk-1.webp" class="img-responsive" alt="Responsible Reptile Keeping">
+              </picture>
+            </a>
 
             <hr class="hidden-md hidden-lg">
             {{ end }}{{ end }}
