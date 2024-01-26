@@ -16,7 +16,7 @@ Individually-raising has been a win-win shift for Panther Chameleons and keepers
 
 Our listings are exclusively juveniles or older - no hatchlings or [eggs]({{< ref "/blog/egg_sales_101.md" >}}) - we do not sell juveniles under 12 grams of weight regardless of their age. Every iPardalis Panther Chameleon has a [life-long guarantee]({{< ref "tos.md" >}}). Whatever issue you encounter, even years later, we want to be part of the solution. Keep in touch, and we will ensure that you have a positive experience.
 
-Take a quick tour -> The Juveniles tab (below) has a button which explains lineage, filial group, ID, locale and phenotype information for each of our listings with an interactive tutorial. Check out our [Facebook](https://www.facebook.com/jonmarkhill) page or [Instagram](https://www.instagram.com/ipardalis/) account for regular updates on our project, and our [blog]({{< ref "/blog" >}}) has research, opinion pieces, podcasts, husbandry information and more!  
+Take a quick tour -> The Juveniles tab (below) has a button which explains lineage, filial group, ID, locale and phenotype information for each of our listings with an interactive tutorial. Check out our [Facebook](https://www.facebook.com/jonmarkhill) page or [Instagram](https://www.instagram.com/ipardalis/) account for regular updates on our project, and our [blog]({{< ref "/blog" >}}) has research, opinion pieces, photography, podcasts, husbandry information and more!  
 
 > **Automatic volume discounts on 2+ animals**
 
