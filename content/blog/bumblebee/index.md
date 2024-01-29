@@ -2,7 +2,7 @@
 title = "Bumble Bee"
 date = "2022-01-11"
 tags = ["bumble bee", "papafee", "lokana", "kromatisk"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/bumblebee/bumblebee1"
 +++
 

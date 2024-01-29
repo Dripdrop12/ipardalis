@@ -2,7 +2,7 @@
 title = "Parasi"
 date = "2022-08-20"
 tags = ["parasi", "manjaka", "jack"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/parasi/parasi"
 +++
 

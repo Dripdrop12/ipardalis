@@ -2,7 +2,7 @@
 title = "Beans"
 date = "2022-01-12"
 tags = ["beans", "mcnulty", "artemis"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/beans/beans"
 +++
 

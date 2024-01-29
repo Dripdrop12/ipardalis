@@ -2,7 +2,7 @@
 title = "Mainty"
 date = "2021-09-05"
 tags = ["mainty", "bangheera", "flamethrower", "grape inferno"]
-categories = ["ambilobe-dams"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/mainty/mainty"
 +++
 
