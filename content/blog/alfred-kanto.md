@@ -3,6 +3,7 @@ title = "Alfred x Kanto"
 date = "2021-04-13"
 tags = ["Alfred", "kanto", "jude", "brightflame"]
 categories = ["past clutches"]
+description = "This pairing was between our third generation hold back, Alfred, and our female from Frank Payne, Kanto, from Living Art by Frank Payne. It was our first attempt at an RBBB Ambilobe Panther Chameleon pairing."
 banner = "img/ambilobe/ralph/ralph"
 +++
 

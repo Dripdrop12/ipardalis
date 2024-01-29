@@ -2,7 +2,7 @@
 title = "Zor"
 date = "2023-01-24"
 tags = ["zor", "zozoro", "artalla", "arti", "alla", "gold-rush"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/zor/zor4"
 +++
 

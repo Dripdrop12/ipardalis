@@ -2,7 +2,7 @@
 title = "Ranoka"
 date = "2022-06-05"
 tags = ["ranoka", "manjaka", "lokana", "arlo", "kromatisk", "landy"]
-categories = ["ambilobe-sires"]
+categories = ["retired-pardalis"]
 banner = "img/ambilobe/ranoka/ranoka7"
 +++
 
