@@ -8,7 +8,7 @@ enableRobotsTXT = true
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "ipardalis-com"
+# disqusShortname = "ipardalis-com"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "G-8KLZ4396EQ"
 
