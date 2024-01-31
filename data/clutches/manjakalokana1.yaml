@@ -18,11 +18,5 @@ soldoutfemale: false
 maleprice: 499
 femaleprice: 399
 babies:
-- name: Ranoka
-  gender: Male
-  image: /img/ambilobe/ranoka/ranoka7
-  price: 1199
-  phenotype: Rainbow Ambilobe
-  desc: Rare opportunity at a unique adult specimen
-  sold: true
+
 

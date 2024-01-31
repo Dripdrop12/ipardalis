@@ -22,24 +22,6 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 299
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20230912/M1
-  price: 499
-  sold: true
-  phenotype: RBBB Ambilobe
-- name: M2
-  gender: Male
-  image: /img/babies/20230912/M2
-  price: 449
-  sold: true
-  phenotype: RBBB Ambilobe
-- name: M3
-  gender: Male
-  image: /img/babies/20230912/M3
-  price: 499
-  sold: true
-  phenotype: RBBB Ambilobe
 - name: M4
   gender: Male
   image: /img/babies/20230912/M4

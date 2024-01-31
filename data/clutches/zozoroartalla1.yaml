@@ -27,9 +27,5 @@ babies:
   image: /img/babies/20230204/F5
   price: 299
   desc: Slight lip issue - fully healed
-- name: F6
-  gender: Female
-  image: /img/babies/20230204/F6
-  price: 349
-  sold: true
+
 
