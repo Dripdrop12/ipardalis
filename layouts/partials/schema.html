@@ -14,6 +14,7 @@
     "description": {{ .Site.Params.defaultDescription }},
     "keywords": [{{ delimit (uniq $keywords) ", " }}],
     "logo": {{ .Site.Params.Logo | absURL }},
+    "image": {{ .Site.Params.featured_img }},
     "telephone": {{ .Site.Params.telephone }},
     "email": {{ .Site.Params.email }},
     "contactPoint": {
@@ -49,11 +50,12 @@
     "@type": "OnlineStore",
     "name": {{ .Site.Title }},
     "alternateName": "Individually-raised pardalis",
-    "legalName": "iPardalis, LLC",
+    "legalName": {{ .Site.Params.header }},
     "url": {{ .Site.BaseURL }},
     "description": {{ .Description | plainify | safeHTML }},
     "keywords": [{{ delimit (uniq $keywords) ", " }}],
     "logo": {{ .Site.Params.Logo | absURL }},
+    "image": {{ .Site.Params.featured_img }},
     "telephone": {{ .Site.Params.telephone }},
     "email": {{ .Site.Params.email }},
     "contactPoint": {
@@ -89,10 +91,22 @@
   "@type": "BlogPosting",
   "articleSection": {{ .Section }},
   "headline": {{ .Title }},
+  "url" : {{ .Permalink }},
+  "wordCount" : {{ .WordCount }},
   "image": {{ print .Params.banner ".webp" }},
+  "isFamilyFriendly": "true",
+  "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
   "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.author }}
+  },
+  "creator" : {
+    "@type": "Person",
+    "name": {{ .Site.Params.author }}
+  },
+  "accountablePerson" : {
     "@type": "Person",
     "name": {{ .Site.Params.author }}
   },
@@ -105,6 +119,8 @@
       "url": {{ .Site.Params.logo }}
     }
   },
+  "copyrightHolder" : {{ .Site.Params.header }},
+  "copyrightYear" : "2024",
   "description": {{ .Description | plainify | safeHTML }},
   "keywords": [{{ delimit (uniq $keywords) ", " }}]
 }
