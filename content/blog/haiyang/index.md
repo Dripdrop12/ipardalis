@@ -1,8 +1,10 @@
 +++
 title = "Haiyang (WC)"
+header_title = "Wild Caught Ambilobe Panther Chameleon - Haiyang"
 date = "2023-10-02"
 tags = ["haiyang"]
 categories = ["ambilobe-sires"]
+description = "Haiyang's blue bars are the best of all of our WC panther chameleon imports from One World Exotica and his body is very nice as well - green/yellow and only some very sparce red/orange markings. He fits incredibly well into our wild-type Ambilobe project!"
 banner = "img/ambilobe/haiyang/haiyang"
 +++
 

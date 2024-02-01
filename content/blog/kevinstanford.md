@@ -2,7 +2,7 @@
 title = "Lineage: Kevin Stanford Reptiles"
 date = "2016-03-22"
 tags = ["huo"]
-categories = ["minor-lineage"]
+categories = ["minor"]
 banner = "img/minors/lineage/huo-dam/IMG_5679"
 +++
 

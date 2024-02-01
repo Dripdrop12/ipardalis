@@ -2,7 +2,7 @@
 title = "Lineage: Living Art by Frank Payne"
 date = "2016-03-22"
 tags = ["kanto", "brightflame"]
-categories = ["lineage", "minor-lineage"]
+categories = ["lineage", "minor"]
 banner = "img/ambilobe/lineage/Brightflame/brightflame"
 +++
 

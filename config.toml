@@ -148,13 +148,17 @@ paginate = 10
     viewMorePostLink = "/blog/"
     title = "Ambilobe Panther Chameleons for sale - iPardalis"
     author = "Jonathan Mark Hill"
-    defaultKeywords = ["Panther Chameleons for sale", "Ambilobe", 
+    defaultKeywords = ["Panther Chameleons for sale", "Ambilobe Panther Chameleon", 
       "Yellow Body Blue Bar Ambilobe", "iPardalis", "juvenile panther chameleon",
-      "Chameleons for sale", "Good pet reptile",
-      "Beginning species of chameleon", "Ethical herpetoculture", "Individually-raised"
+      "Chameleons for sale", "Good pet reptile", "Buy Chameleon", "Chameleon price",
+      "Beginning species of chameleon", "Ethical herpetoculture", "Individually-raised",
+      "Female Panther Chameleon", "Male Panther Chameleon", "Chameleon Breeders",
+      "Panther Chameleon Breeders"
       ]
     defaultDescription = """\
-      We specialize in yellow-bodied and red-bodied Ambilobe panther chameleons,
+      We are panther chameleon breeders who specialize in yellow-bodied and \
+      red-bodied Ambilobe panther chameleons. Our goal is to ethically raise the \ 
+      healthiest and most colorful panther chameleons on the planet. We also breed \
       Northern Mexican Pine Snakes, \
       and other exotic reptiles.
       """
