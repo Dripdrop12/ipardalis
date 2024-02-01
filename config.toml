@@ -179,6 +179,7 @@ paginate = 10
     #
     # Enable the contact form by entering your Formspree.io email
     email = "jon.mark.hill@ipardalis.com"
+    telephone = "585-967-5007"
 
     about_us = "<p>Individually-raised Panther Chameleons. We're working with our 7th generation of Ambilobe and 2nd gen of Furcifer minor (Lesser Chameleons). We also have a few colubrid and ball python projects. As lifelong reptile keepers, we hold memberships in Responsible Reptile Keeping and USARK and we sponsor Reptifiles and the Chameleon Forums.</p>"
     copyright = "Copyright (c) 2024, iPardalis, LLC; all rights reserved."
@@ -195,6 +196,15 @@ paginate = 10
         <strong>USA</strong>
       </p>
       """
+    header = "iPardalis, LLC"
+    facebook = "jonmarkhill"
+    instagram = "ipardalis"
+    github = "Dripdrop12"
+    linkedin = "jonmarkhill"
+    youtube = "ipardalis"
+    tiktok = "ipardalis"
+    featured_img = "/img/ambilobe/papafee/papafee3.webp"
+    
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

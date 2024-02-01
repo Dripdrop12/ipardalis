@@ -1,0 +1,112 @@
+{{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
+{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
+{{ if isset .Params "keywords" }}{{ range .Params.keywords }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
+
+<script type="application/ld+json">
+{{ if .IsHome -}}
+{
+    "@context": "http://schema.org",
+    "@type": "OnlineStore",
+    "name": {{ .Site.Title }},
+    "alternateName": "Individually-raised pardalis",
+    "legalName": "iPardalis, LLC",
+    "url": {{ .Site.BaseURL }},
+    "description": {{ .Site.Params.defaultDescription }},
+    "keywords": [{{ delimit (uniq $keywords) ", " }}],
+    "logo": {{ .Site.Params.Logo | absURL }},
+    "telephone": {{ .Site.Params.telephone }},
+    "email": {{ .Site.Params.email }},
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": {{ .Site.Params.telephone }},
+      "email": {{ .Site.Params.email }}
+    },
+    "license": {{ .Site.Params.Copyright }},
+    "foundingDate": "2015-04-24",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "value": 2
+    },
+    "naics": "112990",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Maryland"
+    },
+    "sameAs": [
+      "https://www.facebook.com/{{ .Site.Params.facebook }}",
+      "https://www.instagram.com/{{ .Site.Params.instagram }}",
+      "https://twitter.com/{{ .Site.Params.twitter }}",
+      "https://github.com/{{ .Site.Params.github }}",
+      "https://www.linkedin.com/in/{{ .Site.Params.linkedin }}",
+      "https://www.youtube.com/@{{ .Site.Params.youtube }}",
+      "https://tiktok.com/@{{ .Site.Params.tiktok }}"
+    ]
+}
+{{ else if eq .Section "babies" }}
+{
+    "@context": "http://schema.org",
+    "@type": "OnlineStore",
+    "name": {{ .Site.Title }},
+    "alternateName": "Individually-raised pardalis",
+    "legalName": "iPardalis, LLC",
+    "url": {{ .Site.BaseURL }},
+    "description": {{ .Description | plainify | safeHTML }},
+    "keywords": [{{ delimit (uniq $keywords) ", " }}],
+    "logo": {{ .Site.Params.Logo | absURL }},
+    "telephone": {{ .Site.Params.telephone }},
+    "email": {{ .Site.Params.email }},
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": {{ .Site.Params.telephone }},
+      "email": {{ .Site.Params.email }}
+    },
+    "license": {{ .Site.Params.Copyright }},
+    "foundingDate": "2015-04-24",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "value": 2
+    },
+    "naics": "112990",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Maryland"
+    },
+    "sameAs": [
+      "https://www.facebook.com/{{ .Site.Params.facebook }}",
+      "https://www.instagram.com/{{ .Site.Params.instagram }}",
+      "https://twitter.com/{{ .Site.Params.twitter }}",
+      "https://github.com/{{ .Site.Params.github }}",
+      "https://www.linkedin.com/in/{{ .Site.Params.linkedin }}",
+      "https://www.youtube.com/@{{ .Site.Params.youtube }}",
+      "https://tiktok.com/@{{ .Site.Params.tiktok }}"
+    ]
+}
+{{ else }}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "articleSection": {{ .Section }},
+  "headline": {{ .Title }},
+  "image": {{ print .Params.banner ".webp" }},
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.author }}
+  },
+  "mainEntityOfPage": { "@type": "WebPage" },
+   "publisher": {
+    "@type": "Organization",
+    "name": {{ .Site.Params.header }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ .Site.Params.logo }}
+    }
+  },
+  "description": {{ .Description | plainify | safeHTML }},
+  "keywords": [{{ delimit (uniq $keywords) ", " }}]
+}
+{{ end }}
+</script>
