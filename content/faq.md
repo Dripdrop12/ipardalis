@@ -14,25 +14,29 @@ We raise Fucifer pardalis (Panther Chameleons) individually, under highly contro
 
 We take very good care of our animals, and we have done our research. Please let us know if you have any questions about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition.
 
-## 1. HOW DO I GET MY CHAMELEON?
+# How do you get a panther chameleon?
 
 After we have seen a picture of his/her enclosure. We only send our chameleons to homes that are prepared to receive them. It takes some time to get the setup right, and we would like to help you make sure it is ready from day one.
 
 Then you can pick him/her up at the nearest FedEx distribution center, usually close to the nearest airport. We will not ship direct because there is a good chance your chameleon would sit in a delivery truck, exposed to the elements, for too long.
 
-## 2. WHAT ARE THE POSTAL RATES?
+# What is the lifespan of a panther chameleon?
+
+Panther Chameleons can live between five and twelve years in captivity. The upper limit can only be achieved in ideal husbandry conditions. The average lifespan is probably around six years.
+
+# What is the cost of shipping a panther chameleon?
 
 Expect to pay about $60 (New Jersey) - $100 (Alaska) in shipping. We use FedEx Priority overnight.
 
-## 3. DO YOU SHIP INTERNATIONALLY?
+# Are Panther Chameleons friendly?
 
-No
+No - they are solitary animals which prefer to be left alone. You can gain their trust but it should be done slowly, on their terms.
 
-## 4. HOW DO YOU DETERMINE PRICING?
+# How much do Panther Chameleons usually cost?
 
-We watch the market for similar quality animals and ensure that our pricing is fair. We will never price our animals above the market price, but we are also not able to offer them much lower than the average price. Our project is small and we invest in high quality care for all of our animals. 
+Panther Chameleons usually cost between $200 and $500 with the exceptional specimen costing $500-$800. The factors which impact their price are health, lineage, current color profile, size for their age and the market demand for specific traits, such as a yellow body. Females usually cost about $100 less than males because they don't live as long or display the same bright colors.
 
-## 5. CAPTIVE HUSBANDRY?
+# Panther Chameleon care information
 
 - [Chameleon Academy](https://chameleonacademy.com/)
   - The most comprehensive guide to chameleon husbandry on the web
