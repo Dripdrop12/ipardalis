@@ -80,7 +80,13 @@
                           {{end}}
                           
                           <input type="hidden" name="name" value="{{ .Params.name }} - {{ title .Params.sire }} x {{ title .Params.dam }} - {{ .Params.hatchend }}" />
-                          <input type="hidden" name="price" value="{{if .Params.discount_price}}{{.Params.discount_price}}{{else}}{{.Params.price}}{{end}}" />
+                          <input type="hidden" name="price" value="{{if .Params.discount_price}}
+                            {{ .Params.discount_price }}
+                          {{ else if .Params.markup_price }}
+                            {{ .Params.markup_price }}
+                          {{ else }}
+                            {{ .Params.price }}
+                          {{ end }}" />
                         </div>
                       </form>
                     </div>
