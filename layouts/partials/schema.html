@@ -106,14 +106,8 @@
     "@type": "Offer",
     "url": {{ .Permalink }},
     "itemCondition": "https://schema.org/NewCondition",
-    "availability": "https://schema.org/InStock",
-    "price":  {{if .Params.discount_price}}
-                {{ .Params.discount_price }}
-              {{ else if .Params.markup_price }}
-                {{ .Params.markup_price }}
-              {{ else }}
-                {{ .Params.price }}
-              {{ end }},
+    "availability": {{ if .Params.baby_sold }} "https://schema.org/OutOfStock" {{ else }} "https://schema.org/InStock" {{ end }},
+    "price": {{ if .Params.discount_price }}{{ .Params.discount_price }}{{ else if .Params.markup_price }}{{ .Params.markup_price }}{{ else }}{{ .Params.price }}{{ end }},
     "priceCurrency": "USD",
     "shippingDetails": {
       "@type": "OfferShippingDetails",

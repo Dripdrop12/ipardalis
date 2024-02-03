@@ -96,12 +96,33 @@ get_clutch_df <- function(clutch_dir = "data/clutches/") {
   clutch_df
 }
 
-update_listings <- function(){
-  
+update_google <- function(df = get_clutch_df()){
+  df %>% 
+    mutate(id = Animal_Id, 
+           description = str_squish(Desc), 
+           condition = "New",
+           link = glue("https://ipardalis.com/babies/{sire}/{dam}/{hatchend}/{`babies-name`}/"),
+           image_link = glue("https://ipardalis.com/{`babies-image`}.jpg"),
+           additional_image_link = glue("https://ipardalis.com/{image}.jpg"),
+           availability = "in_stock", 
+           availability_date = hatchend, 
+           brand = "iPardalis", 
+           adult = "No",
+           tax = "US:MD:6.00:n",
+           price = Price,
+           title = Title) %>%
+    select(id, title, description, price, condition, link, image_link, additional_image_link,
+           availability_date, availability, brand, adult, tax) %>%
+    write_tsv("R/Google.tsv")
 }
 
-create_listings <- function(draft = TRUE, overwrite = FALSE){
-  listings <- get_clutch_df()
+create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft = FALSE, overwrite = TRUE){
+  listings <- get_clutch_df() %>%
+    filter(
+      if (filters$sire != "") sire == filters$sire else rep(T, nrow(.)),
+      if (filters$dam != "") dam == filters$dam else rep(T, nrow(.)),
+      if (filters$hatchend != "") hatchend == ymd(filters$hatchend) else rep(T, nrow(.))
+    )
   on.exit(baby <<- baby)
   for(row in 1:nrow(listings)) {
     baby <- listings %>% slice(row)

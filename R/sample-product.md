@@ -23,13 +23,14 @@ totalmale: {totalmale}
 reservedfemale: {reservedfemale}
 totalfemale: {totalfemale}
 soldout: {tolower(soldout)}
-soldoutmale: {soldoutmale}
-soldoutfemale: {soldoutfemale}
+soldoutmale: {tolower(soldoutmale)}
+soldoutfemale: {tolower(soldoutfemale)}
 maleprice: {maleprice}
 femaleprice: {femaleprice}
 name: {`babies-name`}
 gender: {`babies-gender`}
 baby_image: {`babies-image`}
+baby_sold: {if (is.na(`babies-sold`) || `babies-sold` == FALSE) tolower(FALSE) else tolower(TRUE)}
 sire_tree: {sire_tree}
 dam_tree: {dam_tree}
 price: {base_price}
