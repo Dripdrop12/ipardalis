@@ -2,7 +2,7 @@
 title = "New iPardalis Genes"
 date = "2020-04-05"
 tags = ["zanaka", "bohana"]
-categories = ["updates"]
+categories = ["genetics"]
 banner = "blog/newline/DSC04571"
 +++
   

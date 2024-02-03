@@ -249,7 +249,7 @@ paginate = 10
     enable = true
     icon = "fa fa-hand-o-down"
     title = "We have new clutches available"
-    link_url = "/babies/available/"
+    link_url = "/babies"
     link_text = "Check out the babies"
 
 [params.clients]

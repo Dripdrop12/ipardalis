@@ -2,7 +2,7 @@
 title = "Lizard Brain Radio: Episode 31"
 date = "2022-03-06"
 tags = []
-categories = ["updates", "podcasts"]
+categories = ["podcasts"]
 banner = "img/lizardbrain"
 +++
 
