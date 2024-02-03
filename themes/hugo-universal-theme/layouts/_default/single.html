@@ -40,15 +40,9 @@
                         {{ end }}
 
                         <div id="post-content">
-                          {{ if isset .Params "id" }}
-
-                            {{ partial .Params.id . }}
-              
-                          {{ else }}
                           
                           {{ .Content }}
                           
-                          {{ end }}
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
@@ -68,9 +62,9 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-                        {{ if not (in (slice "available" "upcoming") .Params.id) }}
-                          {{ partial "sidebar.html" . }}
-                        {{ end }}
+                        
+                        {{ partial "sidebar.html" . }}
+                        
 
                         <!-- *** MENUS AND FILTERS END *** -->
 

@@ -44,7 +44,7 @@
       "https://tiktok.com/@{{ .Site.Params.tiktok }}"
     ]
 }
-{{ else if eq .Section "babies" }}
+{{ else if and (eq .Section "babies") (eq .Params.id "available") }}
 {
     "@context": "http://schema.org",
     "@type": "OnlineStore",
@@ -84,6 +84,82 @@
       "https://www.youtube.com/@{{ .Site.Params.youtube }}",
       "https://tiktok.com/@{{ .Site.Params.tiktok }}"
     ]
+}
+{{ else if eq .Section "babies" }}
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "sku": {{ .Params.header_title }},
+  "image": [
+    {{ print .Params.banner ".webp" }},
+    {{ print .Params.baby_image ".webp" }},
+    {{ print .Params.sire_tree }},
+    {{ print .Params.dam_tree }}
+  ],
+  "name": {{ .Params.title }},
+  "description": {{ print .Params.desc .Params.Description }},
+  "brand": {
+    "@type": "Brand",
+    "name": "iPardalis"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": {{ .Permalink }},
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "price":  {{if .Params.discount_price}}
+                {{ .Params.discount_price }}
+              {{ else if .Params.markup_price }}
+                {{ .Params.markup_price }}
+              {{ else }}
+                {{ .Params.price }}
+              {{ end }},
+    "priceCurrency": "USD",
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingRate": {
+        "@type": "MonetaryAmount",
+        "value": 75,
+        "currency": "USD"
+      },
+      "shippingDestination": {
+        "@type": "DefinedRegion",
+        "addressCountry": "US"
+      },
+      "deliveryTime": {
+        "@type": "ShippingDeliveryTime",
+        "handlingTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 0,
+          "maxValue": 1,
+          "unitCode": "DAY"
+        },
+        "transitTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 0,
+          "maxValue": 1,
+          "unitCode": "DAY"
+        }
+      }
+    }
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5
+    },
+    "author": {
+      "@type": "Person",
+      "name": {{ .Site.Params.author }}
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "reviewCount": 19
+  }
 }
 {{ else }}
 {

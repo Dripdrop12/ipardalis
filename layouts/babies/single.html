@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+        
+        <div id="content">
+
+            <div class="container">
+
+                <div class="row">
+                    
+                    <div class="col-md-6 mb-7 mb-md-0" data-intro="The exact Panther Chameleon for sale! Sire and lineage trees pictured last." >
+                      
+                      {{ .Content }}
+                      
+                    </div>
+                    <div class="col-lg-5 col-md-3 offset-lg-1">
+                      <span>
+                      <button type="button" onclick="introJs().start()" class="btn btn-info">
+                        Tour
+                      </button>
+                      <a class="btn btn-template-main" href="{{ ref . "babies/" }}">Back</a>
+                      </span>
+                      <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+                        <div class="form-group" style="padding:5px;">
+                          
+                          <p data-intro="Sex is guaranteed"><strong>Sex:</strong> {{ .Params.gender }}</p>
+                          
+                          {{ $ageMonths := div (sub now.Unix (time .Params.hatchstart).Unix) 2592000 }}
+                          <p data-intro="We calculate age based on the starting date that the entire clutch hatches, and we do not list any animals under 12 grams of weight, regardless of their age"><strong>Hatch Date:</strong> {{ .Params.hatchend }} ({{ $ageMonths }} months old)</p> 
+                          <p data-intro="This label is based on lineage and it is an estimate. <br><br>The first letter represents body color and the third represents bar color - YBBB - Yellow Body Blue Bar.<br><br>Filial (F) numbers represent the number of generations from the most recent wild caught animal <br><br>Current Generation (CG) numbers represent the number of generations from the most distant wild caught animal"><strong>Genetics: </strong>{{ if .Params.phenotype }}{{.Params.phenotype}}{{ else }}YBBB Ambilobe{{ end }} | <em>{{ .Params.filial }}</em> </p>
+                          
+                          <p data-intro="Click these links for full ancestry reports of our breeders. We keep very good records. There are often more than 5 generations of lineage on these pages!"><strong>Sire: </strong> <a href="{{ ref . (printf "blog/%s/index.md" .Params.sire) }}">{{title .Params.sire}}</a> | <strong>Dam: </strong><a href="{{ ref . (printf "blog/%s/index.md" .Params.dam) }}">{{title .Params.dam}}</a></p>
+                          
+                          
+                          <p data-intro="Every animal is priced individually based on our personal breeding goals and market value. We try to produce top-quality animals and offer them at middle-market prices. We always show the first price as a reference to show if it is going up or down." class="price py-4">
+                          {{if .Params.discount_price}}
+                            ${{ .Params.discount_price }}
+                          {{ else if .Params.markup_price }}
+                            ${{ .Params.markup_price }}
+                          {{ else }}
+                            ${{ .Params.price }}
+                          {{ end }}
+                          {{ if .Params.discount_price }}
+                            <s class="price sale">${{ .Params.price }}</s>
+                          {{ else if .Params.markup_price }}
+                            <s class="price markup">${{ .Params.price }}</s>
+                          {{ end }}
+                          </p>
+                          
+                          <p data-intro="Press this button and checkout to place an order. It automatically calculates tax and shipping, FedEx Priority Overnight.<br><br>We love local pick up if you are in the Maryland, DC and Virginia area! Select 'Customer Pickup' at checkout.<br><br>If you add 2 animals to your cart, it takes $50 off. At 4 or more, it starts to take $150 off.">
+                          <button type="submit" class="btn btn-template-main">
+                            <i class="fa fa-shopping-cart"></i>Add to cart
+                          </button>
+                          </p>
+                          
+                          {{ if .Params.desc }}
+                          <p>{{ .Params.desc }}</p>
+                          {{ end }}
+                          
+                          {{ if fileExists (printf "/content/blog/%s-%s.md" .Params.sire .Params.dam)}}
+                          <hr>
+                          <a data-intro="Every animal from this pairing can be found here" href="{{ ref . (printf "blog/%s-%s.md" .Params.sire .Params.dam) }}">Sibling gallery</a>
+                          <hr>
+                          <p>
+                            We publish sibling galleries for every panther chameleon clutch we have produced since 2017. This makes it easy for you to see how a given animal compares to their siblings and over time. Female Panther Chameleons don't express the genes they carry for male coloration, so it is very valuable to view her brothers. Her male siblings are more informative than her lineage in predicting what her offspring will look like.
+                          
+                          </p>
+                          {{end}}
+                          
+                          <input type="hidden" name="name" value="{{ .Params.name }} - {{ title .Params.sire }} x {{ title .Params.dam }} - {{ .Params.hatchend }}" />
+                          <input type="hidden" name="price" value="{{if .Params.discount_price}}{{.Params.discount_price}}{{else}}{{.Params.price}}{{end}}" />
+                        </div>
+                      </form>
+                    </div>
+                    
+                    <div class="col-lg-12">
+                      <hr>
+                      <p>{{ .Params.description }}</p>
+                      <hr>
+                      <p>If this is your first Panther Chameleon, we highly recommend reading our <a href="{{ ref . "/faq.md" }}">Frequently Asked Questions</a>. Panther Chameleons are an amazing captive species of reptile, and we want to make sure you are set up for success.</p>
+                      <hr>
+                      <p>Please read our <a href="{{ ref . "/tos.md" }}">Terms of Service</a>. We are happy to jump on the phone ({{ .Site.Params.telephone }}) or chat via your favorite platform </p>
+                      <i class="fas fa-2x fa-hand-point-down"></i>
+                      <p><div class="social">
+                        {{ range .Site.Menus.topbar.ByWeight }}
+                        <a href="{{ .URL | safeURL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+                        {{ end }}
+                      </div>
+                      </p>
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

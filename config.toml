@@ -21,7 +21,7 @@ paginate = 10
 
 [[menu.main]]
     name = "For Sale"
-    url  = "/babies/available"
+    url  = "/babies"
     weight = 1
 
 [[menu.main]]
@@ -196,6 +196,7 @@ paginate = 10
     address = """<p><strong>Jonathan Mark Hill</strong>
         <br>iPardalis, LLC
         <br>Poolesville, MD 20837
+        <br>585-967-5007
         <br>
         <strong>USA</strong>
       </p>

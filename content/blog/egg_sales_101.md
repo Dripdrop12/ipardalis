@@ -182,7 +182,7 @@ Everything from the bluster, to the duration, to the lack of accountability, to 
 
 ### 13. We Should not Sell to Impulse Buyers, Period
 
-Some people have floated the idea that impulse buyers have more time to prepare while they wait for the egg to hatch. Ethical breeders don't sell to impulse buyers and purposely try to discourage that behavior with all pets, but especially chameleons. There are plenty of other ways to give people time to pay or prepare. We have a [reservation program]({{< ref "babies/available.md" >}}) which provides that option to people. No need to sell eggs to get this benefit.
+Some people have floated the idea that impulse buyers have more time to prepare while they wait for the egg to hatch. Ethical breeders don't sell to impulse buyers and purposely try to discourage that behavior with all pets, but especially chameleons. There are plenty of other ways to give people time to pay or prepare. We have a [reservation program]({{< ref "babies/_index.md" >}}) which provides that option to people. No need to sell eggs to get this benefit.
 
 > Extra time to prepare is not unique to egg sales
 

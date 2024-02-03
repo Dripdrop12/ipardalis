@@ -2,8 +2,7 @@ sire: bibi
 dam: pepita
 image: /img/ambilobe/bibipepita
 filial: F1-CG15
-desc: |
-  A great F1 group with our WC Bibi x a 5th gen female from Papafee x Coco.
+desc: A great F1 group with our WC Bibi x a 5th gen female from Papafee x Coco.
 laid: 2022-12-17
 hatchstart: 2023-09-12
 hatchend: 2023-09-21
@@ -42,3 +41,4 @@ babies:
   gender: Male
   image: /img/babies/20230921/M6
   price: 499
+
