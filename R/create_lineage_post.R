@@ -54,7 +54,7 @@ get_clutch_df <- function(clutch_dir = "data/clutches/") {
     filter(listed == TRUE) %>%
     unnest_wider(babies, names_sep = "-") %>%
     mutate(across(c(laid, hatchstart, hatchend), ymd)) %>% 
-    filter(is.na(`babies-sold`) | is.na(`babies-name`)) %>%
+    filter(!is.na(`babies-name`)) %>%
     mutate(
       `babies-phenotype` = if_else(
         condition = is.na(`babies-phenotype`),
@@ -103,7 +103,7 @@ update_google <- function(df = get_clutch_df()){
            link = glue("https://ipardalis.com/babies/{sire}/{dam}/{hatchend}/{`babies-name`}/"),
            image_link = glue("https://ipardalis.com/{`babies-image`}.jpg"),
            additional_image_link = glue("https://ipardalis.com/{image}.jpg"),
-           availability = "in_stock", 
+           availability = ifelse(`babies-sold`, "out_of_stock", "in_stock"), 
            availability_date = hatchend, 
            brand = "iPardalis", 
            adult = "No",
@@ -122,7 +122,8 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
       if (filters$dam != "") dam == filters$dam else rep(T, nrow(.)),
       if (filters$hatchend != "") hatchend == ymd(filters$hatchend) else rep(T, nrow(.))
     )
-  on.exit(baby <<- baby)
+  on.exit({listings <<- listings; baby <<- baby})
+  
   for(row in 1:nrow(listings)) {
     baby <- listings %>% slice(row)
     # (printf  "%s/%s/%s/%s.md" .sire .dam .hatchend .name)
