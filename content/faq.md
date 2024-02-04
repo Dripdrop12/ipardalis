@@ -6,13 +6,13 @@ keywords = ["FAQ","How do I","questions","what if"]
 menu = "main"
 +++
 
-We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have distinct color morphs, the most popular of which are Ambilobe (blue/red bar), Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding group is from the Ambilobe region of Madagascar.
+We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have [distinct phenotypes](https://www.madcham.de/en/) (color palettes), the most popular of which are Ambilobe, Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding group is from the Ambilobe region of Madagascar. We chose to specialize in Ambilobe because of its vibrancy and rich pigmentation. 
 
 ![ambilobe](/img/ambilobe.jpg)
 
-> We breed Furcifer pardalis because we love them, and we want others to be able to experience "what it is like to live with dragons" - Bill Strand. 
+> It is easy to get spread thin with all of the amazing options available from this one species, so we believe it is best to limit yourself and specialize. 
 
-We take very good care of our animals, and we have done our research. Please let us know if you have any questions about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition.
+We take very good care of our animals, and we strive to continually learn and share our experiences - both good and bad. Please let us know if you have any questions, not addressed here, about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition. We may have a [blog]({{< ref "/blog" >}}) or a [podcast]({{< ref "/categories/podcasts" >}}) the topic, too!
 
 # How do you get a panther chameleon?
 
