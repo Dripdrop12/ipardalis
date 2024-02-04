@@ -1,7 +1,7 @@
 ---
 title: {Title}
 header_title: {Animal_Id}
-description: "iPardalis listings are exclusively juveniles or older - no hatchlings or eggs - we do not sell juveniles under 12 grams of weight regardless of their age. Every iPardalis Panther Chameleon has a life-long guarantee. Whatever issue you encounter, even years later, we want to be part of the solution. Keep in touch, and we will ensure that you have a positive experience."
+description: {Desc}
 keywords: ["{sire}", "{dam}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "panther chameleon price", "ambilobe panther chameleon"]
 draft: {tolower(draft)}
 banner: {image}
