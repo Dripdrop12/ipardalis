@@ -81,7 +81,7 @@ get_clutch_df <- function(clutch_dir = "data/clutches/") {
         age_months >= 2 ~ "Juvenile"
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
-      Desc = str_squish(paste0(Title, " from ", str_to_title(sire), " and ", str_to_title(dam), ". ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "We've included sire and dam dendrograms if available, but you can view our ", str_to_title(sire), " or ", str_to_title(dam), " breeder pages for more information.")),
+      Desc = str_squish(paste0(Title, " from ", str_to_title(sire), " and ", str_to_title(dam), ". ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), " We've included sire and dam dendrograms if available, but you can view our ", str_to_title(sire), " or ", str_to_title(dam), " breeder pages for more information.")),
       sire_doh = readr::read_lines(glue("content/blog/{sire}/index.md")) %>% 
         .[grepl("date = ", .)] %>% lubridate::as_date() %>% stringr::str_replace_all("-", "/"),
       sire_tree = glue("/blog/{sire_doh}/{sire}/tree.png"),
