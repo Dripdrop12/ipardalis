@@ -32,6 +32,7 @@ babies:
   image: /img/babies/20230901/M4
   price: 499
   phenotype: RBBB Ambilobe
+  sold: true
 - name: M5
   gender: Male
   image: /img/babies/20230901/M5
