@@ -8,11 +8,19 @@ menu = "main"
 
 We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have [distinct phenotypes](https://www.madcham.de/en/) (color palettes), the most popular of which are Ambilobe, Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding group is from the Ambilobe region of Madagascar. We chose to specialize in Ambilobe because of its vibrancy and rich pigmentation. 
 
-![ambilobe](/img/ambilobe.jpg)
+{{< rawhtml >}}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d311974.95676865586!2d49.026378432219275!3d-13.191175344746163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2214f52f0a812659%3A0x1b97fc64fe096001!2sAmbilobe%2C%20Madagascar!5e1!3m2!1sen!2sus!4v1707187400333!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{< /rawhtml >}}
 
-> It is easy to get spread thin with all of the amazing options available from this one species, so we believe it is best to limit yourself and specialize. 
+We take very good care of our animals, and we strive to continually learn and share our experiences - both good and bad. Please let us know if you have any questions, not addressed here, about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition. We may even have a [blog]({{< ref "/blog" >}}) or a [podcast]({{< ref "/categories/podcasts" >}}) on the topic, too!
 
-We take very good care of our animals, and we strive to continually learn and share our experiences - both good and bad. Please let us know if you have any questions, not addressed here, about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition. We may have a [blog]({{< ref "/blog" >}}) or a [podcast]({{< ref "/categories/podcasts" >}}) on the topic, too!
+# Frequently Asked Questions
+- [How do you get a Panther Chameleon?](#how-do-you-get-a-panther-chameleon)
+- [What is the lifespan of a Panther Chameleon?](#what-is-the-lifespan-of-a-panther-chameleon)
+- [What is the cost of shipping a panther chameleon?](#what-is-the-cost-of-shipping-a-panther-chameleon)
+- [Are Panther Chameleons friendly?](are-panther-chameleons-friendly)
+- [How much do Panther Chameleons usually cost?](how-much-do-panther-chameleons-usually-cost)
+- [Panther Chameleon care resources](panther-chameleon-care-resources)
 
 # How do you get a panther chameleon?
 
@@ -20,11 +28,11 @@ We only send our chameleons to homes that are prepared to receive them, so after
 
 Then you can pick them up at the nearest FedEx distribution center, usually close to the nearest airport. We will not ship door-to-door because your chameleon would sit in a delivery truck, exposed to the elements, for too long. It's not worth the risk.
 
-# What is the lifespan of a panther chameleon?
+# What is the lifespan of a Panther Chameleon?
 
-Panther Chameleons can live between five and twelve years in captivity. The upper limit can only be achieved in ideal husbandry conditions - check out [The Chameleon Academy](https://chameleonacademy.com/podcasts/) and shoot for that upper limit! However, their average lifespan is probably around six years.
+Panther Chameleons can live between five and twelve years in captivity. The upper limit can only be achieved in ideal husbandry conditions. However, their average lifespan is probably around six to eight years under standard care with females living between four and six years. Check out [The Chameleon Academy](https://chameleonacademy.com/podcasts/) and shoot for that upper limit! We have not had enough chameleons living under ideal conditions long enough to know what that actually is.
 
-# What is the cost of shipping a panther chameleon?
+# What is the cost of shipping a Panther Chameleon?
 
 Expect to pay about $60 (New Jersey) - $100 (Alaska) in shipping. We use FedEx Priority Overnight.
 
@@ -36,7 +44,7 @@ No - they are solitary animals which prefer to be left alone. You can gain their
 
 Panther Chameleons usually cost between $200 and $500 with the exceptional specimen costing $500-$800. The factors which impact their price are health, lineage, current color profile, size for their age and the market demand for specific traits, such as a yellow body (my favorite). Females usually cost about $100 less than males because they don't live as long or display the same bright colors.
 
-# Panther Chameleon care information
+# Panther Chameleon care resources
 
 - [Chameleon Academy](https://chameleonacademy.com/)
   - The most comprehensive guide to chameleon husbandry on the web

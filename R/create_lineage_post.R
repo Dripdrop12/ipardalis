@@ -116,7 +116,7 @@ update_google <- function(df = get_clutch_df()){
 }
 
 # list(sire="", dam="", hatchend="") %>% create_listings()
-create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft = FALSE, overwrite = TRUE){
+create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft = FALSE, overwrite = TRUE, skip = TRUE){
   new_listings <- get_clutch_df() %>%
     filter(
       if (filters$sire != "") sire == filters$sire else rep(T, nrow(.)),
@@ -129,7 +129,7 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
     baby <- new_listings %>% slice(row)
     # (printf  "%s/%s/%s/%s.md" .sire .dam .hatchend .name)
     listing_dir <- glue("content/babies/{baby$sire}/{baby$dam}/{baby$hatchend[[1]]}")
-    if (!dir_exists(listing_dir)) dir_create(listing_dir, recurse = TRUE) else next
+    if (!dir_exists(listing_dir)) dir_create(listing_dir, recurse = TRUE) else if (!skip) next
     if (!file_exists(path("content/blog", baby$dam, "tree.png"))) {
       dam_tree_missing <- TRUE
     } else {

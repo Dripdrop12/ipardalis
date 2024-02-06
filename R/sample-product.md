@@ -32,6 +32,7 @@ gender: {`babies-gender`}
 baby_image: {`babies-image`}
 baby_sold: {if (is.na(`babies-sold`) | `babies-sold` == FALSE) tolower(FALSE) else tolower(TRUE)}
 baby_reserved: {if (is.na(`babies-reserved`) | `babies-reserved` == FALSE) tolower(FALSE) else tolower(TRUE)}
+phenotype: {`babies-phenotype`}
 sire_tree: {sire_tree}
 dam_tree: {dam_tree}
 price: {base_price}
