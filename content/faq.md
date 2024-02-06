@@ -2,7 +2,7 @@
 title = "FAQ"
 header_title = "How do I purchase a chameleon?"
 description = "Frequently asked questions about owning a panther chameleon"
-keywords = ["FAQ","How do I","questions","what if"]
+keywords = ["Panther chameleon lifespan", "purchase a panther chameleon", "how much does it cost to ship a panther chameleon", "panther chameleons as pets", "average price of a panther chameleon"]
 menu = "main"
 +++
 
@@ -15,14 +15,15 @@ We raise Fucifer pardalis (Panther Chameleons) individually, under highly contro
 We take very good care of our animals, and we strive to continually learn and share our experiences - both good and bad. Please let us know if you have any questions, not addressed here, about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition. We may even have a [blog]({{< ref "/blog" >}}) or a [podcast]({{< ref "/categories/podcasts" >}}) on the topic, too!
 
 # Frequently Asked Questions
-- [How do you get a Panther Chameleon?](#how-do-you-get-a-panther-chameleon)
+- [How do I purchase a chameleon?](#how-do-i-purchase-a-chameleon)
 - [What is the lifespan of a Panther Chameleon?](#what-is-the-lifespan-of-a-panther-chameleon)
+- [How fast do Panther Chameleons grow?](#how-fast-do-panther-chameleons-grow)
 - [What is the cost of shipping a panther chameleon?](#what-is-the-cost-of-shipping-a-panther-chameleon)
 - [Are Panther Chameleons friendly?](#are-panther-chameleons-friendly)
 - [How much do Panther Chameleons usually cost?](#how-much-do-panther-chameleons-usually-cost)
 - [Panther Chameleon care resources](#panther-chameleon-care-resources)
 
-# How do you get a panther chameleon?
+# How do I purchase a chameleon?
 
 We only send our chameleons to homes that are prepared to receive them, so after we have seen a picture of their enclosure, we can ship FedEx Priority Overnight or meet you locally, in Poolesville, MD. It takes some time to get the setup right, and we will advise you on any adjustments you should make before receiving them.
 
@@ -31,6 +32,11 @@ Then you can pick them up at the nearest FedEx distribution center, usually clos
 # What is the lifespan of a Panther Chameleon?
 
 Panther Chameleons can live between five and twelve years in captivity. The upper limit can only be achieved in ideal husbandry conditions. However, their average lifespan is probably around six to eight years under standard care with females living between four and six years. Check out [The Chameleon Academy](https://chameleonacademy.com/podcasts/) and shoot for that upper limit! We have not had enough chameleons living under ideal conditions long enough to know what that actually is.
+
+# How fast do Panther Chameleons grow?
+
+Panther Chameleons grow very quickly from a .5 gram jelly-bean-sized hatchling to a sexually mature adult by around 8-10 months old. We weighed a clutch of babies every two weeks as they grew from 8 weeks old to 12 weeks old (roughly the age when they are ready for a new home). They started around 2.7 grams on average but just during those 4 weeks they grew to 10.6 grams on average! If you look at the results of our 2021 [study on the growth rates of baby panther chameleons raised under different UVI]({{< ref "blog/2021-08-04-uvi-impact-on-growth-of-furcifer-pardalis-neonates/" >}}), there was a decent amount of variation. The largest individual was 27.6 grams but the smallest had still not hit his exponential growth curve and he was only 1.4 grams. This is exactly why we don't just sell them at 3 months old - they also need to be at least 12 grams of weight. 
+
 
 # What is the cost of shipping a Panther Chameleon?
 
