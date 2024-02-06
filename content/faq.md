@@ -18,9 +18,9 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [How do you get a Panther Chameleon?](#how-do-you-get-a-panther-chameleon)
 - [What is the lifespan of a Panther Chameleon?](#what-is-the-lifespan-of-a-panther-chameleon)
 - [What is the cost of shipping a panther chameleon?](#what-is-the-cost-of-shipping-a-panther-chameleon)
-- [Are Panther Chameleons friendly?](are-panther-chameleons-friendly)
-- [How much do Panther Chameleons usually cost?](how-much-do-panther-chameleons-usually-cost)
-- [Panther Chameleon care resources](panther-chameleon-care-resources)
+- [Are Panther Chameleons friendly?](#are-panther-chameleons-friendly)
+- [How much do Panther Chameleons usually cost?](#how-much-do-panther-chameleons-usually-cost)
+- [Panther Chameleon care resources](#panther-chameleon-care-resources)
 
 # How do you get a panther chameleon?
 
@@ -51,6 +51,8 @@ Panther Chameleons usually cost between $200 and $500 with the exceptional speci
   - Check out the new [Panther Chameleon Care Guide](https://chameleonacademy.com/panther-chameleon-care/)
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
+- [Reptifiles - Panther Chameleon Care Guide](https://reptifiles.com/panther-chameleon-care-sheet/)
+  - Mariah Healey has been putting together some detailed and well-researched guides on many different species. Her Panther Chameleon guide is no exception!
 - [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
   - Olimpia has written some great guides on various topics like [On the Specific Care of Females](http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](http://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
 - [Chameleons.info](https://www.chameleons.info/en/furcifer-pardalis/)
