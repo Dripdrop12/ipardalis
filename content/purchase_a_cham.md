@@ -1,7 +1,7 @@
 +++
 title = "How do I purchase a Panther Chameleon?"
 header_title = "How do I purchase a chameleon?"
-description = "How do I purchase an Ambilobe Panther Chameleon near me"
+description = "iPardalis' guide to purchasing Panther Chameleons in the United States with links to more than 2 dozen different breeders' websites and facebook pages"
 keywords = ["purchase a panther chameleon", "Is it possible to buy a chameleon", "How do you get a chameleon as a pet", "What do I need to know before buying a chameleon"]
 +++
 
@@ -21,4 +21,4 @@ If multi-generational captive bred Ambilobe Panther Chameleons are not what you 
 4. [Chromatic Chameleons]({{< ref "/blog/chromatic.md" >}}) - like-minded Ambilobe breeders
 5. [Ramblin' Exotics]({{< ref "/blog/ramblin.md" >}}) - Robbie and Elizabeth are two of my favorite people in the hobby
 
-There are others who we would include on this list but have moved on from the species like Frank Payne, Nick Henn, Bobby Ruddock, Jim Rykbost, RB Barto, Jeremy Booker, etc. We have all of their work mixed into our project in various ways. 
+There are others who we would include on this list but have moved on from the species like Frank Payne, Nick Henn, Bobby Ruddock, Jim Rykbost, RB Barto, Jeremy Booker, etc. They have all contributed to our project in various ways through their work with Furcifer pardalis.

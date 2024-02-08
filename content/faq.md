@@ -60,4 +60,4 @@ Panther Chameleons usually cost between $200 and $500 with the exceptional speci
 - [Chameleons.info](https://www.chameleons.info/en/furcifer-pardalis/)
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, we will be happy to help you.
+> If you haven't found the answer to your question, please feel free to contact us. We are happy to help you.
