@@ -1,6 +1,6 @@
 +++
 title = "FAQ"
-header_title = "How do I purchase a chameleon?"
+header_title = "iPardalis - Frequently asked questions"
 description = "Frequently asked questions about owning a panther chameleon"
 keywords = ["Panther chameleon lifespan", "purchase a panther chameleon", "how much does it cost to ship a panther chameleon", "panther chameleons as pets", "average price of a panther chameleon"]
 menu = "main"
