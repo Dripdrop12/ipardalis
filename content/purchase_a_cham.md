@@ -24,5 +24,5 @@ If multi-generational captive bred Ambilobe Panther Chameleons are not what you 
 There are others who we would include on this list but have moved on from the species like Frank Payne, Nick Henn, Bobby Ruddock, Jim Rykbost, RB Barto, Jeremy Booker, etc. They have all contributed to our project in various ways through their work with Furcifer pardalis.
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/babies" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}

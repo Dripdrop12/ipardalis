@@ -16,40 +16,17 @@ We take very good care of our animals, and we strive to continually learn and sh
 
 # Frequently Asked Questions
 - [How do I purchase a chameleon?]({{< ref "/purchase_a_cham.md" >}})
-- [What is the lifespan of a Panther Chameleon?](#what-is-the-lifespan-of-a-panther-chameleon)
-- [How fast do Panther Chameleons grow?](#how-fast-do-panther-chameleons-grow)
-- [What is the cost of shipping a panther chameleon?](#what-is-the-cost-of-shipping-a-panther-chameleon)
-- [Are Panther Chameleons friendly?](#are-panther-chameleons-friendly)
-- [How much do Panther Chameleons usually cost?](#how-much-do-panther-chameleons-usually-cost)
-- [Panther Chameleon care resources](#panther-chameleon-care-resources)
-
-
-
-# What is the lifespan of a Panther Chameleon?
-
-Panther Chameleons can live between five and twelve years in captivity. The upper limit can only be achieved in ideal husbandry conditions. However, their average lifespan is probably around six to eight years under standard care with females living between four and six years. Check out [The Chameleon Academy](https://chameleonacademy.com/podcasts/) and shoot for that upper limit! We have not had enough chameleons living under ideal conditions long enough to know what that actually is.
-
-# How fast do Panther Chameleons grow?
-
-Panther Chameleons grow very quickly from a .5 gram jelly-bean-sized hatchling to a sexually mature adult by around 8-10 months old. We weighed a clutch of babies every two weeks as they grew from 8 weeks old to 12 weeks old (roughly the age when they are ready for a new home). They started around 2.7 grams on average but just during those 4 weeks they grew to 10.6 grams on average! If you look at the results of our 2021 [study on the growth rates of baby panther chameleons raised under different UVI]({{< ref "/blog/2021-08-04-uvi-impact-on-growth-of-furcifer-pardalis-neonates/index.html" >}}), there was a decent amount of variation. The largest individual was 27.6 grams but the smallest had still not hit his exponential growth curve and he was only 1.4 grams. This is exactly why we don't just sell them at 3 months old - they also need to be at least 12 grams of weight. 
-
-
-# What is the cost of shipping a Panther Chameleon?
-
-Expect to pay about $60 (New Jersey) - $100 (Alaska) in shipping. We use FedEx Priority Overnight.
-
-# Are Panther Chameleons friendly?
-
-No - they are solitary animals which prefer to be left alone. You can gain their trust, but it should be done slowly, on their terms. We are huge fans of [Choice-based handling](https://journal.iaabcfoundation.org/choice-control-and-training-for-ectotherms/) techniques focused on their choices, sense of control and natural behavior - not our perception of their demeanor. 
-
-# How much do Panther Chameleons usually cost?
-
-Panther Chameleons usually cost between $200 and $500 with the exceptional specimen costing $500-$800. The factors which impact their price are health, lineage, current color profile, size for their age and the market demand for specific traits, such as a yellow body (my favorite). Females usually cost about $100 less than males because they don't live as long or display the same bright colors.
+- [How much do Panther Chameleons usually cost?]({{< ref "/price.md" >}})
+- [What is the cost of shipping a panther chameleon?]({{< ref "/shipping.md" >}})
+- [What is the lifespan of a Panther Chameleon?]({{< ref "/lifespan.md" >}})
+- [How fast do Panther Chameleons grow?]({{< ref "/growthrate.md" >}})
+- [Are Panther Chameleons friendly?]({{< ref "/chams_as_pets.md" >}})
+- [Are panther chameleons hard to take care of?]({{< ref "/difficulty.md" >}})
 
 # Panther Chameleon care resources
 
 - [Chameleon Academy](https://chameleonacademy.com/)
-  - The most comprehensive guide to chameleon husbandry on the web
+  - The most comprehensive guide to chameleon husbandry on the web!
   - Check out the new [Panther Chameleon Care Guide](https://chameleonacademy.com/panther-chameleon-care/)
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
