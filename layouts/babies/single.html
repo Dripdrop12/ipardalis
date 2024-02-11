@@ -97,6 +97,7 @@
                     </div>
                     
                     <div class="col-lg-12">
+                      <hr>
                       {{ if fileExists (printf "/content/blog/%s-%s.md" .Params.sire .Params.dam)}}
                         
                         <p><a class="btn btn-template-main" data-intro="Every animal from this pairing can be found here" href="{{ ref . (printf "blog/%s-%s.md" .Params.sire .Params.dam) }}"><i class="fab fa-d-and-d"></i> Sibling gallery <i class="fab fa-d-and-d"></i></a></p>

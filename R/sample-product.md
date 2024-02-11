@@ -42,7 +42,6 @@ stringrreplacement:
 {{{{< load-photoswipe >}}}}
 
 {{{{< gallery >}}}}
-  {{{{< figure src="{`babies-image`}.jpg" alt="{`babies-name`} - {str_to_title(sire)} x {str_to_title(dam)} ({hatchend})" >}}}}
   {{{{< figure src="{image}.jpg" alt="{str_to_title(sire)} x {str_to_title(dam)} Lineage Collage" >}}}}
   {{{{< figure src="{dam_tree}" alt="{str_to_title(dam)}'s Pedigree Chart" >}}}}
   {{{{< figure src="{sire_tree}" alt="{str_to_title(sire)}'s Pedigree Chart" >}}}}
