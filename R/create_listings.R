@@ -11,7 +11,7 @@ require(purrr)
 source("R/get_clutch_df.R")
 
 # list(sire="", dam="", hatchend="") %>% create_listings()
-create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft = FALSE, overwrite = TRUE, skip = TRUE){
+create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft = FALSE, overwrite = TRUE, gen_webp = FALSE){
   new_listings <- get_clutch_df() %>%
     filter(
       if (filters$sire != "") sire == filters$sire else rep(T, nrow(.)),
@@ -24,7 +24,7 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
     # Setup
     baby <- new_listings %>% slice(row)
     listing_dir <- glue("content/babies/{baby$sire}/{baby$dam}/{baby$hatchend[[1]]}")
-    if (!dir_exists(listing_dir)) dir_create(listing_dir, recurse = TRUE) else if (!skip) next
+    if (!dir_exists(listing_dir)) dir_create(listing_dir, recurse = TRUE)
     
     # Lineage tree check
     if (!file_exists(path("content/blog", baby$dam, "tree.png"))) {
@@ -51,9 +51,9 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
     }
     
     # Image search
-    img_dir <- fs::path_dir(baby$`babies-image`)
+    img_dir <- fs::path("static", fs::path_dir(baby$`babies-image`))
     img_name <- baby$`babies-name`
-    pos_img <- fs::dir_ls(fs::path("static", img_dir), glob = "*.jpg")
+    pos_img <- fs::dir_ls(img_dir, glob = "*.jpg")
     img_list <- pos_img[str_detect(pos_img, img_name)]
     img_df <- tibble(
       imgs = stringr::str_remove(img_list, "static"),
@@ -63,6 +63,16 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
       baby_hatchend = baby$hatchend,
       img_date = lubridate::as_date(fs::file_info(img_list)$modification_time, "%Y-%m-%d")
     )
+    if (gen_webp){
+      img_path <- fs::path_wd("/static", baby$`babies-image`)
+      old_webp <- fs::dir_ls(img_dir, glob = "*.webp")
+      del_webp <- old_webp[str_detect(old_webp, img_name)]
+      fs::file_delete(del_webp)
+      system2(
+        command = "cwebp",
+        args = glue::glue(" -q 100 {img_path}.jpg -o {img_path}.webp"))
+    }
+    
     
     baby %>% 
       mutate(draft = draft, base_price = base_price) %>%

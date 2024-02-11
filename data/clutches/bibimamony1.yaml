@@ -24,6 +24,6 @@ femaleprice: 325
 babies:
 - name: M3
   gender: Male
-  image: /img/babies/20230706/M3
-  price: 399
+  image: /img/babies/20230706/M3_1
+  price: 499
   reserved: false

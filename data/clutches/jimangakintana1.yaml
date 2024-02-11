@@ -10,7 +10,8 @@ hatchend: 2023-10-09
 shipping: 3 months after hatch
 hatchnum: 24
 clutchsize: 25
-deposit: true
+deposit: false
+listed: true
 reservedmale: 1
 totalmale: 5
 reservedfemale: 2
@@ -21,4 +22,35 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 299
 babies:
-
+- name: F1
+  gender: Female
+  image: /img/babies/20231009/F1
+  price: 349
+- name: F2
+  gender: Female
+  image: /img/babies/20231009/F2
+  price: 349
+- name: F3
+  gender: Female
+  image: /img/babies/20231009/F3
+  price: 349
+- name: M1
+  gender: Male
+  image: /img/babies/20231009/M1
+  price: 449
+- name: M2
+  gender: Male
+  image: /img/babies/20231009/M2
+  price: 499
+- name: M3
+  gender: Male
+  image: /img/babies/20231009/M3
+  price: 449
+- name: M4
+  gender: Male
+  image: /img/babies/20231009/M4
+  price: 499
+- name: M5
+  gender: Male
+  image: /img/babies/20231009/M5
+  price: 449
