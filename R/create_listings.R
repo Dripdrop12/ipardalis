@@ -54,7 +54,7 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
     img_dir <- fs::path("static", fs::path_dir(baby$`babies-image`))
     img_name <- baby$`babies-name`
     pos_img <- fs::dir_ls(img_dir, glob = "*.jpg")
-    img_list <- pos_img[str_detect(pos_img, img_name)]
+    img_list <- pos_img[str_detect(pos_img, regex(glue("{img_name}\\.|{img_name}_")))]
     img_df <- tibble(
       imgs = stringr::str_remove(img_list, "static"),
       baby_name = baby$`babies-name`,
