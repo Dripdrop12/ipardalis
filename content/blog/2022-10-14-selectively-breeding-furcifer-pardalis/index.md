@@ -2,6 +2,7 @@
 title: "Selectively Breeding Furcifer Pardalis"
 header_title: How to Breed Panther Chameleons
 keywords: ["breeding Panther Chameleons", "How to select panther chameleon breeders", "How do I choose an ethical breeder", "what are red flags in a chameleon breeder", "how do you know if a panther chameleon breeder is good"]
+description: The best Panther Chameleon breeders have a deep understanding of their genetics, inheritance patterns and can help you get what you want. This knowledge plays into the ethics of selling Panther Chameleons because there is a lot of false advertising in the industry which is very surface-level without much understanding of the species.
 author: "Jonathan Hill"
 date: "2022-10-14"
 slug: breeding-strategy

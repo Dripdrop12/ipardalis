@@ -1,5 +1,8 @@
 ---
 title: Furcifer pardalis Body Color Inheritance Theory
+header_title: How Panther Chameleons inherit their color from their parents
+keywords: ["Panther Chameleon genetics", "Panther Chameleon inheritance patterns", "Polygenic traits in Panther Chameleon", "Breeding animals with polygenic inheritance", "Are Panther Chameleons hard to breed", "what makes a panther chameleon unique", "what are the subspecies of panther chameleons"]
+description: This is the first written description of how Panther Chameleons inherit their color over multiple generations. There are many myths in the industry related to what you can get from various Panther Chameleon pairings, and these misconceptions result in pricing issues and scams.
 author: Jonathan Hill 
 date: '2022-07-23'
 slug: body-color-theory
@@ -32,7 +35,7 @@ source("helpers.R")
 
 # Introduction
 
-Furcifer pardalis do not exhibit simple dominant, co-dominant or recessive trait inheritance of their body color. As you can see from our [past clutches](https://ipardalis.com/categories/past-clutches/), every single individual is completely unique. They all lie on a spectrum with a huge variety of outcomes. Given that body color is not a discrete outcome that can be mapped directly, one-to-one, to a single gene, we started searching for a useful genetic explanation for this. We believe that is because body color is determined by a complex genotype and many different genes in concert. That is called a [polygenic trait](https://www.genome.gov/genetics-glossary/Polygenic-Trait).
+Furcifer pardalis do not exhibit simple dominant, incomplete-dominant or recessive trait inheritance of their body color. As you can see from our [past clutches](https://ipardalis.com/categories/past-clutches/), every single individual is completely unique. They all lie on a spectrum with a huge variety of outcomes. Given that body color is not a discrete outcome that can be mapped directly, one-to-one, to a single gene, we started searching for a useful genetic explanation for this. We believe that is because body color is determined by a complex genotype and many different genes in concert. That is called a [polygenic trait](https://www.genome.gov/genetics-glossary/Polygenic-Trait).
 
 In humans, a good example of a polygenic trait is height. It is why a child can be taller than BOTH parents, but they're usually around the same range. Many polygenic traits, like height, are also extremely sensitive to environmental factors. Polygenic traits force us to talk about distributions of possibilities instead of discrete outcomes. Given that I breed panther chameleons, but I work as a data scientist, I am excited to write about probability and distributions of color!
 
@@ -40,7 +43,7 @@ The following theory about how body color is inherited in Furcifer pardalis (Pan
 
 # Why not use Mendelian Traits?
 
-Gregor Mendel did some of the earliest genetics experiments by hybridizing pea plants in the 1800s (check out [this explanation](https://en.wikipedia.org/wiki/Mendelian_inheritance) for more detail). He discovered that there was a clear pattern to various traits such as flower color and the height of the plants. Mendel purposely created a hybrid generation of plants and then crossed those hybrids to see what traits were present in subsequent generations. Some traits seemed to dominate others with a ratio of 3:1 in the F2 generation whereas others followed a 1:2:1 pattern that he called in-complete dominance (co-dominance).
+Gregor Mendel did some of the earliest genetics experiments by hybridizing pea plants in the 1800s (check out [this explanation](https://en.wikipedia.org/wiki/Mendelian_inheritance) for more detail). He discovered that there was a clear pattern to various traits such as flower color and the height of the plants. Mendel purposely created a hybrid generation of plants and then crossed those hybrids to see what traits were present in subsequent generations. Some traits seemed to dominate others with a ratio of 3:1 in the F2 generation whereas others followed a 1:2:1 pattern that he called in-complete dominance (incomplete-dominance).
 
 The Ambilobe locale has 4 body colors: red, orange, yellow and green. Lets say, for the sake of testing a Mendelian trait inheritance pattern, red is `RR`, orange is `OO`, yellow is `YY`, and green is `GG`. Lowercase letters represent animals without red, orange, yellow or green on their bodies and we use double letters to represent different intensity levels of a given color. A heterozygous red (`Rr`) would be less brightly colored than a homozygous red (`RR`).
 
@@ -48,7 +51,7 @@ Let's say we breed a wild caught Ambilobe with bright green, some yellow and ora
 
 ## {.tabset}
 
-### Co-dominant trait
+### incomplete-dominant trait
 
 ```{r, echo=FALSE, message=FALSE}
 
@@ -63,7 +66,7 @@ data.frame(
   )
 ```
 
-The co-dominant theory would have four possible outcomes.
+The incomplete-dominant theory would have four possible outcomes.
 
 ### Dominant trait
 
@@ -86,7 +89,7 @@ The dominant/recessive theory would have just two possible outcomes: very orange
 
 ------------------------------------------------------------------------
 
-Both of these theories are not helpful. Sometimes, a very orange bodied animal will be produced by a pairing between a bright green, orange and red animal and a female from a very yellow dam sire. However, the probability of that is 0% if color is the result of the Mendelian trait pattern modeled above. Therefore, describing body color as a co-dominant/dominant/recessive trait is not accurate for Furcifer pardalis. There is a more complex genotype that produces the super green (`GG`) we see.
+Both of these theories are not helpful. Sometimes, a very orange bodied animal will be produced by a pairing between a bright green, orange and red animal and a female from a very yellow dam sire. However, the probability of that is 0% if color is the result of the Mendelian trait pattern modeled above. Therefore, describing body color as a incomplete-dominant/dominant/recessive trait is not accurate for Furcifer pardalis. There is a more complex genotype that produces the super green (`GG`) we see.
 
 # Polygenic Inheritance
 
@@ -167,7 +170,7 @@ generate_poss_outcomes(6) %>%
 
 We do not know exactly how many genes contribute to a given color spectrum, but these polygenic genotypes more accurately describe what we see. The species has no known discrete recessive traits which dictate color, and there are no colors which dominate within a given locale. This continuous color distribution is encoded for every major color found in the body of each locale. Each animal can produce some of each color along that spectrum instead of discretely producing it or not.
 
-As we add more genes to a given polygenic genotype, the probability that we actually have a "pure" color at the tail of the distribution approaches zero. And it is **only** a pure color at the very edge of the distribution that can guarantee that color in the next gen (kind of like a homogeneous co-dominant/super genotype in a Mendelian trait).
+As we add more genes to a given polygenic genotype, the probability that we actually have a "pure" color at the tail of the distribution approaches zero. And it is **only** a pure color at the very edge of the distribution that can guarantee that color in the next gen (kind of like a homogeneous incomplete-dominant/super genotype in a Mendelian trait).
 
 ## Why does this matter?
 
