@@ -1,5 +1,7 @@
 +++
 title = "Parasites and Ethics: Origin Story"
+header_title = "Why captive bred Panther Chameleons still have parasites"
+description = "Every animal you acquire, whether it be captive bred (CB) or wild caught (WC), should receive multiple fecal exams. A positive fecal should be managed in consultation with a qualified vet who has experience working with chameleons. Many different species of parasites do not shed at a constant rate, so a negative fecal is not a guarantee that the animal is clean."
 date = "2021-07-18"
 tags = ["parasites"]
 categories = ["husbandry"]
@@ -14,7 +16,7 @@ Rye, for good luck.
 </figure>
 {{</ rawhtml >}}
 
-We received 5 females from reputable CB sources that had issues during/after quarantine since 2017. The first 2 were in 2017. They never had great appetites and seemed to have respiratory issues. We brought them to the vet and kept them isolated for 60 days; however, the vet did not see anything wrong with them, and after they seemed to be healthy enough, we tried to breed them. Neither one made it through egg laying, and we could not root cause what happened. The only treatment we had tried was a natural antibiotic and anti-parasitic remedy called [Reptaid](https://www.ambernaturalz.com/index.php/product/reptaid/). Those animals had never had a fecal exam, but I now suspect they had [coccidiosis](https://en.wikipedia.org/wiki/Coccidiosis). Many animals that have coccidia infections are asymptomatic and can live long, healthy lives. However, it can cause severe problems in immunocompromised (during egg laying or shipping) and young animals. The main symptoms are diarrhea, regurgitation, anorexia and terrible smelling feces. 
+We received 5 females from reputable CB sources that had issues during/after quarantine since 2017. The first 2 were in 2017. They never had great appetites and seemed to have respiratory issues. We brought them to the vet and kept them isolated for 60 days; however, the vet did not see anything wrong with them, and after they seemed to be healthy enough, we tried to breed them. Neither one made it through egg laying, and we could not root cause what happened. The only treatment we had tried was a natural antibiotic and anti-parasitic remedy called [Reptaid](https://www.ambernaturalz.com/index.php/product/reptaid/). Those animals had never had a fecal exam, but I now suspect they had [coccidiosis](https://en.wikipedia.org/wiki/Coccidiosis). Many animals that have coccidia infections are asymptomatic and can live long, healthy lives. However, it can cause severe problems in immuno-compromised (during egg laying or shipping) and young animals. The main symptoms are diarrhea, regurgitation, anorexia and terrible smelling feces. 
 
 We were not familiar with the symptoms at the time, but one of our Jude/Kako hold backs, Sunny, was housed in the same enclosure because it was vacant. We had cleaned it out using Chlorohexidine between animals. She succumbed to similar symptoms and death in 2020 after her third clutch.
 
