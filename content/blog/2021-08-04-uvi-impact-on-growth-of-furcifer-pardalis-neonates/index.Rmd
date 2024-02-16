@@ -1,9 +1,12 @@
 ---
 title: UVI Impact on Growth of Furcifer pardalis Neonates
+header_title: How fast do Panther Chameleons grow?
 author: 'Jonathan Hill'
 date: '2021-08-04'
 type: "blog"
 banner: "img/uvi/header"
+description: A study on the growth rates of Panther Chameleon hatchlings raised under UVI 3 and UVI 6.
+keywords: ["captive husbandry of panther chameleons", "chameleon growth rate", "correct amount of uvb for Panther Chameleons", "UVI of 3 to 6 for furcifer pardalis", "Gary Ferguson on Panther Chameleons"]
 slug: []
 categories: ["husbandry"]
 tags: ["bioactive", "uvi"]

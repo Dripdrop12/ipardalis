@@ -1,5 +1,7 @@
 ---
 title: "Selectively Breeding Furcifer Pardalis"
+header_title: How to Breed Panther Chameleons
+keywords: ["breeding Panther Chameleons", "How to select panther chameleon breeders", "How do I choose an ethical breeder", "what are red flags in a chameleon breeder", "how do you know if a panther chameleon breeder is good"]
 author: "Jonathan Hill"
 date: "2022-10-14"
 slug: breeding-strategy
@@ -10,7 +12,7 @@ banner: /img/ambilobe/papafeelokana
 
 ## Introduction
 
-Given that Panther Chameleon (Furcifer pardalis) colors are polygenic traits, and Panther Chameleons are a sexually dimorphic species, selective breeding for a given color is challenging and many breeders fail to achieve a consistent result. If you are not familiar with what a polygenic trait is, you should probably start by reading our previous post about our [Furcifer pardalis Body Color Inheritance Theory]({{< ref "blog/2022-07-23-body-color-theory" >}}). Polygenic traits do not have discrete outcomes, and they produce a distribution of results. The distribution's mean is roughly situated between the sire (father) and dam (mother). However, when breeding for male color, the dam's traits are completely unknown due to their sexual dimorphism. Initially, dam's traits can be estimated using their male ancestors. After having a few clutches, we can use a dam's male offspring to understand their trait distribution. For sires, we can just look at them, so there is less uncertainty there.
+Given that Panther Chameleon (Furcifer pardalis) colors are polygenic traits, and Panther Chameleons are a sexually dimorphic species, selective breeding for a given color is challenging and many breeders fail to achieve a consistent result. If you are not familiar with what a polygenic trait is, you should probably start by reading our previous post about our [Furcifer pardalis Body Color Inheritance Theory]({{< ref "blog/2022-07-23-body-color-theory" >}}). Polygenic traits do not have discrete outcomes, and they produce a distribution of results. The distribution's mean is roughly situated between the sire (father) and dam (mother). However, when breeding for male color, the dam's traits are completely unknown due to their sexual dimorphism. Initially, dam's traits can be estimated using their male ancestors. After having a few clutches, we can use a dam's male offspring to understand their trait distribution better. For sires, we can just look at them, so there is less uncertainty there and their ancestry is less important for selective breeding purposes (although not completely irrelevant).
 
 Animals that transition from one phenotype to another are very common. I call those animals "rainbows" because they never actually fit in only one phenotype. They are a mix of phenotypes. At certain times, one phenotype seems to dominate, but the mix is always there. We currently breed for two Ambilobe phenotypes: yellow body blue bar (YBBB) and red body blue bar (RBBB). Our goal is to achieve a clean phenotype without rainbow tendencies - shifting or mixes of colors.
 
