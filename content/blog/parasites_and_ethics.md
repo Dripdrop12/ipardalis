@@ -1,5 +1,8 @@
 +++
 title = "Parasites and Ethics: Intro"
+header = "Introduction to Parasites and Ethics"
+description = "The story of a parasite management challenge faced by a Panther Chameleon breeder"
+keywords = ["How do I know if my chameleon has parasites", "Can humans get parasites from chameleons", "How do you treat chameleon parasites", "How do chameleons get Coccidia"]
 date = "2021-07-12"
 tags = ["parasites"]
 categories = ["husbandry"]
