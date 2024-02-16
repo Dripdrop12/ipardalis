@@ -2,7 +2,7 @@
 title: {Title}
 header_title: {Animal_Id}
 description: {Desc}
-keywords: ["{sire}", "{dam}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "panther chameleon price", "ambilobe panther chameleon"]
+keywords: ["{sire}", "{dam}", "{Title}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "panther chameleon price", "ambilobe panther chameleon for sale"]
 draft: {tolower(draft)}
 banner: {image}
 sire: {sire}
