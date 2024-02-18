@@ -63,7 +63,9 @@ gen_morph_market <- function(
         .[grepl("date = ", .)] %>% lubridate::as_date() %>% stringr::str_replace_all("-", "/"),
       dam_doh = readr::read_lines(glue("content/blog/{dam}/index.md")) %>% 
         .[grepl("date = ", .)] %>% lubridate::as_date() %>% stringr::str_replace_all("-", "/"),
-      Photo_Urls = glue("https://ipardalis.com{`babies-image`}.jpg https://ipardalis.com{image}.jpg https://ipardalis.com/blog/{sire_doh}/{sire}/tree.png https://ipardalis.com/blog/{dam_doh}/{dam}/tree.png")
+      sire_tree = ifelse(fs::file_exists(glue::glue("content/blog/{sire}/tree.png")), glue("https://ipardalis.com/blog/{sire_doh}/{sire}/tree.png"), ""),
+      dam_tree = ifelse(fs::file_exists(glue::glue("content/blog/{dam}/tree.png")), glue("https://ipardalis.com/blog/{dam_doh}/{dam}/tree.png"), ""),
+      Photo_Urls = glue("https://ipardalis.com{`babies-image`}.jpg https://ipardalis.com{image}.jpg {sire_tree} {dam_tree}")
     ) %>%
     select(Category:Photo_Urls)
   
