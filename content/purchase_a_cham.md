@@ -7,7 +7,7 @@ keywords = ["purchase a panther chameleon", "Top 5 Panther Chameleon Breeders", 
 
 # How do I purchase a chameleon?
 
-[Our listings]({{< ref "/babies" >}}) are some of the best captive bred Ambilobe Panther Chameleons in the United States. You can dig into their lineage, view their picture galleries and find one that you like. Then add it to your cart and check out.
+[Our Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}) are some of the best captive bred Ambilobe Panther Chameleons in the United States. You can dig into their lineage, view their picture galleries and find one that you like. Then add it to your cart and check out.
 
 We only send our chameleons to homes that are prepared to receive them, so the next step is to share pictures of your enclosure and discuss your husbandry strategy. We ship FedEx Priority Overnight to the closest hub for pick up or meet you locally, in Poolesville, MD. It takes some time to get the setup right, and we will advise you on any adjustments you should make before receiving your new chameleon. We will not ship door-to-door because your chameleon would sit in a delivery truck, exposed to the elements, for too long. It's not worth the risk.
 
@@ -24,5 +24,5 @@ If multi-generational captive bred Ambilobe Panther Chameleons are not what you 
 There are others who we would include on this list but have moved on from the species like Frank Payne, Nick Henn, Bobby Ruddock, Jim Rykbost, RB Barto, Jeremy Booker, etc. They have all contributed to our project in various ways through their work with Furcifer pardalis.
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/babies" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}

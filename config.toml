@@ -21,7 +21,7 @@ paginate = 10
 
 [[menu.main]]
     name = "For Sale"
-    url  = "/babies"
+    url  = "/panther-chameleons-for-sale"
     weight = 1
 
 [[menu.main]]
@@ -249,7 +249,7 @@ paginate = 10
     enable = true
     icon = "fa fa-hand-o-down"
     title = "We have new clutches available"
-    link_url = "/babies"
+    link_url = "/panther-chameleons-for-sale"
     link_text = "Check out the babies"
 
 [params.clients]

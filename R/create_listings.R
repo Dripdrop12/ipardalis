@@ -23,7 +23,7 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
   for(row in 1:nrow(new_listings)) {
     # Setup
     baby <- new_listings %>% slice(row)
-    listing_dir <- glue("content/babies/{baby$sire}/{baby$dam}/{baby$hatchend[[1]]}")
+    listing_dir <- glue("content/panther-chameleons-for-sale/{baby$sire}/{baby$dam}/{baby$hatchend[[1]]}")
     if (!dir_exists(listing_dir)) dir_create(listing_dir, recurse = TRUE)
     
     # Lineage tree check
