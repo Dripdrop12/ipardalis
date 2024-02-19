@@ -2,7 +2,7 @@
 title = "How much do Panther Chameleons cost?"
 header_title = "Should You Keep a Panther Chameleon as a Pet?"
 description = "Panther Chameleons are not cheap to own, usually costing $1,000+ for a full setup plus the cost of acquiring a healthy animal."
-keywords = ["What is the most expensive chameleon", "Are panther chameleons good pets", "Are chameleons expensive to keep", "What is the friendliest breed of chameleon"]
+keywords = ["Panther Chameleon Price", "What is the most expensive chameleon", "Are panther chameleons good pets", "Are chameleons expensive to keep", "What is the friendliest breed of chameleon"]
 +++
 
 # How much do Panther Chameleons usually cost?

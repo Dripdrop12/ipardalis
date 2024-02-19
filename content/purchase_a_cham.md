@@ -2,7 +2,7 @@
 title = "How do I purchase a Panther Chameleon?"
 header_title = "How do I purchase a chameleon?"
 description = "iPardalis' guide to purchasing Panther Chameleons in the United States with links to more than 2 dozen different breeders' websites and facebook pages"
-keywords = ["purchase a panther chameleon", "Top 5 Panther Chameleon Breeders", "Is it possible to buy a chameleon", "How do you get a chameleon as a pet", "What do I need to know before buying a chameleon", "what are red flags in a chameleon breeder"]
+keywords = ["Where do you buy a chameleon", "purchase a panther chameleon", "Top 5 Panther Chameleon Breeders", "Is it possible to buy a chameleon", "How do you get a chameleon as a pet", "What do I need to know before buying a chameleon", "what are red flags in a chameleon breeder", "panther for sale", "panther animal for sale", "baby panther for sale", "pet panther for sale", "how much is a baby panther", "panther for sale near me", "where to buy a panther"]
 +++
 
 # How do I purchase a chameleon?
