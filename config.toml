@@ -1,5 +1,5 @@
 baseurl = "https://ipardalis.com/"
-title = "iPardalis - Ambilobe Panther Chameleons for sale"
+title = ""
 theme = ["hugo-notice", "hugo-universal-theme"]
 languageCode = "en-us"
 ignoreFiles = ["\\.qmd$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -148,20 +148,8 @@ paginate = 10
     viewMorePostLink = "/blog/"
     title = "Ambilobe Panther Chameleons for sale - iPardalis"
     author = "Jonathan Mark Hill"
-    defaultKeywords = ["Panther Chameleons for sale", "Ambilobe Panther Chameleon", 
-      "Yellow Body Blue Bar Ambilobe", "iPardalis", "juvenile panther chameleon",
-      "Chameleons for sale", "Good pet reptile", "Buy Chameleon", "Chameleon price",
-      "Beginning species of chameleon", "Ethical herpetoculture", "Individually-raised",
-      "Female Panther Chameleon", "Male Panther Chameleon", "Chameleon Breeders",
-      "Panther Chameleon Breeders"
-      ]
-    defaultDescription = """\
-      We are panther chameleon breeders who specialize in yellow-bodied and \
-      red-bodied Ambilobe panther chameleons. Our goal is to ethically raise the \ 
-      healthiest and most colorful panther chameleons on the planet. We also breed \
-      Northern Mexican Pine Snakes, \
-      and other exotic reptiles.
-      """
+    defaultKeywords = ""
+    defaultDescription = ""
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAb_MQa8J2AgFfZG6U-qv-b1B0CcoJyGKQ"
