@@ -23,22 +23,22 @@ femaleprice: 349
 babies:
 - name: M2
   gender: Male
-  image: /img/babies/20230921/M2
-  price: 499
+  image: /img/babies/20230921/M2_1
+  price: 549
 - name: M3
   gender: Male
-  image: /img/babies/20230921/M3
-  price: 499
+  image: /img/babies/20230921/M3_1
+  price: 549
 - name: M4
   gender: Male
-  image: /img/babies/20230921/M4
+  image: /img/babies/20230921/M4_1
   price: 499
 - name: M5
   gender: Male
-  image: /img/babies/20230921/M5
-  price: 499
+  image: /img/babies/20230921/M5_1
+  price: 549
 - name: M6
   gender: Male
-  image: /img/babies/20230921/M6
-  price: 499
+  image: /img/babies/20230921/M6_1
+  price: 549
 
