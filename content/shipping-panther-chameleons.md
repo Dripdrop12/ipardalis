@@ -14,5 +14,5 @@ Every shipment is contingent on weather conditions and we will delay shipments i
 If you would like to learn more, I highly recommend the Chameleon Academy podcast on the [safety of shipping chameleons](https://chameleonacademy.com/is-shipping-chameleons-safe/).
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}

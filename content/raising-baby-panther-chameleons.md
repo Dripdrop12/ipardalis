@@ -33,5 +33,5 @@ Groups of Panther Chameleon babies can survive, but if something goes wrong - we
 Check out our 2022 panel discussion on [Caring for Panther Chameleon hatchlings]({{< ref "/blog/ca_hatchlings.md" >}}) with Sean McNeeley and Chris Young, hosted by Bill Strand @ [chameleonacademy.com](https://chameleonacademy.com/)
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}

@@ -16,5 +16,5 @@ I believe Panther Chameleons make wonderful pets. They teach us to respect natur
 Check out Bill Strand's recent vlog on [taming his Shamrock Chameleons](https://youtu.be/2-sNQm9C9Qo?si=DG6er9FmIOlf29eS) for some great tips!
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}

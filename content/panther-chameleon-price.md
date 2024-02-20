@@ -12,5 +12,5 @@ Beware of unusually high prices because those are indicative of flippers/drop sh
 High prices can also be because a breeder isn't providing proper care, so the few animals they can keep alive cost more to cover their loses. We can say this with confidence. When you strive to provide top-quality husbandry and enrichment to your animals, you have inventory problems because they are all living happy and healthy lives, occupying your cages. Most of the people marking up their animals are just trying to cover the loses of dozens of poor baby chameleons they couldn't care for properly. Don't reward people who can't maintain a healthy inventory of beautiful Panther Chameleons to choose from.
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}

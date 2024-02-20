@@ -12,5 +12,5 @@ We only send our chameleons to homes that are prepared to receive them, so the n
 We are very happy to share whatever we know that isn't on this page. Please reach out if you have any questions about how to purchase a panther chameleon. 
 
 {{< rawhtml >}}
-<a class="btn btn-template-main" href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for sale <i class="fas fa-backward"></i> Back </a>
+<a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}
