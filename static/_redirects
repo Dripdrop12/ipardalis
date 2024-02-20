@@ -1,5 +1,3 @@
-/babies/available/ /babies 301!
-/babies /babies/available.html 200!
-/babies/upcoming/ /babies 301!
-/babies /babies/upcoming.html 200!
+/babies/available/ /panther-chameleons-for-sale 301!
+/babies/upcoming/ /panther-chameleons-for-sale 301!
 /babies/*   /panther-chameleons-for-sale/:splat     301!
