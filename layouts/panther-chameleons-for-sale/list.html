@@ -22,8 +22,6 @@
                     <section>
                       {{ $baseURL := .Site.BaseURL }}
                       
-                      {{ .Content }}
-                      
                       <hr>
                       {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
                       {{ $listedclutches := where $clutches "listed" true}}
@@ -525,24 +523,8 @@
                           </div>
                         </div>
                       </div>
-                      <ul class="nav nav-pills">
-                        <li class="active"><a href="#juveniles" data-toggle="tab">Juveniles</a></li>
-                        <li><a href="#subadults" data-toggle="tab">Subadults</a></li>
-                        <li><a href="#adults" data-toggle="tab">Adults</a></li>
-                        <li class="dropdown">
-                          <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                            Ambilobe Phenotypes <span class="caret"></span>
-                          </a>
-                          <ul class="dropdown-menu">
-                            <li><a href="#ybbb" data-toggle="tab">YBBB</a></li>
-                            <li><a href="#ybrb" data-toggle="tab">YBRB</a></li>
-                            <li><a href="#rainbow" data-toggle="tab">Rainbow</a></li>
-                            <li><a href="#obbb" data-toggle="tab">OBBB</a></li>
-                            <li><a href="#rbbb" data-toggle="tab">RBBB</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="#upcoming" data-toggle="tab">Upcoming Clutches</a></li>
-                      </ul>
+                      
+                      {{ .Content }}
                 </section>
                 
               </div>

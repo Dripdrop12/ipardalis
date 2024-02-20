@@ -6,6 +6,8 @@ description = "Captive bred Ambilobe Panther Chameleons for sale. All our chamel
 keywords = ["purchase a panther chameleon", "juvenile panther chameleon", "Chameleons for sale", "Panther Chameleons for sale", "Panther Chameleons", "Buy Chameleon", "buy panther chameleon", "Female Panther Chameleon", "Male Panther Chameleon", "Chameleon price", "Ambilobe chameleon for sale", "Ambilobe Panther Chameleon for sale", "chameleon panther ambilobe", "ambilobe", "chameleons for sale near me", "panther for sale", "colorful chameleon for sale", "panther animal for sale", "baby panther for sale", "pet panther for sale", "panther for sale near me"]
 +++
 
+> **Automatic volume discounts on 2+ animals**
+
 {{< load-photoswipe >}}
 
 iPardalis (individually-raised pardalis) is an Ambilobe Panther Chameleon breeding company founded in 2015 with the goal of proving that ethical rearing practices of Furcifer pardalis (Panther Chameleons) can be profitable. We are proud to have been there on the ground pushing for this shift in the industry, after listening to Bill Strand's [Chameleon Academy Podcast](https://chameleonacademy.com/podcasts/), and things have come a long way since then. [Why should you individually-raise Panther Chameleons?]({{< ref "/raising-baby-panther-chameleons.md" >}}) Individually-raised Panther Chameleons (Furcifer pardalis) are some of the most brilliant, colorful animals from Madagascar. Panther Chameleons are a good beginning species of chameleon, which can open a whole new chapter in your life with nature. If a rainbow-colored reptile you are looking for, you are in the right place!
@@ -16,7 +18,5 @@ Our Panther Chameleons for sale are exclusively captive bred juveniles - we do n
 
 Check out our [Facebook](https://www.facebook.com/jonmarkhill) page or [Instagram](https://www.instagram.com/ipardalis/) account for regular updates on our project, and our [blog]({{< ref "/blog" >}}) has research on [Panther Chameleon genetics]({{< ref "/categories/genetics" >}}), opinion pieces on [ethics]({{< ref "/categories/ethics" >}}), photography of thousands of Panther Chameleons, [podcasts]({{< ref "/categories/podcasts" >}}), [husbandry]({{< ref "/categories/husbandry" >}}) and more!  
 
-> **Automatic volume discounts on 2+ animals**
-
-Ambilobe Panther Chameleons for sale:
+Ambilobe Panther Chameleons for sale!
 
