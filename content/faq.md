@@ -15,8 +15,9 @@ We raise Fucifer pardalis (Panther Chameleons) individually, under highly contro
 We take very good care of our animals, and we strive to continually learn and share our experiences - both good and bad. Please let us know if you have any questions, not addressed here, about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition. We may even have a [blog]({{< ref "/blog" >}}) or a [podcast]({{< ref "/categories/podcasts" >}}) on the topic, too!
 
 # Frequently Asked Questions
+- [Why should you individually-raise Panther Chameleons?]({{< ref "/raising-baby-panther-chameleons.md" >}})
 - [How do I purchase a chameleon?]({{< ref "/purchase_a_cham.md" >}})
-- [How much do Panther Chameleons usually cost?]({{< ref "/price.md" >}})
+- [How much do Panther Chameleons usually cost?]({{< ref "/panther-chameleon-price.md" >}})
 - [What is the cost of shipping a panther chameleon?]({{< ref "/shipping.md" >}})
 - [What is the lifespan of a Panther Chameleon?]({{< ref "/lifespan.md" >}})
 - [How fast do Panther Chameleons grow?]({{< ref "/growthrate.md" >}})
