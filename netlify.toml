@@ -14,6 +14,6 @@
   from = "/babies/available"
   to = "/panther-chameleons-for-sale"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"} #  apply this rule for /old-path?path=example
   conditions = {Language = ["en","es"], Country = ["US"]}
