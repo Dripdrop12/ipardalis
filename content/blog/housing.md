@@ -1,12 +1,14 @@
 +++
 title = "Housing: Furcifer pardalis (Panther Chameleons)"
+header_title = "Panther Chameleon Caging"
 date = "2020-07-05"
-tags = ["bioactive"]
+keywords = ["caring for a panther chameleon"]
+tags = []
 categories = ["husbandry"]
 banner = "img/ambilobe/maleenclosure"
 +++
 
-We get a lot of questions about our housing strategy, so I figured I'd provide an organized response. Here is our strategy for hatchling, baby, juvenile, adult male and adult female Furcifer pardalis (Panther Chameleons).
+We get a lot of questions about caring for a panther chameleon, so I figured I'd provide an organized response. Here is our strategy for hatchling, baby, juvenile, adult male and adult female Furcifer pardalis (Panther Chameleons).
 
 | Term | Age (months) |
 |--------|----|
