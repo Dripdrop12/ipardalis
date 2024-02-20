@@ -1,6 +1,6 @@
 +++
 title = "Ambilobe Panther Chameleons for sale"
-header_title = "iPardalis - Chameleon for sale"
+header_title = "Chameleon for sale - iPardalis"
 id = "available"
 description = "Individually-raised Ambilobe Panther Chameleons for sale. All our chameleons are at least 3 months of age, healthy, vibrant, rainbow colors, red and yellow body Ambilobe, and ready to thrive as a pet in your home."
 keywords = ["juvenile panther chameleon", "Chameleons for sale", "Panther Chameleons for sale", "Panther Chameleons", "Baby Chameleons", "Buy Chameleon", "Female Panther Chameleon", "Male Panther Chameleon", "Chameleon price"]

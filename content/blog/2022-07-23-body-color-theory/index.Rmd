@@ -2,7 +2,7 @@
 title: Furcifer pardalis Body Color Inheritance Theory
 header_title: How Panther Chameleons inherit their color from their parents
 keywords: ["Panther Chameleon genetics", "Panther Chameleon inheritance patterns", "Polygenic traits in Panther Chameleon", "Breeding animals with polygenic inheritance", "Are Panther Chameleons hard to breed", "what makes a panther chameleon unique", "what are the subspecies of panther chameleons"]
-description: This is the first written description of how Panther Chameleons inherit their color over multiple generations. There are many myths in the industry related to what you can get from various Panther Chameleon pairings, and these misconceptions result in pricing issues and scams.
+description: This article describes how Panther Chameleons inherit their color over multiple generations. There are many myths in the industry related to what you can get from various Panther Chameleon pairings, and these misconceptions result in pricing issues and scams.
 author: Jonathan Hill 
 date: '2022-07-23'
 slug: body-color-theory
@@ -22,6 +22,8 @@ require(stringr)
 require(rmarkdown)
 source("helpers.R")
 ```
+
+This article describes how Panther Chameleons inherit their color over multiple generations. There are many myths in the industry related to what you can get from various Panther Chameleon pairings, and these misconceptions result in pricing issues and scams.
 
 # TLDR;
 

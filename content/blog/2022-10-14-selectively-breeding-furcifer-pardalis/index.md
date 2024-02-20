@@ -11,6 +11,8 @@ categories:
 banner: /img/ambilobe/papafeelokana
 ---
 
+The best Panther Chameleon breeders have a deep understanding of their genetics, inheritance patterns and can help you get what you want. This knowledge plays into the ethics of selling Panther Chameleons because there is a lot of false advertising in the industry which is very surface-level without much understanding of the species.
+
 ## Introduction
 
 Given that Panther Chameleon (Furcifer pardalis) colors are polygenic traits, and Panther Chameleons are a sexually dimorphic species, selective breeding for a given color is challenging and many breeders fail to achieve a consistent result. If you are not familiar with what a polygenic trait is, you should probably start by reading our previous post about our [Furcifer pardalis Body Color Inheritance Theory]({{< ref "blog/2022-07-23-body-color-theory" >}}). Polygenic traits do not have discrete outcomes, and they produce a distribution of results. The distribution's mean is roughly situated between the sire (father) and dam (mother). However, when breeding for male color, the dam's traits are completely unknown due to their sexual dimorphism. Initially, dam's traits can be estimated using their male ancestors. After having a few clutches, we can use a dam's male offspring to understand their trait distribution better. For sires, we can just look at them, so there is less uncertainty there and their ancestry is less important for selective breeding purposes (although not completely irrelevant).
