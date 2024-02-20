@@ -1,7 +1,7 @@
 +++
 title = "General Husbandry: Furcifer pardalis (Panther Chameleon)"
 date = "2020-07-05"
-tags = ["bioactive"]
+tags = []
 categories = ["husbandry"]
 banner = "img/ambilobe/jude/jude"
 +++

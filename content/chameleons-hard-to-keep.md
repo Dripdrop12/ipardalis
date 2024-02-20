@@ -5,8 +5,6 @@ description = "Panther Chameleons are often raised in groups and have high paras
 keywords = ["What is the easiest chameleon to care for", "How do you take care of a panther chameleon for beginners", "How hard is it to own a chameleon", "Why are chameleons so hard to care for"]
 +++
 
-# Are panther chameleons hard to take care of?
-
 Panther Chameleons require an arboreal environment with mist, live plants, high humidity at night and many specific husbandry conditions to thrive in captivity. Much of it can be automated with timers and proper equipment, so if you get setup properly, they are not incredibly difficult to take care of. The crickets are much harder, lol!
 
 We have been listening to the Chameleon Academy Podcast for up to date [husbandry advice](https://chameleonacademy.com/panther-chameleon-care/) since 2015. Bill has brought most, if not all, of the top chameleon breeders and experts onto his show for interviews ranging from how to understand what a healthy poop looks like to various supplementation and lighting strategies. If you start there - you will be fine!
