@@ -9,7 +9,6 @@ description: A study on the growth rates of Panther Chameleon hatchlings raised 
 keywords: ["captive husbandry of panther chameleons", "chameleon growth rate", "correct amount of uvb for Panther Chameleons", "UVI of 3 to 6 for furcifer pardalis", "Gary Ferguson on Panther Chameleons"]
 slug: []
 categories: ["husbandry"]
-tags: ["bioactive", "uvi"]
 output: blogdown::html_page
 always_allow_html: yes
 plotly: true

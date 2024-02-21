@@ -1,3 +1,10 @@
 /babies/available/ /panther-chameleons-for-sale 301!
 /babies/upcoming/ /panther-chameleons-for-sale 301!
 /babies/*   /panther-chameleons-for-sale/:splat     301!
+/price /panther-chameleon-price 301!
+/chams_as_pets /chameleons-as-pets 301!
+/blog/2020/07/05/caging /blog/2020/07/05/panther-chameleon-caging-requirements 301!
+/growthrate /panther-chameleon-growth-rate 301!
+/lifespan /panther-chameleon-lifespan 301!
+/purchase_a_cham /purchase-a-chameleon 301!
+/shipping /shipping-panther-chameleons 301!
