@@ -27,3 +27,5 @@ Check out Bill Strand's recent vlog on [taming his Shamrock Chameleons](https://
 {{< rawhtml >}}
 <a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}
+
+<hr>
