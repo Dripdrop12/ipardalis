@@ -1,0 +1,6 @@
+<div itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+    <h2 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h2>
+    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+    <div itemprop="text">{{ .Inner | markdownify }}</div>
+    </div>
+</div>

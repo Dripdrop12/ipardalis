@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.LanguageCode }}" {{ if .Params.faq }} itemscope itemtype="https://schema.org/FAQPage" {{ end }}>
 
   <head>
     {{ partial "headers.html" . }}
