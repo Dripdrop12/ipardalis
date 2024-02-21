@@ -27,5 +27,5 @@ update_google <- function(df = get_clutch_df()){
            title = Title) %>%
     select(id, title, description, price, condition, link, image_link, additional_image_link,
            availability_date, availability, brand, adult, tax) %>%
-    write_tsv("R/Google.tsv")
+    write_tsv("static/google/google.tsv")
 }
