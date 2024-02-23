@@ -1725,10 +1725,24 @@ fieldset[disabled] .btn-template-primary.active {
 .box.no-border {
   border: none;
 }
-#heading-breadcrumbs {
-  background: url('../img/simple-background4.png') center center repeat;
+.breadcrumbs-wrap {
+  overflow: hidden;
+  position: relative;
   padding: 20px 0;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
+}
+
+.breadcrumbs-bg {
+  opacity: 0.75;
+  position: absolute;
+  left: 115px;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.breadcrumbs-content {
+  position: relative;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
