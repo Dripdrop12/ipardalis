@@ -18,7 +18,7 @@ Given that wild baby Panther Chameleons are often found in low brush or tall gra
 {{< /faq >}}
 
 {{< faq title="What are your favorite baby enclosures?" >}}
-Our top 3 favorite caging companies are [Dragon Strand](https://dragonstrand.com/), [Tamura Designs](https://tamura-designs.com/), and [Leap Habitats](https://leaphabitats.com/). These companies are American-owned and founded by men who have spent their entire lives in the hobby before putting that knowledge into their cage designs. iPardalis is proud to be using their products instead of Chinese-made knock-offs.  We're also happy to discuss a DIY baby panther chameleon enclosure idea if you have something in mind because we have a lot of experience in that area, too.
+Our top 3 favorite caging companies are [Dragon Strand](https://dragonstrand.com/), [Tamura Designs](https://tamura-designs.com/), and [Leap Habitats](https://leaphabitats.com/). These companies are American-owned and founded by men who have spent their entire lives in the hobby before putting that knowledge into their cage designs. iPardalis is proud to be using their products instead of cheap, poorly-made, knock-offs from overseas.  We're happy to discuss DIY baby panther chameleon enclosure ideas if you have something in mind because we have a lot of experience in that area, too.
 {{< /faq >}}
 
 {{< faq title="What are some common industry practices related to raising Panther Chameleons?" >}}
