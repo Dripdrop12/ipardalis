@@ -1,8 +1,9 @@
 ---
 title: "Selectively Breeding Furcifer Pardalis"
 header_title: Selectively Breeding Panther Chameleons
-keywords: ["breeding Panther Chameleons", "How to select panther chameleon breeders", "How do I choose an ethical breeder", "what are red flags in a chameleon breeder", "how do you know if a panther chameleon breeder is good"]
+keywords: ["panther chameleon genetics", "breeding Panther Chameleons", "panther chameleon breeder", "panther chameleon breeding", "breeding panther chameleons for profit", "panther chameleon breeder near me", "panther chameleon breeding season", "panther chameleon colors", "ambilobe panther chameleon colors", "colorful panther chameleon", "do panther chameleons change color", "female panther chameleon colors", "panther chameleon color morphs", "panther chameleon locales", "different panther chameleon locales"]
 description: The best Panther Chameleon breeders have a deep understanding of their genetics, inheritance patterns and can help you get what you want. This knowledge plays into the ethics of selling Panther Chameleons because there is a lot of false advertising in the industry which is very surface-level without much understanding of the species.
+description: "The best Panther Chameleon breeders have a deep understanding of their genetics, inheritance patterns and can help you get what you want. This knowledge plays into the ethics of selling Panther Chameleons because there is a lot of false advertising in the industry which is very surface-level without much understanding of the species. This is our answer to the filtered images and click-bait on Instagram and TikTok."
 author: "Jonathan Hill"
 date: "2022-10-14"
 slug: breeding-strategy
@@ -11,7 +12,7 @@ categories:
 banner: /img/ambilobe/papafeelokana
 ---
 
-The best Panther Chameleon breeders have a deep understanding of their genetics, inheritance patterns and can help you get what you want. This knowledge plays into the ethics of selling Panther Chameleons because there is a lot of false advertising in the industry which is very surface-level without much understanding of the species.
+The best Panther Chameleon breeders have a deep understanding of their genetics, inheritance patterns and can help you get what you want. This knowledge plays into the ethics of selling Panther Chameleons because there is a lot of false advertising in the industry which is very surface-level without much understanding of the species. This is our answer to the filtered images and click-bait on Instagram and TikTok.
 
 ## Introduction
 
