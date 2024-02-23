@@ -28,7 +28,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 # Panther Chameleon care resources
 
 - [Chameleon Academy](https://chameleonacademy.com/)
-  - The most comprehensive guide to chameleon husbandry on the web!
+  - The most comprehensive guide to chameleon husbandry on the web.
   - Check out the new [Panther Chameleon Care Guide](https://chameleonacademy.com/panther-chameleon-care/)
 - [Chameleon Forums](https://www.chameleonforums.com/)
   - This is a great resource and an active community forum
