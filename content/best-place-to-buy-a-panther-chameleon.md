@@ -36,7 +36,7 @@ There are others who we would include on this list but have moved on from the sp
 Here are a few breeders we have not worked with directly, but we follow their projects with keen interest:
 
 1. [Roberson Reptiles](https://www.robersonreptiles.com/) - Ryan has been creating some of the most unique F1 in the United States. He is currently the only person I know who has successfully acclimated Maroantsetra, Ankaramy, Masoala, among other obscure and interesting locales.
-2. [Ready's Rainforest](https://readysrainforest.com/) - Lee and Amanda have the best pure locale Ambanja in the United States. Most of the captive lines have been muddied up with RBBB Ambilobe and Nosy Be to produce designer cross purple chameleons (blurples), so it is very hard to find good, pure Ambanja like theirs!
+2. [Ready's Rainforest](https://readysrainforest.com/) - Lee and Amanda have the best pure locale Ambanja in the United States. Most of the captive lines in the United States have been muddied up with RBBB Ambilobe and Nosy Be to produce designer cross purple chameleons (blurples), so it is very hard to find good, pure Ambanja like theirs.
 {{< /faq >}}
 
 <hr>
