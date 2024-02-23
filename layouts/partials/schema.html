@@ -108,7 +108,7 @@
     "availability": {{ if .Params.baby_sold }} "https://schema.org/OutOfStock" {{ else }} "https://schema.org/InStock" {{ end }},
     "price": {{ if .Params.discount_price }}{{ .Params.discount_price }}{{ else if .Params.markup_price }}{{ .Params.markup_price }}{{ else }}{{ .Params.price }}{{ end }},
     "priceCurrency": "USD",
-    "priceValidUntil": {{ $t.AddDate 0 1 0 | time.Format "2006-01-02" }}
+    "priceValidUntil": {{ $t.AddDate 0 1 0 | time.Format "2006-01-02" }},
     "shippingDetails": {
       "@type": "OfferShippingDetails",
       "shippingRate": {
