@@ -1735,7 +1735,7 @@ fieldset[disabled] .btn-template-primary.active {
 .breadcrumbs-bg {
   opacity: 0.75;
   position: absolute;
-  left: 115px;
+  left: 10%;
   top: 0;
   width: 100%;
   height: auto;
