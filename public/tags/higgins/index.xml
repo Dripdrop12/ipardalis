@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>higgins on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/higgins/</link>
-    <description>Recent content in higgins on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Higgins on </title>
+    <link>http://localhost:1313/tags/higgins/</link>
+    <description>Recent content in Higgins on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/higgins/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/higgins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lineage: Brian Collins</title>
-      <link>/blog/2016/03/19/briancollins/</link>
+      <link>http://localhost:1313/blog/2016/03/19/briancollins/</link>
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/19/briancollins/</guid>
-      <description> Higgins Higgins
-Higgins1
-Higgins2
-Sire Pelellu Dam Sire Anguar </description>
+      <guid>http://localhost:1313/blog/2016/03/19/briancollins/</guid>
+      <description> Higgins Higgins&#xA;Higgins1&#xA;Higgins2&#xA;Sire Pelellu Dam Sire Anguar </description>
     </item>
-    
   </channel>
 </rss>

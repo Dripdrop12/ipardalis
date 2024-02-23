@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ambilobes on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/ambilobe/</link>
-    <description>Recent content in Ambilobes on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Ambilobes on </title>
+    <link>http://localhost:1313/ambilobe/</link>
+    <description>Recent content in Ambilobes on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/ambilobe/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/ambilobe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lineage of iPardalis</title>
-      <link>/ambilobe/lineage/</link>
+      <link>http://localhost:1313/ambilobe/lineage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ambilobe/lineage/</guid>
-      <description>Panther Creek JJ Sire Mavo-ra (Yellow Blood) Dam Sire Little Foot Jj
-Jj1
-Jj2
-Jj3
-Jj4
-Jj5
-Jj6
-Tropical Chameleons Dante F1
-Sire Gambit Dante
-Sonny Sire Gigavony Sonny
-Sonny1
-Thor F2
-Sire Dante Dam Sire Bolt Thor
-Thor1
-Loki Sire unknown Loki
-Loki1
-Skittles F1
-Sire Cyclops Skittles
-Rainbow F2
-Sire Dante Dam Skittles Mandy Girl Sire Marley Hella Sire Loki Dam Mandy Girl Brightside Chameleons Gambit WC</description>
+      <guid>http://localhost:1313/ambilobe/lineage/</guid>
+      <description>Panther Creek JJ Sire Mavo-ra (Yellow Blood) Dam Sire Little Foot Jj&#xA;Jj1&#xA;Jj2&#xA;Jj3&#xA;Jj4&#xA;Jj5&#xA;Jj6&#xA;Tropical Chameleons Dante F1&#xA;Sire Gambit Dante&#xA;Sonny Sire Gigavony Sonny&#xA;Sonny1&#xA;Thor F2&#xA;Sire Dante Dam Sire Bolt Thor&#xA;Thor1&#xA;Loki Sire unknown Loki&#xA;Loki1&#xA;Skittles F1&#xA;Sire Cyclops Skittles&#xA;Rainbow F2&#xA;Sire Dante Dam Skittles Mandy Girl Sire Marley Hella Sire Loki Dam Mandy Girl Brightside Chameleons Gambit WC</description>
     </item>
-    
   </channel>
 </rss>

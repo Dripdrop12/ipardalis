@@ -1,59 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maro on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/maro/</link>
-    <description>Recent content in maro on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Maro on </title>
+    <link>http://localhost:1313/tags/maro/</link>
+    <description>Recent content in Maro on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/maro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/maro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>maro</title>
-      <link>/blog/2021/07/13/maro/</link>
+      <link>http://localhost:1313/blog/2021/07/13/maro/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/07/13/maro/</guid>
-      <description>Maro (F3) is a great edition to our YBBB project. We have been tracking the WC Legion line ever since we saw Jeremy Booker acquire him years ago. This great Chi-town Chameleons Sammy x Storm pairing finally carries those genetics with nice yellow bodies on both sides!
-Maro
-Maro1
-Maro2
-Maro3
-mtDNA Haplogroup* 3 (Ambilobe East) Filial F3 Sire Sammy Dam Storm *preliminary results
-5 Generation Tree
-Ancestral Report for Maro (F3) Generation 1 1.</description>
+      <guid>http://localhost:1313/blog/2021/07/13/maro/</guid>
+      <description>Maro (F3) is a great edition to our YBBB project. We have been tracking the WC Legion line ever since we saw Jeremy Booker acquire him years ago. This great Chi-town Chameleons Sammy x Storm pairing finally carries those genetics with nice yellow bodies on both sides!&#xA;Maro&#xA;Maro1&#xA;Maro2&#xA;Maro3&#xA;mtDNA Haplogroup* 3 (Ambilobe East) Filial F3 Sire Sammy Dam Storm *preliminary results&#xA;5 Generation Tree&#xA;Ancestral Report for Maro (F3) Generation 1 1.</description>
     </item>
-    
     <item>
       <title>Lineage: Chi-Town Chameleons</title>
-      <link>/blog/2016/03/22/chitown/</link>
+      <link>http://localhost:1313/blog/2016/03/22/chitown/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/22/chitown/</guid>
-      <description> Chi-Town Chameleons Sammy Sammy
-Sammy1
-Sammy2
-Sire Tony Stark Dam Unknown Tony Stark Tony
-Tony1
-Sire Rick Dam Unknown Nova F1
-Nova
-Nova1
-Nova3
-Sire Legion (WC) Dam Magik Storm F2
-Storm
-Sire Nova Dam Natasha Natasha Natasha
-Sire Steve Dam Unknown Steve Steve
-Sire Unknown Dam Unknown </description>
+      <guid>http://localhost:1313/blog/2016/03/22/chitown/</guid>
+      <description> Chi-Town Chameleons Sammy Sammy&#xA;Sammy1&#xA;Sammy2&#xA;Sire Tony Stark Dam Unknown Tony Stark Tony&#xA;Tony1&#xA;Sire Rick Dam Unknown Nova F1&#xA;Nova&#xA;Nova1&#xA;Nova3&#xA;Sire Legion (WC) Dam Magik Storm F2&#xA;Storm&#xA;Sire Nova Dam Natasha Natasha Natasha&#xA;Sire Steve Dam Unknown Steve Steve&#xA;Sire Unknown Dam Unknown </description>
     </item>
-    
     <item>
       <title>Lineage: Strohl&#39;s Herptiles</title>
-      <link>/blog/2016/03/22/strohlsherptiles/</link>
+      <link>http://localhost:1313/blog/2016/03/22/strohlsherptiles/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/22/strohlsherptiles/</guid>
-      <description> Strohl&amp;rsquo;s Herptiles Rick Rick
-Sire Unknown Dam Unknown </description>
+      <guid>http://localhost:1313/blog/2016/03/22/strohlsherptiles/</guid>
+      <description> Strohl&amp;rsquo;s Herptiles Rick Rick&#xA;Sire Unknown Dam Unknown </description>
     </item>
-    
   </channel>
 </rss>

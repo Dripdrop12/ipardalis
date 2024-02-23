@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>marley on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/marley/</link>
-    <description>Recent content in marley on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Marley on </title>
+    <link>http://localhost:1313/tags/marley/</link>
+    <description>Recent content in Marley on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/marley/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/marley/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lineage: Canvas Chameleons</title>
-      <link>/blog/2016/03/21/canvas/</link>
+      <link>http://localhost:1313/blog/2016/03/21/canvas/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/21/canvas/</guid>
-      <description>Canvas Chameleons Marley Marley
-Marley1
-Marley2
-Bolt WC
-Bolt
-Outline Outline
-Outline1
-Sinister Sinister</description>
+      <guid>http://localhost:1313/blog/2016/03/21/canvas/</guid>
+      <description>Canvas Chameleons Marley Marley&#xA;Marley1&#xA;Marley2&#xA;Bolt WC&#xA;Bolt&#xA;Outline Outline&#xA;Outline1&#xA;Sinister Sinister</description>
     </item>
-    
   </channel>
 </rss>

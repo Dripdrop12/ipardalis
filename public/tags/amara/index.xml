@@ -1,49 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>amara on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/amara/</link>
-    <description>Recent content in amara on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Amara on </title>
+    <link>http://localhost:1313/tags/amara/</link>
+    <description>Recent content in Amara on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/amara/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/amara/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nugget x Amara</title>
-      <link>/blog/2021/06/01/nugget-amara/</link>
+      <link>http://localhost:1313/blog/2021/06/01/nugget-amara/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/06/01/nugget-amara/</guid>
+      <guid>http://localhost:1313/blog/2021/06/01/nugget-amara/</guid>
       <description>This pairing was between our third generation hold back, Nugget, and our female from Brian Stewart, Amara. Amara proved out to carry a lot of her sire&amp;rsquo;s, Artemis&amp;rsquo;, traits like his dark blue bars and red highlighting. Nugget is the HB male from our Jude x Kako clutch. His yellows are my favorite from the third generation. This was a great combination of colorful ybbb with both blue bars and clean yellows!</description>
     </item>
-    
     <item>
       <title>tigerlilly</title>
-      <link>/blog/2021/06/01/tigerlilly/</link>
+      <link>http://localhost:1313/blog/2021/06/01/tigerlilly/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/06/01/tigerlilly/</guid>
-      <description>Tiger Lilly is one of the most stunning females I have seen in person. She has an amazing bar/body contrast, organge highlights in her face and turrets and an orang glow on her arms and tail. We are very lucky to get to work with her. Hopefully, those traits are a sign that she is as cool as her sire, Nugget.
-Tigerlilly
-Tigerlilly1
-Tigerlilly2
-Tigerlilly3
-Tigerlilly4
-Tigerlilly5
-Filial F4-CG13 Sire Nugget Dam Amara 5 Generation Tree</description>
+      <guid>http://localhost:1313/blog/2021/06/01/tigerlilly/</guid>
+      <description>Tiger Lilly is one of the most stunning females I have seen in person. She has an amazing bar/body contrast, organge highlights in her face and turrets and an orang glow on her arms and tail. We are very lucky to get to work with her. Hopefully, those traits are a sign that she is as cool as her sire, Nugget.&#xA;Tigerlilly&#xA;Tigerlilly1&#xA;Tigerlilly2&#xA;Tigerlilly3&#xA;Tigerlilly4&#xA;Tigerlilly5&#xA;Filial F4-CG13 Sire Nugget Dam Amara 5 Generation Tree</description>
     </item>
-    
+    <item>
+      <title>tony</title>
+      <link>http://localhost:1313/blog/2021/06/01/tony/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021/06/01/tony/</guid>
+      <description>Tony one of our 4th generation YBBB Ambilobe. He has some great traits from his dam, Amara, like his deep blue bars and red highlights, but he also has some vibrant yellows from his sire, Nugget. His profile is one of my favorites with striking turret and gular lines. We are very lucky to have him in our breeding group!&#xA;Tony&#xA;Tony1&#xA;Tony2&#xA;Tony3&#xA;Tony4&#xA;Tony5&#xA;Tony6&#xA;Tony7&#xA;Tony8</description>
+    </item>
     <item>
       <title>Amara</title>
-      <link>/blog/2020/04/04/amara/</link>
+      <link>http://localhost:1313/blog/2020/04/04/amara/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/04/04/amara/</guid>
-      <description>Amara is Arti&amp;rsquo;s sister from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons. It will be interesting to compare her offspring with Arti&amp;rsquo;s to figure out which traits she is carrying from their shared lineage. I have always been curious about the females role in breeding and I think it is the key to producing some extraordinary animals.
-Amara
-Amara1
-Amara2
-Filial F3 Sire Artemis Dam Felipe Sanchez&amp;rsquo;s daughter 5 Generation Tree</description>
+      <guid>http://localhost:1313/blog/2020/04/04/amara/</guid>
+      <description>Amara is Arti&amp;rsquo;s sister from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons. It will be interesting to compare her offspring with Arti&amp;rsquo;s to figure out which traits she is carrying from their shared lineage. I have always been curious about the females role in breeding and I think it is the key to producing some extraordinary animals.&#xA;Amara&#xA;Amara1&#xA;Amara2&#xA;Filial F3-CG12 Sire Artemis Dam Felipe Sanchez&amp;rsquo;s daughter 5 Generation Tree</description>
     </item>
-    
   </channel>
 </rss>

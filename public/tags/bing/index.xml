@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bing on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/bing/</link>
-    <description>Recent content in bing on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Bing on </title>
+    <link>http://localhost:1313/tags/bing/</link>
+    <description>Recent content in Bing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bing (冰)</title>
-      <link>/blog/2020/04/14/bing/</link>
+      <link>http://localhost:1313/blog/2020/04/14/bing/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/04/14/bing/</guid>
-      <description>Great little girl we got from Frank Payne. I am a huge fan of her shoulder patches and her night sky pattern on the dark body sections. Her older sister, Violet, was our first female; however, we have not gotten any clutches from her yet. Bing is a sweetheart, and we hope to hatch our first clutches from her in 2021!
-Bing
-Bing1
-Bing10
-Bing11
-Bing12
-Bing13
-Bing14
-Bing2</description>
+      <guid>http://localhost:1313/blog/2020/04/14/bing/</guid>
+      <description>Great little girl we got from Frank Payne. I am a huge fan of her shoulder patches and her night sky pattern on the dark body sections. Her older sister, Violet, was our first female; however, we have not gotten any clutches from her yet. Bing is a sweetheart, and we hope to hatch our first clutches from her in 2021!&#xA;Bing&#xA;Bing1&#xA;Bing10&#xA;Bing11&#xA;Bing12&#xA;Bing13&#xA;Bing14&#xA;Bing2</description>
     </item>
-    
   </channel>
 </rss>

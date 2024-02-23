@@ -6,16 +6,16 @@ gene_palette <- function(gene_count = 3, color = "Reds") {
     height = 400)
   
   poss_outcomes <- generate_poss_outcomes(gene_count)
-  tot <- max(poss_outcomes$capitals)
+  tot <- max(poss_outcomes$Additive_Alleles)
   pal <- c("#FFFFFF", brewer.pal(tot, color))
-  hist(x = poss_outcomes$capitals, 
+  hist(x = poss_outcomes$Additive_Alleles, 
        right = FALSE, 
        breaks = 0:(tot+1), 
        col = pal, 
        probability = TRUE,
        main = "Distribution of Color",
-       xlab = "Additive Allele Count (Capitals)")
-  x <- poss_outcomes$capitals
+       xlab = "Additive Allele Count (Capital Letters)")
+  x <- poss_outcomes$Additive_Alleles
   sq <- seq(min(x), max(x)+1)
   fun <- dnorm(sq, mean = mean(x), sd = sd(x))
   lines(sq, fun, col = 2, lwd = 2)
@@ -36,9 +36,9 @@ generate_poss_outcomes <- function(gene_count = 2, ploidy = 2) {
       genotype, everything(), sep = "", remove = FALSE
     ) %>%
     mutate(
-      capitals = str_count(genotype, "[A-Z]")
+      Additive_Alleles = str_count(genotype, "[A-Z]")
     ) %>%
-    arrange(capitals)
+    arrange(Additive_Alleles)
   
   return(poss_output)
 }

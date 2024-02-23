@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grape inferno on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/grape-inferno/</link>
-    <description>Recent content in grape inferno on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Grape Inferno on </title>
+    <link>http://localhost:1313/tags/grape-inferno/</link>
+    <description>Recent content in Grape Inferno on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/grape-inferno/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/grape-inferno/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mainty</title>
-      <link>/blog/2021/09/05/mainty/</link>
+      <link>http://localhost:1313/blog/2021/09/05/mainty/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/09/05/mainty/</guid>
+      <guid>http://localhost:1313/blog/2021/09/05/mainty/</guid>
       <description>Mainty is one of the nicest RBBB females I could find for Ralph. Her sire, Bangheera, is a classic red body blue bar Ambilobe produced by Highlighter Chameleons and owned by Nature&amp;rsquo;s Van Gogh. After talking to Logan about Mainty&amp;rsquo;s brothers, it looks like many of them proved out to be similar to Grape Inferno or Bangheera, so although Moonclaw&amp;rsquo;s sire is Flamethrower, it seems she took after her dam sire.</description>
     </item>
-    
     <item>
       <title>Lineage: Charles Yamaguchi</title>
-      <link>/blog/2016/03/21/yamaguchi/</link>
+      <link>http://localhost:1313/blog/2016/03/21/yamaguchi/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/21/yamaguchi/</guid>
+      <guid>http://localhost:1313/blog/2016/03/21/yamaguchi/</guid>
       <description>Charles Yamaguchi Charles Yamaguchi isn&amp;rsquo;t a real person. Elizabeth Lawrence scammed people under this persona selling a bunch of Ambilobe x Nosy Be crosses to people. Her other aliases include: Cami Garden Hat, April Wilcox, Trevor Neufeld, and April Michelle. I would never add a female from this lineage, but I found a great looking male that&amp;rsquo;s a few gens removed from her scam. So the male has proven out, but I will definitely want to run a locale genetic test to confirm the locale of these.</description>
     </item>
-    
     <item>
       <title>Lineage: Highlighter Chameleons</title>
-      <link>/blog/2016/03/21/highlighter/</link>
+      <link>http://localhost:1313/blog/2016/03/21/highlighter/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/21/highlighter/</guid>
-      <description> Highlighter Chameleons Mango Saphire Mangosaphire
-Sire Karamba-ady (Cage Combat) Dam Telo heny&amp;rsquo;s daughter Flamethrower Flamethrower
-Flamethrower1
-Flamethrower2
-Sire Tropicali Dam Sire [Arira/Thunder&amp;rsquo;s daughter] Copperhead&amp;rsquo;s daughter Sire Copperhead Dam Unknown Grape Inferno Grapeinferno
-Grapeinferno1
-Sire Manga-hay (Blue Heat) Dam Bolitika-zandry (Little Sister) Tropicali Tropicali
-Tropicali1
-Tropicali2
-Sire Unknown Dam Unknown </description>
+      <guid>http://localhost:1313/blog/2016/03/21/highlighter/</guid>
+      <description> Highlighter Chameleons Mango Saphire Mangosaphire&#xA;Sire Karamba-ady (Cage Combat) Dam Telo heny&amp;rsquo;s daughter Flamethrower Flamethrower&#xA;Flamethrower1&#xA;Flamethrower2&#xA;Sire Tropicali Dam Sire [Arira/Thunder&amp;rsquo;s daughter] Copperhead&amp;rsquo;s daughter Sire Copperhead Dam Unknown Grape Inferno Grapeinferno&#xA;Grapeinferno1&#xA;Sire Manga-hay (Blue Heat) Dam Bolitika-zandry (Little Sister) Tropicali Tropicali&#xA;Tropicali1&#xA;Tropicali2&#xA;Sire Unknown Dam Unknown </description>
     </item>
-    
   </channel>
 </rss>

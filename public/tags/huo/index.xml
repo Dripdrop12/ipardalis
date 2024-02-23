@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>huo on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/huo/</link>
-    <description>Recent content in huo on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Huo on </title>
+    <link>http://localhost:1313/tags/huo/</link>
+    <description>Recent content in Huo on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/huo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/huo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Huo (火)</title>
-      <link>/blog/2020/01/01/huo/</link>
+      <link>http://localhost:1313/blog/2020/01/01/huo/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/01/01/huo/</guid>
-      <description>Beautiful female that we picked up from Kevin Stanford. She has a really nice pitch-black body with a fire tip on the top of her yellow streaks. Stunning specimen of this species! We were able to get a few healthy clutches from her and hope to produce our first clutch from them. She has been very fun to work with thus far.
-Huo
-Huo1
-Huo2
-Huo3
-Huo4
-Huo5
-Huo6</description>
+      <guid>http://localhost:1313/blog/2020/01/01/huo/</guid>
+      <description>Beautiful female that we picked up from Kevin Stanford. She has a really nice pitch-black body with a fire tip on the top of her yellow streaks. Stunning specimen of this species! We were able to get a few healthy clutches from her and hope to produce our first clutch from them. She has been very fun to work with thus far.&#xA;Huo&#xA;Huo1&#xA;Huo2&#xA;Huo3&#xA;Huo4&#xA;Huo5&#xA;Huo6</description>
     </item>
-    
     <item>
       <title>Lineage: Kevin Stanford Reptiles</title>
-      <link>/blog/2016/03/22/kevinstanford/</link>
+      <link>http://localhost:1313/blog/2016/03/22/kevinstanford/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/22/kevinstanford/</guid>
-      <description>Kevin Stanford Reptiles Kevin has some really interesting oranges on a lot of his female Furcifer minor. The lineage on
-Huo&amp;rsquo;s Sire Img 5681
-Img 5683
-Huo&amp;rsquo;s Dam Img 5679
-Img 5680
-Huo&amp;rsquo;s Grand Dam Img 5677
-Img 5678</description>
+      <guid>http://localhost:1313/blog/2016/03/22/kevinstanford/</guid>
+      <description>Kevin Stanford Reptiles Kevin has some really interesting oranges on a lot of his female Furcifer minor. The lineage on&#xA;Huo&amp;rsquo;s Sire Img 5681&#xA;Img 5683&#xA;Huo&amp;rsquo;s Dam Img 5679&#xA;Img 5680&#xA;Huo&amp;rsquo;s Grand Dam Img 5677&#xA;Img 5678</description>
     </item>
-    
   </channel>
 </rss>

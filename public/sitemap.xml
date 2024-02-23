@@ -2,801 +2,1231 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/ambilobe-dams/</loc>
+    <loc>http://localhost:1313/categories/ambilobe-sires/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/taiyang/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/10/03/taiyang/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/haiyang/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/10/02/haiyang/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/podcasts/</loc>
+    <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/09/23/rsr_jonhill/</loc>
+    <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bibi/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blossom/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mamony/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/past-clutches/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/07/06/bibi-mamony/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/husbandry/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/parasites/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/07/04/parasites_coccidia/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dia/</loc>
+    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/papafee/</loc>
+    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vaosary/</loc>
+    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/06/29/dia-vaosary/</loc>
+    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bumblebee/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jimanga/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/06/28/jimanga-bumblebee/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/manga/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/06/23/cc_egg_sales/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ethics/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/06/07/egg_sales_101/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/05/05/ca_keepervsbreeder/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/04/09/mm_shortcuttotrama/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kiborin/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/03/10/kiborin-maize/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/maize/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mcnulty/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/02/12/animalsathome/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/alla/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artalla/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arti/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gold-rush/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/retired-pardalis/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zor/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/01/24/zor/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zozoro/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ambilobe-dams/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/avana/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/01/23/avana/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/01/23/zozoro-artalla/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/alfred/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bangheera/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mainty/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ralph/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2023/01/15/ralph-mainty/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mara/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nugget/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sammy/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zandrin/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/12/21/zandrin-mara/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arlo/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/manjaka/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/11/29/manjaka-noko/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/noko/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/11/19/parasites_ethics/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/11/07/manjaka-tigerlilly/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tigerlilly/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/genetics/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/10/14/2022-10-14-selectively-breeding-furcifer-pardalis/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/10/07/chamhour20221007/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artemis/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jj/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pj/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/teny/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/09/10/teny/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tony/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/09/10/tony-paige/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/green-giant/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nuhana/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zava/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/08/25/zava-nuhana/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/manjaya/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/08/21/zava-manjaya/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jack/</loc>
+    <lastmod>2022-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/parasi/</loc>
+    <lastmod>2022-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/08/20/parasi/</loc>
+    <lastmod>2022-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/08/19/arti-manjalla/</loc>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/manjalla/</loc>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hendrix/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/imelda/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jackson/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/08/16/jackson-imelda/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/capella/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/felipe-sanchez/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kintana/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/07/31/kintana/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kromatisk/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/07/27/mena/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pyro/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/07/26/manjaka-parasy/</loc>
+    <lastmod>2022-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/parasy/</loc>
+    <lastmod>2022-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/07/23/2022-07-23-body-color-theory/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/29/bibi/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/miafina/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/29/miafina/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tratra/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/29/tratra/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/28/dia/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/landy/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lokana/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/05/manjaka-lokana/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ranoka/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/05/ranoka/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tsara/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/06/01/tsara/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tarehy/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/05/31/tarehy/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mami/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/05/11/mami/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clapton/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dynamitetnt/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/robina/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/03/07/robina/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/03/06/lizardbrain/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/papamavo/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/03/01/papamavo/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/02/19/ca_hatchlings/</loc>
+    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/02/17/chameleonacademyeggsalespart2/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artilly/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/02/03/artilly/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jude/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lilly/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/squash/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/01/14/squash/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2022/01/13/maize/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/beans/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>http://localhost:1313/blog/2022/01/12/beans/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/blog/2022/01/12/vaosary/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/kromatisk/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/lokana/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/papafee/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/vaosary/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2022/01/12/vaosary/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/bumble-bee/</loc>
+    <loc>http://localhost:1313/tags/bumble-bee/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2022/01/11/bumble-bee/</loc>
+    <loc>http://localhost:1313/blog/2022/01/11/bumblebee/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2022/01/11/papafee-lokana/</loc>
+    <loc>http://localhost:1313/blog/2022/01/11/papafee-lokana/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/past-clutches/</loc>
+    <loc>http://localhost:1313/tags/zanaka/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/zanaka/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/2022/01/07/ca_genetictest/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/12/31/2021-12-31-locale-test/</loc>
+    <loc>http://localhost:1313/blog/2021/12/31/2021-12-31-locale-test/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/genetics/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/coco/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/coco/</loc>
+    <loc>http://localhost:1313/tags/pepita/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2021/12/07/pepita/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2021/12/04/papafee-coco/</loc>
     <lastmod>2021-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hendrix/</loc>
-    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/12/04/papafee-coco/</loc>
-    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/ambilobe-sires/</loc>
+    <loc>http://localhost:1313/tags/bleu/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bleu/</loc>
+    <loc>http://localhost:1313/blog/2021/12/03/jimanga/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/imelda/</loc>
+    <loc>http://localhost:1313/tags/jimelda/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jimanga/</loc>
+    <loc>http://localhost:1313/blog/2021/12/03/jimelda/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/12/03/jimanga/</loc>
+    <loc>http://localhost:1313/blog/2021/12/03/manga-imelda/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/manga/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/12/03/manga-imelda/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/artemis/</loc>
+    <loc>http://localhost:1313/blog/2021/10/17/arti-daisy/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/arti/</loc>
+    <loc>http://localhost:1313/tags/daisy/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/10/17/arti-daisy/</loc>
+    <loc>http://localhost:1313/tags/ghost/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/daisy/</loc>
+    <loc>http://localhost:1313/blog/2021/10/17/ghost/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ghost/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/10/17/ghost/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/jude/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/alla/</loc>
+    <loc>http://localhost:1313/tags/dehibe/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dehibe/</loc>
+    <loc>http://localhost:1313/blog/2021/10/16/dehibe/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/10/16/dehibe/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/jj/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/artalla/</loc>
+    <loc>http://localhost:1313/blog/2021/10/15/artalla/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/10/15/artalla/</loc>
+    <loc>http://localhost:1313/blog/2021/10/15/arti-alla/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/10/15/arti-alla/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/divergent/</loc>
+    <loc>http://localhost:1313/tags/divergent/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/gold-rush/</loc>
+    <loc>http://localhost:1313/tags/my-friend/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/my-friend/</loc>
+    <loc>http://localhost:1313/blog/2021/10/06/zozoro/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/10/06/zozoro/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/09/15/arti-bohana/</loc>
+    <loc>http://localhost:1313/blog/2021/09/15/arti-bohana/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bohana/</loc>
+    <loc>http://localhost:1313/tags/bohana/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bangheera/</loc>
+    <loc>http://localhost:1313/tags/flamethrower/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/flamethrower/</loc>
+    <loc>http://localhost:1313/tags/grape-inferno/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/grape-inferno/</loc>
+    <loc>http://localhost:1313/blog/2021/09/05/mainty/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mainty/</loc>
-    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/09/05/mainty/</loc>
-    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/bioactive/</loc>
+    <loc>http://localhost:1313/blog/2021/08/04/2021-08-04-uvi-impact-on-growth-of-furcifer-pardalis-neonates/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/husbandry/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/uvi/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/08/04/2021-08-04-uvi-impact-on-growth-of-furcifer-pardalis-neonates/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/parasites/</loc>
+    <loc>http://localhost:1313/blog/2021/07/18/parasites_origin/</loc>
     <lastmod>2021-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/07/18/parasites_origin/</loc>
-    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/2021/07/15/ca_hybrid/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jiolahy/</loc>
+    <loc>http://localhost:1313/tags/jiolahy/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/07/14/jiolahy/</loc>
+    <loc>http://localhost:1313/blog/2021/07/14/jiolahy/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/perrigrin/</loc>
+    <loc>http://localhost:1313/tags/perrigrin/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pyro/</loc>
+    <loc>http://localhost:1313/tags/the-don/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/the-don/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/legion/</loc>
+    <loc>http://localhost:1313/tags/legion/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mara/</loc>
+    <loc>http://localhost:1313/blog/2021/07/13/mara/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/07/13/mara/</loc>
+    <loc>http://localhost:1313/blog/2021/07/13/maro/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/maro/</loc>
+    <loc>http://localhost:1313/tags/maro/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/07/13/maro/</loc>
+    <loc>http://localhost:1313/tags/nova/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nova/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sammy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/07/12/parasites_and_ethics/</loc>
+    <loc>http://localhost:1313/blog/2021/07/12/parasites_and_ethics/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/28/arti-tigravavy/</loc>
+    <loc>http://localhost:1313/blog/2021/06/28/arti-tigravavy/</loc>
     <lastmod>2021-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tigravavy/</loc>
+    <loc>http://localhost:1313/tags/tigravavy/</loc>
     <lastmod>2021-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/amarillo/</loc>
+    <loc>http://localhost:1313/tags/amarillo/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blossom/</loc>
+    <loc>http://localhost:1313/blog/2021/06/20/blossom-mavokely/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/20/blossom-mavokely/</loc>
+    <loc>http://localhost:1313/blog/2021/06/20/kiborin/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/kiborin/</loc>
+    <loc>http://localhost:1313/tags/maitso/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/20/kiborin/</loc>
+    <loc>http://localhost:1313/blog/2021/06/20/mamony/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/maitso/</loc>
+    <loc>http://localhost:1313/tags/mavokely/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mavokely/</loc>
+    <loc>http://localhost:1313/tags/sparkles/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/retired-pardalis/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sparkles/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/blaitso/</loc>
+    <loc>http://localhost:1313/tags/blaitso/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/19/blaitso/</loc>
+    <loc>http://localhost:1313/blog/2021/06/19/blaitso/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/alfred/</loc>
+    <loc>http://localhost:1313/tags/brightflame/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/brightflame/</loc>
+    <loc>http://localhost:1313/tags/kanto/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/kanto/</loc>
+    <loc>http://localhost:1313/blog/2021/06/05/ralph/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ralph/</loc>
+    <loc>http://localhost:1313/tags/triple/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/05/ralph/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/triple/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/loko/</loc>
+    <loc>http://localhost:1313/tags/loko/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nugget/</loc>
+    <loc>http://localhost:1313/blog/2021/06/04/zandrin/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/zandrin/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/06/04/zandrin/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/noko/</loc>
+    <loc>http://localhost:1313/blog/2021/06/03/noko/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/03/noko/</loc>
+    <loc>http://localhost:1313/blog/2021/06/03/nugget-loko/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/03/nugget-loko/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/amara/</loc>
+    <loc>http://localhost:1313/tags/amara/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/01/nugget-amara/</loc>
+    <loc>http://localhost:1313/blog/2021/06/01/nugget-amara/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tigerlilly/</loc>
+    <loc>http://localhost:1313/blog/2021/06/01/tigerlilly/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/01/tigerlilly/</loc>
+    <loc>http://localhost:1313/blog/2021/06/01/tony/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tony/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/2021/05/02/kosma/</loc>
+    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/06/01/tony/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/kosmo/</loc>
+    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/kosmo/</loc>
+    <loc>http://localhost:1313/tags/skyline/</loc>
+    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2021/05/01/kosmo/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/05/01/kosmo/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/skyline/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/paige/</loc>
+    <loc>http://localhost:1313/blog/2021/04/17/paige/</loc>
     <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/04/17/paige/</loc>
+    <loc>http://localhost:1313/tags/paige/</loc>
     <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pj/</loc>
+    <loc>http://localhost:1313/tags/sonny/</loc>
     <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sonny/</loc>
-    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/04/13/alfred-kanto/</loc>
+    <loc>http://localhost:1313/blog/2021/04/13/alfred-kanto/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/04/11/nugget-bohana/</loc>
+    <loc>http://localhost:1313/blog/2021/04/11/nugget-bohana/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/agent-orange/</loc>
+    <loc>http://localhost:1313/tags/agent-orange/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lelafo/</loc>
+    <loc>http://localhost:1313/tags/lelafo/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/04/02/lelafo/</loc>
+    <loc>http://localhost:1313/blog/2021/04/02/lelafo/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/odin/</loc>
+    <loc>http://localhost:1313/tags/odin/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/vulcan/</loc>
+    <loc>http://localhost:1313/tags/vulcan/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/green-giant/</loc>
+    <loc>http://localhost:1313/tags/herb/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/herb/</loc>
+    <loc>http://localhost:1313/tags/promise-keeper/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/promise-keeper/</loc>
+    <loc>http://localhost:1313/blog/2021/03/21/zava/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/03/21/zava/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/03/08/zanaka-daisy/</loc>
+    <loc>http://localhost:1313/blog/2021/03/08/zanaka-daisy/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/01/27/blossom-maitso/</loc>
+    <loc>http://localhost:1313/blog/2021/01/27/blossom-maitso/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jack/</loc>
+    <loc>http://localhost:1313/blog/2021/01/21/parasy/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/01/21/parasy/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2021/01/20/jack-mavokely/</loc>
+    <loc>http://localhost:1313/blog/2021/01/20/jack-mavokely/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/01/20/jackson/</loc>
+    <loc>http://localhost:1313/blog/2021/01/20/jackson/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nuhana/</loc>
+    <loc>http://localhost:1313/blog/2021/01/14/nuhana/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021/01/14/nuhana/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/arlo/</loc>
+    <loc>http://localhost:1313/blog/2020/12/06/manjaya/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/manjalla/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2020/12/06/manjaya/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2020/12/05/manjalla/</loc>
+    <loc>http://localhost:1313/blog/2020/12/05/manjalla/</loc>
     <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bolt/</loc>
+    <loc>http://localhost:1313/tags/bolt/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/12/04/coco/</loc>
+    <loc>http://localhost:1313/blog/2020/12/04/coco/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/foxey/</loc>
+    <loc>http://localhost:1313/tags/foxey/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/gambit/</loc>
+    <loc>http://localhost:1313/tags/gambit/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/landy/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2020/12/03/imelda/</loc>
+    <loc>http://localhost:1313/blog/2020/12/03/imelda/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/12/02/lokana/</loc>
+    <loc>http://localhost:1313/blog/2020/12/02/lokana/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/manjaka/</loc>
+    <loc>http://localhost:1313/tags/manjaia/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/12/01/manjaka/</loc>
+    <loc>http://localhost:1313/blog/2020/12/01/manjaia/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/10/28/manga/</loc>
+    <loc>http://localhost:1313/blog/2020/12/01/manjaka/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2020/10/28/manga/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bubbles/</loc>
+    <loc>http://localhost:1313/tags/bubbles/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/10/15/zanaka-bubbles/</loc>
+    <loc>http://localhost:1313/blog/2020/10/15/zanaka-bubbles/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/09/12/bleu-patch/</loc>
+    <loc>http://localhost:1313/blog/2020/09/12/bleu-patch/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/patch/</loc>
+    <loc>http://localhost:1313/tags/patch/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/stryfe/</loc>
+    <loc>http://localhost:1313/tags/stryfe/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/07/17/papafee/</loc>
+    <loc>http://localhost:1313/blog/2020/07/17/papafee/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sunny/</loc>
+    <loc>http://localhost:1313/tags/sunny/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/07/17/zanaka-sunny/</loc>
+    <loc>http://localhost:1313/blog/2020/07/17/zanaka-sunny/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/07/10/nugget-alla/</loc>
+    <loc>http://localhost:1313/blog/2020/07/10/nugget-alla/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/07/05/husbandry/</loc>
+    <loc>http://localhost:1313/blog/2020/07/05/panther-chameleon-husbandry/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/07/05/housing/</loc>
+    <loc>http://localhost:1313/blog/2020/07/05/panther-chameleon-caging-requirements/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/04/18/loko/</loc>
+    <loc>http://localhost:1313/blog/2020/04/18/loko/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/wet-dream/</loc>
+    <loc>http://localhost:1313/tags/wet-dream/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bing/</loc>
+    <loc>http://localhost:1313/tags/bing/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/04/14/bing/</loc>
+    <loc>http://localhost:1313/blog/2020/04/14/bing/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/minor/</loc>
+    <loc>http://localhost:1313/categories/minor/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/feng/</loc>
+    <loc>http://localhost:1313/tags/feng/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/04/07/feng/</loc>
+    <loc>http://localhost:1313/blog/2020/04/07/feng/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/04/06/arti/</loc>
+    <loc>http://localhost:1313/blog/2020/04/06/arti/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/fantara/</loc>
+    <loc>http://localhost:1313/tags/fantara/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/felipe-sanchez/</loc>
-    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2020/04/05/newline/</loc>
+    <loc>http://localhost:1313/blog/2020/04/05/newline/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/updates/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2020/04/04/amara/</loc>
+    <loc>http://localhost:1313/blog/2020/04/04/amara/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/03/29/bohana/</loc>
+    <loc>http://localhost:1313/blog/2020/03/29/bohana/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/02/15/kanto/</loc>
+    <loc>http://localhost:1313/blog/2020/02/15/kanto/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/huo/</loc>
+    <loc>http://localhost:1313/tags/huo/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020/01/01/huo/</loc>
+    <loc>http://localhost:1313/blog/2020/01/01/huo/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cowboy/</loc>
+    <loc>http://localhost:1313/tags/cowboy/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/flash/</loc>
+    <loc>http://localhost:1313/tags/flash/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/12/12/tigravavy/</loc>
+    <loc>http://localhost:1313/blog/2019/12/12/tigravavy/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/11/13/maitso/</loc>
+    <loc>http://localhost:1313/blog/2019/11/13/maitso/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/11/12/mavokely/</loc>
+    <loc>http://localhost:1313/blog/2019/11/12/mavokely/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/10/21/alfred/</loc>
+    <loc>http://localhost:1313/blog/2019/10/21/alfred/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/10/20/jack/</loc>
+    <loc>http://localhost:1313/blog/2019/10/20/jack/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mitselatra-stormy-weather/</loc>
+    <loc>http://localhost:1313/tags/mitselatra-stormy-weather/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/08/21/zanaka/</loc>
+    <loc>http://localhost:1313/blog/2019/08/21/zanaka/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/08/16/bubbles/</loc>
+    <loc>http://localhost:1313/blog/2019/08/16/bubbles/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/judy/</loc>
+    <loc>http://localhost:1313/tags/judy/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/07/15/bleu/</loc>
+    <loc>http://localhost:1313/blog/2019/07/15/bleu/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emma-frost/</loc>
+    <loc>http://localhost:1313/tags/emma-frost/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/button/</loc>
+    <loc>http://localhost:1313/tags/button/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/07/14/button/</loc>
+    <loc>http://localhost:1313/blog/2019/07/14/button/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/07/09/blossom/</loc>
+    <loc>http://localhost:1313/blog/2019/07/09/blossom/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/07/09/jude-alla/</loc>
+    <loc>http://localhost:1313/blog/2019/07/09/jude-alla/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/06/30/bio-bin/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/kako/</loc>
+    <loc>http://localhost:1313/tags/kako/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/06/10/sunny/</loc>
+    <loc>http://localhost:1313/blog/2019/06/10/sunny/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/06/09/nugget/</loc>
+    <loc>http://localhost:1313/blog/2019/06/09/nugget/</loc>
     <lastmod>2019-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/06/08/patch/</loc>
+    <loc>http://localhost:1313/blog/2019/06/08/patch/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/06/07/daisy/</loc>
+    <loc>http://localhost:1313/blog/2019/06/07/daisy/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lilly/</loc>
+    <loc>http://localhost:1313/blog/2019/06/06/lilly/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019/06/06/lilly/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2019/06/05/jude-kako/</loc>
+    <loc>http://localhost:1313/blog/2019/06/05/jude-kako/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/di/</loc>
+    <loc>http://localhost:1313/tags/di/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2018/11/04/di/</loc>
+    <loc>http://localhost:1313/blog/2018/11/04/di/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2018/01/30/alla/</loc>
+    <loc>http://localhost:1313/blog/2018/01/30/alla/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blue-bird/</loc>
+    <loc>http://localhost:1313/tags/blue-bird/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blue-birds-daughter/</loc>
+    <loc>http://localhost:1313/tags/blue-birds-daughter/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2017/11/21/kako/</loc>
+    <loc>http://localhost:1313/blog/2017/11/21/kako/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/leo/</loc>
+    <loc>http://localhost:1313/tags/leo/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/leos-daughter/</loc>
+    <loc>http://localhost:1313/tags/leos-daughter/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/candy-cane/</loc>
+    <loc>http://localhost:1313/tags/candy-cane/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2017/10/17/flash-judy/</loc>
+    <loc>http://localhost:1313/blog/2017/10/17/flash-judy/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2017/10/17/jude/</loc>
+    <loc>http://localhost:1313/blog/2017/10/17/jude/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2017/03/21/first-clutch/</loc>
+    <loc>http://localhost:1313/blog/2017/03/21/first-clutch/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/athena/</loc>
+    <loc>http://localhost:1313/tags/athena/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/lineage/</loc>
+    <loc>http://localhost:1313/categories/lineage/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/chams101/</loc>
+    <loc>http://localhost:1313/blog/2016/03/22/chitown/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/chitown/</loc>
+    <loc>http://localhost:1313/blog/2016/03/22/coloradochams/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/coloradochams/</loc>
+    <loc>http://localhost:1313/blog/2016/03/22/kevinstanford/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/kevinstanford/</loc>
+    <loc>http://localhost:1313/blog/2016/03/22/livingart/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/livingart/</loc>
+    <loc>http://localhost:1313/blog/2016/03/22/moderndaydragons/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/moderndaydragons/</loc>
+    <loc>http://localhost:1313/blog/2016/03/22/strohlsherptiles/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/22/strohlsherptiles/</loc>
+    <loc>http://localhost:1313/tags/miss-piggy/</loc>
     <lastmod>2016-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/minor-lineage/</loc>
-    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/miss-piggy/</loc>
-    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/perregrin/</loc>
-    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dio/</loc>
+    <loc>http://localhost:1313/tags/dio/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/firestarter/</loc>
+    <loc>http://localhost:1313/tags/firestarter/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jackie/</loc>
+    <loc>http://localhost:1313/tags/jackie/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jake/</loc>
+    <loc>http://localhost:1313/tags/jake/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/king/</loc>
+    <loc>http://localhost:1313/tags/king/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/bobbyruddock/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/bobbyruddock/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/brightside/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/brightside/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/canvas/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/canvas/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/chameleonparadise/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/chameleonparadise/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/chamsbydesign/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/chamsbydesign/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/yamaguchi/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/yamaguchi/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/chromatic/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/chromatic/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/highlighter/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/highlighter/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/joshuaillencik/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/joshuaillencik/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/kammerflage/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/kammerflage/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/kazkameleons/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/kazkameleons/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/naturesvangogh/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/naturesvangogh/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/newenglandchameleons/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/newenglandchameleons/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/pantherco/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/pantherco/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/panthercreek/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/panthercreek/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/21/shaneconlin/</loc>
+    <loc>http://localhost:1313/blog/2016/03/21/shaneconlin/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/macho/</loc>
+    <loc>http://localhost:1313/tags/macho/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mango-saphire/</loc>
+    <loc>http://localhost:1313/tags/mango-saphire/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/marley/</loc>
+    <loc>http://localhost:1313/tags/marley/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/outline/</loc>
+    <loc>http://localhost:1313/tags/outline/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/rambo/</loc>
+    <loc>http://localhost:1313/tags/rambo/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/rick-james/</loc>
+    <loc>http://localhost:1313/tags/rick-james/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shirley/</loc>
+    <loc>http://localhost:1313/tags/shirley/</loc>
     <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dante/</loc>
+    <loc>http://localhost:1313/tags/dante/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/20/ramblin/</loc>
+    <loc>http://localhost:1313/blog/2016/03/20/chams101/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/20/tropical/</loc>
+    <loc>http://localhost:1313/blog/2016/03/20/eyecandy/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/higgins/</loc>
+    <loc>http://localhost:1313/blog/2016/03/20/ramblin/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2016/03/20/roseexoticreptiles/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2016/03/20/tropical/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mr-america-jr/</loc>
+    <lastmod>2016-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/higgins/</loc>
     <lastmod>2016-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/19/briancollins/</loc>
+    <loc>http://localhost:1313/blog/2016/03/19/briancollins/</loc>
     <lastmod>2016-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016/03/19/mythicalexotics/</loc>
+    <loc>http://localhost:1313/blog/2016/03/19/brianstewart/</loc>
     <lastmod>2016-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jakes-daughter/</loc>
+    <loc>http://localhost:1313/blog/2016/03/19/mythicalexotics/</loc>
+    <lastmod>2016-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jakes-daughter/</loc>
     <lastmod>2015-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2015/02/11/judy/</loc>
+    <loc>http://localhost:1313/blog/2015/02/11/judy/</loc>
     <lastmod>2015-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2015/01/10/flash/</loc>
+    <loc>http://localhost:1313/blog/2015/01/10/flash/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/kings-daughter/</loc>
+    <loc>http://localhost:1313/tags/kings-daughter/</loc>
     <lastmod>2015-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/ambilobe/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/jiolahy/2023-03-12/m2/</loc>
   </url><url>
-    <loc>/babies/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/noko/2023-02-13/f5/</loc>
   </url><url>
-    <loc>/babies/available/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/noko/2023-02-13/f6/</loc>
   </url><url>
-    <loc>/faq/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/noko/2023-02-13/m2/</loc>
   </url><url>
-    <loc>/ambilobe/lineage/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artalla/2023-02-04/f2/</loc>
   </url><url>
-    <loc>/categories/pd-jani/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artalla/2023-02-04/f5/</loc>
   </url><url>
-    <loc>/tags/pd-jani/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/lokana/2022-09-10/f4/</loc>
   </url><url>
-    <loc>/blog/1/01/01/pdjani/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/lokana/2022-09-10/f5/</loc>
   </url><url>
-    <loc>/tos/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/manjaka/parasy/2022-08-20/m3/</loc>
   </url><url>
-    <loc>/babies/upcoming/</loc>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kosmo/mainty/2023-09-28/m9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/ralph/robina/2023-10-02/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/pepita/2023-09-21/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/pepita/2023-09-21/m3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/pepita/2023-09-21/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/pepita/2023-09-21/m5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/pepita/2023-09-21/m6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/f1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/f2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/f3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/m1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/m3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/kintana/2023-10-09/m5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/ralph/kosma/2023-09-01/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/ralph/kosma/2023-09-01/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/ralph/kosma/2023-09-01/m5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/ralph/kosma/2023-09-01/m6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-09-16/f1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-09-16/f2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-09-16/f3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-09-16/f4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-09-16/f5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-09-16/m1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/dia/vaosary/2023-08-28/m1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/dia/vaosary/2023-08-28/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/dia/vaosary/2023-08-28/m3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/dia/vaosary/2023-08-28/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kiborin/maize/2023-07-05/m7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/bibi/mamony/2023-07-09/m3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/dia/vaosary/2023-07-05/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/jimanga/bumblebee/2023-07-10/m9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kiborin/maize/2023-07-05/f2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kiborin/maize/2023-07-05/f3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kiborin/maize/2023-07-05/f4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/kiborin/maize/2023-07-05/m10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/zandrin/mara/2023-06-05/m1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleons-for-sale/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ambilobe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/faq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/purchase-a-chameleon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleon-lifespan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleon-price/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shipping-panther-chameleons/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ambilobe/lineage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/pd-jani/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chameleons-as-pets/</loc>
+  </url><url>
+    <loc>http://localhost:1313/panther-chameleon-growth-rate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/pd-jani/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/1/01/01/pdjani/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/best-place-to-buy-a-panther-chameleon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chameleons-hard-to-keep/</loc>
+  </url><url>
+    <loc>http://localhost:1313/raising-baby-panther-chameleons/</loc>
   </url>
 </urlset>

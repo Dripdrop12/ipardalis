@@ -28,3 +28,20 @@
 .sold-out:hover {
   box-shadow: 0 8px 16px 0 rgba(217, 83, 79,0.9);
 }
+
+p.price {
+  font-size:20px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+s.price.sale
+{
+  color: #c21f25;
+  font-size: 15px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+s.price.markup
+{
+  color: rgba(56,167,187,0.9);
+  font-size: 15px;
+  font-family: Helvetica, Arial, sans-serif;
+}

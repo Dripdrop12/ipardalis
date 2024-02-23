@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>manjalla on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/manjalla/</link>
-    <description>Recent content in manjalla on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Manjalla on </title>
+    <link>http://localhost:1313/tags/manjalla/</link>
+    <description>Recent content in Manjalla on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/manjalla/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/manjalla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arti x Manjalla</title>
+      <link>http://localhost:1313/blog/2022/08/19/arti-manjalla/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022/08/19/arti-manjalla/</guid>
+      <description>This pairing was between one of our F1 females from Colorado Chameleon, Manjalla, and our male from Brian Stewart, Arti. They both come from some great Ambilobe lines from Colorado Chameleons and Kammerflage Kreations. The clutch was small and Manjalla was very weak, so we were only able to keep one baby alive from this group.&#xA;Hatch dates 8/19/2022 - 8/20/2022 Hatch rate 2/17 M1</description>
+    </item>
     <item>
       <title>manjaya</title>
-      <link>/blog/2020/12/06/manjaya/</link>
+      <link>http://localhost:1313/blog/2020/12/06/manjaya/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/12/06/manjaya/</guid>
+      <guid>http://localhost:1313/blog/2020/12/06/manjaya/</guid>
       <description>Manjaya s Manjaka&amp;rsquo;s sister and she brings fresh genetics from a new WC sire, Arlo, who was acclimated by Chris Neeley at Colorado Chameleon. Arlo has a distinct look with red sprinkled on blue bars and a nice yellow body. Very cool Ambilobe import and one of the nicer ybbb with red highlights to come in the past few years. We are very lucky to have the opportunity to work with his daughters!</description>
     </item>
-    
     <item>
       <title>manjalla</title>
-      <link>/blog/2020/12/05/manjalla/</link>
+      <link>http://localhost:1313/blog/2020/12/05/manjalla/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/12/05/manjalla/</guid>
+      <guid>http://localhost:1313/blog/2020/12/05/manjalla/</guid>
       <description>Manjalla is Manjaka&amp;rsquo;s sister and she brings fresh genetics from a new WC sire, Arlo, who was acclimated by Chris Neeley at Colorado Chameleon. Arlo has a distinct look with red sprinkled on blue bars and a nice yellow body. Very cool Ambilobe import and one of the nicer ybbb with red highlights to come in the past few years. We are very lucky to have the opportunity to work with his daughter!</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,39 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mitselatra (Stormy Weather) on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/mitselatra-stormy-weather/</link>
-    <description>Recent content in Mitselatra (Stormy Weather) on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Mitselatra (Stormy Weather) on </title>
+    <link>http://localhost:1313/tags/mitselatra-stormy-weather/</link>
+    <description>Recent content in Mitselatra (Stormy Weather) on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mitselatra-stormy-weather/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mitselatra-stormy-weather/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zanaka</title>
-      <link>/blog/2019/08/21/zanaka/</link>
+      <link>http://localhost:1313/blog/2019/08/21/zanaka/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/08/21/zanaka/</guid>
+      <guid>http://localhost:1313/blog/2019/08/21/zanaka/</guid>
       <description>Zanaka is a giant F2 Ambilobe from Kammerflage Kreations. His personality was gentle to the extreme and he was hard to get fired up. It was almost as if other males didn&amp;rsquo;t exist, but when he saw a female, he would light up and start bobbing like a mad man. He was a phenomenal animal to work with, but he had a lot more red in his bars than what our long-term project goals are.</description>
     </item>
-    
     <item>
       <title>Lineage: Kammerflage Kreations</title>
-      <link>/blog/2016/03/21/kammerflage/</link>
+      <link>http://localhost:1313/blog/2016/03/21/kammerflage/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/03/21/kammerflage/</guid>
-      <description>Kammerflage Kreations Manome-toky (Promise Keeper) Sire Bararata-fatio (Bamboo Falcon) Dam Vony-reny Promise keeper
-Promise keeper1
-Promise keeper2
-Promise keeper3
-Promise keeper4
-Bararata-fatio (Bamboo Falcon) 67102557 214752709408715 5451583889820614656 n
-67119195 2313830222028769 4345136138969677824 n
-Ankoso-bolamena (Goldie) Sire Ihany-drako (My Friend) Dam Hay-vao (Novel) Ihany-drako (My Friend) Sire Ampiosonga-fantatra (Also Known As) Dam Unknown My friend
-Myfriend
-Myfriend1
-Hay-vao (Novel) Sire WC Bakaina (Divergent) Dam Goavy (Guava) Ampiosonga-fantatra (Also Known As) Sire Unknown Dam Unknown Alsoknownas</description>
+      <guid>http://localhost:1313/blog/2016/03/21/kammerflage/</guid>
+      <description>Kammerflage Kreations Manome-toky (Promise Keeper) Sire Bararata-fatio (Bamboo Falcon) Dam Vony-reny Promise keeper&#xA;Promise keeper1&#xA;Promise keeper2&#xA;Promise keeper3&#xA;Promise keeper4&#xA;Bararata-fatio (Bamboo Falcon) 67102557 214752709408715 5451583889820614656 n&#xA;67119195 2313830222028769 4345136138969677824 n&#xA;Ankoso-bolamena (Goldie) Sire Ihany-drako (My Friend) Dam Hay-vao (Novel) Ihany-drako (My Friend) Sire Ampiosonga-fantatra (Also Known As) Dam Unknown My friend&#xA;Myfriend&#xA;Myfriend1&#xA;Hay-vao (Novel) Sire WC Bakaina (Divergent) Dam Goavy (Guava) Ampiosonga-fantatra (Also Known As) Sire Unknown Dam Unknown Alsoknownas</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kings-daughter on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/kings-daughter/</link>
-    <description>Recent content in kings-daughter on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Kings-Daughter on </title>
+    <link>http://localhost:1313/tags/kings-daughter/</link>
+    <description>Recent content in Kings-Daughter on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/kings-daughter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kings-daughter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flash</title>
-      <link>/blog/2015/01/10/flash/</link>
+      <link>http://localhost:1313/blog/2015/01/10/flash/</link>
       <pubDate>Sat, 10 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2015/01/10/flash/</guid>
+      <guid>http://localhost:1313/blog/2015/01/10/flash/</guid>
       <description>Flash was our first generation breeder from Cowboy (CH) at Chameleon&amp;rsquo;s Paradise. He had a very gentle personality and only gave us one healthy clutch with Judy, from which we kept Jude. We were still learning when we got Flash and he passed after consuming a large number of wild bugs when pesticides had been applied to the lawn behind ours. The vet said that he had kidney failure like he&amp;rsquo;d been poisoned, but we have been continuing to improve our husbandry year-after-year in his honor.</description>
     </item>
-    
   </channel>
 </rss>

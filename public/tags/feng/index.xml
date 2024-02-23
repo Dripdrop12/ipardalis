@@ -1,36 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>feng on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/feng/</link>
-    <description>Recent content in feng on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Feng on </title>
+    <link>http://localhost:1313/tags/feng/</link>
+    <description>Recent content in Feng on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/feng/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/feng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feng (风)</title>
-      <link>/blog/2020/04/07/feng/</link>
+      <link>http://localhost:1313/blog/2020/04/07/feng/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/04/07/feng/</guid>
-      <description> Another little girl we got from Frank Payne. She&amp;rsquo;s very healthy and vibrant with an nice dark background on her body.
-Feng
-Feng1
-Feng10
-Feng11
-Feng12
-Feng13
-Feng14
-Feng2
-Feng3
-Feng4
-Feng5
-Feng6
-Feng7
-Feng8
-Feng9
-Sire M1 Dam F3 </description>
+      <guid>http://localhost:1313/blog/2020/04/07/feng/</guid>
+      <description> Another little girl we got from Frank Payne. She&amp;rsquo;s very healthy and vibrant with an nice dark background on her body.&#xA;Feng&#xA;Feng1&#xA;Feng10&#xA;Feng11&#xA;Feng12&#xA;Feng13&#xA;Feng14&#xA;Feng2&#xA;Feng3&#xA;Feng4&#xA;Feng5&#xA;Feng6&#xA;Feng7&#xA;Feng8&#xA;Feng9&#xA;Sire M1 Dam F3 </description>
     </item>
-    
   </channel>
 </rss>

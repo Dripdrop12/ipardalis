@@ -1,30 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>parasites on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</title>
-    <link>/tags/parasites/</link>
-    <description>Recent content in parasites on iPardalis - Ambilobe Panther Chameleons for sale. Panther chameleons for sale near me.</description>
+    <title>Parasites on </title>
+    <link>http://localhost:1313/tags/parasites/</link>
+    <description>Recent content in Parasites on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/parasites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/parasites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parasites and Ethics - Coccidia Found in Furcifer pardalis</title>
+      <link>http://localhost:1313/blog/2023/07/04/parasites_coccidia/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/07/04/parasites_coccidia/</guid>
+      <description>Executive Summary Coccidia Basics Structure Life Cycle Known Species Isospora brygooi Choleoeimeria glawi Eimeria vencesi Discussion Reference TL;DR&#xA;This article examines three of species of Coccidia which are known to infect Furcifer pardalis and poses a theory that Choleoeimeria glawi (Figure 3) are more likely to cause serious illness based on extant literature and our experience. More clinical research is warranted because we are not specialists in parasitology or veterinary microbiology, and we did not attempt to bifurcate our clinical results by Coccidia species.</description>
+    </item>
+    <item>
+      <title>Parasites and Ethics: Ethics</title>
+      <link>http://localhost:1313/blog/2022/11/19/parasites_ethics/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022/11/19/parasites_ethics/</guid>
+      <description>We believe that sharing information about our experience with parasites will not only help our customers keep their animals healthy, but it could help build awareness and promote preventative actions throughout the industry. Our hope is that it will accomplish that goal and build stronger relationships with our customers. Eventually, it will result in long-term project sustainability and a stronger community of hobbyists.&#xA;Most people would not publish this story about parasites on their business page because most people are concerned about short-term revenue and less concerned about their integrity and animal welfare.</description>
+    </item>
     <item>
       <title>Parasites and Ethics: Origin Story</title>
-      <link>/blog/2021/07/18/parasites_origin/</link>
+      <link>http://localhost:1313/blog/2021/07/18/parasites_origin/</link>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/07/18/parasites_origin/</guid>
-      <description>Rye, for good luck.
-We received 5 females from reputable CB sources that had issues during/after quarantine since 2017. The first 2 were in 2017. They never had great appetites and seemed to have respiratory issues. We brought them to the vet and kept them isolated for 60 days; however, the vet did not see anything wrong with them, and after they seemed to be healthy enough, we tried to breed them.</description>
+      <guid>http://localhost:1313/blog/2021/07/18/parasites_origin/</guid>
+      <description>Rye, for good luck.&#xA;We received 5 females from reputable CB sources that had issues during/after quarantine since 2017. The first 2 were in 2017. They never had great appetites and seemed to have respiratory issues. We brought them to the vet and kept them isolated for 60 days; however, the vet did not see anything wrong with them, and after they seemed to be healthy enough, we tried to breed them.</description>
     </item>
-    
     <item>
       <title>Parasites and Ethics: Intro</title>
-      <link>/blog/2021/07/12/parasites_and_ethics/</link>
+      <link>http://localhost:1313/blog/2021/07/12/parasites_and_ethics/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/07/12/parasites_and_ethics/</guid>
+      <guid>http://localhost:1313/blog/2021/07/12/parasites_and_ethics/</guid>
       <description>tldr; Every animal you acquire, whether it be captive bred (CB) or wild caught (WC), should receive multiple fecal exams. A positive fecal should be managed in consultation with a qualified vet who has experience working with chameleons. Many different species of parasites do not shed at a constant rate, so a negative fecal is not a gaurantee that the animal is clean. We found Coccidia in 2 out of 25 exams that we performed in June-July 2021, and plan to run fecals on every animal in our possession and share the results/methods here.</description>
     </item>
-    
   </channel>
 </rss>
