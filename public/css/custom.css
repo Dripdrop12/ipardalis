@@ -46,6 +46,6 @@ s.price.markup
   font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
 }
 
-btn.danger {
+.btn.btn-danger {
   background-color: rgb(255, 66, 0);
 }
