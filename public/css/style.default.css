@@ -949,7 +949,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .panel.sidebar-menu ul.nav ul li a {
   position: relative;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
   font-weight: normal;
   text-transform: none !important;
   display: block;

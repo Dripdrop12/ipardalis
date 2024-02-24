@@ -31,17 +31,21 @@
 
 p.price {
   font-size:20px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
 }
 s.price.sale
 {
   color: rgb(255, 66, 0);
   font-size: 15px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
 }
 s.price.markup
 {
   color: rgb(53, 100, 165);
   font-size: 15px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
+}
+
+btn.danger {
+  background-color: rgb(255, 66, 0);
 }
