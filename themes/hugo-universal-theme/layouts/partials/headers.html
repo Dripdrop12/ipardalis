@@ -17,7 +17,7 @@
 {{ if gt (len $keywords) 0 }}
 <meta name="keywords" content="{{ delimit (uniq $keywords) ", " }}">
 {{ end }}
-{{ $description_plain := default .Site.Params.defaultDescription .Description | markdownify | plainify }}
+{{ $description_plain := default .Summary .Description | markdownify | plainify }}
 <meta name="description" content="{{ $description_plain }}">
 
 {{ hugo.Generator }}

@@ -2,6 +2,7 @@
 {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
 {{ if isset .Params "keywords" }}{{ range .Params.keywords }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
 {{ $t := time.Now }}
+{{ $description_plain := default .Summary .Description | markdownify | plainify }}
 
 <script type="application/ld+json">
 {{ if .IsHome -}}
@@ -12,7 +13,7 @@
     "alternateName": "Individually-raised pardalis",
     "legalName": "iPardalis, LLC",
     "url": {{ .Site.BaseURL }},
-    "description": {{ .Site.Params.defaultDescription }},
+    "description": {{ $description_plain }},
     "keywords": [{{ delimit (uniq $keywords) ", " }}],
     "logo": {{ .Site.Params.Logo | absURL }},
     "image": {{ .Site.Params.featured_img }},
@@ -52,7 +53,7 @@
     "alternateName": "Individually-raised pardalis",
     "legalName": {{ .Site.Params.header }},
     "url": {{ .Site.BaseURL }},
-    "description": {{ .Description | plainify | safeHTML }},
+    "description": {{ $description_plain }},
     "keywords": [{{ delimit (uniq $keywords) ", " }}],
     "logo": {{ .Site.Params.Logo | absURL }},
     "image": {{ .Site.Params.featured_img }},
@@ -191,7 +192,7 @@
   },
   "copyrightHolder" : {{ .Site.Params.header }},
   "copyrightYear" : "2024",
-  "description": {{ .Description | plainify | safeHTML }},
+  "description": {{ $description_plain }},
   "keywords": [{{ delimit (uniq $keywords) ", " }}]
 }
 {{ end }}
