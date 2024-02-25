@@ -4,7 +4,7 @@ date = "2015-02-11"
 tags = ["judy", "candy cane", "jakes-daughter", "jake", "jude", "nugget", "alfred", "blossom",
   "jack", "sunny", "patch", "lilly", "daisy", "button"]
 categories = ["retired pardalis"]
-banner = "img/ambilobe/judy/Judy (1)"
+banner = "img/ambilobe/judy/Judy1"
 +++
 
 {{< load-photoswipe >}}
