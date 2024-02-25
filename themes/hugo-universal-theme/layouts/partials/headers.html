@@ -7,7 +7,7 @@
 {{ with .Params.header_title }}
   <title>{{ . }}</title>
 {{ else }}
-<title>{{ .Site.Title }}</title>
+<title>{{ .Site.Title }} - {{ .Params.title }}</title>
 {{ end }}
 
 <meta name="author" content="{{ .Param "author" }}" />
