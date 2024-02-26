@@ -1,9 +1,10 @@
 +++
 title = "Ambilobe Panther Chameleons for sale "
-header_title = "Ambilobe Panther Chameleons for sale - iPardalis"
+header_title = "Ambilobe Panther Chameleons for sale | iPardalis"
 id = "available"
-description = "Our captive-bred Ambilobe Panther Chameleons for sale are at least 3 months of age, healthy, vibrant, red or yellow body blue bar Ambilobe, and ready to thrive as a pet in your home."
+description = "Our individually-raised Ambilobe Panther Chameleons are at least 3 months of age, healthy, vibrant, red or yellow body blue bar Ambilobe."
 keywords = ["Ambilobe Panther Chameleon for sale"]
+banner = "img/ambilobe/papafee/papafee3"
 +++
 
 > **Automatic volume discounts on 2+ animals**

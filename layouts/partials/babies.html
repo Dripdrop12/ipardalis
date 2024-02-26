@@ -10,7 +10,7 @@
       <picture>
         <source srcset="{{.context.image}}.webp" type="image/webp">
         <source srcset="{{.context.image}}.jpg" type="image/jpeg">
-        <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} SOLD OUT" style="width:100%">
+        <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} SOLD OUT" style="width:100%">
       </picture>
       <figcaption>
         {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong> | {{ if .context.phenotype }}{{.context.phenotype}}{{ else }}YBBB Ambilobe{{ end }}
@@ -39,7 +39,7 @@
               <picture>
                 <source srcset="{{.context.image}}.webp" type="image/webp">
                 <source srcset="{{.context.image}}.jpg" type="image/jpeg">
-                <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="{{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
+                <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
                 <figcaption>
                   {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong> | {{ if .context.phenotype }}
                 {{.context.phenotype}}

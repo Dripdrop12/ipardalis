@@ -175,6 +175,7 @@ paginate = 10
 
     about_us = "<p>Individually-raised Panther Chameleons. We're a chameleon breeder located in Poolesville, Maryland. We are working with our 7th generation of Ambilobe and 2nd gen of Furcifer minor (Lesser Chameleons). We also have a few colubrid and ball python projects. As lifelong reptile keepers, we hold memberships in Responsible Reptile Keeping and USARK and we sponsor Reptifiles and the Chameleon Forums.</p>"
     copyright = "Copyright (c) 2024, iPardalis, LLC; all rights reserved."
+    copyright_year = "2024"
 
     # Format dates with Go's time formatting ta
     date_format = "January 2, 2006"
@@ -197,7 +198,9 @@ paginate = 10
     linkedin = "jonmarkhill"
     youtube = "ipardalis"
     tiktok = "ipardalis"
-    featured_img = "/img/ambilobe/papafee/papafee3.webp"
+    featured_img = "img/ambilobe/papafee/papafee3.webp"
+    default_sharing_image = "img/panther-chameleons-for-sale.png"
+    for_sale_page = "panther-chameleons-for-sale"
     
 
 [Permalinks]
