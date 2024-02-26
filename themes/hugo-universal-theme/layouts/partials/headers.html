@@ -64,7 +64,7 @@
 <!-- Facebook OpenGraph tags -->
 {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
 {{ $has_image :=  isset .Params "banner" }}
-{{ $image := cond $has_image .Params.banner (.Site.Params.default_sharing_image | default "img/sharing-default.png") }}
+{{ $image := cond $has_image (print .Params.banner ".webp") (.Site.Params.default_sharing_image | default "img/sharing-default.png") }}
 {{ $is_valid_image := print "static/" $image | fileExists }}
 {{ if $is_valid_image }}
 {{ $image_ext := path.Ext $image }}

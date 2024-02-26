@@ -1,5 +1,5 @@
 baseurl = "https://ipardalis.com/"
-title = "iPardalis"
+title = "iPardalis | Chameleons for Sale | Panther Chameleon for sale | Ambilobe Panther Chameleons for sale | Panther Chameleons for sale near me"
 theme = ["hugo-notice", "hugo-universal-theme"]
 languageCode = "en-us"
 ignoreFiles = ["\\.qmd$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -146,10 +146,9 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    title = "Ambilobe Panther Chameleons for sale - iPardalis"
     author = "Jonathan Mark Hill"
-    defaultKeywords = ""
-    defaultDescription = ""
+    defaultKeywords = ["Panther Chameleon"]
+    defaultDescription = "We are panther chameleon breeders located in Poolesville, Maryland, who specialize in yellow-bodied and red-bodied Ambilobe panther chameleons."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAb_MQa8J2AgFfZG6U-qv-b1B0CcoJyGKQ"
