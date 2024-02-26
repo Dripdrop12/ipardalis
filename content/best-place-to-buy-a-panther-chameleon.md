@@ -1,13 +1,13 @@
 +++
 title = "What is the best place to buy a Panther Chameleon?"
 header_title = "What is the best way to buy a Panther Chameleon?"
-description = "It is best to work with a breeder dedicated to Panther Chameleons and the locality you are interested in acquiring. Breeders have difficulty staying organized and keeping females straight, especially if they are group raising multiple locales or purchasing wholesale from the actual breeder before selling the chameleons to their customers."
-keywords = ["Top 5 Panther Chameleon Breeders", "Where do you buy a chameleon", "where to buy a panther", "Nosy Be Panther Chameleon for sale", "Ambanja Panther Chameleon for sale", "Sambava Panther Chameleon for sale", "Nosy Mitsio Panther Chameleon for sale", "Ankify Panther Chameleon for sale", "Ankaramy Panther Chameleon for sale", "Antalaha Panther Chameleon for sale", "Cap Est Panther Chameleon for sale", "Maroantsetra Panther Chameleon for sale", "Nosy Faly Panther Chameleon for sale", "Nosy Boraha Panther Chameleon for sale", "Ambato Panther Chameleon for sale", "Tamatave Panther Chameleon for sale", "Vohemar Panther Chameleon for sale", "what are red flags in a chameleon breeder", "Panther Chameleon scams", "How to select panther chameleon breeders", "How do I choose an ethical breeder", "what are red flags in a chameleon breeder", "how do you know if a panther chameleon breeder is good"]
+description = "It is best to work with a breeder who specializes in Panther Chameleons and the locality you are interested in acquiring."
+keywords = ["What is the best place to buy a Panther Chameleon"]
 faq = true
 +++
 
 {{< faq title="What is the best place to buy a Panther Chameleon?" >}}
-It is best to work with a breeder dedicated to Panther Chameleons and specializing in the locality you are interested in. Flippers and "gotta catch 'em all" houses have difficulty staying organized and keeping females straight, especially if they are group raising multiple locales or purchasing wholesale from the actual breeder before selling the chameleons to their customers. You are more likely to get the support you need from a specialist, and you are less likely to get scammed.  
+It is best to work with a breeder who specializes in Panther Chameleons and the locality you are interested in acquiring. Flippers and "gotta catch 'em all" houses have difficulty staying organized and keeping females straight, especially if they are group raising multiple locales or purchasing wholesale from the actual breeder before selling the chameleons to their customers. You are more likely to get the support you need from a specialist, and you are less likely to get scammed.  
 {{< /faq >}}
 
 {{< faq title="Common Panther Chameleon Scams" >}}
