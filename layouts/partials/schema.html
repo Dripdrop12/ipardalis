@@ -217,7 +217,8 @@
     "@type": "Person",
     "name": {{ .Site.Params.author }}
   },
-  "mainEntityOfPage": { "@type": "WebPage" },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
     "publisher": {
       "@id": {{ print .Site.BaseURL "#organization" }}
     }
