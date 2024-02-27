@@ -111,7 +111,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/jonmarkhill"
+    url = "https://www.facebook.com/ipardalis"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
     
 [[menu.topbar]]
@@ -191,7 +191,7 @@ paginate = 10
       </p>
       """
     header = "iPardalis, LLC"
-    facebook = "jonmarkhill"
+    facebook = "ipardalis"
     instagram = "ipardalis"
     github = "Dripdrop12"
     linkedin = "jonmarkhill"
