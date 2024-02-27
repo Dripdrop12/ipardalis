@@ -28,7 +28,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [How much do Panther Chameleons usually cost?]({{< ref "/panther-chameleon-price.md" >}})
 - [What is the cost of shipping a panther chameleon?]({{< ref "/shipping-panther-chameleons.md" >}})
 - [What is the lifespan of a Panther Chameleon?]({{< ref "/panther-chameleon-lifespan.md" >}})
-- [How fast do Panther Chameleons grow?]({{< ref "/panther-chameleon-growth-rate.md" >}})
+- [How fast do Panther Chameleons grow?]({{< ref "/baby-panther-chameleon-growth-rate.md" >}})
 - [Are Panther Chameleons friendly?]({{< ref "/chameleons-as-pets.md" >}})
 - [Are panther chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
 
