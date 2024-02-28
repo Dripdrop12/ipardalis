@@ -1,8 +1,10 @@
 +++
 title = "Lineage: Chromatic Chameleons"
+description = "Lineage of Chromatic Chameleons incorporated into the iPardalis project"
 date = "2016-03-21"
 tags = ["bleu", "maitso", "mavokely", "loko", "bolt", "felipe sanchez", "kromatisk", "shirley", "jackie", "lokana"]
 categories = ["lineage"]
+keywords = ["Chromatics Chameleons"]
 banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 +++
 
@@ -11,6 +13,7 @@ banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 ## [Chromatic Chameleons](https://www.chromaticchameleons.com/)
 
 ---
+Jay and Kim are phenomenal Panther Chameleon breeders. They got started a few years before us, and we had the benefit of being able to watch their success. We find ourselves grabbing a female or two from them every year because they have a very similar breeding philosophy as we do for yellow bodied blue bar Ambilobe Panther Chameleons. 
 
 ### Felipe Sanchez
 
@@ -20,7 +23,7 @@ Sire
 Dam
 : [Cowboy's daughter]({{< ref "/blog/chameleonparadise.md#cowboy" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Felipe Sanchez" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/Felipe Sanchez" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 
@@ -32,7 +35,7 @@ Sire
 Dam
 : [JJ's Daughter]({{< ref "/blog/chromatic.md#jjs-daughter" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Capella" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/Capella" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 
@@ -44,7 +47,7 @@ Sire
 Dam
 : [Daisy]({{< ref "/blog/chromatic.md#daisy" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Kromatisk" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/Kromatisk" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 
@@ -114,7 +117,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="img/ambilobe/lineage/Xanthos" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/Xanthos" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 

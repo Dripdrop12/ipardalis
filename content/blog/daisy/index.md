@@ -10,7 +10,7 @@ banner = "img/ambilobe/daisy/daisy"
 
 Daisy also has some really nice purples, hatched 6/5/19 from Jude x Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. Her 19 male siblings were bright yellow bodied blue bar Ambilobe, with the exception of one male who fired red bar. I hope she can function like a female version of her brother, Nugget, in our pairings.
 
-{{< gallery dir="/img/ambilobe/daisy" />}}
+{{< no_num_gallery dir="/img/ambilobe/daisy" more=" | Female Ambilobe Panther Chameleon" />}}
 
 mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
@@ -28,7 +28,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Jude x Kako Tree" >}}
 
 {{< rawhtml >}}
 

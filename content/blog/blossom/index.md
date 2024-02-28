@@ -1,5 +1,7 @@
 +++
 title = "Blossom"
+header_title = "Blossom | Ambilobe Panther Chameleon"
+description = "iPardalis 3rd gen Ambilobe Panther Chameleon | Blossom"
 date = "2019-07-09"
 tags = ["blossom", "jude", "alla", "JJ"]
 categories = ["retired-pardalis"]
@@ -10,7 +12,7 @@ banner = "img/ambilobe/blossom/blossom1"
 
 We got lucky holding back Blossom from Jude x Alla. He looks like a mini-JJ, Alla's sire, and is a key member of our 3rd generation breeding group. His personality is very similar to Alla's in that he is very bold and rarely defensive. His yellows are bright and his colors are very vibrant. I could not be happier with how he has turned out!
 
-{{< gallery dir="/img/ambilobe/blossom" />}}
+{{< no_num_gallery dir="/img/ambilobe/blossom" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : F3-CG12
@@ -23,7 +25,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Jude x Alla Tree" >}}
 
 {{< rawhtml >}} 
 

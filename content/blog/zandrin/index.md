@@ -8,10 +8,10 @@ banner = "img/ambilobe/zandrin/zandrin"
 
 {{< load-photoswipe >}}
 
-Zandrin is our 4th gen HB from Nugget x Loko. He has amazing yellows with blue bars and some vibrant red highlights on his turrets and spine. He is a phenomenal Ambilobe Panther Chameleon.
+Zandrin is our 4th gen hold back Ambilobe Panther Chameleon from Nugget x Loko. He has amazing yellows with blue bars and some vibrant red highlights on his turrets and spine. He is a phenomenal Ambilobe Panther Chameleon.
 
 
-{{< gallery dir="/img/ambilobe/zandrin" />}}
+{{< no_num_gallery dir="/img/ambilobe/zandrin" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*

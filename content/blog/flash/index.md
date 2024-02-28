@@ -11,7 +11,7 @@ banner = "img/ambilobe/flash/1 Year"
 
 Flash was our first generation breeder from Cowboy (CH) at [Chameleon's Paradise](http://www.chameleonparadise.net/). He had a very gentle personality and only gave us one healthy clutch with Judy, from which we kept Jude. We were still learning when we got Flash and he passed after consuming a large number of wild bugs when pesticides had been applied to the lawn behind ours. The vet said that he had kidney failure like he'd been poisoned, but we have been continuing to improve our husbandry year-after-year in his honor. We want to ensure that every other possible cause is ruled out when future breeders pass, and that they live to their full life expectancy.
 
-{{< gallery dir="/img/ambilobe/flash" />}}
+{{< no_num_gallery dir="/img/ambilobe/flash" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial Group
 : *F1*

@@ -9,9 +9,9 @@ banner = "img/ambilobe/jude/DSC00383"
 
 {{< load-photoswipe >}}
 
-Jude was the alpha male from Flash and Judy's [clutch]({{< ref "/blog/flash-judy.md" >}}), hatched 10/17/17. He has strong yellows and a fierce attitude! We were lucky to select a male that looks a lot like his grandfather, Cowboy. He has now sired the majority of our babies and we will breed him sparingly moving forward.
+Jude was the alpha male Panther Chameleon from Flash and Judy's [clutch]({{< ref "/blog/flash-judy.md" >}}), hatched 10/17/17. He has strong yellows and a fierce attitude! We were lucky to select a male that looks a lot like his grandfather, Cowboy. He has now sired the majority of our babies and we will breed him sparingly moving forward.
 
-{{< gallery dir="/img/ambilobe/jude" />}}
+{{< no_num_gallery dir="/img/ambilobe/jude" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial Group
 : *F2*

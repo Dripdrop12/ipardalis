@@ -10,7 +10,7 @@ banner = "img/ambilobe/alla/alla"
 
 Alla is our most successful female breeder to date. She has a gregarious personality and brings some of the nicest YBBB Kammerflage Kreations lineage into our project via her sire, JJ. We were very lucky to pick her up from Panther Creek Chameleons back in 2017 before JJ was sold to Chromatic Chameleons.
 
-{{< gallery dir="/img/ambilobe/alla" />}}
+{{< no_num_gallery dir="/img/ambilobe/alla" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : F8-CG11

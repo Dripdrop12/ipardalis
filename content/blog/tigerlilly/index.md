@@ -11,7 +11,7 @@ banner = "img/ambilobe/tigerlilly/tigerlilly"
 Tiger Lilly is one of the most stunning females I have seen in person. She has an amazing bar/body contrast, organge highlights in her face and turrets and an orang glow on her arms and tail. We are very lucky to get to work with her. Hopefully, those traits are a sign that she is as cool as her sire, Nugget.
 
 
-{{< gallery dir="/img/ambilobe/tigerlilly" />}}
+{{< no_num_gallery dir="/img/ambilobe/tigerlilly" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*

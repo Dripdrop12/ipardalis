@@ -10,7 +10,7 @@ banner = "img/ambilobe/sunny/sunny"
 
 Sunny was my second favorite female from the Jude x Kako clutch, hatched 6/5/19. She reminds me a lot of her mother, Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. With any luck we will be able to grap a killer yellow body blue bar male from her and Zanaka.
 
-{{< gallery dir="/img/ambilobe/sunny" />}}
+{{< no_num_gallery dir="/img/ambilobe/sunny" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3-CG4*

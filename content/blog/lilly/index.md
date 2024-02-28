@@ -10,7 +10,7 @@ banner = "img/ambilobe/lilly/lilly"
 
 Lilly has some really nice purples, hatched 6/5/19 from Jude x Kako. It will be a lot of fun to watch her eggs hatch to see which traits she is carrying. Her daughters will hopefully be equally beautiful, but we have a theory that her coloration indicates her sons will be killer yellow body blue bar (YBBB) Ambilobe!
 
-{{< gallery dir="/img/ambilobe/lilly" />}}
+{{< no_num_gallery dir="/img/ambilobe/lilly" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3-CG4*

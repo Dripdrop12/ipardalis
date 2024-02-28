@@ -10,7 +10,7 @@ banner = "img/ambilobe/button/button"
 
 Button was a female with nice high contrast barring from Jude x Alla. We bred her a few times before letting her go to make space for fresh genetics, but she was a phenomenal breeder for us! It will be interesting to see how much the high contrast carries into her offspring. 
 
-{{< gallery dir="/img/ambilobe/button" />}}
+{{< no_num_gallery dir="/img/ambilobe/button" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : F3-CG12
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Jude x Alla Tree" >}}
 
 {{< rawhtml >}} 
 

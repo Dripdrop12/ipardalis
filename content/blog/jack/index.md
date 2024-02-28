@@ -10,7 +10,7 @@ banner = "img/ambilobe/jack/jack"
 
 Jack is a beautiful Ambilobe from our Jude x Alla pairing. When he was young, his yellows were dominant and covered his entire body. However, as he aged, oranges started to creep into his body from his gular and his tail turned a vibrant red. He is a beautiful animal, but that is not the look we are breeding for long-term, aside from his clean blue bars and yellow body. We decided to let him go to make room for other potential holdbacks.
 
-{{< gallery dir="/img/ambilobe/jack" />}}
+{{< no_num_gallery dir="/img/ambilobe/jack" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : F3-CG12
@@ -23,7 +23,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Jude x Alla Tree" >}}
 
 {{< rawhtml >}} 
 <div id="grampstextdoc">

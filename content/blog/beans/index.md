@@ -11,7 +11,7 @@ banner = "img/ambilobe/beans/beans"
 Beans is a great YBBB Ambilobe female from our good friend Brian Stewart. McNulty is a male from one of Brian's old projects from the Stryfe line and he paired him up with a female from one of his recent pairings with Artemis from Colorado Chameleons. These should be a lot of fun to prove out because they have three ybbb sires in the closest lineage. Top notch stuff as always!
 
 
-{{< gallery dir="/img/ambilobe/beans" />}}
+{{< no_num_gallery dir="/img/ambilobe/beans" more=" | Female Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG13*

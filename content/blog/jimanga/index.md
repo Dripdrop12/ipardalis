@@ -8,10 +8,10 @@ banner = "img/ambilobe/jimanga/jimanga8"
 
 {{< load-photoswipe >}}
 
-Jimanga is one of our 5th gen Ambilobe breeders. He comes from our Manga x Imelda pairing, a great collab with Ramblin' Exotics. I can trace his personality all the way back to Kako. They teach you that chameleons are a look-but-don't-touch pet, the hard way haha... but what comes with that is an absolutely amazing defense display. Definitely something I really enjoy about these guys!
+Jimanga is one of our 5th gen Ambilobe Chameleon breeders. He comes from our Manga x Imelda pairing, a great collab with Ramblin' Exotics. I can trace his personality all the way back to Kako. They teach you that chameleons are a look-but-don't-touch pet, the hard way haha... but what comes with that is an absolutely amazing defense display. Definitely something I really enjoy about these guys!
 
 
-{{< gallery dir="/img/ambilobe/jimanga" />}}
+{{< no_num_gallery dir="/img/ambilobe/jimanga" more=" | Male Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG14*
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Manga x Imelda Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

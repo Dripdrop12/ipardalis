@@ -23,7 +23,7 @@ Dam Sire
 
 ### PJ
 
-{{< gallery dir="img/ambilobe/lineage/PJ" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/PJ" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Perregrin/Pyro]({{< ref "blog/brightside.md#perregrin-pyro" >}})

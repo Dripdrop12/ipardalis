@@ -11,7 +11,7 @@ banner = "img/ambilobe/vaosary/vaosary2"
 Vaosary is one of our 5th generation HB females from Papafee x Lokana. She has a rusty coloration with even more orange than her sister Bumble Bee. Her first pairing is with our new WC Ambilobe, so we expect her to produce some absolutely amazing F1 YBBB Ambilobe for us!
 
 
-{{< gallery dir="/img/ambilobe/vaosary" />}}
+{{< no_num_gallery dir="/img/ambilobe/vaosary" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*

@@ -11,7 +11,7 @@ banner = "img/ambilobe/teny/teny"
 Teny is a beautiful female Ambilobe panther chameleon who we produced with Tony and Paige. Her sire had nice deep blue bars like his dam sire, Artemis with a clean yellow body like Nugget. Her dam brings a great Tropical Chameleons x Modern Day Dragons YBBB lineage from Tiffany Mallay.
 
 
-{{< gallery dir="/img/ambilobe/teny" />}}
+{{< no_num_gallery dir="/img/ambilobe/teny" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F5-CG14*

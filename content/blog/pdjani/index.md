@@ -26,11 +26,11 @@ Birth Year
 
 We acquired Sugar from Aaron Herron. She's a shade darker than Longleaf and has some nice dark saddles. 
 
-{{< gallery dir="/img/jani/sugar" />}}
+{{< no_num_gallery dir="/img/jani/sugar" more=" | Pituophis deppei jani | Northern Mexican Pine Snake" />}}
 
 ### Parents from Aaron Herron
 
-{{< gallery dir="/img/jani/lineage/aaronherron" />}}
+{{< no_num_gallery dir="/img/jani/lineage/aaronherron" more=" | Pituophis deppei jani | Northern Mexican Pine Snake"/>}}
 
 ---
 
@@ -44,11 +44,11 @@ Birth Year
 
 Longleaf came to us from Andy Reeves. He has some amazing orange markings and his saddles wash out more than Sugar's.
 
-{{< gallery dir="/img/jani/longleaf" />}}
+{{< no_num_gallery dir="/img/jani/longleaf" more=" | Pituophis deppei jani | Northern Mexican Pine Snake"/>}}
 
 ### Parents from Andy Reeves
 
-{{< gallery dir="/img/jani/lineage/andyreeves" />}}
+{{< no_num_gallery dir="/img/jani/lineage/andyreeves" more=" | Pituophis deppei jani | Northern Mexican Pine Snake" />}}
 
 ---
 
@@ -62,7 +62,7 @@ Birth Year
 
 ### Parents from Jay Jacoby
 
-{{< gallery dir="/img/jani/lineage/jayjacoby" />}}
+{{< no_num_gallery dir="/img/jani/lineage/jayjacoby" more=" | Pituophis deppei jani | Northern Mexican Pine Snake"/>}}
 
 ---
 
@@ -76,6 +76,6 @@ Birth Year
 
 ### Parents from Aaron Crawford
 
-{{< gallery dir="/img/jani/lineage/aaroncrawford" />}}
+{{< no_num_gallery dir="/img/jani/lineage/aaroncrawford" more=" | Pituophis deppei jani | Northern Mexican Pine Snake"/>}}
 
 ---

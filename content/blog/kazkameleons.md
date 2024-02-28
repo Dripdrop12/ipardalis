@@ -14,7 +14,7 @@ banner = "img/ambilobe/lineage/Rambo/rambo"
 
 ### Rambo
 
-{{< gallery dir="img/ambilobe/lineage/Rambo" />}}
+{{< gallery dir="img/ambilobe/lineage/Rambo" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Miroborobo (Blaze)]({{< ref "/blog/kammerflage.md#miroborobo-blaze" >}})

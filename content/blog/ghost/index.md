@@ -11,7 +11,7 @@ banner = "img/ambilobe/ghost/ghost1"
 Ghost is a 4th gen ybbb Ambilobe breeder here at iPardalis. He is from our Arti and Daisy pairing. His yellows are so light when he fires up that we decided to name him Ghost. They are just so clean and bright! There is also an H bar on his right side. We are very excited to have him carry the torch on this part of our tree.
 
 
-{{< gallery dir="/img/ambilobe/ghost" />}}
+{{< no_num_gallery dir="/img/ambilobe/ghost" more=" | Male Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG13*
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Arti x Daisy Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

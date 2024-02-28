@@ -13,7 +13,7 @@ banner = "img/ambilobe/lineage/Rick/rick"
 
 ### Rick
 
-{{< gallery dir="/img/ambilobe/lineage/Rick" />}}
+{{< gallery dir="/img/ambilobe/lineage/Rick" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Unknown

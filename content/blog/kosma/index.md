@@ -11,7 +11,7 @@ banner = "img/ambilobe/kosma/kosma"
 Kosma is Kosmo's sister. Kosmo is one of my favorite RBBB Ambilobe produced over the past few years. He was sold as an egg by Eric Thompson, purchased as a juvenile by LA Chams and then we acquired him and his sister, Kosma, so we could have a solid RBBB Ambilobe project with two unrelated lines. However, because of their many homes, their lineage information was not very well maintained. We know they were from Skyline and another Eric Thompson female, so I do not recommend pairing their offspring with anything from Chameleons101.
 
 
-{{< gallery dir="/img/ambilobe/kosma" />}}
+{{< gallery dir="/img/ambilobe/kosma" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *unknown*

@@ -10,7 +10,7 @@ banner = "img/ambilobe/artalla/artalla1"
 
 Artalla is a very special HB female from [Arti]({{<ref "/blog/arti/index.md" >}}), a great ybbb breeder for us produced by Brian Stewart, and [Alla]({{< ref "/blog/alla/index.md" >}}), one of our first females and most prolific breeder who gave us 17 clutches over her long life! Artalla has some big shoes to fill, and we are extremely excited to work with her :)
 
-{{< gallery dir="/img/ambilobe/artalla" />}}
+{{< no_num_gallery dir="/img/ambilobe/artalla" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG13*

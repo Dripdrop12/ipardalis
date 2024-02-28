@@ -10,7 +10,7 @@ banner = "img/ambilobe/bleu/bleu"
 
 Bleu is a male we picked up from the Stryfe line. He was raised by Jeremy Booker at Brightside Chameleons, and he was a bit of a challenge to work with. We released him in early 2020 and only produced a few clutches with him. We hope to select some nice males from his offspring to bring that line into our project.
 
-{{< gallery dir="/img/ambilobe/bleu" />}}
+{{< no_num_gallery dir="/img/ambilobe/bleu" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : F3-CG11

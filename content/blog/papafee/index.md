@@ -11,7 +11,7 @@ banner = "img/ambilobe/papafee/papafee1"
 Papafee is a monster yellow-bodied Ambilobe. He was our sole holdback from Zanaka and Sunny to carry on in our 4th generation of Ambilobe panther chameleons. His yellows are extremely vibrant and were evident at a young age (2 months). He almost has a neon quality to him and he is about 24" head to tail. A very impressive animal.
 
 
-{{< gallery dir="/img/ambilobe/papafee" />}}
+{{< no_num_gallery dir="/img/ambilobe/papafee" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3-CG12*

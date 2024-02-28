@@ -14,6 +14,6 @@ banner = "img/ambilobe/lineage/Leo/Leo3"
 
 ### Leo
 
-{{< gallery dir="/img/ambilobe/lineage/Leo" />}}
+{{< no_num_gallery dir="/img/ambilobe/lineage/Leo" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---

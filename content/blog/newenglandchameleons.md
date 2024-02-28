@@ -14,7 +14,7 @@ banner = "img/ambilobe/lineage/Odin-NEC/odin"
 
 ### Vulcan
 
-{{< gallery dir="img/ambilobe/lineage/Vulcan" />}}
+{{< gallery dir="img/ambilobe/lineage/Vulcan" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Rick James]({{< ref "/blog/chamsbydesign.md#rick-james" >}})
@@ -26,7 +26,7 @@ Dam
 
 ### Odin
 
-{{< gallery dir="img/ambilobe/lineage/Odin-NEC" />}}
+{{< gallery dir="img/ambilobe/lineage/Odin-NEC" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Rambo]({{< ref "/blog/kazkameleons.md#rambo" >}})

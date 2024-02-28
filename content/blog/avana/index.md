@@ -11,7 +11,7 @@ banner = "img/ambilobe/avana/avana1"
 Avana has some great Kammerflage Kreations lineage from her sire, Zozoro, and her dam, Artalla. All of her brothers had yellow bodies and a few had deep blue bars. It will be a lot of fun to prove her out with Zandrin - hoping for those blue bars!
 
 
-{{< gallery dir="/img/ambilobe/avana" />}}
+{{< no_num_gallery dir="/img/ambilobe/avana" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG14*

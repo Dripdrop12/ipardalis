@@ -11,7 +11,7 @@ banner = "img/ambilobe/pepita/pepita2"
 Pepita is a great 5th gen YBBB from our Papafee x Coco pairing. She only had 3 brothers, and at least one looked a lot like the Landy side of Coco's lineage. Therefore, my expectation is that Pepita will throw Papafee or Landy looks. It will be a lot of fun to see what she does for us. She definitely resembles Coco more than Papafee's dam, Sunny.
 
 
-{{< gallery dir="/img/ambilobe/pepita" />}}
+{{< no_num_gallery dir="/img/ambilobe/pepita" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*

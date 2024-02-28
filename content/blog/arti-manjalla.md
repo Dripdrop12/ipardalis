@@ -18,4 +18,4 @@ Hatch dates
 Hatch rate
 : 2/17
 
-{{< gallery dir="/img/babies/20220819/sold" />}}
+{{< gallery dir="/img/babies/20220819/sold" more=" | Ambilobe Panther Chameleon" />}}

@@ -11,7 +11,7 @@ banner = "img/ambilobe/zava/zava"
 Zava is a great YBBB from the Kammerflage Kreations Green Giant x Promise Keeper pairing, produced by Ed Kammer. He brings some great deep blue bars and a yellow body with a significant amount of red highlighting. We were really hoping he'd have less red and more yellow, so we only did a few clutches with him.
 
 
-{{< gallery dir="/img/ambilobe/zava" />}}
+{{< no_num_gallery dir="/img/ambilobe/zava" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3-CG13*

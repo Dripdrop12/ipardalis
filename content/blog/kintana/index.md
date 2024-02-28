@@ -11,7 +11,7 @@ banner = "img/ambilobe/kintana/kintana"
 Kintana is a line-bred YBBB from Chromatic Chameleons from Capella and Kromatisk. Capella is one of our favorite sires they have produced over the past few years, and Kromatisk is easily one of our favorites over the past decade. We have a decent amount of Felipe Sanchez and JJ/Kromatisk in our existing lines, so we will do our best to avoid those as long as we can. Otherwise, she should bring some more solid genetics from one of the best Ambilobe projects in the USA over at Chromatic Chameleons.
 
 
-{{< gallery dir="/img/ambilobe/kintana" />}}
+{{< no_num_gallery dir="/img/ambilobe/kintana" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3-CG14*

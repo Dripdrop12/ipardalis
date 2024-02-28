@@ -16,18 +16,18 @@ Kevin has some really interesting oranges on a lot of his female Furcifer minor.
 
 ### Huo's Sire
 
-{{< gallery dir="/img/minors/lineage/huo-sire" />}}
+{{< gallery dir="/img/minors/lineage/huo-sire" more=" | Male Furcifer minor"/>}}
 
 ---
 
 ### Huo's Dam
 
-{{< gallery dir="/img/minors/lineage/huo-dam" />}}
+{{< gallery dir="/img/minors/lineage/huo-dam" more=" | Female Furcifer minor"/>}}
 
 ---
 
 ### Huo's Grand Dam
 
-{{< gallery dir="/img/minors/lineage/huo-grand-dam" />}}
+{{< gallery dir="/img/minors/lineage/huo-grand-dam" more=" | Female Furcifer minor"/>}}
 
 ---

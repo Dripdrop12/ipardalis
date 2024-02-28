@@ -8,18 +8,18 @@ banner = "img/ambilobe/lineage/TheDon/4"
 
 {{< load-photoswipe >}}
 
-[Chameleons101](https://chameleons101.com/)
+Chameleons101
 ---
 
 ### The Don (WC)
 
-{{< gallery dir="img/ambilobe/lineage/TheDon" />}}
+{{< gallery dir="img/ambilobe/lineage/TheDon" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Skyline
 
-{{< gallery dir="img/ambilobe/lineage/Skyline" />}}
+{{< gallery dir="img/ambilobe/lineage/Skyline" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Unknown

@@ -14,7 +14,7 @@ banner = "img/ambilobe/lineage/Dante/Dante"
 
 ### Dante
 
-{{< gallery dir="img/ambilobe/lineage/Dante" />}}
+{{< gallery dir="img/ambilobe/lineage/Dante" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Gambit]({{< ref "/blog/brightside.md#gambit" >}})
@@ -36,7 +36,7 @@ Dam
 
 ### Sonny
 
-{{< gallery dir="img/ambilobe/lineage/Sonny" />}}
+{{< gallery dir="img/ambilobe/lineage/Sonny" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Giga-vony (Old Yeller)]({{< ref "/blog/kammerflage.md#giga-vony-old-yeller" >}})

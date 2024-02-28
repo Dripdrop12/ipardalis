@@ -11,7 +11,7 @@ banner = "img/ambilobe/ralph/ralph3"
 Ralph is a great 4th generation continuation of the Alfred line with vibrant blues and reds! Alfred was an odd ball from our Jude x Alla pairing, so these red-heavy Ambilobe are not closely related to many of the other red Ambilobe out there. We plan to keep him paired to one or two females and only do a few clutches with this fun side project.
 
 
-{{< gallery dir="/img/ambilobe/ralph" />}}
+{{< no_num_gallery dir="/img/ambilobe/ralph" more=" | RBBB Ambilobe Panther Chameleon"/>}}
 
 mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))

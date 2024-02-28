@@ -8,10 +8,11 @@ banner = "img/ambilobe/lineage/JJ/JJ3"
 
 ## [Panther Creek](https://www.facebook.com/Panther-Chameleons-328220557373703/)
 ---
+RB Barto helped me with two of the most important females in my project: Alla and Kako. They were the foundation for our 3rd generation and were very important founding animals in the iPardalis breeding group. 
 
 ### JJ
 
-{{< gallery dir="/img/ambilobe/lineage/JJ" />}}
+{{< no_num_gallery dir="/img/ambilobe/lineage/JJ" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Mavo-ra (Yellow Blood)]({{< ref "/blog/kammerflage.md#mavo-ra-yellow-blood" >}})
@@ -23,7 +24,7 @@ Dam Sire
 
 ### Wet Dream
 
-{{< gallery dir="/img/ambilobe/lineage/wetdream" />}}
+{{< no_num_gallery dir="/img/ambilobe/lineage/wetdream" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Macho]({{< ref "/blog/shaneconlin.md#macho" >}})

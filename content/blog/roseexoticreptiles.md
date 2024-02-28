@@ -14,7 +14,7 @@ banner = "img/ambilobe/lineage/MrAmericaJr/mrarmericajr"
 
 ### Mr America Jr
 
-{{< gallery dir="img/ambilobe/lineage/MrAmericaJr" />}}
+{{< gallery dir="img/ambilobe/lineage/MrAmericaJr" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Mr America

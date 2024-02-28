@@ -14,9 +14,11 @@ banner = "img/ambilobe/lineage/DynamiteTNT/DynamiteTNT2"
 
 ---
 
+
+
 ### DynamiteTNT
 
-{{< gallery dir="img/ambilobe/lineage/DynamiteTNT" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/DynamiteTNT" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [(s)AINT]({{< ref "/blog/joshuaillencik.md#saint" >}})

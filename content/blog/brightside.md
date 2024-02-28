@@ -10,10 +10,11 @@ banner = "img/ambilobe/lineage/Stryfe/stryfe2"
 
 ## [Brightside Chameleons](https://www.facebook.com/BrightsideChameleons/)
 ---
+When we got started, Jeremy Booker was acclimating and breeding some of the best new Ambilobe Panther Chameleon lines in the USA. We acquired a few different animals from him before he left the industry in 2019 or so.
 
 ### Stryfe
 
-{{< gallery dir="img/ambilobe/lineage/Stryfe" />}}
+{{< gallery dir="img/ambilobe/lineage/Stryfe" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Dio]({{< ref "/blog/joshuaillencik.md#dio" >}})
@@ -35,7 +36,7 @@ Dam Sire
 
 ### Perregrin/Pyro
 
-{{< gallery dir="img/ambilobe/lineage/Pyro" />}}
+{{< gallery dir="img/ambilobe/lineage/Pyro" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Sparkles]({{< ref "/blog/bobbyruddock.md#sparkles" >}})
@@ -57,7 +58,7 @@ Dam
 
 ### Cyclops
 
-{{< gallery dir="img/ambilobe/lineage/Cyclops" />}}
+{{< gallery dir="img/ambilobe/lineage/Cyclops" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 
@@ -75,7 +76,7 @@ Dam
 
 *WC*
 
-{{< gallery dir="img/ambilobe/lineage/Gambit" />}}
+{{< gallery dir="img/ambilobe/lineage/Gambit" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 
@@ -83,7 +84,7 @@ Dam
 
 *WC*
 
-{{< gallery dir="img/ambilobe/lineage/Legion" />}}
+{{< gallery dir="img/ambilobe/lineage/Legion" more=" | Ambilobe Panther Chameleon" />}}
 
 ---
 

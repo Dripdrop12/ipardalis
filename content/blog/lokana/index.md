@@ -11,7 +11,7 @@ banner = "img/ambilobe/lokana/lokana"
 Lokana is the half-sister of Loko. They each have a 50% chance of bringing Kromatisk's amazing ybbb into our project, but Lokana also has Landy x Hamy from her dam, Shirley's side. Really can't go wrong with the two possibilities here. We are very excited to see how she proves out over the years :).
 
 
-{{< gallery dir="/img/ambilobe/lokana" />}}
+{{< no_num_gallery dir="/img/ambilobe/lokana" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))

@@ -31,5 +31,5 @@ I was thinking of pairing these two together, but Nugget has really impressed us
 
 Here are some shots of Zanaka chasing Bohana around the yard. Bohana is not that small. Zanaka is just a giant! Regardless, she isn't quite ready yet, so I did not let them breed today. Stay tuned!
 
-{{< gallery dir="blog/newline" />}}
+{{< gallery dir="blog/newline" more=" | Ambilobe Panther Chameleon"/>}}
 

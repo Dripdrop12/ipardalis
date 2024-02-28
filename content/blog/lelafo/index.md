@@ -11,7 +11,7 @@ banner = "img/ambilobe/lelafo/lelafo"
 Lelafo is a very different Ambilobe variety that we acquire specifically to keep the fun rolling with the Alfred line! Her Sire, Vulcan, was produced by Chameleons by Design with two very orange WC males and acquired by New England Chameleons who paired him with an amazing female from their orange boy, Odin. She has a ton of orange and red on both sides. Can't wait to prove her out!
 
 
-{{< gallery dir="/img/ambilobe/lelafo" />}}
+{{< no_num_gallery dir="/img/ambilobe/lelafo" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F2-CG14*

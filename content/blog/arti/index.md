@@ -11,7 +11,7 @@ banner = "img/ambilobe/arti/arti"
 Arti is a great YBBB from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons. He brings some great deep blue bars and a yellow body. We are very excited to see what he produces in concert with our existing lines!
 
 
-{{< gallery dir="/img/ambilobe/arti" />}}
+{{< no_num_gallery dir="/img/ambilobe/arti" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : F3-CG12

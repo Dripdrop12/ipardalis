@@ -11,7 +11,7 @@ banner = "img/ambilobe/artilly/artilly"
 Artilly is a great YBBB from our Arti x Lilly pairing. Arti is one of our favorite ybbb breeders who we mixed in at the 3rd gen and Lilly is a female from our Jude x Kako group. We did not get too many examples from the small clutch that produced her, so it will be a lot of fun to prove her out!
 
 
-{{< gallery dir="/img/ambilobe/artilly" />}}
+{{< no_num_gallery dir="/img/ambilobe/artilly" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG13*

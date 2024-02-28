@@ -11,7 +11,7 @@ banner = "img/ambilobe/parasy/parasy"
 Parasy is Jackson's sister. She has great YBBB potential from our 4th generation of Ambilobe. We will have to prove her out to see which side of the tree she takes after, but her lineage is phenomenal on both sides. Her dam sire is one of our favorites from Bobby Rodduck, and Jack was one of the best YBBB from our Jude x Alla pairing.
 
 
-{{< gallery dir="/img/ambilobe/parasy" />}}
+{{< no_num_gallery dir="/img/ambilobe/parasy" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*

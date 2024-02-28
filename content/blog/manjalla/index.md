@@ -11,7 +11,7 @@ banner = "img/ambilobe/manjalla/manjalla"
 Manjalla is Manjaka's sister and she brings fresh genetics from a new WC sire, Arlo, who was acclimated by Chris Neeley at Colorado Chameleon. Arlo has a distinct look with red sprinkled on blue bars and a nice yellow body. Very cool Ambilobe import and one of the nicer ybbb with red highlights to come in the past few years. We are very lucky to have the opportunity to work with his daughter!
 
 
-{{< gallery dir="/img/ambilobe/manjalla" />}}
+{{< no_num_gallery dir="/img/ambilobe/manjalla" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F1-CG5*

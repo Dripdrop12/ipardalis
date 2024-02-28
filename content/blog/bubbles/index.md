@@ -10,7 +10,7 @@ banner = "img/ambilobe/bubbles/bubbles"
 
 Bubbles is a massive female. At the one year mark, she already weighs 90 grams when receptive. She came from our Jude x Alla pairing and is one of the few females we decided to keep. She's like a giant version of Alla. Healthy, hungry and bold. Very happy we decided to hold on to this girl!
 
-{{< gallery dir="/img/ambilobe/bubbles" />}}
+{{< no_num_gallery dir="/img/ambilobe/bubbles" more=" | Female Ambilobe Panther Chameleon" />}}
 
 Filial
 : F3-CG12

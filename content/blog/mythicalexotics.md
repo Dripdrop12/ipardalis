@@ -14,5 +14,5 @@ banner = "img/ambilobe/lineage/Zephyros/zephyros"
 
 ### Zephyros
 
-{{< gallery dir="img/ambilobe/lineage/Zephyros" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/Zephyros" more=" | Ambilobe Panther Chameleon"/>}}
 

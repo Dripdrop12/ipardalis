@@ -13,7 +13,7 @@ Manjaia is Manjaka's 3rd sister we own, and she also brings fresh genetics from 
 Manjaia came to us later in life after she had actually escaped from her original owner for a few months. We took her on as a rescue with breeding upside potential. She bounced back for us and will hopefully contribute a new line off Arlo :)
 
 
-{{< gallery dir="/img/ambilobe/manjaia" />}}
+{{< no_num_gallery dir="/img/ambilobe/manjaia" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F1-CG5*

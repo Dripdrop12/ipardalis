@@ -12,7 +12,7 @@ banner = "img/ambilobe/papamavo/papamavo6"
 Papamavo is one of our 5th generation Ambilobe Panther Chameleon breeders from Papafee x Lokana. He has great vibrancy and a solid yellow body. His attitude is a bit more feisty than his father, but he's calming down a bit now as he reaches adulthood. We are excited to see what he does for us!
 
 
-{{< gallery dir="/img/ambilobe/papamavo" />}}
+{{< no_num_gallery dir="/img/ambilobe/papamavo" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*

@@ -11,7 +11,7 @@ banner = "img/ambilobe/tony/tony7"
 Tony one of our 4th generation YBBB Ambilobe. He has some great traits from his dam, Amara, like his deep blue bars and red highlights, but he also has some vibrant yellows from his sire, Nugget. His profile is one of my favorites with striking turret and gular lines. We are very lucky to have him in our breeding group!
 
 
-{{< gallery dir="/img/ambilobe/tony" />}}
+{{< no_num_gallery dir="/img/ambilobe/tony" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*

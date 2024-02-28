@@ -2,7 +2,7 @@
 title: {Title}
 header_title: {Animal_Id}
 description: {Desc}
-keywords: ["{sire}", "{dam}", "{Title}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "panther chameleon price", "ambilobe panther chameleon for sale"]
+keywords: ["{sire}", "{dam}", "{Title}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "ambilobe panther chameleons for sale", "ambilobe panther chameleon for sale"]
 draft: {tolower(draft)}
 banner: {image}
 sire: {sire}
@@ -42,8 +42,8 @@ stringrreplacement:
 {{{{< load-photoswipe >}}}}
 
 {{{{< gallery >}}}}
-  {{{{< figure src="{image}.jpg" alt="{str_to_title(sire)} x {str_to_title(dam)} Lineage Collage" >}}}}
-  {{{{< figure src="{dam_tree}" alt="{str_to_title(dam)}'s Pedigree Chart" >}}}}
-  {{{{< figure src="{sire_tree}" alt="{str_to_title(sire)}'s Pedigree Chart" >}}}}
-  <figcaption><strong>Panther Chameleon ({`babies-name`}) pictured is the exact chameleon available for purchase. {str_to_title(sire)}'s and {str_to_title(dam)}'s lineage collage and pedigree charts pictured last.</strong></figcaption>
+  {{{{< figure src="{image}.jpg" alt="{str_to_title(sire)} x {str_to_title(dam)} Lineage Collage | Ambilobe Panther Chameleons for sale" >}}}}
+  {{{{< figure src="{dam_tree}" alt="{str_to_title(dam)}'s Pedigree Chart | Ambilobe Panther Chameleons for sale" >}}}}
+  {{{{< figure src="{sire_tree}" alt="{str_to_title(sire)}'s Pedigree Chart | Ambilobe Panther Chameleons for sale" >}}}}
+  <figcaption><strong>Ambilobe Panther Chameleon ({`babies-name`}) pictured is the exact chameleon available for purchase. {str_to_title(sire)}'s and {str_to_title(dam)}'s lineage collage and pedigree charts pictured last.</strong></figcaption>
 {{{{< /gallery >}}}}

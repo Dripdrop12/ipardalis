@@ -11,7 +11,7 @@ banner = "img/ambilobe/ranoka/ranoka7"
 Ranoka is a really interesting mix of F1 Manjaka and Kromatisk, Lokana's sire. He has the radiant yellow that Manjaka has, but he also has the red embers at the edge of the yellow like Kromatisk - this almost looks orange at times and gives it an almost 3D look against a blue background. Really unique animal!
 
 
-{{< gallery dir="/img/ambilobe/ranoka" />}}
+{{< no_num_gallery dir="/img/ambilobe/ranoka" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F2-CG14*

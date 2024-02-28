@@ -10,7 +10,7 @@ banner = "img/ambilobe/maro/maro"
 
 Maro (F3) is a great edition to our YBBB project. We have been tracking the WC Legion line ever since we saw Jeremy Booker acquire him years ago. This great Chi-town Chameleons Sammy x Storm pairing finally carries those genetics with nice yellow bodies on both sides!
 
-{{< gallery dir="/img/ambilobe/maro" />}}
+{{< no_num_gallery dir="/img/ambilobe/maro" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))

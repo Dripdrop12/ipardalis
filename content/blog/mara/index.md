@@ -11,7 +11,7 @@ banner = "img/ambilobe/mara/mara1"
 Mara is the beautiful sister of Maro. They are a pair of Ambilobe breeders we acquired from Chi-Town Chameleons from their Sammy x Nova (F1) pairing. It is looking like Maro is taking after Sammy, so it will be interesting to prove out Mara and see who her sons resemble.
 
 
-{{< gallery dir="/img/ambilobe/mara" />}}
+{{< no_num_gallery dir="/img/ambilobe/mara" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3*

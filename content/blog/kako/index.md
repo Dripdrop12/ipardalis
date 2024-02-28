@@ -10,7 +10,7 @@ banner = "img/ambilobe/kako/kako"
 
 Kako was one of the two females we paired with our second generation breeder - [Jude]({{< ref "blog/jude/index.md" >}}). We purchased her from RB Barto, but she was produced by Bobby Ruddock. Her line is one of our favorite yellow body blue bar (YBBB) Ambilobe lines in the USA. Vibrant yellows and clean blue bars.
 
-{{< gallery dir="/img/ambilobe/kako" />}}
+{{< gallery dir="/img/ambilobe/kako" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial Group
 : *F2*

@@ -10,7 +10,7 @@ banner = "img/ambilobe/mamony/mamony"
 
 Mamony is a nice 4th gen female from our Blossom x Maitso. She resembles Blossom's dam, Alla, more than she resembles her own dam, Maitso. I have a theory that those are hints about which side of the tree a female takes after, so check for Blossom-like offspring from Mamony!
 
-{{< gallery dir="/img/ambilobe/mamony" />}}
+{{< no_num_gallery dir="/img/ambilobe/mamony" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*

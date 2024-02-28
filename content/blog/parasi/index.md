@@ -11,7 +11,7 @@ banner = "img/ambilobe/parasi/parasi"
 Parasi is a great Ambilobe female from our F1 sire from Colorado Chameleon named Manjaka and our female from Jack and Mavokely. Many of her brothers had great yellow bodies and blue bars - a few had mixed red/blue bars. We are very excited to see what she does with WC Tratra!
 
 
-{{< gallery dir="/img/ambilobe/parasi" />}}
+{{< no_num_gallery dir="/img/ambilobe/parasi" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F2-CG14*

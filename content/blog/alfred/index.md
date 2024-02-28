@@ -3,14 +3,14 @@ title = "Alfred"
 date = "2019-10-21"
 tags = ["alfred", "jude", "alla", "JJ"]
 categories = ["retired-pardalis"]
-banner = "img/ambilobe/alfred/alfred"
+banner = "img/ambilobe/alfred/alfred9"
 +++
 
 {{< load-photoswipe >}}
 
 Alfred is an extreme outlier from the Jude x Alla pairing. We were lucky to keep him because he carries some vibrant, almost dark neon colors. His resting colors are some of the nicest I have ever seen in person and I am very excited to work with him moving forward!
 
-{{< gallery dir="/img/ambilobe/alfred" />}}
+{{< no_num_gallery dir="/img/ambilobe/alfred" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : F3

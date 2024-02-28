@@ -11,7 +11,7 @@ banner = "img/ambilobe/manjaka/manjaka2"
 Manjaka brings fresh genetics from a new WC sire, Arlo, who was acclimated by Chris Neeley at Colorado Chameleon. Arlo has a distinct look with red sprinkled on blue bars and a nice yellow body. Very cool Ambilobe import and one of the nicer ybbb with red highlights to come in the past few years. We are very lucky to have the opportunity to work with him!
 
 
-{{< gallery dir="/img/ambilobe/manjaka" />}}
+{{< no_num_gallery dir="/img/ambilobe/manjaka" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : F1-CG5

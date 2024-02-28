@@ -10,7 +10,7 @@ banner = "img/ambilobe/kanto/kanto"
 
 Kanto is a beautiful female we picked up from [Living Art by Frank Payne](https://www.livingartbyfrankpayne.com/) this year because her sire, [Brightflame]({{< ref "/blog/livingart.md#brightflame" >}}), is a great match for [Alfred]({{< ref "/blog/alfred/index.md" >}}). All we know is that Brightflame came from a Canvas pairing and that some of the last pairings done were Bolt x Marley and Marley x Outline.
 
-{{< gallery dir="/img/ambilobe/kanto" />}}
+{{< no_num_gallery dir="/img/ambilobe/kanto" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial Group
 : Unknown

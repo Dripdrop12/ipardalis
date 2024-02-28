@@ -8,7 +8,7 @@ banner = "img/babies/20190605/sold/IMG_2"
 
 {{< load-photoswipe >}}
 
-This pairing gave us [Nugget]({{< ref "/blog/nugget/index.md" >}}), [Patch]({{< ref "/blog/patch/index.md" >}}), [Sunny]({{< ref "/blog/sunny/index.md" >}}), [Lilly]({{< ref "/blog/lilly/index.md" >}}), and [Daisy]({{< ref "blog/daisy/index.md" >}}).
+This pairing gave us [Nugget]({{< ref "/blog/nugget/index.md" >}}), [Patch]({{< ref "/blog/patch/index.md" >}}), [Sunny]({{< ref "/blog/sunny/index.md" >}}), [Lilly]({{< ref "/blog/lilly/index.md" >}}), and [Daisy]({{< ref "blog/daisy/index.md" >}}). This was an all-time great Ambilobe Panther Chameleon clutch. I am still trying to compete with this level of consistency to this day. Foundational animals across the board.
 
 # [Jude]({{< ref "/blog/jude/index.md" >}}) x [Kako]({{< ref "/blog/kako/index.md" >}}) 
 *F2*
@@ -19,4 +19,4 @@ Hatch dates
 Hatch rate
 : 34/34
 
-{{< gallery dir="/img/babies/20190605/sold" />}}
+{{< gallery dir="/img/babies/20190605/sold" more=" | Ambilobe Panther Chameleon"/>}}

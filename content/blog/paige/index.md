@@ -11,7 +11,7 @@ banner = "img/ambilobe/paige/paige2"
 Paige is a solid Modern Day Dragons x Tropical Chameleons YBBB female. She has great purples and pinks and a wonderful personality. We are very lucky to have her in our project and comes to us from Tiffany Mallay. Her first pairing will be with our 4th gen sire, Tony.
 
 
-{{< gallery dir="/img/ambilobe/paige" />}}
+{{< no_num_gallery dir="/img/ambilobe/paige" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*

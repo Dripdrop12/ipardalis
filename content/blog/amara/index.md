@@ -10,7 +10,7 @@ banner = "img/ambilobe/amara/amara"
 
 Amara is Arti's sister from the Kammerflage Fantara line produced by Brian Stewart in partnership with Colorado Chameleons. It will be interesting to compare her offspring with Arti's to figure out which traits she is carrying from their shared lineage. I have always been curious about the females role in breeding and I think it is the key to producing some extraordinary animals.
 
-{{< gallery dir="/img/ambilobe/amara" />}}
+{{< no_num_gallery dir="/img/ambilobe/amara" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : F3-CG12

@@ -11,7 +11,7 @@ banner = "img/ambilobe/kosmo/kosmo"
 Kosmo is one of my favorite RBBB Ambilobe produced over the past few years. He was sold as an egg by Eric Thompson, purchased as a juvenile by LA Chams and then we acquired him so we could have a solid RBBB Ambilobe project with two unrelated lines. However, because of his many homes, his lineage information was not very well maintained. We know he was from Skyline and another Eric Thompson female, so I do not recommend pairing his offspring with anything from Chameleons101.
 
 
-{{< gallery dir="/img/ambilobe/kosmo" />}}
+{{< no_num_gallery dir="/img/ambilobe/kosmo" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *unknown*

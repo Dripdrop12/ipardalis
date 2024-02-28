@@ -11,7 +11,7 @@ banner = "img/ambilobe/kiborin/kiborin4"
 Kiborin is our 4th gen HB from Blossom x Maitso. He is Blaitso's brother. These two are just amazing animals and we are excited to see Kiborin's clean yellow with blue. He has less red highlighting that his father and a really clean look! 
 
 
-{{< gallery dir="/img/ambilobe/kiborin" />}}
+{{< no_num_gallery dir="/img/ambilobe/kiborin" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*

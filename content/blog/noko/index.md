@@ -11,7 +11,7 @@ banner = "img/ambilobe/noko/noko"
 Noko is our HB female from Nugget and Loko. Her brother is Zandrin. She should throw some intense yellow and blue with some interesting red highlighting. Her personality is very calm and photogenic. It was incredibly easy to get some nice profile pictures of her!
 
 
-{{< gallery dir="/img/ambilobe/noko" />}}
+{{< no_num_gallery dir="/img/ambilobe/noko" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*

@@ -11,7 +11,7 @@ banner = "img/ambilobe/bumblebee/bumblebee1"
 Bumble Bee is one of our 5th generation HB females from Papafee x Lokana. She has a great personality and a rusty coloration with lots of orange and light purple dots. We expect her to produce some absolutely amazing Ambilobe for us!
 
 
-{{< gallery dir="/img/ambilobe/bumblebee" />}}
+{{< no_num_gallery dir="/img/ambilobe/bumblebee" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Papafee x Lokana Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

@@ -10,7 +10,7 @@ banner = "img/ambilobe/nugget/nugget1"
 
 Nugget was an alpha male from Jude and Kako's [first clutch]({{< ref "/blog/jude-kako.md" >}}), hatched 6/5/19. He has many of the traits I love about Jude/Flash. He is a bold YBBB with great lineage. His yellows are more vibrant and his blue bars do not have any red pock marks like Jude. He is an amazingly clean yellow body blue bar Ambilobe.
 
-{{< gallery dir="/img/ambilobe/nugget" />}}
+{{< no_num_gallery dir="/img/ambilobe/nugget" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : F3-CG4

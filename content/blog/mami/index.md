@@ -11,7 +11,7 @@ banner = "img/ambilobe/mami/mami2"
 Mami is one of our 5th generation HB females from Papafee x Lokana. She has more purples and pinks like her mother, Lokana, whereas her two sisters Vaosary and Bumble Bee remind me of their aunts, Papafee's sisters. Her first pairing is with our new WC Ambilobe, so we expect her to produce some absolutely amazing F1 YBBB Ambilobe for us!
 
 
-{{< gallery dir="/img/ambilobe/mami" />}}
+{{< no_num_gallery dir="/img/ambilobe/mami" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG14*

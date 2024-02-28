@@ -11,7 +11,7 @@ banner = "img/ambilobe/mena/mena"
 Mena is our HB from Zava and F1 Manjaya. Zava had a significant amount of red and a few of Mena's brothers got it, too. Manjaya seems to have taken after her WC sire, Arlo. A few of Mena's brothers looked like mini Arlo's. So less of the Perregrin/Pyro side of the lineage, more of the WC Arlo combined with Zava is what she brings to the table.
 
 
-{{< gallery dir="/img/ambilobe/mena" />}}
+{{< gallery dir="/img/ambilobe/mena" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F2-CG14*

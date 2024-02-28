@@ -8,10 +8,10 @@ banner = "img/ambilobe/imelda/imelda"
 
 {{< load-photoswipe >}}
 
-Imelda brings a new WC line from Brightside Chameleon's Gambit into our project via Hendrix/Dante from Ramblin' Exotics! Hendrix is a great mix of two recent WC sires, Gambit and Bolt, and we are very excited to add his daughter to our breeding group. She layed successfully, but we have been monitoring a minor gular edema on her. We adjusted her supplementation and feeding schedule. Hopefully, it clears up in no time.
+Imelda brings a new wild-caught Ambilobe line from Brightside Chameleon's Gambit into our project via Hendrix/Dante from Ramblin' Exotics! Hendrix is a great mix of two recent WC sires, Gambit and Bolt, and we are very excited to add his daughter to our breeding group. She laid successfully, but we have been monitoring a minor gular edema on her. We adjusted her supplementation and feeding schedule. Hopefully, it clears up in no time.
 
 
-{{< gallery dir="/img/ambilobe/imelda" />}}
+{{< no_num_gallery dir="/img/ambilobe/imelda" more=" | Female Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F3-CG13*
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Hendrix x Foxey Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

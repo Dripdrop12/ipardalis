@@ -13,7 +13,7 @@ banner = "img/ambilobe/lineage/Sammy/sammy"
 
 ### Sammy
 
-{{< gallery dir="/img/ambilobe/lineage/Sammy" />}}
+{{< gallery dir="/img/ambilobe/lineage/Sammy" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Tony Stark]({{< ref "/blog/chitown.md#tony-stark" >}})
@@ -25,7 +25,7 @@ Dam
 
 ### Tony Stark
 
-{{< gallery dir="/img/ambilobe/lineage/Tony" />}}
+{{< gallery dir="/img/ambilobe/lineage/Tony" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Rick]({{< ref "/blog/strohlsherptiles.md#rick" >}})
@@ -38,7 +38,7 @@ Dam
 ### Nova
 *F1*
 
-{{< gallery dir="/img/ambilobe/lineage/Nova" />}}
+{{< gallery dir="/img/ambilobe/lineage/Nova" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Legion (WC)]({{< ref "/blog/brightside.md#legion" >}})
@@ -51,7 +51,7 @@ Dam
 ### Storm
 *F2*
 
-{{< gallery dir="/img/ambilobe/lineage/Storm" />}}
+{{< gallery dir="/img/ambilobe/lineage/Storm" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Nova]({{< ref "/blog/chitown.md#nova" >}})
@@ -63,7 +63,7 @@ Dam
 
 ### Natasha
 
-{{< gallery dir="/img/ambilobe/lineage/Natasha" />}}
+{{< gallery dir="/img/ambilobe/lineage/Natasha" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Steve]({{< ref "/blog/chitown.md#steve" >}})
@@ -75,7 +75,7 @@ Dam
 
 ### Steve
 
-{{< gallery dir="/img/ambilobe/lineage/Steve" />}}
+{{< gallery dir="/img/ambilobe/lineage/Steve" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : Unknown

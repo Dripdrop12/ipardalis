@@ -12,6 +12,9 @@ banner = "img/ambilobe/lineage/PromiseKeeper/promise_keeper1"
 ---
 ## [Kammerflage Kreations](https://chameleonsonly.com/)
 ---
+The most successful breeder of Panther Chameleons in the United States, hands down. Ed, Liddy and Brianna are Panther Chameleon celebrities, and their 4 locales of focus (Ambilobe, Ambanja, Nosy Be and Sambava) are still the most popular in the industry after 30+ years of work. If anyone compares themselves to the Kammers, please check them. They are legends in the industry, and you can see how many of their animals have found their way into our lineage over the years. 
+
+
 ### Manome-toky (Promise Keeper)
 
 Sire
@@ -20,13 +23,13 @@ Sire
 Dam
 : [Vony-reny]({{< ref "/blog/kammerflage.md#vony-reny" >}})
 
-{{< gallery dir="/img/ambilobe/lineage/PromiseKeeper" />}}
+{{< gallery dir="/img/ambilobe/lineage/PromiseKeeper" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Bararata-fatio (Bamboo Falcon)
 
-{{< gallery dir="/img/ambilobe/lineage/Bamboo Falcon" />}}
+{{< gallery dir="/img/ambilobe/lineage/Bamboo Falcon" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -48,7 +51,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="img/ambilobe/lineage/MyFriend" />}}
+{{< gallery dir="img/ambilobe/lineage/MyFriend" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -70,7 +73,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="/img/ambilobe/lineage/Also Known As" />}}
+{{< gallery dir="/img/ambilobe/lineage/Also Known As" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -87,7 +90,7 @@ Dam
 ### Bakaina (Divergent)
 *WC*
 
-{{< gallery dir="/img/ambilobe/lineage/Divergent" />}}
+{{< gallery dir="/img/ambilobe/lineage/Divergent" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -119,13 +122,13 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="/img/ambilobe/lineage/Yellow Blood" />}}
+{{< gallery dir="/img/ambilobe/lineage/Yellow Blood" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Mabonika-haboka (Mellow Yellow)
 
-{{< gallery dir="/img/ambilobe/lineage/Mellow Yellow" />}}
+{{< gallery dir="/img/ambilobe/lineage/Mellow Yellow" more=" | Ambilobe Panther Chameleon"/>}}
 ---
 
 ### Mitselatra (Stormy Weather)
@@ -142,7 +145,7 @@ Dam
 ### Fanitso (Herb)
 *WC*
 
-{{< gallery dir="/img/ambilobe/lineage/Fanitso" />}}
+{{< gallery dir="/img/ambilobe/lineage/Fanitso" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -158,13 +161,13 @@ Dam
 
 ### Miroborobo (Blaze)
 
-{{< gallery dir="/img/ambilobe/lineage/Blaze" />}}
+{{< gallery dir="/img/ambilobe/lineage/Blaze" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Kely-tongotra (Little Foot)
 
-{{< gallery dir="/img/ambilobe/lineage/Little Foot" />}}
+{{< gallery dir="/img/ambilobe/lineage/Little Foot" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -176,31 +179,31 @@ Sire
 Dam
 : [Tsara-andro (Good Day)]({{< ref "/blog/kammerflage.md#tsara-andro-good-day" >}})
 
-{{< gallery dir="/img/ambilobe/lineage/Gigavony" />}}
+{{< gallery dir="/img/ambilobe/lineage/Gigavony" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Red Destiny
 
-{{< gallery dir="img/ambilobe/lineage/Red Destiny" />}}
+{{< gallery dir="img/ambilobe/lineage/Red Destiny" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Red Lion
 
-{{< gallery dir="img/ambilobe/lineage/Red Lion" />}}
+{{< gallery dir="img/ambilobe/lineage/Red Lion" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Loza
 
-{{< gallery dir="img/ambilobe/lineage/Loza" />}}
+{{< gallery dir="img/ambilobe/lineage/Loza" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Flaming River
 
-{{< gallery dir="img/ambilobe/lineage/Flaming River" />}}
+{{< gallery dir="img/ambilobe/lineage/Flaming River" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -212,7 +215,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="img/ambilobe/lineage/Triple" />}}
+{{< gallery dir="img/ambilobe/lineage/Triple" more=" | Ambilobe Panther Chameleon"/>}}
 ---
 
 ### Fantara (Falling Star)
@@ -223,7 +226,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="img/ambilobe/lineage/Fantara" />}}
+{{< gallery dir="img/ambilobe/lineage/Fantara" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -235,7 +238,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="img/ambilobe/lineage/Dark Sky" />}}
+{{< gallery dir="img/ambilobe/lineage/Dark Sky" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -247,7 +250,7 @@ Sire
 Dam
 : [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Gold Rush" />}}
+{{< gallery dir="img/ambilobe/lineage/Gold Rush" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -259,7 +262,7 @@ Sire
 Dam
 : Au-sanga (Goldie Locks)
 
-{{< gallery dir="img/ambilobe/lineage/Landy" />}}
+{{< gallery dir="img/ambilobe/lineage/Landy" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -271,7 +274,7 @@ Sire
 Dam
 : [Mavo-loha (Blondie)]({{< ref "/blog/kammerflage.md#mavo-loha-blondie" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Hamy" />}}
+{{< gallery dir="img/ambilobe/lineage/Hamy" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -283,7 +286,7 @@ Sire
 Dam
 : [Tsara-andro (Good Day)]({{< ref "/blog/kammerflage.md#tsara-andro-good-day" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Blondie" />}}
+{{< gallery dir="img/ambilobe/lineage/Blondie" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -295,7 +298,7 @@ Sire
 Dam
 : Unknown
 
-{{< gallery dir="img/ambilobe/lineage/Good Day" />}}
+{{< gallery dir="img/ambilobe/lineage/Good Day" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -307,7 +310,7 @@ Sire
 Dam
 : [Hamy (Sweetness)]({{< ref "/blog/kammerflage.md#hamy-sweetness" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Green Giant" />}}
+{{< gallery dir="img/ambilobe/lineage/Green Giant" more=" | Ambilobe Panther Chameleon"/>}}
 
 ### Jiona (June)
 
@@ -327,7 +330,7 @@ Sire
 Dam
 : [Bolitika-zandry (Little Sister)]({{< ref "/blog/kammerflage.md#maizina-lanitra-dark-sky" >}})
 
-{{< gallery dir="img/ambilobe/lineage/Agent Orange" />}}
+{{< gallery dir="img/ambilobe/lineage/Agent Orange" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -339,13 +342,13 @@ Sire
 Dam
 : Unkown
 
-{{< gallery dir="img/ambilobe/lineage/Blue Heat" />}}
+{{< gallery dir="img/ambilobe/lineage/Blue Heat" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Haran-dranomasina (Coral)
 
-{{< gallery dir="img/ambilobe/lineage/Coral" />}}
+{{< gallery dir="img/ambilobe/lineage/Coral" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Unknown
@@ -367,13 +370,13 @@ Dam
 
 ### Marina-ge (Real G)
 
-{{< gallery dir="img/ambilobe/lineage/Real G" />}}
+{{< gallery dir="img/ambilobe/lineage/Real G" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Karmba-ady (Cage Combat)
 
-{{< gallery dir="img/ambilobe/lineage/Cage Combat" />}}
+{{< gallery dir="img/ambilobe/lineage/Cage Combat" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Unknown
@@ -385,7 +388,7 @@ Dam
 
 ### Karmba-ady (Cage Combat)
 
-{{< gallery dir="img/ambilobe/lineage/Cage Combat" />}}
+{{< gallery dir="img/ambilobe/lineage/Cage Combat" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Unknown
@@ -397,7 +400,7 @@ Dam
 
 ### Varatra (Thunderbolt)
 
-{{< gallery dir="img/ambilobe/lineage/Thunderbolt" />}}
+{{< gallery dir="img/ambilobe/lineage/Thunderbolt" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Dragona-manapoaka (Dragonfire)]({{< ref "/blog/kammerflage.md#dragona-manapoaka-dragonfire" >}})
@@ -409,4 +412,4 @@ Dam
 
 ### Dragona-manapoaka (Dragonfire)
 
-{{< gallery dir="img/ambilobe/lineage/Dragonfire" />}}
+{{< gallery dir="img/ambilobe/lineage/Dragonfire" more=" | Ambilobe Panther Chameleon"/>}}

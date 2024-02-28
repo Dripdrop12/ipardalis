@@ -11,7 +11,7 @@ banner = "img/ambilobe/blaitso/blaitso3"
 Blaitso is a drop dead gorgeous 4th gen female from our Blossom x Maitso. She has vibrant oranges, a great bar/body contrast and teal cheeks. Her lineage is also amazing so she will be fun to watch! We are lucky to have her in our breeding group.
 
 
-{{< gallery dir="/img/ambilobe/blaitso" />}}
+{{< no_num_gallery dir="/img/ambilobe/blaitso" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F4-CG13*
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Blossom x Maitso Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

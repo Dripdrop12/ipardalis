@@ -79,7 +79,7 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
       glue_data(
         read_lines("R/sample-product.md") %>%
           append(.,
-            values = img_df %>% glue_data("  {{{{{{{{< figure src=\"{imgs}\" alt=\"{baby_name} - {baby_sire} x {baby_dam} (hatched {baby_hatchend} | pictured {img_date})\" >}}}}}}}}"), 
+            values = img_df %>% glue_data("  {{{{{{{{< figure src=\"{imgs}\" alt=\"{baby_name} - {baby_sire} x {baby_dam} (hatched {baby_hatchend} | pictured {img_date}) | Ambilobe Panther Chameleons for sale\" >}}}}}}}}"), 
             after = str_which(., " gallery ")) %>%
           (function(txt){
             if (dam_tree_missing) txt <- delete_item(txt, "dam_tree")

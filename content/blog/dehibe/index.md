@@ -11,7 +11,7 @@ banner = "img/ambilobe/dehibe/dehibe3"
 Dehibe is a great YBBB Ambilobe we produced with [Arti]({{< ref "/blog/arti/index.md" >}}) and [Alla]({{< ref "/blog/alla/index.md" >}}). He brings some great blue bars and a yellow body, very similar to his sire. He and his sister, Artalla, were the only two babies to survive Alla's last clutch, and they are very special to us. This is a great cb combination without any of our main line in it.
 
 
-{{< gallery dir="/img/ambilobe/dehibe" />}}
+{{< no_num_gallery dir="/img/ambilobe/dehibe" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG13*
@@ -24,7 +24,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Arti x Alla Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

@@ -11,7 +11,7 @@ banner = "img/ambilobe/mainty/mainty"
 Mainty is one of the nicest RBBB females I could find for Ralph. Her sire, Bangheera, is a classic red body blue bar Ambilobe produced by Highlighter Chameleons and owned by Nature's Van Gogh. After talking to Logan about Mainty's brothers, it looks like many of them proved out to be similar to Grape Inferno or Bangheera, so although Moonclaw's sire is Flamethrower, it seems she took after her dam sire.
 
 
-{{< gallery dir="/img/ambilobe/mainty" />}}
+{{< no_num_gallery dir="/img/ambilobe/mainty" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *Unknown Filial*

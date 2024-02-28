@@ -8,7 +8,7 @@ banner = "img/babies/20190709/sold/clyde"
 
 {{< load-photoswipe >}}
 
-This has been our most successful pairing to-date. Alla is an amazing female Ambilobe that we purchased from RB Barto in 2017. She has been producing clutches between 25-34 eggs every 60 to 90 days ever since!
+This has been our most successful Ambilobe Panther Chameleon pairing to-date. Alla is an amazing female Ambilobe that we purchased from RB Barto in 2017. She has been producing clutches between 25-34 eggs every 60 to 90 days ever since!
 
 We decided to keep [Blossom]({{< ref "/blog/blossom/index.md" >}}), [Jack]({{< ref "/blog/jack/index.md" >}}), and [Afred]({{< ref "/blog/alfred/index.md" >}}) from this pairing as well as numerous females.
 
@@ -23,7 +23,7 @@ Hatch dates
 Hatch rate
 : 30/31
 
-{{< gallery dir="/img/babies/20190709/sold" />}}
+{{< gallery dir="/img/babies/20190709/sold" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -34,7 +34,7 @@ Hatch dates
 Hatch rate
 : 32/33
 
-{{< gallery dir="/img/babies/20190816/sold" />}}
+{{< gallery dir="/img/babies/20190816/sold" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -44,7 +44,7 @@ Hatch dates
 Hatch rate
 : 34/37
 
-{{< gallery dir="/img/babies/20191006/sold" />}}
+{{< gallery dir="/img/babies/20191006/sold" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
@@ -54,5 +54,5 @@ Hatch dates
 Hatch rate
 : 30/32
 
-{{< gallery dir="/img/babies/20191120/sold" />}}
+{{< gallery dir="/img/babies/20191120/sold" more=" | Ambilobe Panther Chameleon"/>}}
 

@@ -19,7 +19,7 @@ Hatch dates
 Hatch rate
 : 28/28
 
-{{< gallery dir="/img/babies/20230115" />}}
+{{< gallery dir="/img/babies/20230115" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 # 2nd Clutch
@@ -30,4 +30,4 @@ Hatch dates
 Hatch rate
 : 24/39
 
-{{< gallery dir="/img/babies/20230429" />}}
+{{< gallery dir="/img/babies/20230429" more=" | Ambilobe Panther Chameleon"/>}}

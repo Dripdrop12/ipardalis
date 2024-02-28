@@ -11,7 +11,7 @@ banner = "img/ambilobe/jiolahy/jiolahy"
 Jiolahy is a big F1 female from Chameleons 101's [The Don (WC)]({{< ref "/blog/chams101.md#the-don-wc" >}}). She brings fresh ybbb genetics combined with a great CB ybbb line created by Modern Day Dragons. We are very lucky to have her in our breeding group.
 
 
-{{< gallery dir="/img/ambilobe/jiolahy" />}}
+{{< no_num_gallery dir="/img/ambilobe/jiolahy" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F1-CG5*

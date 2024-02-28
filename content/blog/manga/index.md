@@ -11,7 +11,7 @@ banner = "img/ambilobe/manga/manga"
 Manga had some of the nicest yellows from all of Bleu and Patch's sons. He has a striking facial pattern and is a classic Ambilobe panther chameleon. We're very lucky to have him in our 4th generation breeding program.
 
 
-{{< gallery dir="/img/ambilobe/manga" />}}
+{{< no_num_gallery dir="/img/ambilobe/manga" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : F4-CG4

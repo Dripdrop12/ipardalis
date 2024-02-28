@@ -11,7 +11,7 @@ banner = "img/ambilobe/zozoro/zozoro"
 Zozoro is a great YBBB from the Kammerflage sire Gold Rush. His father is my favorite YBBB produced over the past few years and his mother is the combination of a vibrant YBBB named My Friend and a true F1 from two different WC that the Kammer's acclimated recently. Very excited to work this guy into our 4th/5th generation of Ambilobe!
 
 
-{{< gallery dir="/img/ambilobe/zozoro" />}}
+{{< no_num_gallery dir="/img/ambilobe/zozoro" more=" | Male Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F3-CG13*

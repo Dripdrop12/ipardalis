@@ -1,5 +1,6 @@
 +++
 title = "coco"
+description = "Coco is a great Ambilobe female produced by Ramblin' Exotics"
 date = "2020-12-04"
 tags = ["coco", "hendrix", "foxey", "landy", "bolt", "gambit"]
 categories = ["retired-pardalis"]
@@ -11,7 +12,7 @@ banner = "img/ambilobe/coco/coco"
 Coco brings a new WC line from Brightside Chameleon's Gambit into our project via Hendrix/Dante from Ramblin' Exotics! Hendrix is a great mix of two recent WC sires, Gambit and Bolt, and we are very excited to add his daughter to our breeding group. She has phenomenal coloring for a female and has been able to lay and bounce back easily thus far. Very healthy girl!
 
 
-{{< gallery dir="/img/ambilobe/coco" />}}
+{{< no_num_gallery dir="/img/ambilobe/coco" more=" | Female Ambilobe Panther Chameleon" />}}
 
 mtDNA Haplogroup*
 : 5 ([Ambilobe East, Antsiranana]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))
@@ -29,7 +30,7 @@ Dam
 
 ---
 
-{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Tree" >}}
+{{< figure link="tree.png" thumb="-thumb" caption="5 Generation Hendrix x Foxey Tree" >}}
 
 {{< rawhtml >}}
   <div id="grampstextdoc">

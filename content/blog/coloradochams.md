@@ -14,13 +14,13 @@ banner = "img/ambilobe/lineage/Artemis/artemis"
 
 ### Arlo (WC)
 
-{{< gallery dir="img/ambilobe/lineage/Arlo" />}}
+{{< gallery dir="img/ambilobe/lineage/Arlo" more=" | Wild-Caught Ambilobe Panther Chameleon" />}}
 
 ---
 
 ### Artemis
 
-{{< gallery dir="img/ambilobe/lineage/Artemis" />}}
+{{< gallery dir="img/ambilobe/lineage/Artemis" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Fantara]({{< ref "/blog/kammerflage.md#fantara-falling-star" >}})

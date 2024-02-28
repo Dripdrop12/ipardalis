@@ -11,7 +11,7 @@ banner = "img/ambilobe/jackson/jackson"
 Jackson is a great YBBB from our 4th generation of Ambilobe. Son of Jack, he brings some great blue bars and a yellow body w/ a little less red/orange highlighting than his father. His dam sire is one of our favorites from Bobby Rodduck, so he's a very valuable addition to our project!
 
 
-{{< gallery dir="/img/ambilobe/jackson" />}}
+{{< no_num_gallery dir="/img/ambilobe/jackson" more=" | Ambilobe Panther Chameleon"/>}}
 
 mtDNA Haplogroup*
 : 3 ([Ambilobe East]({{< ref "/blog/2021-12-31-locale-test/index.md#haplogroup-key" >}}))

@@ -10,10 +10,11 @@ banner = "img/ambilobe/lineage/Flamethrower/flamethrower1"
 
 ## [Highlighter Chameleons](https://www.highlighterchameleons.com/)
 ---
+Don and I got started around the same time with a fundamentally different philosophy. He has focused more on red body blue bar Ambilobe and some other locales such as Ambanja and Nosy Be.
 
 ### Mango Saphire
 
-{{< gallery dir="img/ambilobe/lineage/Mango Saphire" />}}
+{{< gallery dir="img/ambilobe/lineage/Mango Saphire" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Karamba-ady (Cage Combat)]({{< ref "/blog/highlighter.md#karamba-ady-cage-combat" >}})
@@ -25,7 +26,7 @@ Dam
 
 ### Flamethrower
 
-{{< gallery dir="img/ambilobe/lineage/Flamethrower" />}}
+{{< gallery dir="img/ambilobe/lineage/Flamethrower" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Tropicali]({{< ref "/blog/highlighter.md#tropicali" >}})
@@ -47,7 +48,7 @@ Dam
 
 ### Grape Inferno
 
-{{< gallery dir="img/ambilobe/lineage/Grape Inferno" />}}
+{{< gallery dir="img/ambilobe/lineage/Grape Inferno" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : [Manga-hay (Blue Heat)]({{< ref "/blog/kammerflage.md#manga-hay-blue-heat" >}})
@@ -59,7 +60,7 @@ Dam
 
 ### Tropicali
 
-{{< gallery dir="img/ambilobe/lineage/Tropicali" />}}
+{{< gallery dir="img/ambilobe/lineage/Tropicali" more=" | Ambilobe Panther Chameleon" />}}
 
 Sire
 : Unknown

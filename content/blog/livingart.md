@@ -10,11 +10,12 @@ banner = "img/ambilobe/lineage/Brightflame/brightflame"
 
 ## [Living Art by Frank Payne](https://www.livingartbyfrankpayne.com/)
 ---
+Frank is one of the most popular breeders in the United States today. He works with many different species attempting to establish them in the United States and he dedicates years to projects before he releases much to the public. Frank is a professional breeder who shares his success with detailed care guides and support. We were lucky enough to grab one of the last Panther Chameleons that he bred - Kanto, and he helped establish our Furcifer minor breeding group.
 
 ### Brightflame
 *Unknown*
 
-{{< gallery dir="/img/ambilobe/lineage/Brightflame" />}}
+{{< no_num_gallery dir="/img/ambilobe/lineage/Brightflame" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Canvas Sire]({{< ref "/blog/canvas.md" >}}) (possibly Bolt/Marley)

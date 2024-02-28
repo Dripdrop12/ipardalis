@@ -10,7 +10,7 @@ banner = "img/ambilobe/loko/loko2"
 
 Loko is a premium CB Ambilobe from some of the best lines in the USA. Her sire, [Kromatisk]({{< ref "/blog/chromatic.md#kromatisk" >}}) from Chromatic Chameleons, is one of my favorite active breeders of the locale. My hope is that we can get some little guys that glow yellow from her and Nugget!
 
-{{< gallery dir="/img/ambilobe/loko" />}}
+{{< no_num_gallery dir="/img/ambilobe/loko" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial Group
 : F5-CG13

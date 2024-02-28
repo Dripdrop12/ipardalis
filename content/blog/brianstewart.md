@@ -11,10 +11,12 @@ banner = "img/ambilobe/lineage/McNulty/mcnulty1"
 # Phone (414-243-9995)
 
 ---
+Brian Stewart is one of my favorite people in the Panther Chameleon breeding industry. He is a wealth of knowledge and was on the ground helping to establish the species in captivity. Here are some of his animals in our lineage.
+
 
 ### McNulty
 
-{{< gallery dir="/img/ambilobe/lineage/McNulty" />}}
+{{< no_num_gallery dir="/img/ambilobe/lineage/McNulty" more=" | Ambilobe Panther Chameleon"/>}}
 
 Sire
 : [Stryfe]({{< ref "blog/brightside.md#stryfe" >}})

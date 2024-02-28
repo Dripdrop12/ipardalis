@@ -16,7 +16,7 @@ Charles Yamaguchi isn't a real person. Elizabeth Lawrence scammed people under t
 
 ### Copperhead
 
-{{< gallery dir="img/ambilobe/lineage/Copperhead" />}}
+{{< no_num_gallery dir="img/ambilobe/lineage/Copperhead" more=" | RBBB Ambilobe Panther Chameleon"/>}}
 
 Sire
 : Unknown

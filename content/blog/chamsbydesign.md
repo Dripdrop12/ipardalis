@@ -14,13 +14,13 @@ banner = "img/ambilobe/lineage/RickJames/rickjames"
 
 ### Rick James (WC)
 
-{{< gallery dir="img/ambilobe/lineage/RickJames" />}}
+{{< gallery dir="img/ambilobe/lineage/RickJames" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 
 ### Firestarter (WC)
 
-{{< gallery dir="img/ambilobe/lineage/Firestarter" />}}
+{{< gallery dir="img/ambilobe/lineage/Firestarter" more=" | Ambilobe Panther Chameleon"/>}}
 
 ---
 

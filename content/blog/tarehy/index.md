@@ -11,7 +11,7 @@ banner = "img/ambilobe/tarehy/tarehy"
 Tsara Tarehy means attractive in Malagasy. We named the two sisters from [Manjaka x Lokana]({{< ref "/blog/manjaka-lokana.md" >}}) Tsara and Tarehy :). Check out that clutch to see how consistent their YBBB phenotypes were. It is a very good proxy for what these two sisters bring to the table: great yellows and bars that shift from Landy to Manjaka's blues. Very good complement to our existing lines!
 
 
-{{< gallery dir="/img/ambilobe/tarehy" />}}
+{{< no_num_gallery dir="/img/ambilobe/tarehy" more=" | Female Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F2-CG14*

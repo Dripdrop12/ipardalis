@@ -11,7 +11,7 @@ banner = "img/ambilobe/jimelda/jimelda4"
 Jimelda is Jimanga's sister from our Manga x Imelda pairing. She has some wonderful purples and a fiesty attitude! Manga was one of our best ybbb of all time, so we are really hoping Jimelda carries some of those traits into an F1 gen with WC Bibi. Those could very well be some of the best in the country if they prove out.
 
 
-{{< gallery dir="/img/ambilobe/jimelda" />}}
+{{< no_num_gallery dir="/img/ambilobe/jimelda" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG14*

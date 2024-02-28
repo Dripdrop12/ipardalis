@@ -11,7 +11,7 @@ banner = "img/ambilobe/nuhana/nuhana"
 Nuhana is an F1 female we produced with our 3rd gen ybbb, Nugget and our captive-hatched (CH) female, Bohana. Her brothers have been pretty diverse in their color scheme. Fingers crossed she takes after her father!
 
 
-{{< gallery dir="/img/ambilobe/nuhana" />}}
+{{< no_num_gallery dir="/img/ambilobe/nuhana" more=" | Ambilobe Panther Chameleon"/>}}
 
 Filial
 : *F1-CG5*
