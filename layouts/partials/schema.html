@@ -1,6 +1,3 @@
-{{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
-{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
-{{ if isset .Params "keywords" }}{{ range .Params.keywords }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
 {{ $t := time.Now }}
 {{ $description_plain := default .Summary .Description | markdownify | plainify }}
 
@@ -50,7 +47,6 @@
       "alternateName": "ambilobe panther chameleons",
       "legalName": {{ .Site.Params.header }},
       "description": {{ $description_plain }},
-      "keywords": [{{ delimit (uniq $keywords) ", " }}],
       "image": {
         "@id": {{ print .Site.BaseURL "#primaryimage" }}
       },
@@ -216,8 +212,7 @@
       "@id": {{ print .Site.BaseURL "#organization" }}
     },
     "copyrightYear": {{ .Site.Params.copyright_year }},
-    "description": {{ $description_plain }},
-    "keywords": [{{ delimit (uniq $keywords) ", " }}]
+    "description": {{ $description_plain }}
   },{{ if .Params.home }}
   {
     "@type": "BreadcrumbList",
@@ -265,7 +260,6 @@
     "url": {{ .Site.BaseURL }},
     "name": "iPardalis | Chameleons for Sale | Panther Chameleons for sale | Ambilobe",
     "description": "We specialize in yellow body blue bar (YBBB) Ambilobe Panther Chameleons. Our female YBBB Ambilobe are highly coveted as founding stock animals in the industry due to their vibrant color, robustness, and trustworthy lineage.",
-    "keywords": ["Panther Chameleons for sale online"],
     "publisher": {
       "@id": {{ print .Site.BaseURL "#organization" }}
     },
