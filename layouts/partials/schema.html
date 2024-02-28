@@ -54,7 +54,6 @@
       "image": {
         "@id": {{ print .Site.BaseURL "#primaryimage" }}
       },
-      "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
       "potentialAction": {
         "@type": "ReadAction",
         "target": {{ .Site.Params.for_sale_page | absURL }}
