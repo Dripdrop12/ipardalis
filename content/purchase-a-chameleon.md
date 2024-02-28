@@ -3,6 +3,7 @@ title = "How do I purchase a Panther Chameleon?"
 header_title = "How do I purchase a chameleon?"
 description = "iPardalis' guide to purchasing Panther Chameleons in the United States with links to more than 2 dozen different breeders' websites and facebook pages"
 keywords = ["Is it possible to buy a chameleon", "How do you get a chameleon as a pet", "What do I need to know before buying a chameleon"]
+home = true
 +++
 
 [Our Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}) are some of the highest quality captive bred Ambilobe Panther Chameleons in the United States. You can dig into their lineage, view their picture galleries and find one that you like. Then add it to your cart and check out.

@@ -4,6 +4,7 @@ header_title = "What is the best way to buy a Panther Chameleon?"
 description = "It is best to work with a breeder who specializes in Panther Chameleons and the locality you are interested in acquiring."
 keywords = ["What is the best place to buy a Panther Chameleon"]
 faq = true
+home = true
 +++
 
 {{< faq title="What is the best place to buy a Panther Chameleon?" >}}

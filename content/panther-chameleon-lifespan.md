@@ -3,6 +3,7 @@ title = "How Long do Panther Chameleons live?"
 header_title = "Panther Chameleon lifespan in captivity"
 description = "We do not know what the upper limit to a Panther Chameleon's life is in captivity"
 keywords = ["How long do panther chameleons live as pets", "Are panther chameleons good pets", "What chameleon has the longest lifespan", "Why do chameleons live such short lives"]
+home = true
 +++
 
 # What is the lifespan of a Panther Chameleon?

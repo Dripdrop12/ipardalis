@@ -3,6 +3,7 @@ title = "Is Shipping Chameleons Safe?"
 header_title = "Can chameleons be shipped?"
 description = "Shipping Panther Chameleons has proven to be a safe and effective way to acquire a healthy juvenile for many decades. However, young hatchlings should never be shipped."
 keywords = ["How much do panther chameleons cost", "How do you transport a chameleon long distance", "What is the most expensive chameleon", "What can go wrong when shipping a Panther Chameleon"]
+home = true
 +++
 
 # What is the cost of shipping a Panther Chameleon?

@@ -4,6 +4,7 @@ header_title = "iPardalis Terms of Service (TOS)"
 url = "/tos/"
 menu = "main"
 description = "iPardalis terms of service are the best in the panther chameleon industry."
+home = true
 +++
 
 By purchasing from iPardalis, you are agreeing to our terms of service.

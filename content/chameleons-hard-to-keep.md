@@ -3,6 +3,7 @@ title = "Why are chameleons often considered hard to keep?"
 header_title = "How to make it easier to keep Panther Chameleons as pets"
 description = "Panther Chameleons are often raised in groups and have high parasite loads due to stress and improper care - this is why they are often viewed as difficult to keep alive in captivity. When raised individually and kept under proper conditions, they are a very hardy captive."
 keywords = ["What is the easiest chameleon to care for", "How do you take care of a panther chameleon for beginners", "How hard is it to own a chameleon", "Why are chameleons so hard to care for"]
+home = true
 +++
 
 Panther Chameleons require an arboreal environment with mist, live plants, high humidity at night and many specific husbandry conditions to thrive in captivity. Much of it can be automated with timers and proper equipment, so if you get setup properly, they are not incredibly difficult to take care of. The crickets are much harder, lol!

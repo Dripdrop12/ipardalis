@@ -5,6 +5,7 @@ description = "Individually-raising has been a win-win shift for Panther Chamele
 keywords = ["baby panther chameleon", "baby panther chameleon for sale", "panther chameleon baby", "baby chameleon care", "baby panther chameleon care", "cute chameleon"]
 banner = "img/babies/bio-bin"
 faq = true
+home = true
 +++
 
 {{< load-photoswipe >}}
