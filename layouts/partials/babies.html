@@ -36,11 +36,11 @@
                 {{title .sire}} x {{title .dam}} | <strong>{{ .context.name }}</strong> | <em>{{.filial}}</em>
               </label>
             
-              <picture>
-                <source srcset="{{.context.image}}.webp" type="image/webp">
+              <picture itemprop="ImageObject" itemscope itemtype="https://schema.org/ImageObject">
+                <source itemprop="url" srcset="{{.context.image}}.webp" type="image/webp">
                 <source srcset="{{.context.image}}.jpg" type="image/jpeg">
-                <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
-                <figcaption>
+                <img itemprop="contentUrl" src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
+                <figcaption itemprop="caption">
                   {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong> | {{ if .context.phenotype }}
                 {{.context.phenotype}}
               {{ else }}
