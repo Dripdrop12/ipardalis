@@ -51,10 +51,14 @@
 ` | safeHTML }}
 
 <!-- Favicon and Apple touch icons-->
-<link rel="shortcut icon" href="{{ "img/icon.ico" | absURL }}" type="image/x-icon" />
-<link rel="apple-touch-icon" href="{{ "img/icon.ico" | absURL }}" type="image/x-icon" />
-<link rel="icon" href="{{ "img/icon.ico" | absURL }}" />
-<link rel="mask-icon" href="{{ "img/icon.ico" | absURL }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "img/apple-touch-icon.png" | absURL}}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "img/favicon-32x32.png" | absURL}}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "img/favicon-16x16.png" | absURL}}">
+<link rel="manifest" href="{{ "img/site.webmanifest" | absURL}}">
+<link rel="mask-icon" href="{{ "img/safari-pinned-tab.svg" | absURL}}" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
 <!-- owl carousel CSS -->
 <link href="{{ "css/owl.carousel.css" | absURL}}" rel="stylesheet">
 <link href="{{ "css/owl.theme.css" | absURL}}" rel="stylesheet">
