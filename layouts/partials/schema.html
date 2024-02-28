@@ -31,12 +31,10 @@
   "dateModified": {{ .Lastmod }},
   "description": {{ $description_plain }},
   "inLanguage": "en-US",
-  "potentialAction": [
-    {
-      "@type": "ReadAction",
-      "target": {{ .Site.BaseURL }}
-    }
-  ]
+  "potentialAction": {
+    "@type": "ReadAction",
+    "target": {{ .Site.BaseURL }}
+  }
 },
 {{ else if and (eq .Section "panther-chameleons-for-sale") (eq .Params.id "available") }}
 {
@@ -55,33 +53,29 @@
     "legalName": {{ .Site.Params.header }},
     "description": {{ $description_plain }},
     "keywords": [{{ delimit (uniq $keywords) ", " }}],
-    "image": "image": {
+    "image": {
       "@id": {{ print .Site.BaseURL "#primaryimage" }}
     },
     "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
-    "potentialAction": [
-      {
-        "@type": ["ReadAction"],
-        "target": [
-          [{{ .Site.Params.for_sale_page | absURL }}]
-        ]
-      }
-    ]
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": {{ .Site.Params.for_sale_page | absURL }}
+    }
 },
 {
-  "@type": ["BreadcrumbList"],
-  "@id": [{{ print .Permalink "#breadcrumb" }}],
+  "@type": "BreadcrumbList",
+  "@id": {{ print .Permalink "#breadcrumb" }},
   "itemListElement": [
     {
-      "@type": ["ListItem"],
-      "position": [1],
-      "name": ["iPardalis"],
-      "item": [{{ .Site.BaseURL }}]
+      "@type": "ListItem",
+      "position": 1,
+      "name": "iPardalis",
+      "item": {{ .Site.BaseURL }}
     },
     {
-      "@type": ["ListItem"],
-      "position": [2],
-      "name": ["Ambilobe Panther Chameleons for sale"]
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Ambilobe Panther Chameleons for sale"
     }
   ]
 },
@@ -167,25 +161,25 @@
   }
 },
 {
-  "@type": ["BreadcrumbList"],
-  "@id": [{{ print .Permalink "#breadcrumb" }}],
+  "@type": "BreadcrumbList",
+  "@id": {{ print .Permalink "#breadcrumb" }},
   "itemListElement": [
     {
-      "@type": ["ListItem"],
-      "position": [1],
-      "name": ["iPardalis"],
-      "item": [{{ .Site.BaseURL }}]
+      "@type": "ListItem",
+      "position": 1,
+      "name": "iPardalis",
+      "item": {{ .Site.BaseURL }}
     },
     {
-      "@type": ["ListItem"],
-      "position": [2],
-      "name": ["Ambilobe Panther Chaemelons for sale"],
-      "item": [{{ .Site.Params.for_sale_page | absURL }}]
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Ambilobe Panther Chaemelons for sale",
+      "item": {{ .Site.Params.for_sale_page | absURL }}
     },
     {
-      "@type": ["ListItem"],
-      "position": [3],
-      "name": ["{{ .Params.name }} - {{ title .Params.sire }} x {{ title .Params.dam }}"]
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Params.name }} - {{ title .Params.sire }} x {{ title .Params.dam }}"
     }
   ]
 },
@@ -231,25 +225,25 @@
   "keywords": [{{ delimit (uniq $keywords) ", " }}]
 },
 {
-  "@type": ["BreadcrumbList"],
-  "@id": [{{ print .Permalink "#breadcrumb" }}],
+  "@type": "BreadcrumbList",
+  "@id": {{ print .Permalink "#breadcrumb" }},
   "itemListElement": [
     {
-      "@type": ["ListItem"],
-      "position": [1],
-      "name": ["iPardalis"],
-      "item": [{{ .Site.BaseURL }}]
+      "@type": "ListItem",
+      "position": 1,
+      "name": "iPardalis",
+      "item": {{ .Site.BaseURL }}
     },
     {
-      "@type": ["ListItem"],
-      "position": [2],
-      "name": ["Blog"],
-      "item": [{{ print .Site.BaseURL "blog/"}}]
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": {{ print .Site.BaseURL "blog/"}}
     },
     {
-      "@type": ["ListItem"],
-      "position": [3],
-      "name": [{{ .Title }}]
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ .Title }}
     }
   ]
 },
@@ -260,7 +254,7 @@
   "@id": {{ print .Site.BaseURL "#website" }},
   "url": {{ .Site.BaseURL }},
   "name": "iPardalis | Chameleons for Sale | Panther Chameleons for sale | Ambilobe",
-  "description": ["We specialize in yellow body blue bar (YBBB) Ambilobe Panther Chameleons. Our female YBBB Ambilobe are highly coveted as founding stock animals in the industry due to their vibrant color, robustness, and trustworthy lineage."],
+  "description": "We specialize in yellow body blue bar (YBBB) Ambilobe Panther Chameleons. Our female YBBB Ambilobe are highly coveted as founding stock animals in the industry due to their vibrant color, robustness, and trustworthy lineage.",
   "keywords": ["Panther Chameleons for sale online"],
   "publisher": {
     "@id": {{ print .Site.BaseURL "#organization" }}
