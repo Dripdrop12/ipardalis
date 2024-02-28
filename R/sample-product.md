@@ -42,8 +42,8 @@ stringrreplacement:
 {{{{< load-photoswipe >}}}}
 
 {{{{< gallery >}}}}
-  {{{{< figure src="{image}.jpg" alt="{str_to_title(sire)} x {str_to_title(dam)} Lineage Collage | Panther Chameleons for sale" >}}}}
-  {{{{< figure src="{dam_tree}" alt="{str_to_title(dam)}'s Pedigree Chart | Panther Chameleons for sale" >}}}}
-  {{{{< figure src="{sire_tree}" alt="{str_to_title(sire)}'s Pedigree Chart | Panther Chameleons for sale" >}}}}
+  {{{{< figure src="{image}.jpg" caption="{str_to_title(sire)} x {str_to_title(dam)} Lineage Collage | Panther Chameleons for sale" >}}}}
+  {{{{< figure src="{dam_tree}" caption="{str_to_title(dam)}'s Pedigree Chart | Panther Chameleons for sale" >}}}}
+  {{{{< figure src="{sire_tree}" caption="{str_to_title(sire)}'s Pedigree Chart | Panther Chameleons for sale" >}}}}
   <figcaption itemprop="description"><strong>Ambilobe Panther Chameleon ({`babies-name`}) pictured is the exact chameleon available for purchase. {str_to_title(sire)}'s and {str_to_title(dam)}'s lineage collage and pedigree charts pictured last.</strong></figcaption>
 {{{{< /gallery >}}}}
