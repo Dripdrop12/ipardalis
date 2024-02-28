@@ -29,7 +29,7 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 				      <img itemprop="thumbnail" src="{{ if $thumbexists }}{{ $thumbURL }}{{ else }}{{ $linkURL }}{{ end }}" alt="{{ print $caption $ext_caption }}" /><!-- <img> hidden if in .gallery -->
 				    </div>
 			      <figcaption>
-		          <p>{{ print $caption $ext_caption }}</p>
+		          <p itemprop="caption">{{ print $caption $ext_caption }}</p>
 			      </figcaption>
 				    <a href="{{ $linkURL }}" itemprop="contentUrl"></a><!-- put <a> last so it is stacked on top -->
 				  </figure>

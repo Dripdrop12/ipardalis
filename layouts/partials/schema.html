@@ -94,7 +94,7 @@
       "@id": {{ print .Params.baby_image ".webp" | absURL }},
       "url": {{ print .Params.baby_image ".webp" | absURL }},
       "contentUrl": {{ print .Params.baby_image ".webp" | absURL }},
-      "caption": "Ambilobe Panther Chameleon for sale | {{ .Params.name }} - {{ title .Params.sire }} x {{ title .Params.dam }}"
+      "caption": "{{ .Params.name }} - {{ title .Params.sire }} x {{ title .Params.dam }} | Ambilobe Panther Chameleon for sale"
     },
     {
       "@type": "ImageObject",
@@ -102,7 +102,7 @@
       "@id": {{ print .Params.banner ".webp" | absURL }},
       "url": {{ print .Params.banner ".webp" | absURL }},
       "contentUrl": {{ print .Params.banner ".webp" | absURL }},
-      "caption": "Ambilobe Panther Chameleon for sale | {{ title .Params.sire }} x {{ title .Params.dam }} Lineage Collage"
+      "caption": "{{ title .Params.sire }} x {{ title .Params.dam }} Lineage Collage | Ambilobe Panther Chameleon for sale"
     },
     {
       "@type": "ImageObject",
@@ -110,7 +110,7 @@
       "@id": {{ print .Params.sire_tree | absURL }},
       "url": {{ print .Params.sire_tree | absURL }},
       "contentUrl": {{ print .Params.sire_tree | absURL }},
-      "caption": "Ambilobe Panther Chameleon for sale | {{ title .Params.sire }}'s pedigree chart"
+      "caption": "{{ title .Params.sire }}'s pedigree chart | Ambilobe Panther Chameleon for sale"
     },
     {
       "@type": "ImageObject",
@@ -118,7 +118,7 @@
       "@id": {{ print .Params.dam_tree | absURL }},
       "url": {{ print .Params.dam_tree | absURL }},
       "contentUrl": {{ print .Params.dam_tree | absURL }},
-      "caption": "Ambilobe Panther Chameleon for sale | {{ title .Params.dam }}'s pedigree chart"
+      "caption": "{{ title .Params.dam }}'s pedigree chart | Ambilobe Panther Chameleon for sale"
     }
   ],
   "name": {{ .Params.title }},
