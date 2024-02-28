@@ -15,7 +15,10 @@ home = true
 <hr>
 {{< /rawhtml>}}
 
+{{< faq title="Why do you breed Panther Chameleons?" >}}
 We raise Fucifer pardalis (Panther Chameleons) individually, under highly controlled conditions to ensure their health and longevity. They are one of the most sought after species of chameleons because of their amazing colors, size and relatively low maintenance requirements. Different regions of Madagascar have [distinct phenotypes](https://www.madcham.de/en/category/chamaeleons-habitatsdaten/lokalformen-von-furcifer-pardalis/) (color palettes), the most popular of which are Ambilobe, Nosy Be, Nosy Faly, Sambava and Ambanja. Our breeding group is from the Ambilobe region of Madagascar. We chose to specialize in Ambilobe because of its vibrancy and rich pigmentation. 
+{{< /faq >}}
+<br>
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d311974.95676865586!2d49.026378432219275!3d-13.191175344746163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2214f52f0a812659%3A0x1b97fc64fe096001!2sAmbilobe%2C%20Madagascar!5e1!3m2!1sen!2sus!4v1707187400333!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
