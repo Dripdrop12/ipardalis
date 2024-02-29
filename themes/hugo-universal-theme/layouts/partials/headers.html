@@ -29,11 +29,11 @@
 
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ $style_css := resources.Get "css/style.default.css" | minify | fingerprint }}
-<link href="{{ $style_css }}" rel="stylesheet" id="theme-stylesheet">
+<link href="{{ $style_css.Permalink }}" rel="stylesheet" id="theme-stylesheet">
 
 <!-- Custom stylesheet - for your changes -->
 {{ $custom_css := resources.Get "css/custom.css" | minify | fingerprint }}
-<link href="{{ $custom_css }}" rel="stylesheet">
+<link href="{{ $custom_css.Permalink }}" rel="stylesheet">
 
 <!-- Responsivity for older IE -->
 {{ `
