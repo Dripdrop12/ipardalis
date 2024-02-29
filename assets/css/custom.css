@@ -1,11 +1,8 @@
-.box-image-text .image {
-  min-height: 190px;
-  max-height: 190px;
-}
+/* your styles go here */
 
-.box-image-text .image img {
-  max-height: 190px;
-  margin: auto;
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
 }
 
 .box-simple {
@@ -29,9 +26,26 @@
 }
 
 .sold-out:hover {
-  box-shadow: 0 8px 16px 0 rgb(255, 66, 0);
+  box-shadow: 0 8px 16px 0 rgba(255, 66, 0, 0.9);
 }
 
-.tooltip {
-  background-color: rgb(53, 100, 165);
+p.price {
+  font-size:20px;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
+}
+s.price.sale
+{
+  color: rgb(255, 66, 0);
+  font-size: 15px;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
+}
+s.price.markup
+{
+  color: rgb(53, 100, 165);
+  font-size: 15px;
+  font-family: Avenir Medium, Avenir, "Century Gothic", sans-serif;
+}
+
+.btn.btn-danger {
+  background-color: rgb(255, 66, 0);
 }
