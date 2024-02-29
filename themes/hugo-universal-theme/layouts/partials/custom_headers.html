@@ -1,9 +1,10 @@
 <script src="https://kit.fontawesome.com/5dbbd346bb.js" crossorigin="anonymous"></script>
 {{ $paged_table_css := resources.Get "css/pagedtable.css" | minify | fingerprint }}
-<link href="{{ $paged_table_css }}" rel="stylesheet">
+<link href="{{ $paged_table_css.Permalink }}" rel="stylesheet">
 {{ $tabset_css := resources.Get "css/tabset.css" | minify | fingerprint }}
-<link href="{{ $tabset_css }}" rel="stylesheet">
+<link href="{{ $tabset_css.Permalink }}" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/7.2.0/introjs.min.css" crossorigin="anonymous" referrerpolicy="strict-origin-when-cross-origin" />
 <meta name="facebook-domain-verification" content="r4j79eky5053mbwlbo32onnws561ae" />
 
 {{ partial "schema.html" . }}
+
