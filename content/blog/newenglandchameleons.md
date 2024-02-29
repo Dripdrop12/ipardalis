@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/Odin-NEC/odin"
 
 {{< load-photoswipe >}}
 
-## [New England Chameleons](https://newenglandchameleons.com/)
+## New England Chameleons
 
 ---
 

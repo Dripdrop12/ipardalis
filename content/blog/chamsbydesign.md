@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/RickJames/rickjames"
 
 {{< load-photoswipe >}}
 
-## [Chameleons by Design](http://www.chameleonsbydesign.com/)
+## Chameleons by Design
 
 ---
 
