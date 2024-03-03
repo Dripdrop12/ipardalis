@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+
+  </head>
+
+  <body>
+   <div class="elfsight-app-d2eab9d6-490a-41b0-a221-787e53650166" data-elfsight-app-lazy></div>
+   <div class="elfsight-app-d269a8f4-4144-4ed8-bfd9-ebfcf89d18da" data-elfsight-app-lazy></div>
+    <div id="juveniles">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+          <div class="container" id="juveniles-available">
+          
+            <div class="row">
+                <div class="col-md-12">
+                    <section>
+                      <hr>
+                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
+                      <hr>
+                      {{ $baseURL := .Site.BaseURL }}
+                      <p>Our juvenile Ambilobe Panther Chameleons are individually raised from the egg, so they are larger and more vibrant than group-raised animals. Our commitment to individualized care begins at the earliest stages of life, ensuring that each juvenile Ambilobe Panther Chameleon receives optimal attention and nutrition.</p> 
+                      <p>By raising them individually from the egg, we can closely monitor their development, tailoring their environment to enhance growth and coloration. This personalized approach not only results in larger and more vibrant chameleons but also promotes better overall health and resilience. As a result, our customers can expect to receive specimens that reflect the pinnacle of Ambilobe Panther Chameleon breeding, characterized by robust physique, stunning coloration, and a well-adapted nature for a seamless transition into their new homes.</p>
+                      <hr>
+                      {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
+                      {{ $listedclutches := where $clutches "listed" true}}
+                      <h5>(3-5 months old)</h5>
+                      
+                      <div class="row">
+                      {{ $juvenilerange := slice 3 4 5}}
+                      {{ $juvenileclutches := slice }}
+      
+                      {{ range $listedclutches }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        {{ if in $juvenilerange $ageMonths }}
+                          {{ $juvenileclutches = $juvenileclutches | append . }}
+                        {{ end }}
+                      {{ end }}
+      
+                      {{ $.Scratch.Set "babycount" 0 }}
+                      
+                      {{ range $i, $element := (sort $juvenileclutches "hatchend" "desc") }}
+                      
+                        {{ $pairingimage := .image }}
+                        {{ $sire := .sire }}
+                        {{ $dam := .dam }}
+                        {{ $hatchend := .hatchend }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        
+                        {{ $filial := .filial }}
+                        {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                        {{ range $j, $baby := .babies }}
+                          {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                          <div class="col-md-4">
+                            {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch "juvenile" true) }}
+                          </div>
+                          {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                            </div>
+                            <div class="row">  
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                      </div>
+                      <hr>
+                      
+                      {{ .Content }}
+                      
+                      {{ partial "whyipardalis.html" . }}
+                      
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

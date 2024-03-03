@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+
+  </head>
+
+  <body>
+   <div class="elfsight-app-d2eab9d6-490a-41b0-a221-787e53650166" data-elfsight-app-lazy></div>
+   <div class="elfsight-app-d269a8f4-4144-4ed8-bfd9-ebfcf89d18da" data-elfsight-app-lazy></div>
+    <div id="adults">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+          <div class="container" id="adults-available">
+          
+            <div class="row">
+                <div class="col-md-12">
+                    <section>
+                      {{ $baseURL := .Site.BaseURL }}
+                      <p>Our Adult Ambilobe Panther Chameleons are an ideal choice for individuals concerned about the care and acclimatization of juvenile or subadult specimens. Their mature and established nature ensures a more predictable temperament, making them particularly suitable for those seeking a chameleon companion with a well-defined disposition. Additionally, these adult chameleons showcase their full adult coloration, providing enthusiasts with the immediate visual satisfaction of their stunning appearance. Their readiness for breeding, coupled with their adaptability to captive environments, further reinforces the appeal of our Adult Ambilobe Panther Chameleons as a reliable and rewarding choice.</p>
+                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
+                      <hr>
+                      {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
+                      {{ $listedclutches := where $clutches "listed" true}}
+                      <h5>(9+ months old)</h5>
+                      <div class="row">
+                      {{ $adultrange := slice 9}}
+                      {{ $adultclutches := slice }}
+      
+                      {{ range $listedclutches }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        {{ if ge $ageMonths 9 }}
+                          {{ $adultclutches = $adultclutches | append . }}
+                        {{ end }}
+                      {{ end }}
+      
+                      {{ $.Scratch.Set "babycount" 0 }}
+                      
+                      {{ range $i, $element := (sort $adultclutches "hatchend" "desc") }}
+                      
+                        {{ $pairingimage := .image }}
+                        {{ $sire := .sire }}
+                        {{ $dam := .dam }}
+                        {{ $hatchend := .hatchend }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        
+                        {{ $filial := .filial }}
+                        {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                        {{ range $j, $baby := .babies }}
+                          {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                          <div class="col-md-4">
+                            {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                          </div>
+                          {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                            </div>
+                            <div class="row">  
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                          
+                      </div>
+                      <hr>
+                      
+                      {{ .Content }}
+                      
+                      {{ partial "whyipardalis.html" . }}
+                      
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

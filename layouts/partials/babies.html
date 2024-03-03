@@ -31,7 +31,7 @@
       {{ else }}
         <div class="card" style="text-align:center;" data-toggle="tooltip" data-placement="top" title="Click for image gallery and more!">
           <div class="form-group" style="padding:5px;">
-            <a href="{{ ref .page (printf  "%s/%s/%s/%s.md" .sire .dam .hatchend .context.name) }}">
+            <a href="{{ ref .page (printf  "panther-chameleons-for-sale/%s/%s/%s/%s.md" .sire .dam .hatchend .context.name) }}">
               <label>
                 {{title .sire}} x {{title .dam}} | <strong>{{ .context.name }}</strong> | <em>{{.filial}}</em>
               </label>

@@ -31,7 +31,7 @@
       "@type": "ReadAction",
       "target": {{ .Site.BaseURL }}
     }
-  },{{ else if and (eq .Section "panther-chameleons-for-sale") (eq .Params.id "available") }}
+  },{{ else if and (strings.Contains .Section "for-sale") (eq .Params.id "available") }}
   {
       "@context": "http://schema.org",
       "@type": "OnlineStore",
@@ -52,7 +52,7 @@
       },
       "potentialAction": {
         "@type": "ReadAction",
-        "target": {{ .Site.Params.for_sale_page | absURL }}
+        "target": {{ .Permalink }}
       }
   },
   {

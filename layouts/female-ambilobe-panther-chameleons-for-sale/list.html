@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+
+  </head>
+
+  <body>
+   <div class="elfsight-app-d2eab9d6-490a-41b0-a221-787e53650166" data-elfsight-app-lazy></div>
+   <div class="elfsight-app-d269a8f4-4144-4ed8-bfd9-ebfcf89d18da" data-elfsight-app-lazy></div>
+    <div id="females">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+          <div class="container" id="females-available">
+          
+            <div class="row">
+                <div class="col-md-12">
+                    <section>
+                      {{ $baseURL := .Site.BaseURL }}
+                      <p>Female Panther Chameleons are exceptional pets because of their docile and calm disposition. Unlike their male counterparts, female chameleons do not usually exhibit the same territorial or defensive behaviors, making them easier to handle and a more suitable choice for those who prefer and interactive pet. Additionally, female chameleons often boast vibrant colorations when they are receptive, showcasing a spectrum of hues, and that evolve during various life stages. Their adaptable and social disposition makes them well-suited for captivity, providing enthusiasts with the opportunity to appreciate the beauty of Panther Chameleons without male behaviors.</p>
+                      <p>Olimpia Martinotti wrote a great guide <a href="http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html">On the Specific Care of Females</a>. We highly recommend it. Her blog is definitely worth a read before acquiring a female Ambilobe panther chameleon from us.</p>
+                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
+                      <hr>
+                      {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
+                      {{ $listedclutches := where $clutches "listed" true}}
+                      <h5>Females</h5>
+                      <div class="row">
+                      {{ $.Scratch.Set "babycount" 0 }}
+                      {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                      
+                        {{ $pairingimage := .image }}
+                        {{ $sire := .sire }}
+                        {{ $dam := .dam }}
+                        {{ $hatchend := .hatchend }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        
+                        {{ $filial := .filial }}
+                        {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                        
+                        {{ range $j, $baby := .babies }}
+                          
+                          {{ if .gender }}
+                            {{ if eq .gender "Female" }}
+                              {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                              <div class="col-md-4">
+                                {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                              </div>
+                              {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                                </div>
+                                <div class="row">  
+                              {{ end }}
+                            {{ end }}
+                          {{ else }}
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                          
+                      </div>
+                      <hr>
+                      
+                      {{ .Content }}
+                      
+                      {{ partial "whyipardalis.html" . }}
+                      
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

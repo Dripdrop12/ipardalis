@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+
+  </head>
+
+  <body>
+   <div class="elfsight-app-d2eab9d6-490a-41b0-a221-787e53650166" data-elfsight-app-lazy></div>
+   <div class="elfsight-app-d269a8f4-4144-4ed8-bfd9-ebfcf89d18da" data-elfsight-app-lazy></div>
+    <div id="males">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+          <div class="container" id="males-available">
+          
+            <div class="row">
+                <div class="col-md-12">
+                    <section>
+                      {{ $baseURL := .Site.BaseURL }}
+                      <p>Male Panther Chameleons are highly sought-after as pets due to their captivating and vibrant coloration, which intensifies as they mature. We charge more for males as they age and develop more color, so the best deal is often buying a younger male panther chameleon. The striking coloration and intricate patterns displayed by male Ambilobe chameleons contribute to their aesthetic appeal, making them a favorite among our customers. Additionally, male chameleons are known for their dynamic and interactive behavior, showcasing territorial displays and engaging in unique courtship rituals. Their fascinating characteristics, coupled with the opportunity for breeding projects, further enhance their popularity as cherished and admired pets within the reptile-keeping community.</p>
+                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
+                      <hr>
+                      {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
+                      {{ $listedclutches := where $clutches "listed" true}}
+                      <h5>Males</h5>
+                      <div class="row">
+                      {{ $.Scratch.Set "babycount" 0 }}
+                      {{ range $i, $element := (sort $listedclutches "hatchend" "desc") }}
+                      
+                        {{ $pairingimage := .image }}
+                        {{ $sire := .sire }}
+                        {{ $dam := .dam }}
+                        {{ $hatchend := .hatchend }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        
+                        {{ $filial := .filial }}
+                        {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                        
+                        {{ range $j, $baby := .babies }}
+                          
+                          {{ if .gender }}
+                            {{ if eq .gender "Male" }}
+                              {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                              <div class="col-md-4">
+                                {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                              </div>
+                              {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                                </div>
+                                <div class="row">  
+                              {{ end }}
+                            {{ end }}
+                          {{ else }}
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                          
+                      </div>
+                      <hr>
+                      
+                      {{ .Content }}
+                      
+                      {{ partial "whyipardalis.html" . }}
+                      
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+
+  </head>
+
+  <body>
+   <div class="elfsight-app-d2eab9d6-490a-41b0-a221-787e53650166" data-elfsight-app-lazy></div>
+   <div class="elfsight-app-d269a8f4-4144-4ed8-bfd9-ebfcf89d18da" data-elfsight-app-lazy></div>
+    <div id="subadults">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+          <div class="container" id="subadults-available">
+          
+            <div class="row">
+                <div class="col-md-12">
+                    <section>
+                      {{ $baseURL := .Site.BaseURL }}
+                      <p>At iPardalis, we are thrilled to present our collection of {{ .Params.phenotype }} Panther Chameleons, meticulously bred and individually-raised to peak condition. We have dedicate most of our effort towards perfecting Ambilobe locale phenotypes for nearly a decade now. You will be hard pressed to find a better example of them anywhere else outside Ambilobe, Madagascar. There are dozens of breeders working with our Ambilobe founding stock, and we encourage you to scrutinize the lineage of our animals. We keep and breed the best of the best - and our diverse bloodlines continue to strengthen, generation after generation.</p>
+                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
+                      <hr>
+                  {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
+                  {{ $listedclutches := where $clutches "listed" true}}
+                  <h5>(6-8 months old)</h5>
+                      <div class="row">
+                      {{ $subadultrange := slice 6 7 8}}
+                      {{ $subadultclutches := slice }}
+      
+                      {{ range $listedclutches }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        {{ if in $subadultrange $ageMonths }}
+                          {{ $subadultclutches = $subadultclutches | append . }}
+                        {{ end }}
+                      {{ end }}
+      
+                      {{ $.Scratch.Set "babycount" 0 }}
+                      
+                      {{ range $i, $element := (sort $subadultclutches "hatchend" "desc") }}
+                      
+                        {{ $pairingimage := .image }}
+                        {{ $sire := .sire }}
+                        {{ $dam := .dam }}
+                        {{ $hatchend := .hatchend }}
+                        {{ $hatchstart := .hatchstart }}
+                        {{ $ageMonths := div (sub now.Unix (time $hatchstart).Unix) 2592000 }}
+                        
+                        {{ $filial := .filial }}
+                        {{ $clutchid := printf "%s%s%s" .sire .dam .laid }}
+                        {{ range $j, $baby := .babies }}
+                          {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                          <div class="col-md-4">
+                            {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
+                          </div>
+                          {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                            </div>
+                            <div class="row">  
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                      </div>
+                      <hr>
+                      
+                      {{ .Content }}
+                      
+                      {{ partial "whyipardalis.html" . }}
+                      
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

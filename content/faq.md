@@ -6,7 +6,7 @@ keywords = ["Panther chameleon lifespan", "purchase a panther chameleon", "how m
 menu = "main"
 faq = true
 home = true
-banner = "img/ambilobe/alfred9"
+banner = "img/ambilobe/alfred/alfred9"
 +++
 
 {{< rawhtml >}}
@@ -38,6 +38,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [What are the caging requirements for Panther Chameleons?]({{< ref "/panther-chameleon-caging-requirements.md" >}})
 - [Are Panther Chameleons friendly?]({{< ref "/chameleons-as-pets.md" >}})
 - [Are panther chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
+
 
 # Panther Chameleon care resources
 

@@ -21,9 +21,122 @@ paginate = 10
 
 [[menu.main]]
     name = "For Sale"
-    url  = "/panther-chameleons-for-sale"
+    identifier = "menu.forsale"
+    url = "/img/ambilobe/jimanga/jimanga7.webp"
+    weight = 1
+    
+[[menu.main]]
+    name = "All"
+    identifier = "section.all"
+    parent = "menu.forsale"
+    url = ""
+    weight = 1
+    post = 1  
+
+[[menu.main]]
+  name = "Main Menu"
+  parent = "section.all"
+  url = "/panther-chameleons-for-sale/"
+  weight = 1
+  
+[[menu.main]]
+    name = "Age"
+    identifier = "section.age"
+    parent = "menu.forsale"
+    url = ""
+    weight = 2
+    post = 2
+
+[[menu.main]]
+    name = "Juveniles"
+    parent = "section.age"
+    url  = "/juvenile-ambilobe-panther-chameleons-for-sale/"
     weight = 1
 
+[[menu.main]]
+    name = "Subadults"
+    parent = "section.age"
+    url  = "/subadult-ambilobe-panther-chameleons-for-sale/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Adults"
+    parent = "section.age"
+    url  = "/adult-ambilobe-panther-chameleons-for-sale/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Sex"
+    identifier = "section.sex"
+    parent = "menu.forsale"
+    url = ""
+    weight = 1
+    post = 2
+    
+[[menu.main]]
+    name = "Males"
+    parent = "section.sex"
+    url  = "/male-ambilobe-panther-chameleons-for-sale/"
+    weight = 1
+
+[[menu.main]]
+    name = "Females"
+    parent = "section.sex"
+    url  = "/female-ambilobe-panther-chameleons-for-sale/"
+    weight = 2
+
+[[menu.main]]
+    name = "Phenotype"
+    identifier = "section.phenotype"
+    parent = "menu.forsale"
+    url = ""
+    weight = 3
+    post = 1
+    
+[[menu.main]]
+    name = "Yellow Body Blue Bar (YBBB)"
+    parent = "section.phenotype"
+    url  = "/ybbb-ambilobe-panther-chameleons-for-sale/"
+    weight = 1
+
+[[menu.main]]
+    name = "Yellow Body Red Bar (YBRB)"
+    parent = "section.phenotype"
+    url  = "/ybrb-ambilobe-panther-chameleons-for-sale/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Rainbow"
+    parent = "section.phenotype"
+    url  = "/rainbow-ambilobe-panther-chameleons-for-sale/"
+    weight = 3
+
+[[menu.main]]
+    name = "Orange Body Blue Bar (OBBB)"
+    parent = "section.phenotype"
+    url  = "/obbb-ambilobe-panther-chameleons-for-sale/"
+    weight = 4
+    
+[[menu.main]]
+    name = "Red Body Blue Bar (RBBB)"
+    parent = "section.phenotype"
+    url  = "/rbbb-ambilobe-panther-chameleons-for-sale/"
+    weight = 5
+
+[[menu.main]]
+    name = "Reservations"
+    identifier = "section.reservations"
+    parent = "menu.forsale"
+    url = ""
+    weight = 4
+    post = 1
+
+[[menu.main]]
+    name = "Upcoming Ambilobe Clutches"
+    parent = "section.reservations"
+    url  = "/baby-panther-chameleons-for-sale/"
+    weight = 1
+    
 [[menu.main]]
     name = "Projects"
     identifier = "menu.projects"

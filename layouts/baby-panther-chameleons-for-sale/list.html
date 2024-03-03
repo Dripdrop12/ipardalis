@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+
+  </head>
+
+  <body>
+   <div class="elfsight-app-d2eab9d6-490a-41b0-a221-787e53650166" data-elfsight-app-lazy></div>
+   <div class="elfsight-app-d269a8f4-4144-4ed8-bfd9-ebfcf89d18da" data-elfsight-app-lazy></div>
+    <div id="babies">
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+          <div class="container" id="babies-available">
+          
+            <div class="row">
+                <div class="col-md-12">
+                    <section>
+          
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <section>
+                                      <h3>Reservation Process</h3>
+                                      <p><strong>This is a great way to spread out the cost if you need more time to pay down your chameleon.</strong></p>
+                                      <p>We run a $75 reservation program for all of our upcoming clutches. Reservations are 100% refundable for any reason and will be applied to your balance when you're ready to ship. You are welcome to pay down more of your balance as you wait for them to hatch and grow.</p> 
+                                      <p>When the first group of babies reaches the 3 month mark, we run down the list before offering any to the public. You pick your cham in the order you pay, so early reservations get early picks. If you choose to pass or do not respond to our messages within 24 hours, we will post the animals for sale.</p>
+          
+          <p>We work with customers to get a juvenile from their preferred phenotype. This is not an exact science, but we've observed thousands of baby panther chameleons grow up, and it's your top choice if you're aiming for a particular appearance.</p>
+                                      <hr>
+                                      <div class="row">
+                                      
+                                      {{ $clutches := sort .Site.Data.clutches "laid" }}
+                                      {{ range $i, $element := (sort (where $clutches ".deposit" true) "laid") }}
+                                        <div class="col-md-6">
+                                          <form class="orders-form" method="post" action="https://ipardalis.foxycart.com/cart" accept-charset="utf-8" >
+                                            <div class={{ if eq .soldout true }} "card sold-out" {{ else }} "card" {{ end }}>
+                                              <div class="form-group">
+                                                <picture>
+                                                  <source srcset="{{.image}}.webp" type="image/webp">
+                                                  <source srcset="{{.image}}.jpg" type="image/jpeg">
+                                                  <img src="{{.image}}.jpg" alt="Contact Us!" style="width:100%">
+                                                </picture>
+                                                
+                                                <hr>
+                                                
+                                                <div style="padding-left:5px;">
+                                                  <div class="heading">
+                                                    <h3>
+                                                      <a href="{{ ref $.Page (printf "blog/%s/index.md" .sire) }}">{{title .sire}}</a> x 
+                                                      <a href="{{ ref $.Page (printf "blog/%s/index.md" .dam) }}">{{title  .dam}}</a>
+                                                    </h3>
+                                                  </div>
+                                                  <em>{{.filial}}</em>
+                                                  {{ if .desc }}
+                                                    <p>{{.desc}}</p>
+                                                  {{ end }}
+                                                  <div class="row">
+                                                    <div class="col-md-4">
+                                                      <dl>
+                                                        <dt>Laid:</dt>
+                                                        <dd>{{ .laid }}</dd>
+                                                        {{ if fileExists (printf "/content/blog/%s-%s.md" .sire .dam)}}
+                                                        <dt>Older Siblings:</dt> 
+                                                        <dd><a href="{{ ref $.Page (printf "blog/%s-%s.md" .sire .dam) }}">gallery</a></dd>
+                                                        {{end}}
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                      <dl>
+                                                        <dt>Hatch start:</dt> 
+                                                        <dd>{{ .hatchstart }}</dd>
+                                                        <dt>Hatch end:</dt>
+                                                        <dd>{{ .hatchend }}</dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                      <dl>
+                                                        <dt>Hatch Rate:</dt> 
+                                                        <dd><sup>{{ .hatchnum }}</sup>&frasl;<sub>{{ .clutchsize }}</sub></dd>
+                                                        <dt>Estimated ship date:</dt>
+                                                        <dd>{{ .shipping }}</dd>
+                                                      </dl>
+                                                    </div>
+                                                  </div>
+                                                  
+                                                  <hr>
+                                                  <ul>
+                                                    <li><p><strong>$75 Now</strong> (males are ${{.maleprice}} plus shipping and females are ${{.femaleprice}} plus shipping after {{.shipping}})</p></li>
+                                                  </ul>
+                                                  
+                                                  {{ if and (eq .soldoutmale true) (eq .soldoutfemale false) }}
+                                                  <div class="form-row" style="padding-bottom:40px;">
+                                                    <div class="col-md-2">
+                                                      <dl>
+                                                        <dt>Males:</dt>
+                                                        <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub> (SOLD)</dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                      <dl>
+                                                        <dt>Females:</dt>
+                                                        <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                      <label for="gender"></label>
+                                                      <select name="gender" id="gender" class="btn btn-template-main">
+                                                        <option value="female">Female</option>
+                                                      </select> 
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                      <button type="submit" class="btn btn-template-main">
+                                                        <i class="fa fa-shopping-cart"></i>
+                                                        Add to cart
+                                                      </button>
+                                                    </div>
+                                                  {{ else if and (eq .soldoutfemale true) (eq .soldoutmale false) }}
+                                                  <div class="form-row" style="padding-bottom:30px;">
+                                                    <div class="col-md-2">
+                                                      <dl>
+                                                        <dt>Males:</dt>
+                                                        <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                      <dl>
+                                                        <dt>Females:</dt>
+                                                        <dd>SOLD OUT</dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                      <label for="gender"></label>
+                                                      <select name="gender" id="gender" class="btn btn-template-main">
+                                                        <option value="male">Male</option>
+                                                      </select> 
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                      <button type="submit" class="btn btn-template-main">
+                                                        <i class="fa fa-shopping-cart"></i>
+                                                        Add to cart
+                                                      </button>
+                                                    </div>
+                                                    
+                                                  {{ else if or (eq .soldout true) (and (eq .soldoutmale true) (eq .soldoutfemale true)) }}
+                                                    <select name="gender" id="gender" class="btn btn-template-main disabled">
+                                                      <option value="male">Male</option>
+                                                      <option value="female">Female</option>
+                                                    </select>
+                                                    <button class="btn btn-danger disabled" disabled><i class="fa fa-truck"></i>Sold Out</button>
+                                                    <div class="col-md-3">
+                                                      <dl>
+                                                        <dt>Males:</dt>
+                                                        <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                      <dl>
+                                                        <dt>Females:</dt>
+                                                        <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                                                      </dl>
+                                                    </div>
+                                                  {{ else }}
+                                                  <div class="form-row" style="padding-bottom:30px;">
+                                                    <div class="col-md-2">
+                                                      <dl>
+                                                        <dt>Males:</dt>
+                                                        <dd><sup>{{ .reservedmale }}</sup>&frasl;<sub>{{ .totalmale }}</sub></dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                      <dl>
+                                                        <dt>Females:</dt>
+                                                        <dd><sup>{{ .reservedfemale }}</sup>&frasl;<sub>{{ .totalfemale }}</sub></dd>
+                                                      </dl>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                      <label for="gender"></label>
+                                                      <select name="gender" id="gender" class="btn btn-template-main" >
+                                                        <option value="male">Male</option>
+                                                        <option value="female">Female</option>
+                                                      </select>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                      <button type="submit" class="btn btn-template-main" >
+                                                        <i class="fa fa-shopping-cart"></i>
+                                                        Add to cart
+                                                      </button>
+                                                    </div>
+                                                    
+                                                    
+                                                  </div>
+                                                  
+                                                  {{ end }}
+                                                </div>
+                                              </div>
+                                              <input type="hidden" name="name" value="{{ .sire }} x {{ .dam }} reservation" />
+                                              <input type="hidden" name="price" value="75" />
+                                              <input type="hidden" name="category" value="Reservations" />
+                                              
+                                              <hr>
+                                            </div>
+                                          </form>
+                                        </div>
+                                        {{ if modBool (add $i 1) 2 }}
+                                       
+                                        </div>
+                                        
+                                        <hr>
+                                        <div class="row">
+                                        {{ end }}
+                                      {{ end }}
+                                      
+                                      </div>
+                                
+                                </section>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <hr>
+                      </div>
+                     
+                      {{ .Content }}
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
