@@ -110,18 +110,12 @@ paginate = 10
     parent = "section.phenotype"
     url  = "/rainbow-ambilobe-panther-chameleons-for-sale/"
     weight = 3
-
-[[menu.main]]
-    name = "Orange Body Blue Bar (OBBB)"
-    parent = "section.phenotype"
-    url  = "/obbb-ambilobe-panther-chameleons-for-sale/"
-    weight = 4
     
 [[menu.main]]
     name = "Red Body Blue Bar (RBBB)"
     parent = "section.phenotype"
     url  = "/rbbb-ambilobe-panther-chameleons-for-sale/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Reservations"
