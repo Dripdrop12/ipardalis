@@ -23,22 +23,22 @@
   {{ $.Scratch.Set "bar_color" "blue" }}
 {{ else if (eq $phenotype "Male Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Male" }}
-  {{ $.Scratch.Set "body_color" "" }}
-  {{ $.Scratch.Set "bar_color" "" }}
+  {{ $.Scratch.Set "body_color" "yellow, red or rainbow" }}
+  {{ $.Scratch.Set "bar_color" "blue, red or mixed" }}
 {{ else if (eq $phenotype "Female Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Female" }}
 {{ else if (eq $phenotype "Juvenile Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Juvenile" }}
-  {{ $.Scratch.Set "body_color" "" }}
-  {{ $.Scratch.Set "bar_color" "" }}
+  {{ $.Scratch.Set "body_color" "yellow, red or rainbow" }}
+  {{ $.Scratch.Set "bar_color" "blue, red or mixed" }}
 {{ else if (eq $phenotype "Subadult Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Subadult" }}
-  {{ $.Scratch.Set "body_color" "" }}
-  {{ $.Scratch.Set "bar_color" "" }}
+  {{ $.Scratch.Set "body_color" "yellow, red or rainbow" }}
+  {{ $.Scratch.Set "bar_color" "blue, red or mixed" }}
 {{ else if (eq $phenotype "Adult Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Adult" }}
-  {{ $.Scratch.Set "body_color" "" }}
-  {{ $.Scratch.Set "bar_color" "" }}
+  {{ $.Scratch.Set "body_color" "yellow, red or rainbow" }}
+  {{ $.Scratch.Set "bar_color" "blue, red or mixed" }}
 {{ end }}
 
 
@@ -47,7 +47,7 @@
 <ol>
   {{ if not (eq $phenotype "Female Ambilobe") }}
   <li>
-    <p><strong>Unparalleled Color</strong>: Our {{ $.Scratch.Get "long_phenotype" }} {{  $.Scratch.Get "locale" }} Panther Chameleons boast vibrant {{ $.Scratch.Get "body_color" }} bodies with stunning {{ $.Scratch.Get "bar_color" }} bars. We focus on clean, true {{ $.Scratch.Get "body_color" }} bodies so that their bars present well on a that background. Each chameleon is a living piece of art, showcasing the impeccable breeding standards upheld at iPardalis.</p>
+    <p><strong>Unparalleled Color</strong>: Our {{ $.Scratch.Get "long_phenotype" }} {{  $.Scratch.Get "locale" }} Panther Chameleons boast vibrant {{ $.Scratch.Get "body_color" }} bodies with stunning {{ $.Scratch.Get "bar_color" }} bars. We focus on clean, true {{ $.Scratch.Get "body_color" }} bodies so that their bars present well on a {{ $.Scratch.Get "body_color" }} background color. Each chameleon is a living piece of art, showcasing the impeccable breeding standards upheld at iPardalis.</p>
   </li>
   {{ end }}
   <li>
