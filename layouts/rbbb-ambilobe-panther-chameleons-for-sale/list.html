@@ -23,9 +23,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <section>
+                      <hr>
+                      <a href="{{ "panther-chameleons-for-sale/" | relURL}}" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</a>
+                      <hr>
                       {{ $baseURL := .Site.BaseURL }}
                       <p>At iPardalis, the RBBB Ambilobe Panther Chameleons constitute a distinctive project. These specimens must exhibit exceptional qualities to divert attention from our primary YBBB project. Consequently, they consistently rank as industry-leading animals, expertly paired for optimal genetics, and serve as exemplary representatives of the classic Ambilobe phenotype.</p>
-                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
                       <hr>
                       {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
                       {{ $listedclutches := where $clutches "listed" true}}

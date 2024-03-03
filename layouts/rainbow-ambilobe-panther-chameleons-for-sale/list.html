@@ -23,9 +23,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <section>
+                      <hr>
+                      <a href="{{ "panther-chameleons-for-sale/" | relURL}}" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</a>
+                      <hr>
                       {{ $baseURL := .Site.BaseURL }}
                       <p>Here, we showcase our exclusive lineup of {{ .Params.phenotype }} Panther Chameleons. Our meticulous breeding practices and individualized care ensure that each chameleon is raised to peak condition, embodying the highest standards of quality in the reptile industry. We strive for phenotype purity as well as locale purity in our breeding program. Rainbows are what we refer to classic wild-type Ambilobe as - a mix of every color in the rainbow.</p>
-                      <button onclick="history.back()" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</button>
                       <hr>
                       {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
                       {{ $listedclutches := where $clutches "listed" true}}
