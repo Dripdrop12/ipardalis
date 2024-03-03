@@ -1,6 +1,6 @@
 ---
-title: {Title}
-header_title: {Animal_Id}
+title: "{`babies-gender`} {`babies-phenotype`} Panther Chameleon from {str_to_title(sire)} x {str_to_title(dam)}"
+header_title: "{Maturity} {`babies-gender`} {`babies-phenotype`} Panther Chameleon from {str_to_title(sire)} x {str_to_title(dam)}"
 description: {Desc}
 keywords: ["{sire}", "{dam}", "{Title}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "ambilobe panther chameleons for sale", "ambilobe panther chameleon for sale"]
 draft: {tolower(draft)}
