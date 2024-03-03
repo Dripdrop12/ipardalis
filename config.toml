@@ -44,8 +44,8 @@ paginate = 10
     identifier = "section.age"
     parent = "menu.forsale"
     url = ""
-    weight = 2
-    post = 2
+    weight = 3
+    post = 1
 
 [[menu.main]]
     name = "Juveniles"
@@ -70,8 +70,8 @@ paginate = 10
     identifier = "section.sex"
     parent = "menu.forsale"
     url = ""
-    weight = 1
-    post = 2
+    weight = 2
+    post = 1
     
 [[menu.main]]
     name = "Males"
@@ -90,8 +90,8 @@ paginate = 10
     identifier = "section.phenotype"
     parent = "menu.forsale"
     url = ""
-    weight = 3
-    post = 1
+    weight = 2
+    post = 2
     
 [[menu.main]]
     name = "Yellow Body Blue Bar (YBBB)"
@@ -122,8 +122,8 @@ paginate = 10
     identifier = "section.reservations"
     parent = "menu.forsale"
     url = ""
-    weight = 4
-    post = 1
+    weight = 2
+    post = 2
 
 [[menu.main]]
     name = "Upcoming Ambilobe Clutches"
