@@ -9,6 +9,8 @@ banner = "img/banners/google_ambanja"
 
 {{< load-photoswipe >}}
 
+This article tackles a controversial topic in the Ambanja Panther Chameleon breeding community on what is meant when people say they have an Ambanja Panther Chameleon for sale.
+
 ## Ambanja on Google
 Let's start by googling "Ambanja Panther Chameleon for sale":
 
