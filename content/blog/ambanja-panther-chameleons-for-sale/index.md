@@ -1,6 +1,7 @@
 +++
 title = "Ambanja Panther Chameleons for sale?"
 header_title = "iPardalis | Ambanja Panther Chameleons for sale?"
+description = "This article tackles a controversial topic in the Ambanja Panther Chameleon breeding community on what is meant when people say they have an Ambanja Panther Chameleon for sale."
 date = "2024-03-03"
 categories = ["ethics"]
 banner = "img/banners/google_ambanja"
