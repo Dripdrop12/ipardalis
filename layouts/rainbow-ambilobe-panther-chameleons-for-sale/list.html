@@ -27,7 +27,8 @@
                       <a href="{{ "panther-chameleons-for-sale/#age" | relURL}}" class="btn btn-primary"><i class="fas fa-backward"></i> Go Back</a>
                       <hr>
                       {{ $baseURL := .Site.BaseURL }}
-                      <p>Here, we showcase our exclusive lineup of {{ .Params.phenotype }} Panther Chameleons. Our meticulous breeding practices and individualized care ensure that each chameleon is raised to peak condition, embodying the highest standards of quality in the reptile industry. We strive for phenotype purity as well as locale purity in our breeding program. Rainbows are what we refer to classic wild-type Ambilobe as - a mix of every color in the rainbow.</p>
+                      <p>Here, we showcase our lineup of {{ .Params.phenotype }} Panther Chameleons. Rainbows are what we call classic wild-type Ambilobe - a mix of every color in the rainbow. Their bodies can be any combination of green, yellow, orange, and red with bars which are a combination of blue and red.</p>
+                      <p>We strive for phenotype purity (YBBB x YBBB) as well as locale purity (Ambilobe x Ambilobe) in our breeding program. That makes our Rainbows particularly beauiful because they are a happy accident. Our unintential rainbows from pure phenotypic pairings tend to have extremely vibrant colors and a clean look - less helter-skelter than an intentional phenotypic cross (YBBB x RBBB).</p>
                       <hr>
                       {{ $clutches := sort .Site.Data.clutches "hatchend" "desc" }}
                       {{ $listedclutches := where $clutches "listed" true}}
