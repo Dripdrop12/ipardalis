@@ -22,34 +22,16 @@ soldoutfemale: false
 maleprice: 449
 femaleprice: 349
 babies:
-- name: M1
-  gender: Male
-  image: /img/babies/20230928/M1
-  price: 499
-  phenotype: RBBB Ambilobe
-  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20230928/M2
   price: 499
   phenotype: RBBB Ambilobe
-- name: M3
-  gender: Male
-  image: /img/babies/20230928/M3
-  price: 549
-  phenotype: RBBB Ambilobe
-  sold: true
 - name: M4
   gender: Male
   image: /img/babies/20230928/M4
   price: 425
   phenotype: RBBB Ambilobe
-- name: M5
-  gender: Male
-  image: /img/babies/20230928/M5
-  price: 499
-  phenotype: RBBB Ambilobe
-  sold: true
 - name: M6
   gender: Male
   image: /img/babies/20230928/M6
@@ -66,12 +48,6 @@ babies:
   price: 449
   phenotype: RBBB Ambilobe
   desc: He has a small injury on his tail due to stuck shed.
-- name: M9
-  gender: Male
-  image: /img/babies/20230928/M9
-  price: 549
-  phenotype: RBBB Ambilobe
-  sold: true
 - name: M10
   gender: Male
   image: /img/babies/20230928/M10

@@ -22,17 +22,6 @@ soldoutfemale: false
 maleprice: 425
 femaleprice: 299
 babies:
-- name: M10
-  gender: Male
-  image: /img/babies/20230705/M10_2
-  price: 549
-  sold: true
-- name: M7
-  gender: Male
-  image: /img/babies/20230705/M7_3
-  price: 599
-  phenotype: Rainbow Ambilobe
-  sold: true
 - name: F2
   gender: Female
   image: /img/babies/20230705/F2
