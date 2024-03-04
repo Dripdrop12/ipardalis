@@ -8,15 +8,19 @@ banner = "img/banners/google_ambanja"
 
 {{< load-photoswipe >}}
 
+## Ambanja on Google
 Let's start by googling "Ambanja Panther Chameleon for sale":
 
 {{< figure src="/img/banners/google_ambanja.jpg" caption="Results from Googling 'Ambanja Panther Chameleon for sale'" >}}
 
-By my count, only 2, maaybe 3, of these 10 images match the wild-type Ambanja local form.
+By my count, only 2, maybe 3, of these 10 images match the wild-type Ambanja phenotype. As anyone in the Panther Chameleon hobby knows, lineage is more important than phenotype in determining an animal's local form. However, I am here to make a controversial argument that phenotype matters. Not for tracking purposes, but to be able to support your claim that a given animal is an Ambanja Panther Chameleon. Even if we are capable of breeding for something new in captivity - Ambanja is an actual place in Madagascar and the animals in that location have a phenotype which deviates from most of the animals in the United States which are called Ambanja.
 
+The other key complication for us here in the United States is the import process. When we say that an animal is Ambanja, we are just repeating what the importer said. However, as Alex Laube, PhD, has pointed out in private conversations, importers usually collect specimens during the wet season when most roads are impassible and the collectors are paid very small sums of money. This can result in many animals from very specific locations which don't necessarily represent the entire region, and there is definitely a bias towards finding (and creating) things we know will sell in the captive market. It also results in many animals being mislabeled by collectors in order to fill out an exporter's requirements from a given region even if the specimen was collected somewhere else. That is much easier than swimming through flood waters to get to the correct spot. This is why we need to focus on Ambanja in Madagascar, not Ambanja on Google.
+
+## Ambanja in Madagascar
 Then compare that to pictures of wild specimens from [Madcham.de](https://www.madcham.de/en/lokalform-ambanja/):
 
-{{< figure src="ambanja6.jpg" caption="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" >}}
+{{< figure src="ambanja6.jpg" caption="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" width=100% >}}
 
 The appearance of Ambanja as described by Madcham.de: 
 > The panther chameleons from Ambanja vary a little within the same local form. The most common coloring found around Ambanja in the males is a turquoise green or bluish turquoise all over the body with deep red, broad bands. The red can vary from a deep Bordeaux red to a bright light hydrant red. The eyelids are usually orange. Starting from the eyelids, some animals may show orange or red streaks all over the head area up to the back. Some show turquoise blue spots in the red banding.
@@ -25,7 +29,7 @@ And the 33rd edition of The Chameleon Information Network (Fall 1999):
 
 {{< figure src="CIN_ambanja.jpg" caption="The Chameleon Information Network, No. 33, Fall 1999" width=100% >}}
 
-According to CIN, Ambanja Panther Chameleons' two consistent features in **all** of the specimens were a "yellow coloration at the commissure of the mouth" and "the downward-turning, flattened rostral projection." They also observed that the vertical bands (bars) on the body are "typically either a deep reddish-maroon with scales of aqua blue scattered randomly in the stripes or a navy blue with reddish and or aqua blue scattered randomly in the stripes" (page 15, No. 33, Fall 1999).
+According to CIN, Ambanja Panther Chameleons' two consistent features in **all** of the specimens were a "yellow coloration at the commissure of the mouth" and "the downward-turning, flattened rostral projection." They also observed that the vertical bands (bars) on the body are "typically either a deep reddish-maroon with scales of aqua blue scattered randomly in the stripes or a navy blue with reddish and or aqua blue scattered randomly in the stripes" (page 15, No. 33, Fall 1999). These comments have sparked intense debate in the hobby. The yellow at the corners of the mouth seem to be a seasonal thing - wet season, yellow, dry season, not yellow. Every other color on their body gets dull during the dry season as well, so context matters; however, that does not open the door to every color in the rainbow. Otherwise, local forms would not exist at all.
 
 So where did this purple panther chameleon come from? And why are some of them so blue? Where did the yellow at the commissure of the mouth go? And why do some Ambanja today have red in weird places (located on their bodies instead of their bars)?
 
@@ -65,3 +69,4 @@ Breeders tend to sell pure locale Panther Chameleons and shun crossing locales. 
 
 There are plenty of projects in which people breed pure Ankify, Ambato and Ambanja. We would make their lives much easier if we stopped new people from repeating the mistakes of the past. At some point, the importation process will not be an option and our captive bred Ambanja will be all that is left for us to continue that look in captivity. I believe we should manage that population well and assume the future where we don't have access to fresh, wild-type Ambanja is just around the corner.
 
+There are a lot of stories in the Ambanja breeding community about how Ambanja are "special" and "different from other local forms." Yes, they were commonly a three-way Ankify, Ambato and Ambanja cross from day 1 - and blurples have thrown Nosy Be and Ambilobe in to make it potentially a 5-way cross combination. That will definitely be hard to predict and exhibit characteristics of other cross locale combinations. There is no genetic explanation for why a species would be so wildly different in one location vs another location on the other side of a river. We should skeptically view the notion that a local form is "more diverse than any other" - it is much more likely to be multiple local forms combined into one. We will write up Ambilobe next ;)
