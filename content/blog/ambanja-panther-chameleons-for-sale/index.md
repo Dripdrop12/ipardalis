@@ -12,7 +12,7 @@ Let's start by googling "Ambanja Panther Chameleon for sale":
 
 {{< figure src="/img/banners/google_ambanja.jpg" caption="Results from Googling 'Ambanja Panther Chameleon for sale'" >}}
 
-By my count, only 2 of these 10 images match the wild-type Ambanja local form.
+By my count, only 2, maaybe 3, of these 10 images match the wild-type Ambanja local form.
 
 Then compare that to pictures of wild specimens from [Madcham.de](https://www.madcham.de/en/lokalform-ambanja/):
 
