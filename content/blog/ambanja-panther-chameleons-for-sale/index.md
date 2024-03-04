@@ -34,7 +34,7 @@ These blue chameleons in the United States, at a minimum, no longer have a pheno
 This story is a long and complex debate with many different perspectives. I get to poke fun from a distance because I have exactly zero interest in breeding the Ambanja local form. It's too hard given how many designer chameleons dominate the USA market, and breeding them has sadly become almost as difficult as some of the rarest Panther Chameleon local forms. How did this happen?
 
 ## Ambato and Ankify - all just Ambanja, no?
-The first big issue for Ambanja was that importers labelled everything from the town of Ambanja to the coastal plains to the west as "Ambanja." However, if you look at the map (below), there are miles of mangrove forests, large rivers, and mountain ranges which cut off Ankify and Ambato from the mainland populations near the town of Ambanja.
+The first big issue for Ambanja was that importers labelled everything from the town of Ambanja to the coastal plains to the north as "Ambanja." However, if you look at the map (below), there are miles of mangrove forests, large rivers, and mountain ranges which cut off Ankify and Ambato from the mainland populations near the town of Ambanja.
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d155569.31001833983!2d48.46443026855777!3d-13.526964894648092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1709528980075!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
