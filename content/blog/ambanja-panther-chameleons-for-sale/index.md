@@ -68,7 +68,7 @@ Here is a great post by [Lee Ready](https://readysrainforest.com/) from 2013 on 
 <hr>
 
 ### Ankify
-The Ankify peninsula is separated from the Ambanja mainland by about 2.5 miles of mangrove forests and it is impassible for chameleons. "Onshore, Ankify is separated from the next local form, Ambanja, by a range of hills and a kilometers broad mangrove belt." (https://www.madcham.de/en/lokalform-ankify/). And as we discussed in the [local test methodology]({{< ref "/blog/2021-12-31-locale-test/" >}}), there is some evidence that the population there is genetically distinct from its neighbors. We just need a larger sample to say that definitively. 
+The Ankify peninsula is separated from the Ambanja mainland by about 2.5 miles of mangrove forests and it is impassible for chameleons. "Onshore, Ankify is separated from the next local form, Ambanja, by a range of hills and a kilometers broad mangrove belt." (https://www.madcham.de/en/lokalform-ankify/). And as we discussed in the [local test methodology](https://ipardalis.com/blog/2021/12/31/2021-12-31-locale-test/), there is some evidence that the population there is genetically distinct from its neighbors. We just need a larger sample to say that definitively. 
 
 Ankify local form Panther Chameleons as described by Madcham.de:
 
