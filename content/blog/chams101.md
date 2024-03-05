@@ -1,5 +1,7 @@
 +++
 title = "Lineage: Chameleons 101"
+header_title = "iPardals | Chameleons 101"
+description = "Lineage from Chameleons101 in the iPardalis project."
 date = "2016-03-20"
 tags = ["the don", "jiolahy"]
 categories = ["lineage"]
@@ -10,6 +12,7 @@ banner = "img/ambilobe/lineage/TheDon/4"
 
 Chameleons101
 ---
+Lineage from Chameleons101 in the iPardalis project.
 
 ### The Don (WC)
 
