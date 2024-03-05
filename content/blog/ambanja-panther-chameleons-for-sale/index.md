@@ -60,6 +60,14 @@ The Ambato peninsula is less than 1,000 ft from the Island of Nosy Faly - and th
 
 Here is a great post by [Lee Ready](https://readysrainforest.com/) from 2013 on the [chameleonforums](https://www.chameleonforums.com/threads/the-difference-between-ambato-and-ambanja.104788/) describing Ambato and his challenges breeding them in the USA. This gorgeous local form has an off white background with bars which range from royal blue to maroon, often with small dots of the less prevalent color. Their bar colors also tend to stop before reaching the conical scales along their spine.
 
+Here is a summary Lee provided for this article:
+
+> Male Panther Chameleons from Ambato exhibit minimal variation in overall appearance. The prevailing coloration observed in males from Ambato consists of a blue/green body hue, characterized by clean body color without sporadic spots outside the bars. The dominant color phase features striking red bars, with a rare occurrence of some individuals showcasing a blue bar. When engaged in breeding activities, defense, or sunbathing, these chameleons display a notable transformation, transitioning to an ice blue to white body color.
+
+> A distinctive attribute of Ambato males is the absence of color extending from the bars to the uppermost part; it either halts abruptly or fades to no color, seamlessly blending with the body color at the pinnacle of the bar sections and back. Additionally, they boast an extraordinary feature with the most pronounced yellow on the sides of their faces, surpassing that of the other locales in the region (Ambato, Ambanja, Ankify, Nosy Faly). Facial barring can exhibit slight variations, ranging from no barring to heavy barring.
+
+> Moreover, the overall body structure distinguishes them from neighboring locales like Ambanja, with Ambato males presenting a petite size, rounded head, and a more rounded rostral process. This nuanced combination of traits contributes to the unique and fascinating characteristics of the Ambato locale.
+
 <img src="ambato.jpg" alt="Photo credit: Lee Ready" style="width:75%;" itemprop="thumbnail"/>
 <figcaption itemprop="caption">Ambato Panther Chameleons have a beautiful off white background color with bars ranging from blue to maroon</figcaption>
 <hr>
