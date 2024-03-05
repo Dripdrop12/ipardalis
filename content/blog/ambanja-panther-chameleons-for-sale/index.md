@@ -52,7 +52,7 @@ The first big issue for Ambanja was that importers labelled everything from the 
 {{< /rawhtml >}}
 
 ### Ambato
-The Ambato peninsula is less than 1,000 ft from the Island of Nosy Faly - and the animals on the peninsula look surprisingly like animals found on Nosy Faly with some notable differences (below). There's probably a stronger argument that Nosy Faly and Ambato are one local form than the argument that Ambato is part of Ambanja. 
+The Ambato peninsula is less than 1,000 ft from the Island of Nosy Faly - and the animals on the peninsula look surprisingly like animals found on Nosy Faly with some notable differences (below). There's probably a stronger argument that Nosy Faly and Ambato are one local form than the argument that Ambato is part of Ambanja given their proximity and appearance. However, Ambato is a Panther Chameleon locale on its own right. 
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d38899.85439563143!2d48.489935144847635!3d-13.36941188043601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1709528289565!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -74,6 +74,11 @@ Here is a summary Lee provided for this article:
 <img src="ambatoback.jpg" alt="Photo credit: Lee Ready" style="width:50%;" itemprop="thumbnail"/><img src="ambatoface.jpg" alt="Photo credit: Lee Ready" style="width:50%;" itemprop="thumbnail"/>
 <figcaption itemprop="caption">Ambato Panther Chameleon's bar colors stop before the conical scales along their spine</figcaption>
 <hr>
+<img src="ambato2.jpg" alt="Photo credit: Lee Ready" style="width:100%;" itemprop="thumbnail"/>
+<figcaption itemprop="caption">Ambato Panther Chameleon</figcaption>
+<hr>
+<img src="ambato3.jpg" alt="Photo credit: Lee Ready" style="width:100%;" itemprop="thumbnail"/>
+<figcaption itemprop="caption">Ambato Panther Chameleon</figcaption>
 
 ### Ankify
 The Ankify peninsula is separated from the Ambanja mainland by about 2.5 miles of mangrove forests and it is impassible for chameleons. "Onshore, Ankify is separated from the next local form, Ambanja, by a range of hills and a kilometers broad mangrove belt." (https://www.madcham.de/en/lokalform-ankify/). And as we discussed in the [local test methodology](https://ipardalis.com/blog/2021/12/31/2021-12-31-locale-test/), there is some evidence that the population there is genetically distinct from its neighbors. We just need a larger sample to say that definitively. 
