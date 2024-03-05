@@ -21,7 +21,7 @@ By my count, only 2, maybe 3, of these 10 images match the wild-type Ambanja phe
 The other key complication for us here in the United States is the import process. When we say that an animal is Ambanja, we are just repeating what the importer said. However, as Alex Laube, PhD, has pointed out in private conversations, importers usually collect specimens during the wet season when most roads are impassible and the collectors are paid very small sums of money. This can result in many animals from very specific locations which don't necessarily represent the entire region, and there is definitely a bias towards finding (and creating) things we know will sell in the captive market. It also results in many animals being mislabeled by collectors in order to fill out an exporter's requirements from a given region even if the specimen was collected somewhere else. That is much easier than swimming through flood waters to get to the correct spot. This is why we need to focus on Ambanja in Madagascar, not Ambanja on Google.
 
 ## Ambanja in Madagascar
-Then compare that to pictures of wild specimens from [Madcham.de](https://www.madcham.de/en/lokalform-ambanja/):
+Then compare that to pictures of wild specimens from [Madcham.de](https://www.madcham.de/en/lokalform-ambanja/) (I highly recommend you look at every wild, in situ specimen on their website to get a sense for the diversity of the Ambanja local form):
 
 {{< figure src="ambanja6.jpg" caption="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" width=100% >}}
 
@@ -41,25 +41,43 @@ These blue chameleons in the United States, at a minimum, no longer have a pheno
 This story is a long and complex debate with many different perspectives. I get to poke fun from a distance because I have exactly zero interest in breeding the Ambanja local form. It's too hard given how many designer chameleons dominate the USA market, and breeding them has sadly become almost as difficult as some of the rarest Panther Chameleon local forms. How did this happen?
 
 ## Ambato and Ankify - all just Ambanja, no?
-The first big issue for Ambanja was that importers labelled everything from the town of Ambanja to the coastal plains to the north as "Ambanja." However, if you look at the map (below), there are miles of mangrove forests, large rivers, and mountain ranges which cut off Ankify and Ambato from the mainland populations near the town of Ambanja.
+The first big issue for Ambanja was that importers labelled everything from the town of Ambanja to the coastal plains to the north as "Ambanja." However, if you look at the map (below), there are miles of mangrove forests, large rivers, and mountain ranges which cut off Ankify and Ambato from the mainland populations near the town of Ambanja. Breeders have been repeating what importers say, uncritically, instead of trying to understand if Ankify and Ambato are their own local forms. One of the biggest rumors is that they are "sub-locales" of Ambanja; however, locales are either isolated populations or they interbreed in the wild. There's no such thing as a sub-locale. 
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d155569.31001833983!2d48.46443026855777!3d-13.526964894648092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1709528980075!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{< /rawhtml >}}
 
-The Ambato peninsula is less than 1,000 ft from the Island of Nosy Faly - and the animals on the peninsula look surprisingly like animals found on Nosy Faly with some notable differences. Here is a great post from 2013 on the [chameleonforums](https://www.chameleonforums.com/threads/the-difference-between-ambato-and-ambanja.104788/) describing Ambato and the challenge we have breeding them in the USA.
+### Ambato
+The Ambato peninsula is less than 1,000 ft from the Island of Nosy Faly - and the animals on the peninsula look surprisingly like animals found on Nosy Faly with some notable differences (below). There's probably a stronger argument that Nosy Faly and Ambato are one local form than the argument that Ambato is part of Ambanja. 
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d38899.85439563143!2d48.489935144847635!3d-13.36941188043601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1709528289565!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{< /rawhtml >}}
 
-The Ankify peninsula is separated from the Ambanja mainland by about 2.5 miles of mangrove forests and it is impassible for chameleons. As described by Madcham.de:
+Here is a great post by [Lee Ready](https://readysrainforest.com/) from 2013 on the [chameleonforums](https://www.chameleonforums.com/threads/the-difference-between-ambato-and-ambanja.104788/) describing Ambato and his challenges breeding them in the USA. This gorgeous local form has an off white background with bars which range from royal blue to maroon, often with small dots of the less prevalent color. Their bar colors also tend to stop before reaching the conical scales along their spine.
+
+<img src="ambato.jpg" alt="Photo credit: Lee Ready" style="width:75%;" itemprop="thumbnail"/>
+<figcaption itemprop="caption">Ambato Panther Chameleons have a beautiful off white background color with bars ranging from blue to maroon</figcaption>
+<img src="ambatoback.jpg" alt="Photo credit: Lee Ready" style="width:50%;" itemprop="thumbnail"/><img src="ambatoface.jpg" alt="Photo credit: Lee Ready" style="width:50%;" itemprop="thumbnail"/>
+<figcaption itemprop="caption">Ambato Panther Chameleon's bar colors stop before the conical scales along their spine</figcaption>
+
+### Ankify
+The Ankify peninsula is separated from the Ambanja mainland by about 2.5 miles of mangrove forests and it is impassible for chameleons. "Onshore, Ankify is separated from the next local form, Ambanja, by a range of hills and a kilometers broad mangrove belt." (https://www.madcham.de/en/lokalform-ankify/). And as we discussed in the [local test methodology]({{< ref "/blog/2021-12-31-locale-test/" >}}), there is some evidence that the population there is genetically distinct from its neighbors. We just need a larger sample to say that definitively. 
+
+Ankify local form Panther Chameleons as described by Madcham.de:
 
 > The male panther chameleons occurring in Ankify have green-turquoise colors with mainly blue stripes and orange-colored eyes with a yellow corner of the mouth. We have found several times extraordinary huge males. They can be found along the gravel pathway at the coast everywhere in the secondary vegetation.
 
-Both of these local forms have traditionally been crossed into Ambanja in the United States captive breeding community because we have never had enough of each and importers have consistently mislabeled them all as "Ambanja." 
+{{< rawhtml >}}
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d39177.229465959615!2d48.36094930888408!3d-13.573421330631126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1709603868951!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{< /rawhtml >}}
 
-## Enter the blurple Ambanja
+<img src="ankify-madcham.jpg" alt="Ankify Panther Chameleon from Madcham.de" style="width:75%" />
+<figcaption>Ankify Panther Chameleon from Madcham.de</figcaption>
+
+This guy looks like he could have been included in the CIN spread from 1999! These are some absolutely stunning animals which we should devote the necessary time and dedication to preserving in captivity. However, both Ankify and Ambato have traditionally been crossed into Ambanja in the United States captive breeding community because we have never had enough of each and importers have consistently mislabeled them all as "Ambanja." 
+
+## Enter the blurple "Ambanja"
 
 {{< figure src="early_blurple.jpg" caption="Blurple Ambanja circa 2012 - https://www.chameleonforums.com/threads/blue-ambanjas-unite.90043/" width=800px >}}
 
