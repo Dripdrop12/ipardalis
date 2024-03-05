@@ -24,7 +24,7 @@ The other key complication for us here in the United States is the import proces
 Then compare that to pictures of wild specimens from [Madcham.de](https://www.madcham.de/en/lokalform-ambanja/) (I highly recommend you look at every wild, in situ specimen on their website to get a sense for the diversity of the Ambanja local form):
 
 <img src="ambanja6.jpg" alt="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" width=100% />
-<figcaption>Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/ />
+<figcaption>Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/ </figcaption>
 <hr>
 
 The appearance of Ambanja as described by Madcham.de: 
