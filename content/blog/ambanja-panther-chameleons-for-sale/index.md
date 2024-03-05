@@ -14,7 +14,9 @@ This article tackles a controversial topic in the Ambanja Panther Chameleon bree
 ## Ambanja on Google
 Let's start by googling "Ambanja Panther Chameleon for sale":
 
-{{< figure src="/img/banners/google_ambanja.jpg" caption="Results from Googling 'Ambanja Panther Chameleon for sale'" >}}
+<img src="/img/banners/google_ambanja.jpg" alt="Results from Googling 'Ambanja Panther Chameleon for sale'" width=100% />
+<figcaption>Results from Googling 'Ambanja Panther Chameleon for sale'</figcaption>
+<hr>
 
 By my count, only 2, maybe 3, of these 10 images match the wild-type Ambanja phenotype. As anyone in the Panther Chameleon hobby knows, lineage is more important than phenotype in determining an animal's local form. However, I am here to make a controversial argument that phenotype matters. Not for tracking purposes, but to be able to support your claim that a given animal is an Ambanja Panther Chameleon. Even if we are capable of breeding for something new in captivity - and I believe we are - Ambanja is an actual place in Madagascar and the animals in that location have a phenotype which deviates from most of the Ambanja Panthers in the United States.
 
@@ -23,14 +25,18 @@ The other key complication for us here in the United States is the import proces
 ## Ambanja in Madagascar
 Then compare that to pictures of wild specimens from [Madcham.de](https://www.madcham.de/en/lokalform-ambanja/) (I highly recommend you look at every wild, in situ specimen on their website to get a sense for the diversity of the Ambanja local form):
 
-{{< figure src="ambanja6.jpg" caption="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" width=100% >}}
+<img src="ambanja6.jpg" alt="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" width=100% />
+<figcaption>Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/ />
+<hr>
 
 The appearance of Ambanja as described by Madcham.de: 
 > The panther chameleons from Ambanja vary a little within the same local form. The most common coloring found around Ambanja in the males is a turquoise green or bluish turquoise all over the body with deep red, broad bands. The red can vary from a deep Bordeaux red to a bright light hydrant red. The eyelids are usually orange. Starting from the eyelids, some animals may show orange or red streaks all over the head area up to the back. Some show turquoise blue spots in the red banding.
 
 And the 33rd edition of The Chameleon Information Network (Fall 1999):
 
-{{< figure src="CIN_ambanja.jpg" caption="The Chameleon Information Network, No. 33, Fall 1999" width=100% >}}
+<img src="CIN_ambanja.jpg" alt="The Chameleon Information Network, No. 33, Fall 1999" width=100% />
+<figcaption>The Chameleon Information Network, No. 33, Fall 1999</figcaption>
+<hr>
 
 According to CIN, Ambanja Panther Chameleons' two consistent features in **all** of the specimens were a "yellow coloration at the commissure of the mouth" and "the downward-turning, flattened rostral projection." They also observed that the vertical bands (bars) on the body are "typically either a deep reddish-maroon with scales of aqua blue scattered randomly in the stripes or a navy blue with reddish and or aqua blue scattered randomly in the stripes" (page 15, No. 33, Fall 1999). These comments have sparked intense debate in the hobby. The yellow at the corners of the mouth seem to be a seasonal change - wet season, yellow, dry season, not yellow. That would be an interesting research topic if someone wants to put a decades-old question to bed. Every other color on their body gets dull during the dry season as well, so context matters; however, that does not open the door to every color in the rainbow. Otherwise, local forms would not exist at all.
 
@@ -58,8 +64,10 @@ Here is a great post by [Lee Ready](https://readysrainforest.com/) from 2013 on 
 
 <img src="ambato.jpg" alt="Photo credit: Lee Ready" style="width:75%;" itemprop="thumbnail"/>
 <figcaption itemprop="caption">Ambato Panther Chameleons have a beautiful off white background color with bars ranging from blue to maroon</figcaption>
+<hr>
 <img src="ambatoback.jpg" alt="Photo credit: Lee Ready" style="width:50%;" itemprop="thumbnail"/><img src="ambatoface.jpg" alt="Photo credit: Lee Ready" style="width:50%;" itemprop="thumbnail"/>
 <figcaption itemprop="caption">Ambato Panther Chameleon's bar colors stop before the conical scales along their spine</figcaption>
+<hr>
 
 ### Ankify
 The Ankify peninsula is separated from the Ambanja mainland by about 2.5 miles of mangrove forests and it is impassible for chameleons. "Onshore, Ankify is separated from the next local form, Ambanja, by a range of hills and a kilometers broad mangrove belt." (https://www.madcham.de/en/lokalform-ankify/). And as we discussed in the [local test methodology]({{< ref "/blog/2021-12-31-locale-test/" >}}), there is some evidence that the population there is genetically distinct from its neighbors. We just need a larger sample to say that definitively. 
@@ -72,14 +80,17 @@ Ankify local form Panther Chameleons as described by Madcham.de:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d39177.229465959615!2d48.36094930888408!3d-13.573421330631126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1709603868951!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{< /rawhtml >}}
 
-<img src="ankify-madcham.jpg" alt="Ankify Panther Chameleon from Madcham.de" style="width:75%" />
+<img src="ankify-madcham.jpg" alt="Ankify Panther Chameleon from Madcham.de" style="width:100%" />
 <figcaption>Ankify Panther Chameleon from Madcham.de</figcaption>
+<hr>
 
 This guy looks like he could have been included in the CIN spread from 1999! These are some absolutely stunning animals which we should devote the necessary time and dedication to preserving in captivity. However, both Ankify and Ambato have traditionally been crossed into Ambanja in the United States captive breeding community because we have never had enough of each and importers have consistently mislabeled them all as "Ambanja." 
 
 ## Enter the blurple "Ambanja"
 
-{{< figure src="early_blurple.jpg" caption="Blurple Ambanja circa 2012 - https://www.chameleonforums.com/threads/blue-ambanjas-unite.90043/" width=800px >}}
+<img src="early_blurple.jpg" alt="Blurple 'Ambanja' circa 2012 - https://www.chameleonforums.com/threads/blue-ambanjas-unite.90043/" width=100% />
+<figcaption>Blurple 'Ambanja' circa 2012 - https://www.chameleonforums.com/threads/blue-ambanjas-unite.90043/</figcaption>
+<hr>
 
 I often use the term blurple to refer to suspected crosses, but that term out-dates my usage and has been used to describe some wild-type Ambanja phenotypes which have red and blue mixed bars which appear purple. I don't like this simplification because it is rare for there to be a continuous mix of color resulting in true purple (a continuous blue sheen over a solid red base with reduced bars is much easier to achieve with a true blue Nosy Be body and a red body blue bar Ambilobe). The wild Ambanja phenotype is more often a pixelated red/blue that genetically can throw more red and less blue or more blue and less red in the next generation - similar to Ambilobe bars, but different shades of red and blue.
 
