@@ -51,7 +51,7 @@ According to CIN, Ambanja Panther Chameleons' two consistent features in **all**
 
 So where did this purple panther chameleon come from? And why are some of them so blue? Where did the yellow at the commissure of the mouth go? And why do some Ambanja today have red in weird places (located on their bodies instead of their bars)?
 
-These blue chameleons in the United States, at a minimum, no longer have a phenotype which can, or could ever be, found in Madagascar. So maybe we should remove the Ambanja chameleon from the title and just say blue chameleon for sale or blurple chameleon for sale? It has become very rare to see a classic Ambanja in the USA because most of the lines quickly get crossed with this designer animal.
+These blue chameleons in the United States, at a minimum, no longer have a phenotype which can, or could ever be, found in Ambanja, Madagascar. So maybe we should remove the Ambanja chameleon from the title and just say blue chameleon for sale or blurple chameleon for sale? It has become very rare to see a classic Ambanja in the USA because most of the lines quickly get crossed with this designer animal.
 
 This story is a long and complex debate with many different perspectives. I get to poke fun from a distance because I have exactly zero interest in breeding the Ambanja local form. It's too hard given how many designer chameleons dominate the USA market, and breeding them has sadly become almost as difficult as some of the rarest Panther Chameleon local forms. How did this happen?
 
