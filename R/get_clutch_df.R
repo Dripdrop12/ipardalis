@@ -42,8 +42,24 @@ get_clutch_df <- function(clutch_dir = "data/clutches/") {
         .[grepl("date = ", .)] %>% lubridate::as_date() %>% stringr::str_replace_all("-", "/"),
       dam_tree = glue("/blog/{dam_doh}/{dam}/tree.png"),
       lineage_collage = glue("{image}.jpg"),
-      Photo_Urls = glue("{ifelse(is.na(`babies-image`), list(`babies-images`), `babies-image`)}.jpg")
+      Photo_Urls = glue("{ifelse(is.na(`babies-image`), list(`babies-images`), `babies-image`)}.jpg"),
+      site_priority = case_when(
+        is.na(`babies-primary`) ~ "0.0",
+        `babies-primary`        ~ "0.5",
+        .default                = "0.5"
+      )
     )
+  canonical_links <- clutch_df %>% 
+    group_by(sire, dam, hatchend) %>% 
+    filter(`babies-primary`) %>% 
+    mutate(canonical = glue("/panther-chameleons-for-sale/{sire}/{dam}/{`hatchend`}/{`babies-name`}/")) %>%
+    select(sire, dam, hatchend, canonical)
   
+  clutch_df <- clutch_df %>%
+    left_join(canonical_links, by = c("sire", "dam", "hatchend")) %>%
+    mutate(
+      site_priority = ifelse(is.na(canonical), "0.5", site_priority),
+      canonical = ifelse(is.na(canonical), glue("/panther-chameleons-for-sale/{sire}/{dam}/{`hatchend`}/{`babies-name`}/"), canonical)
+    )
   clutch_df
 }

@@ -39,6 +39,8 @@ sire_tree: {sire_tree}
 dam_tree: {dam_tree}
 price: {base_price}
 stringrreplacement:
+sitemap: 
+  priority: {site_priority}
 ---
 
 {{{{< load-photoswipe >}}}}
