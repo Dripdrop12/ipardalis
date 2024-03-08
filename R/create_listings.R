@@ -20,6 +20,18 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
     )
   on.exit({new_listings <<- new_listings; baby <<- baby})
   
+  canonical_links <- new_listings %>% 
+    group_by(sire, dam, hatchend) %>% 
+    filter(`babies-primary`) %>% 
+    mutate(canonical = glue("/panther-chameleons-for-sale/{sire}/{dam}/{`hatchend`}/{`babies-name`}/")) %>%
+    select(sire, dam, hatchend, canonical)
+  
+  new_listings <- new_listings %>%
+    left_join(canonical_links, by = c("sire", "dam", "hatchend")) %>%
+    mutate(
+      canonical = ifelse(is.na(canonical), glue("/panther-chameleons-for-sale/{sire}/{dam}/{`hatchend`}/{`babies-name`}/"), canonical)
+    )
+  
   for(row in 1:nrow(new_listings)) {
     # Setup
     baby <- new_listings %>% slice(row)

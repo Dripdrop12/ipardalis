@@ -4,6 +4,7 @@
   <head>
     {{ partial "headers.html" . }}
     {{ partial "custom_headers.html" . }}
+    <link rel="canonical" href="{{ .Params.canonical_link | absURL }}" />
   </head>
 
   <body>

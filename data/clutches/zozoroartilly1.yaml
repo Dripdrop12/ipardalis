@@ -30,5 +30,6 @@ babies:
   gender: Male
   image: /img/babies/20230711/M4_2
   price: 549
+  primary: true
 
 

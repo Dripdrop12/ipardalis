@@ -5,6 +5,7 @@ description: {Desc}
 keywords: ["{sire}", "{dam}", "{Title}", "baby chameleons for sale", "buy panther chameleon", "panther for sale", "ambilobe panther chameleons for sale", "ambilobe panther chameleon for sale"]
 draft: {tolower(draft)}
 banner: {image}
+canonical_link: {canonical}
 sire: {sire}
 dam: {dam}
 image: {image}
@@ -32,7 +33,7 @@ gender: {`babies-gender`}
 maturity: {Maturity}
 baby_image: {`babies-image`}
 baby_sold: {if (is.na(`babies-sold`) | `babies-sold` == FALSE) tolower(FALSE) else tolower(TRUE)}
-baby_reserved: {if (is.na(`babies-reserved`) | `babies-reserved` == FALSE) tolower(FALSE) else tolower(TRUE)}
+baby_reserved: {ifelse(exists("babies-reserved"), ifelse(is.na(`babies-reserved`) | `babies-reserved` == FALSE, tolower(FALSE), tolower(TRUE)), tolower(FALSE))}
 phenotype: {`babies-phenotype`}
 sire_tree: {sire_tree}
 dam_tree: {dam_tree}
