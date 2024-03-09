@@ -31,7 +31,7 @@ And in private conversations with Petr Necas about the export/import process:
 
 >In light of these uncertainties, the entire debate surrounding chameleon classification gains or loses its meaning. The fundamental challenge lies in the discrepancy between what breeders believe they possess and the actual genetic composition, a determination that currently remains elusive without comprehensive genetic analysis, which, at present, is not feasible. 
 
-Lineage and phenotype information should be used together at all times. Novices will not be able to utilize phenotype, so they have to trust their breeder's lineage. However, breeders have to do better than simply repeating the lies someone else told them. We need to start including a phenotypic range, or tolerance zone, for what we are willing to call an Ambanja, regardless of it's lineage.
+Lineage and phenotype information should be used together at all times. Novices will not be able to utilize phenotype given how poorly they understand the phenotypic range for a given local form, so they have to trust their breeder's lineage. However, breeders should do better than simply repeating what someone else told them. We need to start including a phenotypic range, or tolerance zone, for what we are willing to call an Ambanja, regardless of its lineage.
 
 **This is why we need to focus on Ambanja in Madagascar, not Ambanja on Google.**
 
