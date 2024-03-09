@@ -4,7 +4,7 @@
   <head>
     {{ partial "custom_headers.html" . }}
     {{ partial "headers.html" . }}
-    
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
   </head>
 
   <body>
@@ -21,12 +21,18 @@
 
         {{ partial "testimonials.html" . }}
         
-        <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
         <div class="elfsight-app-aab1e5e2-9692-4560-8fae-c8a3ec538bbf" data-elfsight-app-lazy></div>
         <br><br>
+        
         {{ partial "see_more.html" . }}
         
-        <div class="elfsight-app-553e8d3a-697a-418a-95d3-a2448c4d853d" data-elfsight-app-lazy></div>
+        <div class="container">
+          <div class="row justify-content-md-center">
+            <div class="col-12">
+              <div class="elfsight-app-553e8d3a-697a-418a-95d3-a2448c4d853d" data-elfsight-app-lazy></div>
+            </div>
+          </div>
+        </div>
 
         {{ partial "recent_posts.html" . }}
         
