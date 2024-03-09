@@ -41,7 +41,7 @@
         "@id": {{ print .Site.BaseURL "#organization" }}
       },
       "logo": {
-        "@id": {{ .Site.Params.logo | absURL }}
+        "@id": {{ .Site.Params.favicon_google | absURL }}
       },
       "name": "ambilobe panther chameleon for sale | panther chameleons for sale near me",
       "alternateName": "ambilobe panther chameleons",
@@ -301,9 +301,9 @@
     "logo": {
       "@type": "ImageObject",
       "inLanguage": "en-US",
-      "@id": {{ .Site.Params.logo | absURL }},
-      "url": {{ .Site.Params.logo | absURL }},
-      "contentUrl": {{ .Site.Params.logo | absURL }},
+      "@id": {{ .Site.Params.favicon_google | absURL }},
+      "url": {{ .Site.Params.favicon_google | absURL }},
+      "contentUrl": {{ .Site.Params.favicon_google | absURL }},
       "caption": "Individually-raised Panther Chameleons"
     },
     "telephone": {{ .Site.Params.telephone }},
@@ -325,7 +325,7 @@
       "addressLocality": "Maryland"
     },
     "image": {
-      "@id": {{ .Site.Params.logo | absURL }}
+      "@id": {{ .Site.Params.favicon_google | absURL }}
     },
     "sameAs": [
       "https://www.facebook.com/{{ .Site.Params.facebook }}",
