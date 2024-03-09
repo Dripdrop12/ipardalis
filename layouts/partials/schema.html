@@ -306,6 +306,16 @@
       "contentUrl": {{ .Site.Params.favicon_google | absURL }},
       "caption": "Individually-raised Panther Chameleons"
     },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "bestRating": "5",
+      "ratingValue": "5",
+      "worstRating": "1",
+      "reviewCount": "43",
+      "itemReviewed": {
+        "@id": {{ .Params.header_title }}
+      }
+    },
     "telephone": {{ .Site.Params.telephone }},
     "email": {{ .Site.Params.email }},
     "contactPoint": {
