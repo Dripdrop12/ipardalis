@@ -24,7 +24,7 @@ Before acquiring a Panther Chameleon from iPardalis, thoroughly research their u
 {{< /faq >}}
 
 {{< faq title="Does iPardalis offer payment plans?" >}}
-Payment plans are easiest to accommodate within our [reservation program]({{< ref "/baby-panther-chameleons-for-sale/index.md" >}}), but we are open to discuss payment plans on all of our available juveniles as well. 
+Payment plans are easiest to accommodate within our [reservation program]({{< ref "/baby-panther-chameleons-for-sale" >}}), but we are open to discuss payment plans on all of our available juveniles as well. 
 {{< /faq >}}
 
 Please reach out if you have any questions about how to purchase a panther chameleon. 
