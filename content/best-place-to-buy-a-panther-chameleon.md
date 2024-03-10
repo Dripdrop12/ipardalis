@@ -17,7 +17,7 @@ Many "reputable" breeders modify their images - please look at the surroundings 
 
 I can't tell you how many times I have talked to people who got scammed buying a $1k+ Panther Chameleon that they can't give away for free. **Please, a company with breeder in the name is not enough** - confirm they are dedicated to a multi-generational project and aren't just over-producing off other breeder's lines or re-posting images and videos of animals that they sold years ago. They will try to sell you babies from them today. There are numerous websites and popular social media accounts that are notorious for this practice.
 
-One of the most common red flags is the "greatest hits" breeders who continually re-post their greatest hits instead of their current projects. Double those red flags when those "greatest hits" are animals they acquired from someone else (Tree Candy Chameleons, Highlighter Chameleons and FramsChams Chameleon Breeders). If you have a question about the industry - reach out. We would be happy to share our experience.
+One of the most common red flags is the "greatest hits" breeders who continually re-post their greatest hits instead of their current projects. Double those red flags when those "greatest hits" are animals they acquired from someone else. If you have a question about the industry - reach out. We would be happy to share our experience.
 {{< /faq >}}
 
 {{< faq title="Reputable Panther Chameleon Breeders List" >}}
