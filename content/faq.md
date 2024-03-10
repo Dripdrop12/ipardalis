@@ -37,7 +37,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [How fast do Panther Chameleons grow?]({{< ref "/baby-panther-chameleon-growth-rate.md" >}})
 - [What are the caging requirements for Panther Chameleons?]({{< ref "/panther-chameleon-caging-requirements.md" >}})
 - [Are Panther Chameleons friendly?]({{< ref "/chameleons-as-pets.md" >}})
-- [Are panther chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
+- [Are Panther Chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
 
 
 # Panther Chameleon care resources
