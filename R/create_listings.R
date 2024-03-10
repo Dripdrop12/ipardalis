@@ -11,7 +11,12 @@ require(purrr)
 source("R/get_clutch_df.R")
 
 # list(sire="", dam="", hatchend="") %>% create_listings()
-create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft = FALSE, overwrite = TRUE, gen_webp = FALSE){
+create_listings <- function(
+    filters = list(sire="", dam="", hatchend=""), 
+    draft = FALSE, 
+    overwrite = TRUE, 
+    gen_webp = FALSE) {
+  
   new_listings <- get_clutch_df() %>%
     filter(
       if (filters$sire != "") sire == filters$sire else rep(T, nrow(.)),
@@ -61,7 +66,7 @@ create_listings <- function(filters = list(sire="", dam="", hatchend=""), draft 
       baby_sire = str_to_title(baby$sire),
       baby_dam = str_to_title(baby$dam),
       baby_hatchend = baby$hatchend,
-      img_date = lubridate::as_date(fs::file_info(img_list)$modification_time, "%Y-%m-%d")
+      img_date = lubridate::as_date(fs::file_info(img_list)$birth_time, "%Y-%m-%d")
     )
     if (gen_webp){
       img_path <- fs::path_wd("/static", baby$`babies-image`)
