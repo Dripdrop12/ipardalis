@@ -203,11 +203,6 @@ paginate = 10
     url  = "/blog/"
     weight = 4
 
-[[menu.main]]
-    name = "Contact Us"
-    url = "https://us21.list-manage.com/contact-form?u=b2c78131db22ca405dc132a2b&form_id=3551df195662ef2354e5917bcf1e3d3f"
-    weight = 5
-
 # Top bar social links menu
 [[menu.topbar]]
     weight = 1
