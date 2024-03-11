@@ -5,7 +5,7 @@ description = "Our wild caught panther chameleon imported by One World Exotica"
 date = "2023-10-03"
 tags = ["taiyang"]
 categories = ["ambilobe-sires"]
-banner = "img/ambilobe/taiyang/taiyang5"
+banner = "img/ambilobe/taiyang/taiyang6"
 +++
 
 {{< load-photoswipe >}}
