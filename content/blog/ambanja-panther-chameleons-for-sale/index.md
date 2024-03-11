@@ -36,7 +36,7 @@ Lineage and phenotype information should be used together at all times. Novices 
 **This is why we need to focus on Ambanja in Madagascar, not Ambanja on Google.**
 
 ## Ambanja in Madagascar
-Then compare that to pictures of wild specimens from [madcham.de](https://www.madcham.de/en/lokalform-ambanja/) (I highly recommend you look at every wild, in situ specimen on their website to get a sense for the diversity of the Ambanja local form) and [chameleons.info](https://www.chameleons.info/en/furcifer-pardalis-2/):
+Now, let's compare Google images to pictures of wild specimens from [madcham.de](https://www.madcham.de/en/lokalform-ambanja/) (I highly recommend you look at every wild, in situ specimen on their website to get a sense for the diversity of the Ambanja local form) and [chameleons.info](https://www.chameleons.info/en/furcifer-pardalis-2/):
 
 <img src="ambanja6.jpg" alt="Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/" width=100% />
 <figcaption>Ambanja Local Form - Madcham.de/en/en/lokalform-ambanja/ </figcaption>
