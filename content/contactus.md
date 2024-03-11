@@ -21,6 +21,7 @@ align = "center"
 {{< /rawhtml>}}
 
 ## [Join our Newsletter](https://us21.list-manage.com/contact-form?u=b2c78131db22ca405dc132a2b&form_id=3551df195662ef2354e5917bcf1e3d3f)
+Our Newsletter includes updates and exclusive coupon codes. It is not going to flood your inbox with spam. It is how our loyal fans get access to sneak peaks and stay up to date with our project.
 <hr>
 We are active on all these platforms:
 {{< social >}}
