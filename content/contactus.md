@@ -8,7 +8,6 @@ banner = "img/ambilobe/alfred/alfred9"
 +++
 
 {{< rawhtml >}}
-<br><br><br><br>
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-f731652c-90ce-4a9f-8a53-a6a880d8a48a" data-elfsight-app-lazy></div>
 {{< /rawhtml>}}
