@@ -342,9 +342,9 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-hand-o-down"
-    title = "We have new Ambilobe available"
+    title = "We have new clutches"
     link_url = "/panther-chameleons-for-sale"
-    link_text = "YBBB | RBBB | Panther Chameleons"
+    link_text = "Available Panther Chameleons"
 
 [params.clients]
     enable = false
