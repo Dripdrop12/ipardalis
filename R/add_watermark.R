@@ -8,6 +8,6 @@ add_watermark <- function(image_path, watermark) {
 }
 
 watermark_dir <- function(img_dir, recurse = TRUE) {
-  imgs <- fs::dir_ls(img_dir, glob = "*.jpg|*.webp", recurse = recurse)
+  imgs <- fs::dir_ls(img_dir, glob = "*.JPG|*.jpg|*.webp", recurse = recurse)
   map(imgs, add_watermark, watermark)
 }
