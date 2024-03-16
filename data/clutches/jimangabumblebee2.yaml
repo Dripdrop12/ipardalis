@@ -25,6 +25,6 @@ babies:
 - name: M1
   gender: Male
   image: /img/babies/20231022/M1_1
-  price: 499
+  price: 549
   primary: true
 
