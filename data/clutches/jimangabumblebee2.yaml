@@ -5,12 +5,13 @@ filial: F5-CG15
 desc: |
   This is the first combo between two of our 5th gen Ambilobe - great ybbb combo!
 laid: 2022-10-17
-hatchstart: 2023-08-02
-hatchend: 2023-08-22
+hatchstart: 2023-10-02
+hatchend: 2023-10-22
 shipping: 3 months after hatch
-hatchnum: 19
+hatchnum: 4
 clutchsize: 24
 deposit: false
+listed: true
 reservedmale: 0
 totalmale: 5
 reservedfemale: 0
@@ -21,3 +22,9 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 299
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20231022/M1_1
+  price: 499
+  primary: true
+

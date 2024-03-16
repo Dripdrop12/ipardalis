@@ -3,10 +3,10 @@ dam: kosma
 image: /img/ambilobe/ralphkosma
 filial: F5-CG14
 desc: |
-  Great RBBB x RBBB combo. Ralph with Kosmo's sister, Kosma
+  Great RBBB x RBBB combo. Ralph with Kosmo's sister, Kosma.
 laid: 2022-12-06
-hatchstart: 2023-08-12
-hatchend: 2023-09-01
+hatchstart: 2023-09-12
+hatchend: 2023-10-01
 shipping: 3 months after hatch
 hatchnum: 27
 clutchsize: 27
@@ -24,18 +24,34 @@ femaleprice: 299
 babies:
 - name: M2
   gender: Male
-  image: /img/babies/20230901/M2
-  price: 449
+  image: /img/babies/20230901/M2_1
+  price: 399
   phenotype: RBBB Ambilobe
-  primary: true
 - name: M5
   gender: Male
-  image: /img/babies/20230901/M5
+  image: /img/babies/20230901/M5_2
   price: 449
-  phenotype: RBBB Ambilobe
+  phenotype: Rainbow Ambilobe
 - name: M6
   gender: Male
-  image: /img/babies/20230901/M6
+  image: /img/babies/20230901/M6_1
+  price: 499
+  phenotype: Rainbow Ambilobe
+  primary: true
+- name: M8
+  gender: Male
+  image: /img/babies/20230901/M8
+  price: 449
+  phenotype: RBBB Ambilobe
+- name: M9
+  gender: Male
+  image: /img/babies/20230901/M9
+  price: 249
+  phenotype: RBBB Ambilobe
+  desc: True runt of the clutch - PET ONLY.
+- name: M10
+  gender: Male
+  image: /img/babies/20230901/M10
   price: 449
   phenotype: RBBB Ambilobe
 

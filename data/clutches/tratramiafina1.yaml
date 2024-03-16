@@ -1,0 +1,28 @@
+sire: tratra
+dam: miafina
+image: /img/ambilobe/tratramiafina
+filial: F1-CG1
+desc: |
+  These are true F1 Ambilobe from two wild caught specimens. That means we are holding them long enough to see if traits from outside Ambilobe crop up given that WC Miafina could have been mis-labelled. We will also test her genetics and report them on her breeder page sometime in 2024.
+laid: 2023-04-20
+hatchstart: 2023-11-05
+hatchend: 2023-12-15
+shipping: 3 months after hatch
+hatchnum: 8
+clutchsize: 23
+deposit: false
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+listed: true
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 449
+femaleprice: 325
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20231105/M1
+  price: 549
