@@ -49,6 +49,7 @@ babies:
   price: 249
   phenotype: RBBB Ambilobe
   desc: True runt of the clutch - PET ONLY.
+  sold: true
 - name: M10
   gender: Male
   image: /img/babies/20230901/M10
