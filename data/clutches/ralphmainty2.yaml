@@ -5,8 +5,8 @@ filial: F5-CG14
 desc: |
   Great RBBB x RBBB combo. Tough to beat this in that Ambilobe phenotype.
 laid: 2022-06-26
-hatchstart: 2023-03-21
-hatchend: 2023-04-29
+hatchstart: 2023-05-21
+hatchend: 2023-07-29
 shipping: 3 months after hatch
 hatchnum: 24
 clutchsize: 39
@@ -17,20 +17,25 @@ reservedfemale: 0
 totalfemale: 5
 soldout: false
 soldoutmale: false
-listed: false
+listed: true
 soldoutfemale: false
 maleprice: 499
 femaleprice: 349
 babies:
 - name: F8
   gender: Female
-  image: /img/babies/20230429/F8
+  image: /img/babies/20230429/F8_2
   price: 275
   phenotype: RBBB Ambilobe
-  sold: true
-- name: F6
+- name: F9
   gender: Female
-  image: /img/babies/20230429/F6_1
+  image: /img/babies/20230429/F9
   price: 299
   phenotype: RBBB Ambilobe
+- name: F10
+  gender: Female
+  image: /img/babies/20230429/F10
+  price: 299
+  phenotype: RBBB Ambilobe
+  primary: true
   
