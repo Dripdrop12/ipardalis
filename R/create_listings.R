@@ -9,13 +9,15 @@ require(lubridate)
 require(purrr)
 
 source("R/get_clutch_df.R")
+source("R/add_watermark.R")
 
 # list(sire="", dam="", hatchend="") %>% create_listings()
 create_listings <- function(
     filters = list(sire="", dam="", hatchend=""), 
     draft = FALSE, 
     overwrite = TRUE, 
-    gen_webp = FALSE) {
+    gen_webp = FALSE,
+    watermark = FALSE) {
   
   new_listings <- get_clutch_df() %>%
     filter(
@@ -95,6 +97,7 @@ create_listings <- function(
           glue_collapse(sep="\n")) %>%
       write_lines(glue("{listing_dir}/{baby['babies-name'][[1]]}.md"), append = !overwrite)
   }
+  if (watermark) purrr::map(fs::path("static", fs::path_dir(new_listings$Photo_Urls) %>% unique), watermark_dir)
 }
 
 delete_item <- function(txt, key) {
