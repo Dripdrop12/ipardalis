@@ -38,4 +38,5 @@ babies:
   price: 299
   phenotype: RBBB Ambilobe
   primary: true
+  sold: true
   
