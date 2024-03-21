@@ -29,4 +29,6 @@ Please note, you will be responsible for shipping in the case of a replacement/r
 
 Deposits are 100% refundable for any reason and applied to the balance when you are ready to ship. For example, if you pay a $75 deposit to hold a $325 female, then $250 plus shipping and sales tax will be due before you ship.
 
+**Read our [Privacy Policy]({{< ref "privacy.md" >}})**
+
 <br>
