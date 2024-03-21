@@ -397,7 +397,7 @@ paginate = 10
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+    googleMapsApiKey = ""
 
     latitude = "-12.043333"
     longitude = "-77.028333"
