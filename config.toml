@@ -283,7 +283,7 @@ paginate = 10
 
     logo = "img/logo.png"
     breadcrumb_banner = "img/iPardalis-Banner.png"
-    logo_small = "img/logo-small.png"
+    logo_small = "img/logo.png"
     favicon_google = "img/android-chrome-192x192.png"
     address = """<p><strong>Jonathan Mark Hill</strong>
         <br>iPardalis, LLC
