@@ -7,7 +7,7 @@ categories = ["ethics", "genetics"]
 banner = "img/banners/google_ambanja"
 +++
 
-This article, specifically, tackles a controversial topic in the Ambanja Panther Chameleon breeding community on what is meant when people say they have an Ambanja Panther Chameleon for sale. It is the first article in a series on the challenges identifying and breeding wild-type local forms of Panther Chameleons. The next one covers the [Ambilobe]({{< ref "blog/ambilobe-panther-chameleons-usa" >}}) local form. 
+This article, specifically, tackles a controversial topic in the Ambanja Panther Chameleon breeding community on what is meant when people say they have an Ambanja Panther Chameleon for sale. It is the first article in a series on the challenges identifying and breeding wild-type local forms of Panther Chameleons. The next one covers the [Ambilobe]({{< ref "blog/ambilobe-panther-chameleons-usa" >}}) local form. It is because of debates like these that we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}). An appeal to authority is not enough, especially as new information and technology are more readily available.
 
 ## Ambanja on Google
 Let's start by googling "Ambanja Panther Chameleon for sale":

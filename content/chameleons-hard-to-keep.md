@@ -32,6 +32,7 @@ We have been listening to the Chameleon Academy Podcast for up to date [husbandr
 
 <hr>
 {{< rawhtml >}}
+<p><a href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
 <a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}
 <hr>

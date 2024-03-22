@@ -35,7 +35,7 @@ paginate = 10
     post = 1  
 
 [[menu.main]]
-  name = "Main Menu"
+  name = "Panther Chameleons for sale"
   parent = "section.all"
   url = "/panther-chameleons-for-sale/"
   weight = 1

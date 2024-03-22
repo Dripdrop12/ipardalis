@@ -32,3 +32,8 @@ Deposits are 100% refundable for any reason and applied to the balance when you 
 **Read our [Privacy Policy]({{< ref "privacy.md" >}})**
 
 <br>
+
+<hr>
+{{< rawhtml >}}
+<p><a href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
+{{< /rawhtml >}}

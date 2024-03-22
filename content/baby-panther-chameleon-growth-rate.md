@@ -19,6 +19,7 @@ If you look at the results of our 2021 [study on the growth rates of baby panthe
 
 <hr>
 {{< rawhtml >}}
+<p><a href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
 <a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}
 <hr>

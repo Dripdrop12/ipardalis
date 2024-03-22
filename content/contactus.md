@@ -26,3 +26,8 @@ Our Newsletter includes updates and exclusive coupon codes. It is not going to f
 We are active on all these platforms:
 {{< social >}}
 <hr>
+
+{{< rawhtml >}}
+<p><a href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
+{{< /rawhtml >}}
+<hr>

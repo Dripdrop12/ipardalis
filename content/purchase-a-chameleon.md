@@ -30,6 +30,7 @@ Payment plans are easiest to accommodate within our [reservation program]({{< re
 Please reach out if you have any questions about how to purchase a panther chameleon. 
 <hr>
 {{< rawhtml >}}
+<p><a href="{{< ref "/panther-chameleons-for-sale" >}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
 <a class="btn btn-template-main" href="{{< ref "/faq" >}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
 {{< /rawhtml >}}
 <hr>
