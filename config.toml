@@ -4,6 +4,7 @@ theme = ["hugo-notice", "hugo-universal-theme"]
 languageCode = "en-us"
 ignoreFiles = ["\\.qmd$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableRobotsTXT = true
+enableEmoji = true
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
