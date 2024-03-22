@@ -92,7 +92,7 @@ On the white side of things, a little goes a long way:
 <figcaption itemprop="caption">West Coast Chameleon Brothers: 75% Ambilobe 25% Cap Est</figcaption>
 <hr>
 
-You can usually spot even a small amount of Cap Est, Nosy Boraha or other white bodied locales in the Ambilobe population because whites show up in the body even in low percentage crosses which favor the Ambilobe locale side of it. West Coast Chameleon Brothers is unique in that Mitch is honest about his locality breakdowns, but a lot of these crosses are circulating widely.
+You can usually spot even a small amount of Cap Est, Nosy Boraha or other white bodied locales in the Ambilobe population because whites show up in the body even in low percentage crosses which favor the Ambilobe locale side of it. West Coast Chameleon Brothers is unique in that Mitch is honest about his locality breakdowns, but a lot of these crosses are circulating widely as pure Ambilobe Panther Chameleons.
 
 ## Conclusion
 There is a belief that nearly every color in the rainbow can be found within the Ambilobe local form of Panther Chameleons (Furcifer pardalis) - and that is almost true - but we need to be extremely skeptical of when those colors drift into the shades and intensity more prevalent outside Ambilobe. We also need to get smart in identifying some of the more obvious cross-locale combinations with a lot of blue or white. Many of those cross-locale combinations are in the captive breeding population of the United States, and Ambilobe crosses are much harder to identify than Ambanja crosses.
