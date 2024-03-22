@@ -59,13 +59,13 @@ We believe the original Ambilobe imports were from haplogroup 3 - Ambilobe west-
 The big question we will have to answer in our Ambilobe breeding projects is whether we breed for pure haplogroup 3 animals or accept these adjacent populations as part of the Ambilobe local form. We are leaning towards the purist argument (haplogroup 3 is the true local form), but we haven't finished testing everything and there are still a number of open questions there. It might mean we have to keep those neon yellows (haplogroup 5) off by themselves and call them Diego Suarez as an ode to the time before Ambilobe hit the scene, when all bright yellow Panther Chameleons from the northwest were labelled that way. That actually might be fun.
 
 ## Ambilobe on Google
-To illustrate my point, let's Google "Ambilobe Panther Chameleon for sale" like we did in the previous article with Ambanja:
+To illustrate my point about the phenotypic diversity in Ambilobe, let's Google "Ambilobe Panther Chameleon for sale" like we did in the previous article with Ambanja:
 
 <img src="/img/banners/ambilobe_google.jpg" alt="Results from Googling 'Ambilobe Panther Chameleon for sale'" width=100% />
 <figcaption>Results from Googling 'Ambilobe Panther Chameleon for sale'</figcaption>
 <hr>
 
-By my count, aside from the collage of various locales at the bottom (thanks Bill), all of these images could be a wild-type Ambilobe phenotype, *and* all of them could be a cross locale combination. Welcome to breeding "pure" CB Ambilobe. 
+By my count, aside from the collage of various locales at the bottom (thanks Bill), all of these images could be a wild-type Ambilobe phenotype, *and* all of them could be a cross locale combination. Welcome to breeding for "pure" CB Ambilobe. 
 
 There are still a few common crosses you can learn to recognize because they fall outside the wide phenotypic range found in and around Ambilobe, Madagascar. Let's take a look at a few of those.
 
