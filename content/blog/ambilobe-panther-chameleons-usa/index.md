@@ -72,7 +72,7 @@ There are still a few common crosses you can learn to recognize because they fal
 My personal heuristic for finding Ambilobe crosses is two colors, white or blue, in weird places. After looking at thousands of Ambilobe over the past 10 years, some thousands I have produced myself, watching imports and reviewing all the extant literature I can find, I have never seen an Ambilobe with blue/teal contiguously along its spine or body. I have also not observed a specimen with a white body - if they have white, it starts in the gular/face region and can run down their spine but it shouldn't bleed into their body like an east coast pardalis. 
 Another heuristic is Ambanja bars can be blue/red like Ambilobe but in Ambilobe they tend to be blue dominant near their head and fade into red along their tail whereas Ambanja tend to be red dominant near their head and fade into the blues on their tail. This is a great way to catch very subtle Ambilobe-Ambanja cross combinations.
 
-The most famous local crosses in the captive bred population of Ambilobe in the United States are the RBBB "Ambilobe" which originate from [Charles Yamaguchi's]({{< ref "blog/yamaguchi.md" >}}) lines:
+The most famous locale crosses in the captive-bred Ambilobe population in the United States are the RBBB "Ambilobe" which originate from [Charles Yamaguchi's]({{< ref "blog/yamaguchi.md" >}}) lines:
 
 {{< no_num_gallery dir="img/ambilobe/lineage/Copperhead" more=" | RBBB Ambilobe x Nosy Be Panther Chameleon"/>}}
 
