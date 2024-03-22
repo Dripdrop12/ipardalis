@@ -17,7 +17,9 @@ But before we get too deep into the weeds of that story, let's start with what w
 
 Ambanja is sometimes referred to as the original rainbow local form, while Ambilobe is often seen as the new rainbow local form of Furcifer pardalis - both arguing which one is "more diverse than any other." However, both are different contours of the same problem: poorly understood local forms with complex histories. With Ambanja, the wild phenotypes and cross combinations are pretty clear (Ankify, Ambato and designer crosses without any extant wild phenotype), but with Ambilobe, crosses with Sambava, Diego Suarez, Mitsio, Tamatave, Vohemar etc are much less clear. 
 
-Many of these cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype alone. Our captive bred lineage is often incomplete, and layer on the points that Petr Necas made about how messy the import process is in the [first article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) of this series. With Ambilobe, phenotypic information is less helpful and lineage information is not well documented. This is why Ambilobe breeders, like iPardalis, are huge supporters of genetic testing. Ambilobe is the problem child, not Ambanja.
+Many of these cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype. Phenotype is more useful in breeding wild-type Ambanja than it is in breeding wild-type Ambilobe. Our captive-bred lineage is also incomplete, and layer on the points that Petr Necas made about how messy the [import process]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) is in our previous article. With Ambilobe, phenotypic information is less helpful and lineage information is not well documented. 
+
+This is why Ambilobe breeders, like iPardalis, are huge supporters of developing a genetic test for Panther Chameleon local forms. Ambilobe is the problem child, not Ambanja.
 
 ## The Picasso Chameleon
 
@@ -59,7 +61,7 @@ We believe the original Ambilobe imports were from haplogroup 3 - Ambilobe west-
 The big question we will have to answer in our Ambilobe breeding projects is whether we breed for pure haplogroup 3 animals or accept these adjacent populations as part of the Ambilobe local form. We are leaning towards the purist argument (haplogroup 3 is the true local form), but we haven't finished testing everything and there are still a number of open questions there. It might mean we have to keep those neon yellows (haplogroup 5) off by themselves and call them Diego Suarez as an ode to the time before Ambilobe hit the scene, when all bright yellow Panther Chameleons from the northwest were labelled that way. That actually might be fun.
 
 ## Ambilobe on Google
-To illustrate my point about the phenotypic diversity in Ambilobe, let's Google "Ambilobe Panther Chameleon for sale" like we did in the previous article with Ambanja:
+To illustrate my point about the phenotypic diversity in Ambilobe, let's Google "Ambilobe Panther Chameleon for sale" like we did in the previous article with Ambanja and compare it to the Ambilobe/Picasso data from earlier in this article:
 
 <img src="/img/banners/ambilobe_google.jpg" alt="Results from Googling 'Ambilobe Panther Chameleon for sale'" width=100% />
 <figcaption>Results from Googling 'Ambilobe Panther Chameleon for sale'</figcaption>
