@@ -62,11 +62,11 @@ In their paper, Grbic et al. created these **genealogical UMP networks** to map 
 |Ambanja  | 1a |
 |Nosy Komba  | 1b |
 |Nosy Be   |   2 |
-|Ambilobe East | 3 |
+|Ambilobe West | 3 |
 |Ankify | 4* |
-|Ambilobe East, Antsiranana (Diego Suarez) | 5 |
+|Ambilobe West, Antsiranana (Diego Suarez) | 5 |
 |Amber Mountain | 6 |
-|Ambilobe West, Daraina | 7 |
+|Ambilobe East, Daraina | 7 |
 |Vohemar | 8 |
 |East Coast, Nosy Boraha | 9 |
 |Andapa, Sambava, Antalaha | 10 |
