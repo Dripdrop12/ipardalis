@@ -17,7 +17,7 @@ But before we get too deep into the weeds of that story, let's start with what w
 
 Ambanja is sometimes referred to as the original rainbow local form, while Ambilobe is often seen as the new rainbow local form of Furcifer pardalis - both arguing which one is "more diverse than any other." However, both are different contours of the same problem: misunderstood local forms. With Ambanja, the distinct local forms or cross combinations are clear (Ankify, Ambato and designer crosses without any extant wild phenotype), but with Ambilobe, that is much less clear. 
 
-Many cross-locale combinations produce phenotypes we observe somewhere in Ambilobe. This makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype, and our captive bred lineage is often incomplete. Then layer on the points that Petr Necas made about how messy the import process is in the [first article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) of this series. This is why Ambilobe breeders, like iPardalis, are huge supporters of genetic testing. Ambilobe is the problem child, not Ambanja.
+Many cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype, and our captive bred lineage is often incomplete. Then layer on the points that Petr Necas made about how messy the import process is in the [first article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) of this series. This is why Ambilobe breeders, like iPardalis, are huge supporters of genetic testing. Ambilobe is the problem child, not Ambanja.
 
 ## The Picasso Chameleon
 
