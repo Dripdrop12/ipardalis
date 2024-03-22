@@ -25,7 +25,7 @@ Olaf Pronk was the first person to identify and export Ambilobe Panther Chameleo
 
 {{< no_num_gallery dir="/img/olaf" more=" | © Olaf Pronk 2001" />}}
 
-Olaf did not want other exporters to discover this amazing new locality of Panther Chameleons so he used the moniker "Picasso," organized private expos to display the animals and promised to provide details in a forthcoming book. However, he never revealed the exact location of origin for these "Picasso" Panther Chameleons. There was a lot of pomp and circumstance in the beginning because these Picassos were the next big thing.
+Olaf did not want other exporters to discover this amazing new locality of Panther Chameleons so he used the moniker "Picasso," organized private expos to display the animals and promised to provide details in a forthcoming book. However, he never revealed the exact location of origin for these "Picasso" Panther Chameleons. There was a lot of pomp and circumstance in the beginning because Picassos were the next big thing.
 
 This situation led to many guesses (or outright lies) being passed off as Picasso Panther Chameleons because they fetched higher prices, similar to blurple "Ambanja" in today's market. Eventually, it became generally known that real Picassos were collected near Ambilobe, Madagascar, and Ambilobe Panther Chameleons were canonized in the hobby by 2007, if not earlier. Today, Alex Laube, PhD, and Thorsten Negro's best guess is that Olaf's original Picassos were collected along the road between Sirama and Ambilobe, Madagascar. 
 
