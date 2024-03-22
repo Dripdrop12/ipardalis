@@ -17,7 +17,7 @@ But before we get too deep into the weeds of that story, let's start with what w
 
 Ambanja is sometimes referred to as the original rainbow local form, while Ambilobe is often seen as the new rainbow local form of Furcifer pardalis - both arguing which one is "more diverse than any other." However, both are different contours of the same problem: poorly understood local forms with complex histories. With Ambanja, the wild phenotypes and cross combinations are pretty clear (Ankify, Ambato and designer crosses without any extant wild phenotype), but with Ambilobe, crosses with Sambava, Diego Suarez, Mitsio, Tamatave, Vohemar etc are much less clear. 
 
-Many of these cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype, and our captive bred lineage is often incomplete. Then layer on the points that Petr Necas made about how messy the import process is in the [first article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) of this series. This is why Ambilobe breeders, like iPardalis, are huge supporters of genetic testing. Ambilobe is the problem child, not Ambanja.
+Many of these cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype alone. Our captive bred lineage is often incomplete, and layer on the points that Petr Necas made about how messy the import process is in the [first article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) of this series. With Ambilobe, phenotypic information is less helpful and lineage information is not well documented. This is why Ambilobe breeders, like iPardalis, are huge supporters of genetic testing. Ambilobe is the problem child, not Ambanja.
 
 ## The Picasso Chameleon
 
@@ -25,7 +25,7 @@ Olaf Pronk was the first person to identify and export Ambilobe Panther Chameleo
 
 {{< no_num_gallery dir="/img/olaf" more=" | © Olaf Pronk 2001" />}}
 
-Olaf did not want other exporters to discover this amazing new locality of Panther Chameleons so he used the moniker "Picasso," organized private expos to display the animals and promised to provide details in a forthcoming book. However, he never revealed the exact location of origin for his "Picasso" Panther Chameleons. There was a lot of pomp and circumstance in the beginning because Picassos were the next big thing.
+Olaf did not want other exporters to discover this amazing new locality of Panther Chameleons, so he used the moniker "Picasso," his partners organized private expos to display the animals in the USA/EU, and he promised to provide details in a forthcoming book. However, he never revealed the exact location of origin for his "Picasso" Panther Chameleons - possibly to protect them from poachers. There was a lot of pomp and circumstance in the beginning because Picassos were the next big thing.
 
 This situation led to many guesses (or outright lies) being passed off as Picasso Panther Chameleons because they fetched higher prices, similar to blurple "Ambanja" in today's market. Eventually, it became generally known that real Picassos were collected near Ambilobe, Madagascar, and Ambilobe Panther Chameleons were canonized in the hobby by 2007, if not earlier. Today, Alex Laube, PhD, and Thorsten Negro's best guess is that Olaf's original Picassos were collected along the road between Sirama and Ambilobe, Madagascar. 
 
