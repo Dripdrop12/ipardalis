@@ -19,7 +19,7 @@ Ambanja is sometimes referred to as the original rainbow local form, while Ambil
 
 Many of these cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype. Phenotype is more useful in breeding wild-type Ambanja than it is in breeding wild-type Ambilobe. Our captive-bred lineage is also incomplete, and layer on the points that Petr Necas made about how messy the [import process]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) is in our previous article. With Ambilobe, phenotypic information is less helpful and lineage information is not well documented. 
 
-This is why Ambilobe breeders, like iPardalis, are huge supporters of developing a genetic test for Panther Chameleon local forms, and why we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}) from our Ambilobe project. Ambilobe is the problem child, not Ambanja.
+This is why Ambilobe breeders, like iPardalis, are huge supporters of developing a genetic test for Panther Chameleon local forms, and why we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}). Ambilobe is the problem child, not Ambanja.
 
 ## The Picasso Chameleon
 
