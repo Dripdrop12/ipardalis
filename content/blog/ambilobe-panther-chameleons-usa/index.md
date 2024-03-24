@@ -9,7 +9,7 @@ banner = "img/banners/ambilobe_google"
 
 {{< load-photoswipe >}}
 
-This article discusses captive-bred Ambilobe Panther Chameleons (Furcifer pardalis) in the United States. It is a complex story which begins with the discovery of 'Picasso' Panther Chameleons by Olaf Pronk. It continues with a discussion of the complex geography, phenotypes and genetics of Ambilobe Panther Chameleons. And finishes with a few takeaways for breeders who are interested in working with Ambilobe Panther Chameleons.
+This article discusses captive-bred Ambilobe Panther Chameleons (Furcifer pardalis) in the United States. It is a complex story which begins with the discovery of 'Picasso' Panther Chameleons by Olaf Pronk. It continues with a discussion of the complex geography, phenotypes and genetics of Ambilobe Panther Chameleons. And finishes with a few takeaways for breeders who are interested in working with Ambilobe Panther Chameleons. The article should also provide some useful heuristics we have developed over the past 10 years breeding Ambilobe Panther Chameleons. 
 
 But before we get too deep into the weeds of that story, let's start with what we concluded in the [Ambanja article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}): 
 
@@ -17,9 +17,11 @@ But before we get too deep into the weeds of that story, let's start with what w
 
 Ambanja is sometimes referred to as the original rainbow local form, while Ambilobe is often seen as the new rainbow local form of Furcifer pardalis - both arguing which one is "more diverse than any other." However, both are different contours of the same problem: poorly understood local forms with complex histories. With Ambanja, the wild phenotypes and cross combinations (Ambanja crossed with Ankify, Ambato or 3+ locale designer crosses) are pretty clear, but with Ambilobe, crosses with Sambava, Diego Suarez, Mitsio, Tamatave, Vohemar etc are much less obvious. 
 
-Many of the Ambilobe cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype. Phenotype is more useful in breeding wild-type Ambanja than it is in breeding wild-type Ambilobe. Our captive-bred lineage is also incomplete, and layer on the points that Petr Necas made about how messy the [import process]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) is in our previous article. With Ambilobe, phenotypic information is less helpful and lineage information is not well documented. 
+Many of the Ambilobe cross-locale combinations produce phenotypes we observe somewhere in Ambilobe which makes it much more difficult to discern whether an animal is from Ambilobe given its phenotype. That is why phenotype is more useful in breeding wild-type Ambanja than it is in breeding wild-type Ambilobe. The captive-bred lineage in the United States is also incomplete, and our founding [lineage]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) is not reliable given how complex the import process is, so we need to make educated decisions with all available information. With Ambilobe, phenotypic information is less helpful and lineage information is not well documented. 
 
-This is why Ambilobe breeders, like iPardalis, are huge supporters of developing a genetic test for Panther Chameleon local forms, and why we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}) and all of [our breeders]({{< ref "/categories/ambilobe-sires/" >}}). Ambilobe is the problem child, not Ambanja.
+This is why Ambilobe breeders, like iPardalis, are huge supporters of developing a genetic test for Panther Chameleon local forms, and why we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}) and all of [our breeders]({{< ref "/categories/ambilobe-sires/" >}}).
+
+Ambilobe is the problem child, not Ambanja.
 
 ## The Picasso Chameleon
 
