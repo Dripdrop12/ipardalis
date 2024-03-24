@@ -41,7 +41,7 @@ babies:
   sold: true
 - name: M8
   gender: Male
-  image: /img/babies/20230901/M8
+  image: /img/babies/20230901/M8_3
   price: 599
   phenotype: RBBB Ambilobe
 - name: M9
