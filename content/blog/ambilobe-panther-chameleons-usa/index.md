@@ -36,6 +36,21 @@ I highly recommend you start by reading Alex and Thorsten's entire description o
 
 > The colors of male panther chameleons near Amiblobe are very various. There are almost orange-colored animals with bright red crossbands as well as classic variations with blue cross bands on red and green ground or red bands on a green ground with red head. In between there is a lot of variations, may it be whiteheads, wine red cross bands or bright green ground colors. For several years, we have been watching that the big range of colors is declining and “extraordinary” specimens are partially lacking completely. We think this has to do with catching and high exports of these chameleons: The more extraordinary the panther chameleon, the higher is an exporter’s interest in it, because allegedly rare animals may fetch higher prices. Again and again, we meet men at the end of the rainy season who collect panther chameleons along the mentioned street.
 
+Ambilobe Panther Chameleons usually have some combination of green, yellow, orange and red in their bodies and some combination of red and blue in their bars. The red is often located at the dermal layer of their body and top or outer edges of their bars. Blue can be found in the dermal layer of their bars, and what I sometimes refer to as "bar dots" meaning their bar pattern presents in a few discontinuous splotches on their bodies. This is an important point because when an Ambilobe Panther Chameleon is crossed with a local form with a different body color, the body splotches do **not** match their bar pattern.
+
+The yellow on their bodies usually begins at the top layer of their chromatophores and works its way down to the dermal layer. It also presents as a vibrant lime to emerald green at rest that can fire bright yellow. There are darker shades of green which can fire to orange or gold. Orange is often found at the intersection of red and yellow, but it does not seem to be an independent heritable trait like yellow and red are. In some rare individuals, red or yellow can take over the majority of their body chromatophores from the dermal layer up to the top creating a clean color. The same is true of their bars for blue and red. 
+
+These rare **clean** color combinations are what we often refer to as the major phenotypes of Ambilobe Panther Chameleons: 
+
+- Yellow Body Blue Bar (YBBB)
+- Yellow Body Red Bar (YBRB)
+- Red Body Blue Bar (RBBB)
+- Orange Body Blue Bar (OBBB)
+- Orange Body Red Bar (OBRB)
+- etc
+
+Many novice breeders often force classic Ambilobe "Rainbow" phenotypes into one phenotype or another, and given that yellow sits on top of red in most rainbow mixes, they usually default to yellow when it is in fact a mix of colors (not clean yellow). At iPardalis, we try to be very strict on which animals qualify given their unique, clean coloration. We use "Rainbow Ambilobe" to refer to a classic wild-type mix of colors which can be created by any random combination of Ambilobe phenotypes. It doesn't require any skill or selective breeding to produce a Rainbow Ambilobe Panther Chameleon. That is their normal form.
+
 The Diana region has a mountain range which starts in the Andrafiamena Protected Area in the northeast and runs southwest along the eastern edge of the city of Ambilobe, continuing down to Beramanja where a series of rivers run out to the ocean from the mountains. The Mahavavy River also cuts right through Ambilobe but runs south to northwest down to the coast, north of Sirama. This mountain and river combination creates four geographic quadrants with Ambilobe at its intersection: 
 
 <img src="ambilobe_terrain.png" alt="Terrain map of Ambilobe, Madagascar" width=100% />
