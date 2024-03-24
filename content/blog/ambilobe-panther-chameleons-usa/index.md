@@ -74,13 +74,16 @@ There are still a few common crosses you can learn to recognize because they fal
 ## Common Cross Combinations Found in CB Ambilobe
 
 My personal heuristic for finding Ambilobe crosses is two colors, white or blue, in weird places. After looking at thousands of Ambilobe over the past 10 years, some thousands I have produced myself, watching imports and reviewing all the extant literature I can find, I have never seen an Ambilobe with blue/teal contiguously along its spine or body. I have also not observed a specimen with a white body - if they have white, it starts in the gular/face region and can run down their spine but it shouldn't bleed into their body like an east coast pardalis. 
+
 Another heuristic is Ambanja bars can be blue/red like Ambilobe but in Ambilobe they tend to be blue dominant near their head and fade into red along their tail whereas Ambanja tend to be red dominant near their head and fade into the blues on their tail. This is a great way to catch very subtle Ambilobe-Ambanja cross combinations.
 
 The most famous locale crosses in the captive-bred Ambilobe population in the United States are the RBBB "Ambilobe" which originate from [Charles Yamaguchi's]({{< ref "blog/yamaguchi.md" >}}) lines:
 
 {{< no_num_gallery dir="img/ambilobe/lineage/Copperhead" more=" | RBBB Ambilobe x Nosy Be Panther Chameleon"/>}}
 
-Charles Yamaguchi wasn't a real person. Elizabeth Lawrence scammed people under this persona selling a bunch of Ambilobe x Nosy Be crosses. Her other aliases include: Cami Garden Hat, April Wilcox, Trevor Neufeld, and April Michelle. If you look closely at these animals - they are the key to recognizing a Nosy Be x Ambilobe cross. Lots of blue in weird places and a degraded body which looks like the blue is creeping in, trying to take over. You will never see that from a wild type Ambilobe Panther Chameleon.
+Charles Yamaguchi wasn't a real person. Elizabeth Lawrence scammed people under this persona selling a bunch of Ambilobe x Nosy Be crosses. Her other aliases include: Cami Garden Hat, April Wilcox, Trevor Neufeld, and April Michelle. After using the fictional persona of a Japanese man named Charles Yamaguchi, she refined her technique by pretending to be real individuals who actually did leave the hobby, but who could be vouched for by an unwitting third party. 
+
+If you look closely at these animals - they are the key to recognizing a Nosy Be x Ambilobe cross. Lots of blue in weird places and a degraded body which looks like the blue is creeping in, trying to take over. You will never see that from a wild type Ambilobe Panther Chameleon.
 
 You will start seeing those Yamaguchis everywhere in the CB population of RBBB Ambilobe - once you see it, you can't un-see it. However, the thing that will give you nightmares is how much Nosy Be can be in there while still looking passable as a CB Ambilobe. Here is an example from West Coast Chameleon Brothers with a known cross locale breakdown:
 
