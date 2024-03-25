@@ -9,7 +9,7 @@ banner = "img/banners/ambilobe_google"
 
 {{< load-photoswipe >}}
 
-This article discusses captive-bred Ambilobe Panther Chameleons (Furcifer pardalis) in the United States. It is a complex story which begins with the discovery of 'Picasso' Panther Chameleons by Olaf Pronk. It continues with a discussion of the complex geography, phenotypes and genetics of Ambilobe Panther Chameleons. And finishes with a few takeaways for breeders who are interested in working with Ambilobe Panther Chameleons. The article should also provide some useful heuristics we have developed over the past 10 years breeding Ambilobe Panther Chameleons. 
+This article discusses captive-bred Ambilobe Panther Chameleons (Furcifer pardalis) in the United States. It is a complex story which begins with the discovery of 'Picasso' Panther Chameleons by Olaf Pronk in the early 2000s and eventually become known as the Ambilobe local form. It continues with a discussion of the complex geography, phenotypes and genetics of Ambilobe Panther Chameleons. And finishes with a few takeaways for breeders who are interested in working with Ambilobe Panther Chameleons. The article should also provide some useful heuristics we have developed over the past 10 years breeding Ambilobe Panther Chameleons. 
 
 But before we get too deep into the weeds of that story, let's start with what we concluded in the [Ambanja article]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}): 
 
