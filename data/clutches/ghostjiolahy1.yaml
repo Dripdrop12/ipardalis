@@ -6,7 +6,7 @@ desc: |
   Ghost's first clutch with our F1 female from WC The Don, Jiolahy!
 laid: 2022-10-21
 hatchstart: 2023-08-16
-hatchend: 2023-09-05
+hatchend: 2023-10-05
 shipping: 3 months after hatch
 hatchnum: 8
 clutchsize: 23
@@ -15,10 +15,25 @@ reservedmale: 3
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 449
 femaleprice: 325
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20231005/M1_2
+  price: 499
+- name: M2
+  gender: Male
+  image: /img/babies/20231005/M2_2
+  price: 499
+  phenotype: Rainbow Ambilobe
+- name: M3
+  gender: Male
+  image: /img/babies/20231005/M3_2
+  price: 499
+  phenotype: Rainbow Ambilobe
+  primary: true
