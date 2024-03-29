@@ -25,13 +25,14 @@ babies:
 - name: F8
   gender: Female
   image: /img/babies/20230429/F8_2
-  price: 275
+  price: 325
   phenotype: RBBB Ambilobe
 - name: F9
   gender: Female
   image: /img/babies/20230429/F9
   price: 299
   phenotype: RBBB Ambilobe
+  sold: true
 - name: F10
   gender: Female
   image: /img/babies/20230429/F10
