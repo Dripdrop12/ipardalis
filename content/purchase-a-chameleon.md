@@ -8,7 +8,7 @@ faq = true
 +++
 
 {{< faq title="How do I purchase a Panther Chameleon online?" >}}
-To buy a Panther Chameleon online, research reputable breeders. Browse their websites (ours is objectively the best), carefully considering the available Panther Chameleons' locale designation and lineage information. Read customer reviews, and assess the breeder's reputation. Reach out to us and others, asking questions about care, shipping, and guarantees. Make an informed decision, ensuring a healthy and ethically sourced chameleon for your purchase. We will earn your support even years after your purchase.
+To buy a Panther Chameleon online, research reputable breeders. Browse their websites (ours is objectively the best website of any chameleon breeder in the United States), carefully considering the available Panther Chameleons' locale designation and lineage information. Read customer reviews, and assess the breeder's reputation. Reach out to us and others, asking questions about care, shipping, and guarantees. Make an informed decision, ensuring a healthy and ethically sourced chameleon for your purchase. We will earn your support even years after your purchase.
 {{< /faq >}}
 
 {{< faq title="How do I purchase a Panther Chameleon from iPardalis?" >}}
