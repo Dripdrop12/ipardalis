@@ -27,6 +27,7 @@ babies:
   image: /img/babies/20230429/F8_2
   price: 325
   phenotype: RBBB Ambilobe
+  primary: true
 - name: F9
   gender: Female
   image: /img/babies/20230429/F9
@@ -38,6 +39,5 @@ babies:
   image: /img/babies/20230429/F10
   price: 299
   phenotype: RBBB Ambilobe
-  primary: true
   sold: true
   
