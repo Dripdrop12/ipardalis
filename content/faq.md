@@ -31,6 +31,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [What are the caging requirements for Panther Chameleons?]({{< ref "/panther-chameleon-caging-requirements.md" >}})
 - [Are Panther Chameleons friendly?]({{< ref "/chameleons-as-pets.md" >}})
 - [Are Panther Chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
+- [How Long is a Chameleon's Tongue?]({{< ref "/how-long-is-a-chameleons-tongue.md" >}})
 
 
 # Panther Chameleon care resources
