@@ -15,7 +15,7 @@ The total cost of owning a chameleon is around $1,000 for the intial setup and $
 {{< /faq >}}
 
 {{< faq title="How much do Panther Chameleon eggs cost?" >}}
-Panther Chameleon eggs range from $75-$250. However, like many get rich quick schemes and affordable options, this is a lie too. Most people compare the price of an egg and the price of the nicest full-grown panther chameleon they have ever seen. They imagine they're getting that amazing animal in the egg, so they buy into the idea that it is an good deal pretty quickly. Hence why this is such an effective [scam]({{< ref "blog/egg_sales_101.md" >}}). However, here are the extra costs that are incurred from 0-3 months of age. I'm not even going to attempt the cost comparison with the fully proven adult male they envision buying, which is a 1 out of 100 change.
+Panther Chameleon eggs range from $75-$250. However, like many get rich quick schemes and affordable options, this is a lie too. Most people compare the price of an egg and the price of the nicest full-grown panther chameleon they have ever seen. They imagine they're getting that amazing animal in the egg, so they buy into the idea that it is an good deal pretty quickly. Hence why this is such an effective [scam]({{< ref "blog/egg_sales_101.md" >}}). However, here are the extra costs that are incurred from 0-3 months of age. I'm not even going to attempt the cost comparison with the fully proven adult male they envision buying, which is a 1 out of 100 chance.
 
 - $75 food
 - $50 extra decor for baby cage
