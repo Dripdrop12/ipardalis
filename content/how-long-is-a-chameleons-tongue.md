@@ -1,6 +1,6 @@
 +++
-title = "How Long is a Chameleon's Tongue?"
-header_title = "How Long is a Chameleon's Tongue?"
+title = "How Long is a Chameleon's Tongue? And How Does it Work?"
+header_title = "How Long is a Chameleon's Tongue? And How Does it Work?"
 date = "2024-04-03"
 description = "In this article, we discuss the astonishing anatomy of a chameleon's tongue, how long various species tongues are, how fast they can shoot, and the evolutionary adaptations that make it a formidable tool for hunting and survival."
 home = true
@@ -43,7 +43,7 @@ Before diving into the specifics of a chameleon's tongue, let's start with the f
 {{< faq title="How Long is a Chameleon's Tongue?" >}}
 On average, a chameleon's tongue is roughly one to two times the length of its body with smaller chameleons species having tongue projection lengths up to 2.5 times their body length (snout to vent). The tongue acceleration and power measurements from small chameleon species are the highest recorded among all mammals, birds or reptiles (Anderson 2016), including larger species of chameleons. Such elongation is made possible by specialized muscles and connective tissues within the chameleon's mouth, allowing for rapid extension and retraction.
 
-<div id="qsffsjpyrg" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="igplwnquov" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -179,7 +179,7 @@ When a chameleon spots its prey, it initiates a lightning-fast sequence of movem
 
 This lightning-fast motion finishes with a slower retraction phase when the prey is pulled back into the chameleon's mouth where it is crushed with astonishing force. Once captured, the chameleon's tongue pouch ensures that the insect remains firmly attached, preventing any chance of escape. This entire process unfolds in a fraction of a second, showcasing the agility and precision of chameleon prey capture mechanisms.
 
-<div id="ozgjopknut" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="uzrfkfoyzm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -293,7 +293,7 @@ A chameleon's tongue can project out one to two body lengths, snout to vent, wit
 
 Anderson (2016) collected data on 20 different species of chameleons which we have presented a few different ways above. Here is the raw data exactly as it was presented in Prof. Anderson's 2016 paper:
 
-<div id="jaxpeiiigr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="luyjczfspo" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
