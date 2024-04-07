@@ -10,36 +10,39 @@ banner = "img/tongue/chameleon_tongue_shot"
 
 ## Introduction
 
-The main species of chameleons kept in captivity are the Veiled Chameleon (Chamaeleo calyptratus), Panther Chameleon (Furcifer pardalis), Jackson's Chameleon (Trioceros jacksonii), Carpet Chameleon (Furcifer lateralis), Parson’s Chameleon (Calumma parsonii parsonii) and the Oustalet's chameleon (Furcifer oustaleti). These enigmatic creatures renowned for their remarkable ability to change color, possess a highly specialized piece of anatomy - their tongues. While their color-changing prowess often steals the spotlight, the length and agility of a chameleon's tongue is actually one of the features which truly sets them apart from the rest of the animal kingdom. In this article, we discuss the astonishing anatomy of a chameleon's tongue, how long various species tongues are, how fast they can shoot, and the evolutionary adaptations that make it a formidable tool for hunting and survival. After reading this article, you will understand why a chameleon's tongue is so long and how it works.
+The main species of chameleons commonly kept in captivity include the Veiled Chameleon (Chamaeleo calyptratus), Panther Chameleon (Furcifer pardalis), Jackson’s Chameleon (Trioceros jacksonii), Carpet Chameleon (Furcifer lateralis), Parson’s Chameleon (Calumma parsonii parsonii), and the Oustalet’s Chameleon (Furcifer oustaleti). These creatures are renowned for their remarkable ability to change color and possess a highly specialized piece of anatomy: their tongues. While their color-changing ability often steals the spotlight, it's the length and agility of a chameleon’s tongue that truly sets them apart from other animals. In this article, we delve into the astonishing anatomy of a chameleon’s tongue, exploring the length, speed, and evolutionary adaptation that makes it a formidable tool for hunting and survival. By the end of this article, you'll gain a deep understanding of why a chameleon’s tongue is so long and how it functions.
 
+<hr>
 <div itemscope itemprop="VideoObject" itemtype="https://schema.org/VideoObject">
 <h4 itemprop="name">Tiny Chameleons’ Tongues Pack Strongest Punch (High-Speed Footage) - National Geographic</h4>
 {{{< youtube pn37lT7HbrA >}}}
 <link itemprop="embedUrl" href="https://www.youtube.com/embed/pn37lT7HbrA?si=tpqEEtkHgUBeRqKq" />
 <hr>
 <figcaption itemprop="description">
-Picture possessing a tongue that extends more than twice the length of your body. Now, envision your ability to launch it across the room to snag an object with precision. This is the astonishing hunting technique employed by chameleons, showcased vividly in this high-speed National Geographic video, slowed down to 1/50th of its original speed. Through intensive research into smaller species—some of which can perch comfortably on your thumb—Professor Anderson has unearthed a remarkable revelation: the tongues of smaller chameleon species possess an unparalleled elasticity and velocity, surpassing their larger counterparts [@andersonShotScalingBallistic2016]. Clocking in at a mind-boggling zero to 60 mph in a mere 1/100th of a second, their tongues boast unparalleled acceleration, outstripping those of any other reptiles, birds, or mammals. This extraordinary burst of power is used instead of the energy that would typically be expended in maneuvering their small bodies toward their prey.
+Imagine having a tongue that extends more than twice the length of your body and being able to launch it across the room with pinpoint accuracy to snatch an object. This incredible hunting technique is the hallmark of chameleons, vividly showcased in this high-speed National Geographic video, shown at 1/50th of its original speed. Professor Anderson's research into smaller chameleon species—some of which can comfortably perch on your thumb—has revealed a remarkable finding: their tongues possess unparalleled elasticity and velocity, surpassing even their larger counterparts [@andersonShotScalingBallistic2016]. Clocking in at an astonishing zero to 60 mph in just 1/100th of a second, their tongues exhibit unmatched acceleration, outstripping those of any other reptiles, birds, or mammals. This extraordinary burst of power is utilized instead of expending energy in maneuvering their small bodies toward prey.
 </figcaption>
 <meta itemprop="contentUrl" content="https://www.youtube.com/watch?v=pn37lT7HbrA&t=7s" />
 <meta itemprop="regionsAllowed" content="US,NL" />
 <meta itemprop="thumbnailUrl" content="https://ipardalis.com/img/tongue/nationalgeographic.jpg" />
 </div>
-<hr>
+
 
 {{{< load-photoswipe >}}}
 
 {{{< gallery >}}}
-  {{{< figure src="/img/tongue/chameleon_tongue_load.jpg" caption="Female Panther Chameleon loading her tongue to catch a Bumble Bee and earn her name" >}}}
-  {{{< figure src="/img/tongue/chameleon_tongue_shot.jpg" caption="Female Panther Chameleon catching a Bumble Bee with her tongue" >}}}
-  {{{< figure src="/img/tongue/chameleon_tongue_crunch.jpg" caption="Female Panther Chameleon crunching on a Bumble Bee" >}}}
+  {{{< figure src="/img/tongue/chameleon_tongue_load.jpg" caption="Panther Chameleon loading her tongue to catch a Bumble Bee and earn her name" >}}}
+  {{{< figure src="/img/tongue/chameleon_tongue_shot.jpg" caption="Panther Chameleon catching a Bumble Bee with her tongue" >}}}
+  {{{< figure src="/img/tongue/chameleon_tongue_crunch.jpg" caption="Panther Chameleon crunching on a Bumble Bee" >}}}
 {{{< /gallery >}}}
 
-## Chameleon Anatomy
+{{{< faq title="What is the Anatomy of a Chameleon's Tongue?" >}}}
 
-Before diving into the specifics of a chameleon's tongue, let's start with the fundamentals of their anatomy. These reptiles are equipped with a unique set of features that enable their extraordinary hunting capabilities. With independently rotating eyes, prehensile tails, and specialized feet, chameleons are specialized predators. They tend to be what is often referred to as a "sit and wait" predator which lays in wait for prey items to come to them. Then they use their tongue to go get it without having to move too far from their perch.
+Before delving into the intricacies of a chameleon's tongue, it's essential to grasp the basics of their anatomy and hunting strategy. Chameleons possess a distinctive set of characteristics that underpin their remarkable hunting prowess. With independently rotating eyes, prehensile tails, and specialized feet, chameleons are finely tuned predators. Their eyes allow them to view two items at once. Their tails are like a 5th arm. And their feet and claws can grasp branches very tightly. They typically employ a strategy known as "sit and wait," patiently awaiting prey to come within reach before swiftly snatching it with their tongue, all without leaving their perch.
+
+{{{< /faq >}}}
 
 {{{< faq title="How Long is a Chameleon's Tongue?" >}}}
-On average, a chameleon's tongue is roughly one to two times the length of its body with smaller chameleons species having tongue projection lengths up to 2.5 times their body length (snout to vent). The tongue acceleration and power measurements from small chameleon species are the highest recorded among all mammals, birds or reptiles [@andersonShotScalingBallistic2016], including larger species of chameleons. Such elongation is made possible by specialized muscles and connective tissues within the chameleon's mouth, allowing for rapid extension and retraction.
+On average, a chameleon's tongue measures approximately one to two times the length of its body, but in smaller chameleon species, this can reach up to 2.5 times their body length (measured from snout to vent). Remarkably, measurements of tongue acceleration and power in small chameleon species have set records, surpassing those of all other mammals, birds, or reptiles, including larger chameleon species [@andersonShotScalingBallistic2016]. This impressive elongation is facilitated by specialized muscles and connective tissues within the chameleon's mouth, enabling rapid extension and retraction.
 
 ```{r}
 #| echo: false
@@ -60,27 +63,43 @@ ballistic2016 %>%
   gt() |> 
   gt::tab_header(
     title = "20 Chameleon Species' Tongue Lengths Arranged by Relative Size Ratios",
-    subtitle = md("Data from *Off like a shot: scaling of ballistic tongue projection reveals extremely high performance in small chameleons*")
+    subtitle = md("Data from *Off like a shot: scaling of ballistic tongue projection reveals extremely high performance in small chameleons*, Anderson 2016")
   ) |> as_raw_html()
 ```
 
 {{{< /faq >}}}
 
+{{{< faq title="How far can a Chameleon's Tongue Stretch?" >}}}
+A chameleon's tongue can extend to about one to two times its body length, from snout to vent. However, certain smaller species, like the Rosette-nosed Chameleon (Rhampholeon spinosus), can project their tongues up to 2.5 times their body length. While Calumma p. parsonii boasts a lengthy tongue, relative to its large size, its tongue is smaller than species such as Brookesia superciliaris or Trioceros hoehnelii.
+{{{< /faq >}}}
+
+---
+
 {{{< faq title="Why Do Chameleons Have Long Tongues?" >}}}
-The extraordinary length and agility of a chameleon's tongue are the result of millions of years of evolution. In their natural habitats, chameleons often inhabit dense foliage where capturing prey requires swift and accurate movements. Over time, natural selection has favored individuals with longer tongues, enabling them to outcompete their rivals in the hunt for food.
+The remarkable length and agility of a chameleon's tongue have evolved over millions of years. In their natural habitats, chameleons often dwell in dense foliage, where catching prey demands swift and precise movements. Through natural selection, individuals with longer tongues have gained an edge in the competition for food, leading to the evolution of this extraordinary feature.
 
-Furthermore, the versatility of a chameleon's tongue allows it to target a wide range of prey, from small insects to larger arthropods. This adaptability enhances the chameleon's chances of survival in diverse ecosystems, showcasing the remarkable efficiency of evolutionary processes.
-
-Unlike most animals, a chameleon's tongue is an elongated muscular structure that can extend to remarkable lengths in the blink of an eye. This ability is crucial for capturing prey, as chameleons primarily rely on their tongues to snatch insects with unparalleled precision. Compared to locomotion-centric hunting strategies, the elastic recoil mechanism of a chameleon tongue is more effective in cool temperatures as compared to other cold blooded predators that need to heat up before they hunt.
+Moreover, a chameleon's tongue is remarkably versatile, capable of targeting a wide range of prey, from small insects to larger arthropods. This adaptability boosts the chameleon's survival prospects in various ecosystems. Unlike many animals, a chameleon's tongue is an elongated muscular structure that can extend rapidly to remarkable lengths. This rapid extension is vital for capturing prey, as chameleons primarily rely on their tongues to seize insects with exceptional precision. Compared to other predators that rely on locomotion for hunting, the muscle contraction and elastic recoil mechanism of a chameleon's tongue is particularly effective, especially in cooler temperatures.
 {{{< /faq >}}}
 
 {{{< faq title="How do Chameleon Tongues Work?" >}}}
 
-> The chameleon tongue can be separated into three distinct elements, each playing an essential role in the projection mechanism: the entoglossal process, the accelerator muscle and the network of intralingual sheaths. The entire tongue complex rests on a central bone called the entoglossal process, which is mostly parallel-sided, except for the tapering at the anterior-most 1-1.5% of its length. Attached to the entoglossal process are the intralingual sheaths. This region consists of collagenous tissue between the accelerator muscle and the bone, where recent research [@andersonShotScalingBallistic2016] has revealed that these sheaths play a vital role in energy storage and release during projection. - [@shunyuanxiaomarcsroursophieallardBiomechanicalReviewAnimal2023]
+> The chameleon tongue comprises three distinct elements, each with a crucial role in its projection mechanism: the entoglossal process, the accelerator muscle, and the network of intralingual sheaths. At the core of this complex lies the entoglossal process, a central bone mostly parallel-sided but tapering at the anterior-most 1-1.5% of its length. Attached to this bone are the intralingual sheaths, consisting of collagenous tissue between the accelerator muscle and the bone. Recent research [@andersonShotScalingBallistic2016] has highlighted the significance of these sheaths in storing and releasing energy during projection, shedding new light on the mechanics of chameleon tongue movement. - [@shunyuanxiaomarcsroursophieallardBiomechanicalReviewAnimal2023]
 
 <img src="/img/tongue/debray.png" alt="Anatomy of a Chameleon Tongue" width=50% />
 <figcaption><em>Manipulators inspired by the tongue of the chameleon</em>, @debrayManipulatorsInspiredTongue2011</figcaption>
 <hr>
+
+Chameleon tongues are extremely fast and long, usually even longer than the chameleon's body. They can shoot out really quickly, in just a fraction of a second, to catch flies, bees or other pollinators. Here's how it works in layman's terms: 
+
+The tongue is connected to the back of the mouth by a "U" shaped bone. Chameleons use the same muscles as humans do to move their tongues and swallow, but their tongues have some special features.
+
+The tongue has a hollow part that slides over a long, thin spike called the hyoid horn (entoglossal process). This spike is connected to the middle of the "U" shaped bone. The tongue has three main parts: a sticky tip, muscles that retract it, and muscles that shoot it out (intralingual sheaths). When the chameleon is ready to catch something, it moves its tongue to the front of its mouth and lifts the hyoid bone up. Then, it aims and shoots out its tongue.
+
+The hyoglossus process works like rings that squeeze around the hyoid horn, pushing the tongue out really fast. The tongue is coated in saliva that helps it stick to prey. After shooting, the tongue is on its own. The chameleon can adjust how far it shoots by using tendons attached to the tip of the hyoid horn.
+
+The tip of the tongue looks like a club and is covered in sticky saliva that helps catch prey. High-speed pictures show a flap of skin trailing behind the club, which helps wrap around prey. However, wet prey like worms or slugs can be hard to catch because the saliva won't stick to them.
+
+When the chameleon pulls its tongue back in, it uses special muscles that fold around the hyoid horn. These muscles stretch out to the tip of the horn when the tongue extends, and then contract to bring the tongue back in. The tongue can pull in about half of the chameleon's body weight. While shooting the tongue out quickly is important for catching prey, pulling it back in doesn't need to be as fast. Most of the time, the tongue collapses and recoils back in like a noodle being sucked up.
 
 <img src="/img/tongue/wainwright.png" alt="The Mechanism Of Tongue Projection In Chameleons" width=75% />
 <figcaption><em>The Mechanism Of Tongue Projection In Chameleons: I. Electromyographic Tests Of Functional Hypotheses</em>, page 5, @wainwrightMechanismTongueProjection1992</figcaption>
@@ -89,9 +108,9 @@ Unlike most animals, a chameleon's tongue is an elongated muscular structure tha
 {{{< /faq >}}}
 
 {{{< faq title="How Fast can a Chameleon's Tongue Travel?" >}}}
-When a chameleon spots its prey, it initiates a lightning-fast sequence of movements. First, it focuses its binocular vision on the target with remarkable accuracy while it pre-loads its tongue. Then, the chameleon's tongue is rapidly propelled forward, reaching speeds of over 12 miles per hour in 1/100th of a second.
+When a chameleon spots its prey, it sets off a lightning-fast sequence of movements. First, it locks its binocular vision onto the target with remarkable accuracy while its tongue muscles contract. Then, the chameleon's tongue is swiftly propelled forward, reaching speeds of over 12 miles per hour in just 1/100th of a second.
 
-This lightning-fast motion finishes with a slower retraction phase when the prey is pulled back into the chameleon's mouth where it is crushed with astonishing force. Once captured, the chameleon's tongue pouch ensures that the insect remains firmly attached, preventing any chance of escape. This entire process unfolds in a fraction of a second, showcasing the agility and precision of chameleon prey capture mechanisms.
+This rapid motion concludes with a slower retraction phase as the prey is pulled back into the chameleon's mouth, where it's crushed with astonishing force. Once captured, the chameleon's tongue pouch ensures the insect remains firmly attached. This entire process unfolds in a fraction of a second, highlighting the agility and precision of chameleon prey capture mechanisms.
 
 ```{r}
 #| echo: false
@@ -109,19 +128,44 @@ ballistic2016 %>%
   gt() |> 
   gt::tab_header(
     title = "20 Chameleon Species' Tongue Projection Speeds",
-    subtitle = md("Data from *Off like a shot: scaling of ballistic tongue projection reveals extremely high performance in small chameleons*")
+    subtitle = md("Data from *Off like a shot: scaling of ballistic tongue projection reveals extremely high performance in small chameleons*, Anderson 2016")
   ) |> as_raw_html()
 ```  
 
 {{{< /faq >}}}
 
+{{{< faq title="How does Temperature Affect a Chameleon's Tongue Speed?" >}}}
+<img src="/img/tongue/anderson2010.jpg" alt="Veiled Chameleon Tongue speed and power at varying temperatures" width=75% />
+<figcaption>Veiled Chameleon Tongue speed and power at varying temperatures [@andersonBallisticTongueProjection2010]</figcaption>
+<hr>
+Lower temperatures affect chameleon tongue retraction speeds more than they affect projection speeds. This figure is from a study of Veiled Chameleons (Chamaeleo calyptratus) capturing prey under various temperatures and it shows that they were able to maintain high performance in low temperatures. As we discussed earlier, this is an incredible advantage over other reptiles which need to chase down their prey after heating up.
 
-
-{{{< faq title="How far can a Chameleon's Tongue Stretch?" >}}}
-A chameleon's tongue can project out one to two body lengths, snout to vent, with some smaller species, such as the Rosette-nosed Chameleon (Rhampholeon spinosus), being able to project their tongues a full 2.5 body lengths. Calumma p. parsonii has a long tongue, but relative to its large size, its tongue is proportionately smaller than species of chameleons like Brookesia superciliaris or Trioceros hoehnelii. 
 {{{< /faq >}}}
 
 ---
+
+{{{< faq title="What are some common chameleon tongue health problems?" >}}}
+The two most common health issues which affect tongue health in chameleons are **Vitamin A deficiency** and **Metabolic Bone Disease (MBD)**. MBD can weaken or deform bones required to project their tongue and Vitamin A deficiency causes aiming problems via poor eye health.
+
+**Dehydration**, **illness**, such as respiratory infection, and **eye injury** can negatively affect your chameleon's ability to capture prey with their tongue. These are usually temporary and after you fix the issue, their tongue function should return to normal.
+
+Another common problem we have seen is when a chameleon injures its tongue while attempting to capture **stationary prey**, such as hornworms. This can lead to a tug-of-war scenario, potentially causing muscle strain or tendon tears in the tongue. 
+
+Lastly, **sharp DIY feeder cups** can also result in tongue decapitation. Please avoid leaving freshly cut plastic edges near where their tongue will fly.
+{{{< /faq >}}}
+
+---
+
+## Conclusion
+
+In summary, the length of a chameleon's tongue is a remarkable example of nature's ingenuity. From its lightning-fast projection to its exceptional retraction and capture abilities, the chameleon's tongue stands as a testament to evolutionary adaptation. By delving into the mysteries of this extraordinary organ, we develop a deeper admiration for the intricate mechanisms of these incredible creatures. So, the next time you observe your chameleon, pause to marvel at the hidden wonder within its mouth - a tongue that surpasses any other reptile, bird, or mammal in power and length, relative to its body size.
+
+<hr>
+{{{< rawhtml >}}}
+<p><a href="{{{< ref "/panther-chameleons-for-sale" >}}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
+<a class="btn btn-template-main" href="{{{< ref "/faq" >}}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
+{{{< /rawhtml >}}}
+<hr>
 
 @andersonShotScalingBallistic2016 collected data on 20 different species of chameleons which we have presented a few different ways above. Here is the raw data exactly as it was presented in Prof. Anderson's 2016 paper: 
 
@@ -133,17 +177,6 @@ gt(ballistic2016) |>
     subtitle = md("Data from *Off like a shot: scaling of ballistic tongue projection reveals extremely high performance in small chameleons*")
   ) |> as_raw_html()
 ```
-
-## Conclusion
-
-In conclusion, the length of a chameleon's tongue serves as a testament to the ingenuity of nature's design. From its lightning-fast projection to its retraction and capture capabilities, the chameleon's tongue is a marvel of evolutionary adaptation. By unraveling the mysteries of this extraordinary organ, we gain a deeper appreciation for the intricate workings of these amazing animals. So, the next time you look at your chameleon, take a moment to marvel at the hidden wonder within its mouth - a tongue that is more powerful and longer relative to its body length than any other reptile, bird or mammal.
-
-<hr>
-{{{< rawhtml >}}}
-<p><a href="{{{< ref "/panther-chameleons-for-sale" >}}}"> Panther Chameleons for Sale <i class="fas fa-dragon"></i> </a></p>
-<a class="btn btn-template-main" href="{{{< ref "/faq" >}}}"> Frequently Asked Questions <i class="fas fa-backward"></i> Back </a>
-{{{< /rawhtml >}}}
-<hr>
 
 # References
 
