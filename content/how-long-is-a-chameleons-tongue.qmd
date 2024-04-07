@@ -1,8 +1,8 @@
 +++
-title = "How Long is a Chameleon's Tongue? And How Does it Work?"
-header_title = "How Long is a Chameleon's Tongue? And How Does it Work?"
+title = "How Long is a Chameleon's Tongue?"
+header_title = "How Long is a Chameleon's Tongue?"
 date = "2024-04-03"
-description = "In this article, we discuss the astonishing anatomy of a chameleon's tongue, how long various species tongues are, how fast they can shoot, and the evolutionary adaptations that make it a formidable tool for hunting and survival."
+description = "In this article, we discuss the astonishing anatomy of a chameleon's tongue, how long various chameleon species tongues are, how fast they can shoot, and the evolutionary adaptations that make it a formidable tool for hunting and survival."
 home = true
 faq = true
 banner = "img/tongue/chameleon_tongue_shot"
