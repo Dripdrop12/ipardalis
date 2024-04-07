@@ -35,7 +35,7 @@ Imagine having a tongue that extends more than twice the length of your body and
   {{{< figure src="/img/tongue/chameleon_tongue_crunch.jpg" caption="Panther Chameleon crunching on a Bumble Bee" >}}}
 {{{< /gallery >}}}
 
-{{{< faq title="What is the Anatomy of a Chameleon's Tongue?" >}}}
+{{{< faq title="What is the basic Anatomy of a Chameleon?" >}}}
 
 Before delving into the intricacies of a chameleon's tongue, it's essential to grasp the basics of their anatomy and hunting strategy. Chameleons possess a distinctive set of characteristics that underpin their remarkable hunting prowess. With independently rotating eyes, prehensile tails, and specialized feet, chameleons are finely tuned predators. Their eyes allow them to view two items at once. Their tails are like a 5th arm. And their feet and claws can grasp branches very tightly. They typically employ a strategy known as "sit and wait," patiently awaiting prey to come within reach before swiftly snatching it with their tongue, all without leaving their perch.
 
