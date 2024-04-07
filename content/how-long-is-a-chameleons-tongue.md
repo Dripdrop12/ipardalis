@@ -45,7 +45,7 @@ Before delving into the intricacies of a chameleon's tongue, it's essential to g
 {{< faq title="How Long is a Chameleon's Tongue?" >}}
 On average, a chameleon's tongue measures approximately one to two times the length of its body, but in smaller chameleon species, this can reach up to 2.5 times their body length (measured from snout to vent). Remarkably, measurements of tongue acceleration and power in small chameleon species have set records, surpassing those of all other mammals, birds, or reptiles, including larger chameleon species (Anderson 2016). This impressive elongation is facilitated by specialized muscles and connective tissues within the chameleon's mouth, enabling rapid extension and retraction.
 
-<div id="jcudawckuw" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gchyfjgosh" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -175,11 +175,11 @@ Moreover, a chameleon's tongue is remarkably versatile, capable of targeting a w
 
 Chameleon tongues are extremely fast and long, usually even longer than the chameleon's body. They can shoot out really quickly, in just a fraction of a second, to catch flies, bees or other pollinators. Here's how it works in layman's terms:
 
-The tongue is connected to the back of the mouth by a "U" shaped bone. Chameleons use the same muscles as humans do to move their tongues and swallow, but their tongues have some special features.
+The tongue is connected to the back of the mouth by a "U" shaped bone (ceratobranchial or hyoid bone). Chameleons use the same muscles as humans do to move their tongues and swallow, but their tongues have some special features.
 
 The tongue has a hollow part that slides over a long, thin spike called the hyoid horn (entoglossal process). This spike is connected to the middle of the "U" shaped bone. The tongue has three main parts: a sticky tip, muscles that retract it, and muscles that shoot it out (intralingual sheaths). When the chameleon is ready to catch something, it moves its tongue to the front of its mouth and lifts the hyoid bone up. Then, it aims and shoots out its tongue.
 
-The hyoglossus process works like rings that squeeze around the hyoid horn, pushing the tongue out really fast. The tongue is coated in saliva that helps it stick to prey. After shooting, the tongue is on its own. The chameleon can adjust how far it shoots by using tendons attached to the tip of the hyoid horn.
+The hyoglossus complex works like rings that squeeze around the hyoid horn, pushing the tongue out really fast. The tongue is coated in saliva that helps it stick to prey. After shooting, the tongue is on its own. The chameleon can adjust how far it shoots by using tendons attached to the tip of the hyoid horn.
 
 The tip of the tongue looks like a club and is covered in sticky saliva that helps catch prey. High-speed pictures show a flap of skin trailing behind the club, which helps wrap around prey. However, wet prey like worms or slugs can be hard to catch because the saliva won't stick to them.
 
@@ -191,6 +191,8 @@ When the chameleon pulls its tongue back in, it uses special muscles that fold a
 </figcaption>
 <hr>
 
+If you would like a good read from 20 years ago on this topic, check out Ken Kalisch's article from 2003 (Kalisch 2003).
+
 {{< /faq >}}
 
 {{< faq title="How Fast can a Chameleon's Tongue Travel?" >}}
@@ -198,7 +200,7 @@ When a chameleon spots its prey, it sets off a lightning-fast sequence of moveme
 
 This rapid motion concludes with a slower retraction phase as the prey is pulled back into the chameleon's mouth, where it's crushed with astonishing force. Once captured, the chameleon's tongue pouch ensures the insect remains firmly attached. This entire process unfolds in a fraction of a second, highlighting the agility and precision of chameleon prey capture mechanisms.
 
-<div id="mmwlxxoxbq" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mqhzqnetha" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -344,7 +346,7 @@ In summary, the length of a chameleon's tongue is a remarkable example of nature
 
 Anderson (2016) collected data on 20 different species of chameleons which we have presented a few different ways above. Here is the raw data exactly as it was presented in Prof. Anderson's 2016 paper:
 
-<div id="youuczkfux" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ddjimcburc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -562,6 +564,8 @@ Anderson, Christopher V. 2016. "Off Like a Shot: Scaling of Ballistic Tongue Pro
 Anderson, Christopher V., and Stephen M. Deban. 2010. "Ballistic Tongue Projection in Chameleons Maintains High Performance at Low Temperature." *Proceedings of the National Academy of Sciences* 107 (12): 5495--99. <https://doi.org/10.1073/pnas.0910778107>.
 
 Debray, Alexis. 2011. "Manipulators Inspired by the Tongue of the Chameleon." *Bioinspiration & Biomimetics* 6 (2): 026002. <https://doi.org/10.1088/1748-3182/6/2/026002>.
+
+Kalisch, Ken. 2003. "The Oddities of the Chameleon - The Tongue." *Chameleons! Online E-Zine*. http://www.chameleonnews.com/03JulKalischTongue.html.
 
 Shunyuan Xiao, Sophie Allard, Marc Srour. 2023. "A Biomechanical Review of Animal Tongue Functions." *Bioengineering Hyperbook*.
 
