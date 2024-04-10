@@ -1,7 +1,7 @@
 +++
 title = "Chameleon Safe Plants"
 header_title = "iPardalis | Chameleon Safe Plants"
-description = "Here are some tips and Q&A on chameleon safe plants for your chameleon cage."
+description = "Here are some tips and answers to frequently asked questions about chameleon safe plants for your chameleon cage."
 faq = true
 home = true
 banner = "img/banners/plant"
