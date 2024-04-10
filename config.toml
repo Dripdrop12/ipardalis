@@ -285,6 +285,7 @@ paginate = 10
     logo_small = "img/logo.png"
     favicon_google = "img/android-chrome-192x192.png"
     address = """<p><strong>Jonathan Mark Hill</strong>
+        <br>Panther Chameleon Breeder
         <br>iPardalis, LLC
         <br>Poolesville, MD 20837
         <br>585-967-5007
@@ -341,9 +342,9 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-hand-o-down"
-    title = "We have new clutches"
+    title = "We have Chameleons for sale"
     link_url = "/panther-chameleons-for-sale"
-    link_text = "Available Panther Chameleons"
+    link_text = "Buy a Panther Chameleon"
 
 [params.clients]
     enable = false
@@ -351,7 +352,7 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "We breed and raise Ambilobe Panther Chameleons (Fucifer pardalis), among other exotic reptiles. Our blog is a way to connect with the community and share our experience."
+    subtitle = "We breed Ambilobe Panther Chameleons (Fucifer pardalis), among other exotic reptiles. Our blog is a way to connect with the community and share our experience. There isn't a single chameleon breeder in the United States who has shared more information about their methods, philosophy and research."
 
 [imaging]
     quality = 25 
