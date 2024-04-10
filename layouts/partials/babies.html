@@ -41,11 +41,7 @@
                 <source srcset="{{.context.image}}.jpg" type="image/jpeg">
                 <img itemprop="contentUrl" src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} (${{ .context.price }} plus shipping)" style="width:100%">
                 <figcaption itemprop="caption">
-                  {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong> | {{ if .context.phenotype }}
-                {{.context.phenotype}}
-              {{ else }}
-                YBBB Ambilobe
-              {{ end }}
+                  {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong>
                 </figcaption>
               </picture>
             </a>

@@ -3,7 +3,7 @@
     <div class="row">
       {{ if isset .Site.Params "about_us" }}
       <div class="col-4 col-md-4 col-sm-6">
-          <h4>{{ i18n "aboutUs" }}</h4>
+          <h4><a style="color:#eeeeee;" href="/aboutus/">{{ i18n "aboutUs" }}</a></h4>
           {{ .Site.Params.about_us | safeHTML }}
           <hr class="hidden-md hidden-lg">
       </div>

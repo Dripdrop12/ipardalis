@@ -2,7 +2,6 @@
 title = "Panther Chameleons as Pets"
 header_title = "Chameleons as Pets"
 description = "Provide your Panther Chameleon with agency and they will build their confidence around human caretakers. Your positive interactions will build trust and result in a very enjoyable experience for you."
-keywords = ["Are panther chameleons aggressive", "Do panther chameleons like to be handled", "Do panther chameleons make good pets", "What is the friendliest breed of chameleon"]
 faq = true
 home = true
 +++
