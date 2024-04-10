@@ -7,7 +7,7 @@ home = true
 banner = "img/banners/plant"
 +++
 
-There is a lot of misinformation about chameleon safe plants on the internet. Most plants are safe for chameleons and there are only a few exceptions that we are aware of. However, a few blogs list many different "unsafe" plants simply because they are toxic to humans, cats or dogs. 
+There is a lot of misinformation about chameleon safe plants on the internet. Most plants are safe for chameleons and there are only a few exceptions that we are aware of. However, some blogs list many different "unsafe" plants simply because they are toxic to humans, cats or dogs. That's often incomplete information and does not square with our decades of experience keeping chameleons with live plants.
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/banners/plant.jpg" alt="iPardalis - Chameleon safe plants" width=75% />
