@@ -33,6 +33,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [Are Panther Chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
 - [How Long is a Chameleon's Tongue?]({{< ref "/how-long-is-a-chameleons-tongue.md" >}})
 - [Female Panther Chameleons]({{< ref "/female-panther-chameleons.md" >}})
+- [Chameleon Safe Plants]({{< ref "/chameleon-safe-plants.md" >}})
 
 # Panther Chameleon care resources
 
