@@ -1,7 +1,7 @@
 +++ 
 title = "The Ethics of Chameleon Egg Sales"
 header_title = "Chameleon Egg scams and how to avoid them | Chameleon eggs for sale | Panther chameleon eggs for sale"
-description = "Panther Chameleon Egg sales are one of the more common scams in the chameleon hobby. Read this article to understand why it is such a clever trick."
+description = "Panther Chameleon Egg sales are one of the more common scams in the chameleon hobby. Read this article to understand why selling Panther Chameleon eggs is such a clever trick."
 keywords = ["scam", "reptile industry", "ethics", "chameleon eggs for sale", "hatch your own chameleon", "chameleons101", "We invented hatching your own chameleon at home", "Kristopher's Khameleons", "Dave's Reptiles", "hatching chameleon eggs"]
 date = "2023-06-07" 
 tags = [""]
@@ -198,6 +198,6 @@ We shared some baseline data on hatch rates and survival to 3 months old; howeve
 
 ## Conclusion
 
-If you have seen me chewing out an egg seller on social media, this is why. Sorry, not sorry guys. Scammers be damned!
+If you have seen me chewing out an egg seller on social media, this is why. Sorry, not sorry guys. Scammers be damned! Panther chameleon eggs for sale is an unethical scam, not a business strategy, and selling chameleon eggs is a huge red flag. Buyer beware. 
 
 
