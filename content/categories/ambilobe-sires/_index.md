@@ -1,8 +1,7 @@
 ---
 title: "Ambilobe Sires - Active"
-header_title: "iPardalis male panther chameleon breeders"
-description : "All of our active male panther chameleon breeders here at iPardalis"
-keywords: ["YBBB Ambilobe Panther Chameleons", "RBBB Ambilobe Panther Chameleons"]
+header_title: "iPardalis | Ambilobe Sires - Active"
+description : "All of our active panther chameleon sires here at iPardalis"
 banner: "img/ambilobe/taiyang/taiyang5"
 draft: false
 ---
