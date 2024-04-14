@@ -38,7 +38,7 @@ No - they are extremely vulnerable and small. Any interaction with a hatchling P
 {{< /faq >}}
 
 {{< faq title="Is There a Benefit to Having Control of Your Baby Panther Chameleon's Care from Day 1?" >}}
-Unless you are an experienced breeder, no. You are more likely to make a mistake and kill your hatchling. The average buyer is not very well equipped to care for a hatchling Panther Chameleon. Reputable breeders have spent years of trial and error so they can skip the errors and improve. You don't get that luxury as a novice Panther Chameleon keeper - your errors can result in the permanent harm or death of your fragile pet. It is much better to work with an experienced breeder and work up to the care of a hatchling after successfully raising a hardy juvenile. 
+Unless you are an experienced breeder, no. You are more likely to make a mistake and kill or maim your pet. The average buyer is not very well equipped to care for a hatchling Panther Chameleon. Reputable breeders have spent years of trial and error so they can skip the errors and improve. You don't get that luxury as a novice Panther Chameleon keeper - your errors can result in the permanent harm or death of your fragile pet. It is much better to work with an experienced breeder and work up to the care of a hatchling after successfully raising a hardy juvenile. 
 {{< /faq >}}
 
 {{< faq title="Is Buying a Panther Chameleon Egg the only way to Spread out the Cost of Buying Supplies?" >}}
