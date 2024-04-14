@@ -4,12 +4,21 @@ header_title = "iPardalis | Panther Chameleon eggs for sale"
 description = "Buying Panther Chameleon eggs is a bad idea. Here is our frequently asked questions page about panther chameleon eggs for sale."
 home = true
 faq = true
+banner = "img/ambilobe/eggs1"
 +++
 
 Buying or selling Panther Chameleon eggs is not ethical. We wrote a [blog article on the topic]({{< ref "/blog/egg_sales_101.md" >}}) back in June, 2023. This is our FAQ page for Panther Chameleon eggs for sale.
 
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/ambilobe/eggs1.jpg" alt="iPardalis - Panther Chameleon eggs" width=50% />
+<figcaption itemprop="caption">iPardalis | Panther Chameleon eggs</figcaption>
+</figure>
+<hr>
+
 {{< faq title="Can You Buy Panther Chameleon Eggs?" >}}
-Yes - but selling Panther Chameleon eggs is a common scam. You should buy a healthy juvenile so you can assess the lineage and quality of your Panther Chameleon prior to your purchase. There is a reason the egg flipper wants you to buy it before it hatches, or doesn't hatch. Seller "guarantees" are just a hook to force/encourage you to buy more things from them months later. And they need to remain in business to honor the agreement - the average lifespan of a chameleon breeder is very short - not long enough for the chickens to come home to roost here.
+Yes - but selling Panther Chameleon eggs is a common scam. You should buy a healthy juvenile so you can assess the lineage and quality of your Panther Chameleon prior to your purchase. There is a reason the egg flipper wants you to buy it before it hatches (one out of four times it will not hatch). Seller "guarantees" are just a hook to force you to buy something on store credit. Conveniently, many egg sellers just increase the price of their juveniles to make their eggs more desirable while also making better margins when you eventually purchase something "on store credit." 
+
+Also, those "guarantees" can't be honored if the business closes down - the average lifespan of a chameleon breeder is very short - not long enough for the chickens to come home to roost here.
 {{< /faq >}}
 
 {{< faq title="Should I Buy a Panther Chameleon Egg?" >}}
@@ -67,6 +76,9 @@ A receptive female panther chameleon will lay her eggs within 30-45 days of mati
 {{< faq title="Can Chameleons Lay Eggs without Mating?" >}}
 Yes - most species of chameleons will lay unfertilized eggs in captivity; however, some are more likely to do so than others. The issue is exacerbated when a female chameleon is over fed or provided with high basking temperatures. This is why you need to provide every sexually mature female chameleon with adequate laying options at all times.
 {{< /faq >}}
+
+---
+Please help us educate people about why there shouldn't be Panther Chameleon eggs for sale.
 
 <hr>
 {{< rawhtml >}}
