@@ -29,6 +29,10 @@ No - please support ethical breeders in the Panther Chameleon industry. Many egg
 No - they flip eggs that they purchase for $10-$15 each under false lineage. You won't know that you have been scammed until 18 months or more after your purchase, if you are lucky enough to get a male, and you won't know for another 3 years or more if you get a female. 
 {{< /faq >}}
 
+{{< faq title="Can You Sex a Panther Chameleon Egg?" >}}
+No - Panther Chameleons have genetically determined sex at a roughly 50/50 ratio. Anyone who says they can sex the egg before it hatches probably already has your watch in their pocket.
+{{< /faq >}}
+
 {{< faq title="Can I Bond with my Baby Panther Chameleon?" >}}
 No - they are extremely vulnerable and small. Any interaction with a hatchling Panther Chameleon is likely to cause severe stress and potentially result in a hunger strike. Please do not attempt to bond with a hatchling Panther Chameleon. You are very likely to kill it. You are not "bonding" with it - you are abusing it. 
 {{< /faq >}}
@@ -42,7 +46,7 @@ No - every reputable breeder has offered some form of pre-payment plan for decad
 {{< /faq >}}
 
 {{< faq title="How Expensive are Feeders for a Baby Panther Chameleon?" >}}
-Feeder insects for baby Panther Chameleons are not cheap because the feeders often don't last very long (both fruit flies and bean beetles go through fast boom/bust cycles), and it is challenging to keep the proper sizes on hand as your baby Panther Chameleon grows. It is easy to waste multiple cultures, maybe even dozens of cultures, while you wait for your Panther Chameleon egg to hatch. When they do hatch, they can't eat an entire fruit fly culture by themselves and you are likely going to waste tens of thousands of flies on a single Panther Chameleon Hatchling. You also won't be buying those cultures in bulk. When you move up to crickets, the smallest size cricket will out grow your baby Panther Chameleon in a matter of days, so if you buy 500 1/16" crickets, you may be able to feed him 20-30 before they get too big for him/her to eat the rest. That's more than 95% waste and you will be paying retail price for those. It is very easy to spend upwards of $200-$250 on feeders alone between 0-3 months of age on a single Panther Chameleon hatchling because you will be wasting feeders compared to a breeder who can do it at around $150 across an entire clutch.
+Feeder insects for baby Panther Chameleons are not cheap because the feeders often don't last very long (both fruit flies and bean beetles go through fast boom/bust cycles), and it is challenging to keep the proper sizes on hand as your baby Panther Chameleon grows. It is easy to waste multiple cultures, maybe even dozens of cultures, while you wait for your Panther Chameleon egg to hatch. When they do hatch, they can't eat an entire fruit fly culture by themselves and you are likely going to waste tens of thousands of flies on a single Panther Chameleon Hatchling. You also won't be buying those cultures in bulk. When you move up to crickets, the smallest size cricket will out grow your baby Panther Chameleon in a matter of days, so if you buy 500 1/16" crickets, you may be able to feed him/her 20-30 before they get too big for him/her to eat the rest. That's more than 95% waste and you will be paying retail price for those. It is very easy to spend upwards of $200-$250 on feeders alone between 0-3 months of age on a single Panther Chameleon hatchling because you will be wasting feeders compared to a breeder who can do it at around $150 across an entire clutch.
 {{< /faq >}}
 
 {{< faq title="How Long do Panther Chameleon Eggs Take to Hatch?" >}}
