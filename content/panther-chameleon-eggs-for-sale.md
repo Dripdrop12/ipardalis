@@ -70,11 +70,11 @@ A chameleon can lay anywhere from 10 to 60 eggs. Larger species such as Veiled C
 {{< /faq >}}
 
 {{< faq title="How Often do Panther Chameleons Lay Eggs?" >}}
-A receptive female panther chameleon will lay her eggs within 30-45 days of mating, and then lay again within 60 days of that first clutch. We call that her retained clutch. She may lay a second or third retained clutch on a similar cadence if she is healthy. When she is done with her retained clutches, she will enter another receptive cycle. 
+A receptive female panther chameleon will lay her eggs within 30-45 days of mating, and then lay again within 60 days of that first clutch. We call that her retained clutch. She may lay a second or third retained clutch on a similar cadence if she is healthy. When she is done with her retained clutches, she will enter another receptive cycle. Egg sellers will probably just breed her again without letting her rest adequately.
 {{< /faq >}}
 
 {{< faq title="Can Chameleons Lay Eggs without Mating?" >}}
-Yes - most species of chameleons will lay unfertilized eggs in captivity; however, some are more likely to do so than others. The issue is exacerbated when a female chameleon is over fed or provided with high basking temperatures. This is why you need to provide every sexually mature female chameleon with adequate laying options at all times.
+Yes - most species of chameleons will lay unfertilized eggs in captivity; however, some are more likely to do so than others. The issue is exacerbated when a female chameleon is over fed or provided with high basking temperatures. This is why you need to provide every sexually mature female chameleon with adequate laying options at all times. It is also why you should not assume a Panther Chameleon egg is fertilized.
 {{< /faq >}}
 
 ---
