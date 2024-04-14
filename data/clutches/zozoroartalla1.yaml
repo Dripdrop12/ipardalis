@@ -23,5 +23,6 @@ babies:
   image: /img/babies/20230204/F5
   price: 299
   desc: Slight lip issue - fully healed
+  sold: true
 
 
