@@ -42,7 +42,7 @@ Unless you are an experienced breeder, no. You are more likely to make a mistake
 {{< /faq >}}
 
 {{< faq title="Is Buying a Panther Chameleon Egg the only way to Spread out the Cost of Buying Supplies?" >}}
-No - every reputable breeder has offered some form of pre-payment plan for decades. Suggesting this is an advantage for buying a Panther Chameleon egg is dishonest at best. We run a [Reservation Program]({{< ref "/baby-panther-chameleons-for-sale" >}}) for every clutch we have incubating. And when you get a juvenile from our program, we review your enclosure with you to ensure that it is dialed in prior to shipment. You don't have a 12 month window when you have to be ready every day for a fragile hatchling to emerge... Ready or not!
+No - every reputable breeder has offered some form of pre-payment plan for decades. Suggesting this is an advantage for buying a Panther Chameleon egg is dishonest. We run a [Reservation Program]({{< ref "/baby-panther-chameleons-for-sale" >}}) for every clutch we have incubating. And when you get a juvenile from our program, we review your enclosure with you to ensure that it is dialed in prior to shipment. You don't have a 12 month window when you have to be ready every day for a fragile hatchling to emerge... Ready or not!
 {{< /faq >}}
 
 {{< faq title="How Expensive are Feeders for a Baby Panther Chameleon?" >}}
@@ -56,15 +56,15 @@ Panther Chameleon eggs hatch 6-7 months after being laid when incubated at 74 de
 {{< /faq >}}
 
 {{< faq title="How do I Know If My Panther Chameleon Egg is Fertile?" >}}
-A fertile Panther Chameleon egg should hold a nice round shape with a white shell. They will grow significantly in size over the incubation period, sometimes more than doubling in weight. A fertilized Panther Chameleon egg will eventually have hairlike cracks which begin to sweat about 1 week before they hatch. An unfertilized Panther Chameleon egg can grow in size over the incubation period, but instead of sweating and hatching, they just shrivel up and mold over. This is another reason why selling Panther Chameleons is such an effective scam - infertile eggs will often go to term - and it is very common for people to wait months to find out. 
+A fertile Panther Chameleon egg should hold a nice round shape with a white shell. They will grow significantly in size over the incubation period, sometimes more than doubling in weight. A fertilized Panther Chameleon egg will eventually have hairlike cracks which begin to sweat about 1 week before they hatch. An unfertilized Panther Chameleon egg can grow in size over the incubation period, but instead of sweating and hatching, they just shrivel up and mold over. This is another reason why selling Panther Chameleon eggs is such an effective scam - infertile eggs will often go to term - and it is very common for people to wait many months to find out. The worst case scenario is you have to wait up to 18 months for the infertile egg to start molding to be covered under the "guarantee," just so you can wait another 18 months for it to mold a second time (roughly one out of eight egg buyers could have this experience given their hatch rates).
 {{< /faq >}}
 
 {{< faq title="How to Take Care of Panther Chameleon Eggs?" >}}
-We place them in a small Tupperware container using Josh's Frogs Incubation Media, and store it in a cabinet which stays around 72-74 degrees Fahrenheit throughout the year. Our Tupperware have 1/16" holes punched in a ring around the top for ventilation, and we check the weight of the containers every 2 months. If necessary, we add water to keep them near 100% humidity at all times.  
+We place them in a small Tupperware container using Josh's Frogs Incubation Media, and store it in a cabinet which stays around 72-74 degrees Fahrenheit throughout the year. Our Tupperware have 1/16" holes punched in a ring around the top for ventilation, and we check the weight of the containers every 2 months. If necessary, we add water to keep them near 100% humidity at all times. Many egg buyers forget to add water or add too much - killing the egg and voiding their "guarantee."
 {{< /faq >}}
 
 {{< faq title="Do Chameleons Lay Eggs?" >}}
-Yes - chameleons are oviparous. Many species of chameleons dig holes and bury their eggs in sandy soil like many species of turtles. This is one characteristic which makes them very interesting pets. 
+Yes - chameleons are oviparous. Many species of chameleons dig holes and bury their eggs in sandy soil like many species of turtles. This is one characteristic which makes them very interesting pets. The long incubation period of their eggs lends itself to egg scams in the captive market for chameleons.
 {{< /faq >}}
 
 {{< faq title="Why Do Many Chameleons Die After Laying Eggs?" >}}
