@@ -16,9 +16,9 @@ Buying or selling Panther Chameleon eggs is not a best practice. We wrote a [blo
 <hr>
 
 {{< faq title="Can You Buy Panther Chameleon Eggs?" >}}
-Yes - but selling Panther Chameleon eggs is a common scam. You should buy a healthy juvenile so you can assess the lineage and quality of your Panther Chameleon prior to your purchase. There is a reason the egg flipper wants you to buy it before it hatches (one out of four times it will not hatch). Their "guarantees" are just a hook to force you to buy something on store credit. Conveniently, many egg sellers increase the price of their juveniles to make their eggs more desirable while also making better margins when you eventually purchase something "on store credit." 
+Yes - but selling Panther Chameleon eggs is a common scam. You should buy a healthy juvenile so you can assess the lineage and quality of your Panther Chameleon prior to your purchase. There is a reason the egg flipper wants you to buy it before it hatches (one out of four times it will not hatch). Their "guarantees" are just a hook to force you to buy something on store credit, and many egg sellers increase the price of their juveniles to make their eggs more desirable. When you eventually purchase something "on store credit," that over-priced juvenile is part of the plan. 
 
-Those "guarantees" can't be honored if the business closes down - the average lifespan of a chameleon breeder is very short - not long enough for the chickens to come home to roost here.
+Those "guarantees" also can't be honored if the business closes down - the average lifespan of a chameleon breeder is very short - not long enough for the chickens to come home to roost here.
 {{< /faq >}}
 
 {{< faq title="Should I Buy a Panther Chameleon Egg?" >}}
