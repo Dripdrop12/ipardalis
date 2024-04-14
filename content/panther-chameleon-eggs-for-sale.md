@@ -7,7 +7,7 @@ faq = true
 banner = "img/ambilobe/eggs1"
 +++
 
-Buying or selling Panther Chameleon eggs is not ethical. We wrote a [blog article on the topic]({{< ref "/blog/egg_sales_101.md" >}}) back in June, 2023. This is our FAQ page for Panther Chameleon eggs for sale.
+Buying or selling Panther Chameleon eggs is not a best practice. We wrote a [blog article on the topic]({{< ref "/blog/egg_sales_101.md" >}}) back in June, 2023. This is our FAQ page for Panther Chameleon eggs for sale.
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/ambilobe/eggs1.jpg" alt="iPardalis - Panther Chameleon eggs" width=50% />
