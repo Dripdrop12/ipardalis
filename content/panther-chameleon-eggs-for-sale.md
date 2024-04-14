@@ -22,7 +22,7 @@ Those "guarantees" also can't be honored if the business closes - the average li
 {{< /faq >}}
 
 {{< faq title="Should I Buy a Panther Chameleon Egg?" >}}
-No - please support ethical breeders who raise their Panther Chameleons individually. Many egg sellers are notorious for poor husbandry, dishonest business practices and cutting corners whenever possible. They are selling eggs because they do not invest in proper equipment to raise the babies and they often don't know how. That means they can't help you be successful with your baby chameleon when it hatches. Buying Panther Chameleon eggs promotes over-production and the commodification of Panther Chameleons. Don't take part in that.
+No - please support ethical breeders who raise their Panther Chameleons individually. Many egg sellers are notorious for poor husbandry, dishonest business practices and cutting corners whenever possible. They are selling eggs because they do not invest in proper equipment to raise the babies and they often don't know how. That means they can't help you be successful with your baby chameleon when it hatches. Buying Panther Chameleon eggs promotes over-production and the commodification of Panther Chameleons while undercutting people who have small margins raising them ethically, like iPardalis. Don't take part in that.
 {{< /faq >}}
 
 {{< faq title="Do People Sell Healthy Panther Chameleons with Strong Genetics as Eggs?" >}}
