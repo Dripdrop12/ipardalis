@@ -34,7 +34,7 @@ No - Panther Chameleons have genetically determined sex at a roughly 50/50 ratio
 {{< /faq >}}
 
 {{< faq title="Can I Bond with my Baby Panther Chameleon?" >}}
-No - they are extremely vulnerable and small. Any interaction with a hatchling Panther Chameleon is likely to cause severe stress and potentially result in a hunger strike. Please do not attempt to bond with a hatchling Panther Chameleon. You are very likely to kill it. You are not "bonding" with it - you are abusing it. 
+No - they are extremely vulnerable and small. Any interaction with a hatchling Panther Chameleon is likely to cause severe stress and potentially result in a hunger strike. Please do not attempt to bond with a hatchling Panther Chameleon. You are very likely to cause harm. You are not "bonding" with it - you are abusing it. 
 {{< /faq >}}
 
 {{< faq title="Is There a Benefit to Having Control of Your Baby Panther Chameleon's Care from Day 1?" >}}
