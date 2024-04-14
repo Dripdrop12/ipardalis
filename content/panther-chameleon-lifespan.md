@@ -7,7 +7,6 @@ faq = true
 +++
 
 {{< faq title="How Long do Panther Chameleons live?" >}} 
-
 In captivity, Male Panther Chameleons live between five and twelve years whereas females live between three and six years. In the wild, it is quite rare to see an individual live longer than two or three years due to predation, extreme weather events and harsh conditions. We are still learning what the ideal husbandry is for Panther Chameleons, so they are living longer today than they were even five year ago. 
 {{< /faq >}}
 

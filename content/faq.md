@@ -34,6 +34,7 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [How Long is a Chameleon's Tongue?]({{< ref "/how-long-is-a-chameleons-tongue.md" >}})
 - [Female Panther Chameleons]({{< ref "/female-panther-chameleons.md" >}})
 - [Chameleon Safe Plants]({{< ref "/chameleon-safe-plants.md" >}})
+- [Panther Chameleon Eggs For Sale]({{< ref "/panther-chameleon-eggs-for-sale.md" >}})
 
 # Panther Chameleon care resources
 

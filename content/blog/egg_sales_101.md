@@ -1,22 +1,19 @@
 +++ 
 title = "The Ethics of Chameleon Egg Sales"
-header_title = "Chameleon Egg scams and how to avoid them | Chameleon eggs for sale | Panther chameleon eggs for sale"
-description = "Panther Chameleon Egg sales are one of the more common scams in the chameleon hobby. Read this article to understand why selling Panther Chameleon eggs is such a clever trick."
-keywords = ["scam", "reptile industry", "ethics", "chameleon eggs for sale", "hatch your own chameleon", "chameleons101", "We invented hatching your own chameleon at home", "Kristopher's Khameleons", "Dave's Reptiles", "hatching chameleon eggs"]
+header_title = "Chameleon Egg scams | Chameleon eggs for sale"
+description = "Chameleon Eggs for sale are one of the more common scams in the chameleon hobby. Read this article to understand why selling Chameleon eggs is such a clever trick."
 date = "2023-06-07" 
 tags = [""]
 categories = ["ethics"] 
 banner = "img/babies/eggs" 
 +++
 
-We have taken a strong public stance against the sale of panther
-chameleon eggs. This post will summarize our points and provide a single
+We have taken a strong public stance against
+chameleon eggs for sale. This post will summarize our points and provide a
 source of information on our work on this topic. If you have seen us on
 Facebook or another forum fighting the good fight, this is why.
 
-Panther Chameleons are not easy reptiles to keep in captivity. They are
-an arboreal species with specific conditions which require constant
-maintenance. It can be automated to some degree and people who have
+Chameleons are not easy reptiles to keep in captivity. They are arboreal species with specific conditions which require constant maintenance. It can be automated to some degree and people who have
 experience can reach a point where it is second nature to them; however,
 the average person will struggle, even with an adult. Our hobby needs
 higher standards for species like this, not lower standards.
