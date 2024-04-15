@@ -26,7 +26,6 @@ babies:
   gender: Male
   image: /img/babies/20230916/M1_3
   price: 549
-  primary: true
   sold: true
   reserved: true
 - name: F1
@@ -38,6 +37,7 @@ babies:
   gender: Female
   image: /img/babies/20230916/F2
   price: 399
+  sold: true
 - name: F3
   gender: Female
   image: /img/babies/20230916/F3
@@ -46,6 +46,7 @@ babies:
   gender: Female
   image: /img/babies/20230916/F4
   price: 449
+  primary: true
 - name: F5
   gender: Female
   image: /img/babies/20230916/F5
