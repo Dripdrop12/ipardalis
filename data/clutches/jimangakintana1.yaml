@@ -34,11 +34,12 @@ babies:
   gender: Female
   image: /img/babies/20231009/F3
   price: 349
+  primary: true
 - name: M1
   gender: Male
   image: /img/babies/20231009/M1_4
   price: 499
-  primary: true
+  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20231009/M3_5
