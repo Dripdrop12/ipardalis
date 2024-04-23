@@ -11,7 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 13
 clutchsize: 21
 deposit: false
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -22,6 +22,7 @@ babies:
   gender: Female
   image: /img/babies/20220904/available/F4
   price: 275
+  sold: true
 - name: F5
   gender: Female
   image: /img/babies/20220904/available/F5
