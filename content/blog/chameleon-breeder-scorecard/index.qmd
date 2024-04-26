@@ -1,0 +1,92 @@
+---
+title: Chameleon Breeder Scorecard - iPardalis
+header_title: iPardalis - Chameleon Breeder Scorecard
+date: 2024-04-16
+description: This is where we keep track of our performance and various statistics about our chameleon breeding program.
+banner: img/banners/chameleon_breeder_stats
+---
+
+```{r}
+#| echo: FALSE
+require(plotly)
+require(dplyr)
+require(gt)
+require(stringr)
+require(fs)
+require(glue)
+require(readr)
+require(yaml)
+require(tidyr)
+require(lubridate)
+require(purrr)
+require(here)
+require(widgetframe)
+require(DT)
+require(plotly)
+source(here("R/get_clutch_df.R"))
+
+data <- get_raw_clutch_df(here("data/clutches/"), listed = FALSE)
+
+distinct_clutches <- data %>% distinct(sire, dam, laid, hatchstart, hatchend, hatchnum, clutchsize, maleprice, femaleprice, sire_tree, sire_doh, dam_tree, dam_doh, lineage_collage) %>%
+  arrange(laid)
+write_csv(distinct_clutches, here("static/data.csv"))
+```
+
+# Chameleon Breeding Statistics
+This is an article which dynamically pulls all our website data and shares it in figures and statistics about our chameleon breeding project. You can download it for yourself [here](https://ipardalis.com/data.csv)! We are the first, and only, Panther Chameleon (Furcifer pardalis) breeder to track nearly a decade of our statistics and make them available to the public, free of charge.
+
+> We'll be adding visualizations over the coming weeks, so feel free to reach out if you have ideas and we would be happy to hear from you :)
+
+### Totals
+**Dams**: `r distinct_clutches %>% distinct(dam) %>% nrow`
+**Sires**: `r distinct_clutches %>% distinct(sire) %>% nrow`
+
+**Clutches**: `r distinct_clutches %>% nrow`
+**Eggs Laid**: `r sum(distinct_clutches$clutchsize, na.rm=T)`
+**Babies Hatched**: `r sum(distinct_clutches$hatchnum, na.rm=T)`
+
+## Dam Chart
+
+```{r}
+#| echo: FALSE
+dam_plot <- distinct_clutches %>%
+  plot_ly(
+    x = ~laid,
+    y = ~clutchsize,
+    text = ~glue::glue("{clutchsize}: {sire} x {dam} <br>laid: {laid}"),
+    hoverinfo = "text",
+    color = ~dam
+  ) %>%
+  layout(
+    xaxis = list(title="Clutch Laid (date)"),
+    yaxis = list(title="Clutch Size")
+  )
+htmlwidgets::saveWidget(widget = dam_plot,
+                        file = here("static/plot/dam_plot.html"),
+                        selfcontained = TRUE)
+```
+
+{{{< iframe file_loc="plot/dam_plot.html" fig_width="100%" fig_height="600px" >}}}
+
+## Interactive Table
+You can search, sort and filter this table to view our breeding statistics however you'd like and click the images to view them full size! This level of transparency is unheard of. If you see any data errors or issues, feel free to bring them to our attention. We would be happy to fix them.
+
+```{r dt_distinct_clutches}
+#| echo: FALSE
+clutches_dt <- distinct_clutches %>% 
+  select(lineage_collage, sire, dam, laid, hatchstart, hatchend, clutchsize, hatchnum, sire_doh, sire_tree, dam_doh, dam_tree) %>%
+  mutate(
+    lineage_collage = glue("<a href='https://ipardalis.com{lineage_collage}' target='_blank'><img src='https://ipardalis.com{lineage_collage}' height='100px'></img></a>"),
+    sire_tree = glue("<a href='https://ipardalis.com{sire_tree}' target='_blank'><img src='https://ipardalis.com{sire_tree}' height='100px'></img></a>"),
+    dam_tree = glue("<a href='https://ipardalis.com{dam_tree}' target='_blank'><img src='https://ipardalis.com{dam_tree}' height='100px'></img></a>")
+  ) %>%
+  datatable(rownames=FALSE, escape = FALSE, filter = "top")
+
+htmlwidgets::saveWidget(widget = clutches_dt,
+                        file = here("static/dt/clutches_dt.html"),
+                        selfcontained = TRUE)
+
+```
+
+{{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="800px" >}}}
+

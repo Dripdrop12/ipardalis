@@ -1,0 +1,6 @@
+{{ $html := .Get "file_loc" }}
+{{ $width := .Get "fig_width" }}
+{{ $height := .Get "fig_height" }}
+{{ $baseURL := .Site.BaseURL }}
+
+<iframe src="{{ $baseURL }}/{{ $html }}" width="{{ $width }}" height="{{ $height }}"></iframe>

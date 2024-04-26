@@ -8,7 +8,7 @@ faq = true
 banner = "img/tongue/chameleon_tongue_shot"
 +++
 
-## Introduction
+# Introduction
 
 The main species of chameleons commonly kept in captivity include the Veiled Chameleon (Chamaeleo calyptratus), Panther Chameleon (Furcifer pardalis), Jackson's Chameleon (Trioceros jacksonii), Carpet Chameleon (Furcifer lateralis), Parson's Chameleon (Calumma parsonii parsonii), and the Oustalet's Chameleon (Furcifer oustaleti). Chameleons are renowned for their remarkable ability to change color and possess a highly specialized piece of anatomy: their tongues. While their color-changing ability often steals the spotlight, it's the length and agility of a chameleon's tongue that truly sets them apart from other animals. In this article, we delve into the astonishing anatomy of a chameleon's tongue, exploring the length, speed, and evolutionary adaptation that makes it a formidable tool for hunting and survival. By the end of this article, you'll gain a deep understanding of why a chameleon's tongue is so long and how it functions.
 
@@ -45,7 +45,7 @@ Before delving into the intricacies of a chameleon's tongue, it's essential to g
 {{< faq title="How Long is a Chameleon's Tongue?" >}}
 On average, a chameleon's tongue measures approximately one to two times the length of its body, but in smaller chameleon species, this can reach up to 2.5 times their body length (measured from snout to vent). Remarkably, measurements of tongue acceleration and power in small chameleon species have set records, surpassing those of all other mammals, birds, or reptiles, including larger chameleon species (Anderson 2016). This impressive elongation is facilitated by specialized muscles and connective tissues within the chameleon's mouth, enabling rapid extension and retraction.
 
-<div id="aobzizxfdf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="rgzldvkoyl" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -200,7 +200,7 @@ When a chameleon spots its prey, it sets off a lightning-fast sequence of moveme
 
 This rapid motion concludes with a slower retraction phase as the prey is pulled back into the chameleon's mouth, where it's crushed with astonishing force. Once captured, the chameleon's tongue pouch ensures the insect remains firmly attached. This entire process unfolds in a fraction of a second, highlighting the agility and precision of chameleon prey capture mechanisms.
 
-<div id="clcshliurh" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ggtviqafue" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
@@ -346,7 +346,7 @@ In summary, the length of a chameleon's tongue is a remarkable example of nature
 
 Anderson (2016) collected data on 20 different species of chameleons which we have presented a few different ways above. Here is the raw data exactly as it was presented in Prof. Anderson's 2016 paper:
 
-<div id="dqnagfkawy" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="sqarnrvpos" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   
   <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
