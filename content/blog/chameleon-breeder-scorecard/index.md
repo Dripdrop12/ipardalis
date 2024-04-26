@@ -8,7 +8,10 @@ banner: img/banners/chameleon_breeder_stats
 
 # Chameleon Breeding Statistics
 
-This is an article which dynamically pulls all our website data and shares it in figures and statistics about our chameleon breeding project. You can download it for yourself [here](https://ipardalis.com/data.csv)! We are the first, and only, Panther Chameleon (Furcifer pardalis) breeder to track nearly a decade of our statistics and make them available to the public, free of charge.
+This is an article which dynamically pulls all our website data and shares it in figures and statistics about our chameleon breeding project. You can download it for yourself (below)! We are the first, and only, Panther Chameleon (Furcifer pardalis) breeder to track nearly a decade of our statistics and make them available to the public, free of charge.
+<p>
+<a class="btn btn-template-main" href="https://ipardalis.com/data.csv">Download Chameleon Breeding Data <i class="fas fa-download"></i></a>
+</p>
 
 > We'll be adding visualizations over the coming weeks, so feel free to reach out if you have ideas and we would be happy to hear from you :)
 
