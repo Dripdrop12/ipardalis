@@ -8,14 +8,14 @@ banner: img/banners/chameleon_breeder_stats
 
 # Chameleon Breeding Statistics
 
-This is an article which dynamically pulls all our website data and shares it in figures and statistics about our chameleon breeding project. You can download it for yourself (below)! We are the first, and only, Panther Chameleon (Furcifer pardalis) breeder to track nearly a decade of our statistics and make them available to the public, free of charge.
+This article dynamically pulls our chameleon breeding data, updating the tables, figures and statistics every time we make a change to our website. It is a live view of how things are going for us as well as a record of the past. We are the first, and only, Panther Chameleon (Furcifer pardalis) breeder to track nearly a decade of statistics working with the species and make them available to the public, free of charge.
 <p>
 <a class="btn btn-template-main" href="https://ipardalis.com/data.csv">Download Chameleon Breeding Data <i class="fas fa-download"></i></a>
 </p>
 
 > We'll be adding visualizations over the coming weeks, so feel free to reach out if you have ideas and we would be happy to hear from you :)
 
-### Totals
+## Totals
 
 **Dams**: 49
 **Sires**: 26
@@ -26,10 +26,10 @@ This is an article which dynamically pulls all our website data and shares it in
 
 ## Dam Chart
 
-{{< iframe file_loc="plot/dam_plot.html" fig_width="100%" fig_height="600px" >}}
+{{< iframe file_loc="plot/dam_plot.html" fig_width="100%" fig_height="300px" >}}
 
 ## Interactive Table
 
 You can search, sort and filter this table to view our breeding statistics however you'd like and click the images to view them full size! This level of transparency is unheard of. If you see any data errors or issues, feel free to bring them to our attention. We would be happy to fix them.
 
-{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="800px" >}}
+{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="300px" >}}

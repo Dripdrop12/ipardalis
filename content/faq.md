@@ -1,9 +1,7 @@
 +++
-title = "FAQ"
-header_title = "iPardalis - Frequently asked questions"
-description = "Frequently asked questions about owning a panther chameleon"
-keywords = ["Panther chameleon lifespan", "purchase a panther chameleon", "how much does it cost to ship a panther chameleon", "panther chameleons as pets", "average price of a panther chameleon"]
-menu = "main"
+title = "Panther Chameleons | FAQ"
+header_title = "iPardalis | Frequently asked questions | Panther Chameleons"
+description = "Frequently asked questions about owning a Panther Chameleon (Furcifer pardalis)"
 faq = true
 home = true
 banner = "img/ambilobe/alfred/alfred9"

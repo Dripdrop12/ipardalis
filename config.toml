@@ -202,6 +202,11 @@ paginate = 10
     url  = "/blog/"
     weight = 4
 
+[[menu.main]]
+    name = "FAQ"
+    url  = "/faq/"
+    weight = 5
+  
 # Top bar social links menu
 [[menu.topbar]]
     weight = 1
