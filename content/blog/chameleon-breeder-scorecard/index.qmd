@@ -90,5 +90,5 @@ htmlwidgets::saveWidget(widget = clutches_dt,
 
 ```
 
-{{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="300px" >}}}
+{{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="600px" >}}}
 

@@ -32,4 +32,4 @@ This article dynamically pulls our chameleon breeding data, updating the tables,
 
 You can search, sort and filter this table to view our breeding statistics however you'd like and click the images to view them full size! This level of transparency is unheard of. If you see any data errors or issues, feel free to bring them to our attention. We would be happy to fix them.
 
-{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="300px" >}}
+{{< iframe file_loc="dt/clutches_dt.html" fig_width="100%" fig_height="600px" >}}
