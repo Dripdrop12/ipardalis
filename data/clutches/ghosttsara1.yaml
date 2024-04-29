@@ -15,10 +15,20 @@ reservedmale: 0
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 449
 femaleprice: 399
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20231227/M1
+  price: 799
+  primary: true
+- name: M2
+  gender: Male
+  image: /img/babies/20231227/M2
+  price: 599
+  phenotype: Rainbow Ambilobe
