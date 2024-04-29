@@ -10,7 +10,7 @@ hatchend: 2024-01-28
 shipping: 3 months after hatch
 hatchnum: 27
 clutchsize: 30
-deposit: true
+deposit: false
 reservedmale: 1
 totalmale: 5
 reservedfemale: 0
@@ -22,3 +22,4 @@ soldoutfemale: false
 maleprice: 449
 femaleprice: 399
 babies:
+
