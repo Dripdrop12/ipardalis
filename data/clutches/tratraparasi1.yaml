@@ -5,17 +5,17 @@ filial: F1-CG15
 desc: |
   Some fresh genetics from our WC Tratra combined with a great female from F1 Manjaka and Parasy!
 laid: 2023-04-20
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2024-01-30
+hatchend: 2024-02-09
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 23
 clutchsize: 23
 deposit: false
 reservedmale: 0
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -24,13 +24,10 @@ femaleprice: 325
 babies:
 - name: M1
   gender: Male
-  image: /img/babies/20220820/available/M1
-  price: 449
-- name: M3
-  gender: Male
-  image: /img/babies/20220820/available/M3
+  image: /img/babies/20240209/M1
   price: 499
-- name: F1
-  gender: Female
-  image: /img/babies/20220820/available/F1
-  price: 299
+- name: M2
+  gender: Male
+  image: /img/babies/20240209/M2
+  price: 499
+  primary: true
