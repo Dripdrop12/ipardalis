@@ -3,18 +3,20 @@
     {{ if .context.sold }}
   <div class="card sold-out" style="text-align:center;" data-toggle="tooltip" data-placement="top" data-html="true" title="<i class='fas fa-heart-broken'></i> <i class='fas fa-sad-cry'> </i> <i class='fas fa-heart-broken'></i>">
     <div class="form-group" style="padding:5px;">
-      <label>
-        {{title .sire}} x {{title .dam}} | <strong>{{ .context.name }}</strong> | <em>{{.filial}}</em>
-      </label>
-      
-      <picture>
-        <source srcset="{{.context.image}}.webp" type="image/webp">
-        <source srcset="{{.context.image}}.jpg" type="image/jpeg">
-        <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} SOLD OUT" style="width:100%">
-      </picture>
-      <figcaption>
-        {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong>
-      </figcaption>
+      <a href="{{ ref .page (printf  "panther-chameleons-for-sale/%s/%s/%s/%s.md" .sire .dam .hatchend .context.name) }}">
+        <label>
+          {{title .sire}} x {{title .dam}} | <strong>{{ .context.name }}</strong> | <em>{{.filial}}</em>
+        </label>
+        
+        <picture>
+          <source srcset="{{.context.image}}.webp" type="image/webp">
+          <source srcset="{{.context.image}}.jpg" type="image/jpeg">
+          <img src="{{.context.image}}.jpg" caption="{{ .context.name }}" alt="Panther Chameleon for sale: {{ .context.name }} - {{ title .sire }} x {{ title .dam }} SOLD OUT" style="width:100%">
+          <figcaption>
+            {{.ageMonths}} month old {{.context.gender}} | <strong>${{.context.price}}</strong>
+          </figcaption>
+        </picture>
+      </a>
       
       <br>
       <button class="btn btn-danger disabled" disabled>
