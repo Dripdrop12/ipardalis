@@ -3,7 +3,7 @@ title = "Panther Chameleons for sale | iPardalis"
 header_title = "iPardalis | Panther Chameleons for sale"
 id = "available"
 description = "Our individually-raised Panther Chameleons for sale are at least 3 months of age, healthy, vibrant, and ethically raised."
-banner = "img/ambilobe/ralph_banner"
+banner = "img/ambilobe/rbbb-ambilobe"
 +++
 
 > **Automatic volume discounts on 2+ animals**
