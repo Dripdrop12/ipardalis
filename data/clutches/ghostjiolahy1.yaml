@@ -26,12 +26,13 @@ babies:
   gender: Male
   image: /img/babies/20231005/M1_4
   price: 549
+  primary: true
 - name: M2
   gender: Male
   image: /img/babies/20231005/M2
   price: 599
   phenotype: Rainbow Ambilobe
-  primary: true
+  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20231005/M3_2
