@@ -10,7 +10,7 @@ banner = "img/ambilobe/lineage/Kromatisk/kromatisk"
 
 {{< load-photoswipe >}}
 
-## [Chromatic Chameleons](https://www.chromaticchameleons.com/)
+## Chromatic Chameleons
 
 ---
 Jay and Kim are phenomenal Panther Chameleon breeders. They got started a few years before us, and we had the benefit of being able to watch their success. We find ourselves grabbing a female or two from them every year because they have a very similar breeding philosophy as we do for yellow bodied blue bar Ambilobe Panther Chameleons. 

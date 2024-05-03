@@ -10,7 +10,7 @@ banner = "img/ambilobe/lineage/PromiseKeeper/promise_keeper1"
 {{< load-photoswipe >}}
 
 ---
-## [Kammerflage Kreations](https://chameleonsonly.com/)
+## Kammerflage Kreations
 ---
 The most successful breeder of Panther Chameleons in the United States, hands down. Ed, Liddy and Brianna are Panther Chameleon celebrities, and their 4 locales of focus (Ambilobe, Ambanja, Nosy Be and Sambava) are still the most popular in the industry after 30+ years of work. If anyone compares themselves to the Kammers, please check them. They are legends in the industry, and you can see how many of their animals have found their way into our lineage over the years. 
 

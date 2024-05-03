@@ -1,6 +1,8 @@
 project:
+  title: ipardalis.com
   type: hugo
-      
+  output-dir: public
+
 format: 
   hugo-md:
     code-fold: true
@@ -9,3 +11,4 @@ execute:
   warning: false
 
 bibliography: references.bib
+toc: true
