@@ -27,4 +27,5 @@ babies:
   image: /img/babies/20231022/M1_2
   price: 599
   primary: true
+  sold: true
 
