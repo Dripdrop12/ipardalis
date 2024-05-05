@@ -27,4 +27,5 @@ babies:
   image: /img/babies/20231030/M1_2
   price: 499
   phenotype: Rainbow Ambilobe
+  sold: true
 
