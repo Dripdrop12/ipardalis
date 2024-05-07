@@ -11,6 +11,11 @@ banner = "img/ambilobe/lineage/RickJames/rickjames"
 ## Chameleons by Design
 
 ---
+### WC
+
+{{< gallery dir="img/ambilobe/lineage/CBDWC" more=" | Ambilobe Panther Chameleon"/>}}
+
+---
 
 ### Rick James (WC)
 
