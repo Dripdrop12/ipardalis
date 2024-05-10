@@ -1,5 +1,6 @@
 +++
 title = "Arti"
+header_title = "Arti | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2020-04-06"
 tags = ["arti", "artemis", "felipe sanchez", "fantara"]
 categories = ["retired-pardalis"]

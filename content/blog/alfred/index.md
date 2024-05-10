@@ -1,5 +1,6 @@
 +++
 title = "Alfred"
+header_title = "Alfred | Rainbow | Ambilobe Panther Chameleon"
 date = "2019-10-21"
 tags = ["alfred", "jude", "alla", "JJ"]
 categories = ["retired-pardalis"]
