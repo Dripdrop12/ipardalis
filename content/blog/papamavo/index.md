@@ -1,5 +1,6 @@
 +++
 title = "Papamavo"
+header_title = "Papamavo | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2022-03-01"
 tags = ["papamavo", "papafee", "lokana", "kromatisk"]
 categories = ["ambilobe-sires"]
@@ -10,6 +11,8 @@ banner = "img/ambilobe/papamavo/papamavo6"
 {{< load-photoswipe >}}
 
 Papamavo is one of our 5th generation Ambilobe Panther Chameleon breeders from Papafee x Lokana. He has great vibrancy and a solid yellow body. His attitude is a bit more feisty than his father, but he's calming down a bit now as he reaches adulthood. We are excited to see what he does for us!
+
+Update: Papamavo has that chameleon-centric focus of his father (Papafee) and grandfather (Zanaka), so he ignores me aside from knowing I can be used as a place to command the room. However, he still HATES the camera, both phone and our nice Sony DSLR. If he sees a camera of any kind, he will charge it and try to bite it... hence why most pictures are of him charging forward haha.
 
 
 {{< no_num_gallery dir="/img/ambilobe/papamavo" more=" | Male Ambilobe Panther Chameleon"/>}}
