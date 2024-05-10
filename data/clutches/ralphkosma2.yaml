@@ -22,49 +22,6 @@ soldoutfemale: false
 maleprice: 399
 femaleprice: 299
 babies:
-- name: M2
-  gender: Male
-  image: /img/babies/20230901/M2_1
-  price: 449
-  phenotype: RBBB Ambilobe
-  primary: true
-  sold: true
-- name: M5
-  gender: Male
-  image: /img/babies/20230901/M5_2
-  price: 449
-  phenotype: Rainbow Ambilobe
-  sold: true
-- name: M6
-  gender: Male
-  image: /img/babies/20230901/M6_1
-  price: 499
-  phenotype: Rainbow Ambilobe
-  sold: true
-- name: M8
-  gender: Male
-  image: /img/babies/20230901/M8_3
-  price: 599
-  phenotype: RBBB Ambilobe
-  sold: true
-- name: M9
-  gender: Male
-  image: /img/babies/20230901/M9
-  price: 249
-  phenotype: RBBB Ambilobe
-  desc: True runt of the clutch - PET ONLY.
-  sold: true
-- name: M10
-  gender: Male
-  image: /img/babies/20230901/M10
-  price: 449
-  phenotype: RBBB Ambilobe
-  sold: true
-- name: F1
-  gender: Female
-  image: /img/babies/20230901/F1_2
-  price: 499
-  phenotype: RBBB Ambilobe
 - name: F2
   gender: Female
   image: /img/babies/20230901/F2
@@ -75,6 +32,7 @@ babies:
   image: /img/babies/20230901/F3
   price: 399
   phenotype: RBBB Ambilobe
+  primary: true
 - name: F4
   gender: Female
   image: /img/babies/20230901/F4

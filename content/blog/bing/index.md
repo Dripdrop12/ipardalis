@@ -1,6 +1,6 @@
 +++
-title = "Bing (冰)"
-header_title = "Female Furcifer minor chameleon"
+title = "Bing (冰) | Furcifer minor Chameleon"
+header_title = "Female Furcifer minor chameleon | Bing | Lesser Chameleon"
 description = "Great little Furcifer minor female we got from Frank Payne."
 date = "2020-04-14"
 tags = ["bing"]

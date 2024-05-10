@@ -1,5 +1,6 @@
 +++
 title = "Jimanga"
+header_title = "Jimanga | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2021-12-03"
 tags = ["jimanga", "manga", "imelda", "hendrix", "bleu"]
 categories = ["ambilobe-sires"]

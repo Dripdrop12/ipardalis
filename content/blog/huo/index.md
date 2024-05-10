@@ -1,5 +1,6 @@
 +++
-title = "Huo (火)"
+title = "Huo (火) | Furcifer minor"
+header_title = "Huo | Furcifer minor | Lesser Chameleon"
 date = "2020-01-01"
 tags = ["huo"]
 categories = ["minor"]

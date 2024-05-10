@@ -1,5 +1,6 @@
 +++
 title = "Jack"
+header_title = "Jack | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2019-10-20"
 tags = ["jack", "jude", "alla", "JJ"]
 categories = ["retired pardalis"]

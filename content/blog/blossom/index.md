@@ -1,6 +1,6 @@
 +++
 title = "Blossom"
-header_title = "Blossom | Ambilobe Panther Chameleon"
+header_title = "Blossom | Ambilobe Panther Chameleon | Yellow Body Blue Bar"
 description = "iPardalis 3rd gen Ambilobe Panther Chameleon | Blossom"
 date = "2019-07-09"
 tags = ["blossom", "jude", "alla", "JJ"]

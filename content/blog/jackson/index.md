@@ -1,5 +1,6 @@
 +++
 title = "jackson"
+header_title = "Jackson | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2021-01-20"
 tags = ["jack", "mavokely", "amarillo"]
 categories = ["ambilobe-sires"]

@@ -1,5 +1,6 @@
 +++
 title = "Flash"
+header_title = "Flash | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2015-01-10"
 tags = ["flash", "cowboy", "king", "kings-daughter", "jude", "nugget", "alfred", "jack", 
   "blossom", "daisy", "patch", "lilly", "sunny"]

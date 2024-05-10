@@ -1,6 +1,6 @@
 +++
-title = "Haiyang (WC)"
-header_title = "Wild Caught Ambilobe Panther Chameleon - Haiyang"
+title = "Haiyang (WC) | Ambilobe Panther Chameleon"
+header_title = "Wild Caught Ambilobe Panther Chameleon | Haiyang (WC)"
 date = "2023-10-02"
 tags = ["haiyang"]
 categories = ["ambilobe-sires"]

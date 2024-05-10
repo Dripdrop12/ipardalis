@@ -1,5 +1,6 @@
 +++
 title = "Bleu"
+header_title = "Bleu | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2019-07-15"
 tags = ["bleu", "stryfe", "emma frost", "felipe sanchez"]
 categories = ["retired pardalis"]

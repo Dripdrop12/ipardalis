@@ -1,5 +1,6 @@
 +++
 title = "Dehibe"
+header_title = "Dehibe | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2021-10-16"
 tags = ["dehibe", "arti", "alla", "jj", "artemis"]
 categories = ["ambilobe-sires"]

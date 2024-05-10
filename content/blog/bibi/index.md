@@ -1,5 +1,6 @@
 +++
 title = "Bibi (WC)"
+header_title = "Bibi (WC) | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2022-06-29"
 tags = ["bibi"]
 categories = ["ambilobe-sires"]

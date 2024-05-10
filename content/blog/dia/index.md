@@ -1,5 +1,6 @@
 +++
 title = "Dia (WC)"
+header_title = "Dia (WC) | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2022-06-28"
 tags = ["dia"]
 categories = ["retired-pardalis"]

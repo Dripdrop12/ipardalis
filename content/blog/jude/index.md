@@ -1,5 +1,6 @@
 +++
 title = "Jude"
+header_title = "Jude | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2017-10-17"
 tags = ["jude", "flash", "judy", "candy cane", "jack", "blossom", "nugget", 
   "alfred", "daisy", "sunny", "lilly", "button", "patch"]

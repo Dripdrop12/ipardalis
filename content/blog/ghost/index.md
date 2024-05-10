@@ -1,5 +1,6 @@
 +++
 title = "Ghost"
+header_title = "Ghost | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
 date = "2021-10-17"
 tags = ["ghost", "arti", "daisy", "jude", "artemis"]
 categories = ["ambilobe-sires"]
