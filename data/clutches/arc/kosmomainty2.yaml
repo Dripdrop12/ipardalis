@@ -1,0 +1,61 @@
+sire: kosmo
+dam: mainty
+image: /img/ambilobe/kosmomainty
+filial: unknown
+desc: |
+  Another great RBBB x RBBB combo. We chose to pair Kosmo with Mainty long-term because of the way that his dark bars match up well with Bangheera's.
+laid: 2022-11-11
+hatchstart: 2023-09-27
+hatchend: 2023-09-28
+shipping: 3 months after hatch
+hatchnum: 24
+clutchsize: 29
+deposit: false
+listed: false
+reservedmale: 2
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 449
+femaleprice: 349
+babies:
+- name: M2
+  gender: Male
+  image: /img/babies/20230928/M2
+  price: 499
+  phenotype: RBBB Ambilobe
+  sold: true
+- name: M4
+  gender: Male
+  image: /img/babies/20230928/M4
+  price: 425
+  phenotype: RBBB Ambilobe
+  sold: true
+- name: M6
+  gender: Male
+  image: /img/babies/20230928/M6
+  price: 425
+  phenotype: RBBB Ambilobe
+  sold: true
+- name: M7
+  gender: Male
+  image: /img/babies/20230928/M7
+  price: 499
+  phenotype: RBBB Ambilobe
+  sold: true
+- name: M8
+  gender: Male
+  image: /img/babies/20230928/M8
+  price: 449
+  phenotype: RBBB Ambilobe
+  desc: He has a small injury on his tail due to stuck shed.
+  sold: true
+- name: M10
+  gender: Male
+  image: /img/babies/20230928/M10
+  price: 499
+  phenotype: RBBB Ambilobe
+  sold: true
