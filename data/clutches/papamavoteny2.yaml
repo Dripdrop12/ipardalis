@@ -5,13 +5,13 @@ filial: F5-CG15
 desc: |
   Papamavo's second clutch with a great YBBB female from Tony!
 laid: 2023-07-19
-hatchstart: Not yet
+hatchstart: 2024-05-09
 hatchend: Not yet
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 19
 clutchsize: 26
-deposit: false
-reservedmale: 0
+deposit: true
+reservedmale: 4
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
