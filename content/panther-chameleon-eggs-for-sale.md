@@ -41,6 +41,17 @@ No - they are extremely vulnerable and small. Any interaction with a hatchling P
 Unless you are an experienced breeder, no. You are more likely to make a mistake and kill or maim your pet. The average buyer is not very well equipped to care for a hatchling Panther Chameleon. Reputable breeders have spent years of trial and error so they can skip the errors and improve. You don't get that luxury as a novice Panther Chameleon keeper - your errors can result in the permanent harm or death of your fragile pet. It is much better to work with an experienced breeder and work up to the care of a hatchling after successfully raising a hardy juvenile. 
 {{< /faq >}}
 
+{{< faq title="How much do Panther Chameleon eggs cost?" >}}
+Panther Chameleon eggs range from $75-$250. However, like many get rich quick schemes and affordable options, this is a lie too. Most people compare the price of an egg and the price of the nicest full-grown panther chameleon they have ever seen. They imagine they're getting that amazing animal in the egg, so they buy into the idea that it is a good deal pretty quickly. Hence why this is such an effective [scam]({{< ref "blog/egg_sales_101.md" >}}). However, here are the extra costs that are incurred from 0-3 months of age. I'm not even going to attempt the cost comparison with the fully proven adult male they envision buying, which is a 1 out of 100 chance.
+
+- $75 food
+- $50 extra decor for baby cage
+- $50 small cage
+- $50 bad feeder shipments, wasted feeders, or other challenges with live food 
+- $50 small lights
+- time is money, no? Whatever price you put on 3 months of your own labor
+{{< /faq >}}
+
 {{< faq title="Is Buying a Panther Chameleon Egg the only way to Spread out the Cost of Buying Supplies?" >}}
 No - every reputable breeder has offered some form of pre-payment plan for decades. Suggesting this is an advantage for buying a Panther Chameleon egg is dishonest. We run a [Reservation Program]({{< ref "/baby-panther-chameleons-for-sale" >}}) for every clutch we have incubating. And when you get a juvenile from our program, we review your enclosure with you to ensure that it is dialed in prior to shipment. You don't have a 12 month window when you have to be ready every day for a fragile hatchling to emerge... Ready or not!
 {{< /faq >}}

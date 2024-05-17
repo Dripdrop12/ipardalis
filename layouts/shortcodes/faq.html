@@ -1,5 +1,12 @@
+{{ $header := .Get "h" | default "h2" }}
 <div itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
-    <h1 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h2>
+    {{ if (eq $header "h2") }}
+    <h2 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h2>
+    {{ else if (eq $header "h3") }}
+    <h3 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h3>
+    {{ else if (eq $header "h4") }}
+    <h4 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h4>
+    {{ end }}
     <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
     <div itemprop="text">{{ .Inner | markdownify }}</div>
     </div>
