@@ -2,9 +2,16 @@
 title = "Why are chameleons often considered hard to keep?"
 header_title = "Why are Panther Chameleons considered hard to keep?"
 description = "Discover why chameleons pose unique challenges in captivity. Explore factors like group rearing, stress, and improper care, and learn how individual attention in optimal conditions enhances their resilience. Uncover insights on making chameleon care successful."
+banner = "img/banners/dshybrids"
 home = true
 faq = true
 +++
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/banners/dshybrids.jpg" alt="Dragon Strand Hybrid Cages" width=75% />
+<figcaption itemprop="caption">iPardalis' Dragon Strand Hybrid Cages</figcaption>
+</figure>
+<hr>
 
 {{< faq title="Why are Panther Chameleons often considered difficult to care for?" >}}
 Creating a thriving environment for Panther Chameleons involves replicating their arboreal habitat with misting systems, live plants, and high humidity at night. While specific husbandry conditions are crucial, many aspects can be automated with timers and suitable equipment. With the right setup, chameleon care becomes manageable, and they can adapt well to captivity. Interestingly, the challenge often lies more in managing their diet, with crickets requiring more attention and care than the overall maintenance of the chameleon's habitat.

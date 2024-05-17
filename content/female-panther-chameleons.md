@@ -1,10 +1,17 @@
 +++
-title = "Female Panther Chameleons"
-header_title = "Female Panther Chameleons | iPardalis"
-description = "Frequently asked questions about female Panther Chameleons"
+title = "Panther Chameleon Females"
+header_title = "Panther Chameleon Females | iPardalis"
+description = "Frequently asked questions about Panther Chameleon females"
+banner = "img/ambilobe/patch/patch"
 home = true
 faq = true
 +++
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/ambilobe/patch/patch.jpg" alt="Patch - Panther Chameleon Female" width=50% />
+<figcaption itemprop="caption">Patch - Panther Chameleon Female produced by iPardalis in 2018</figcaption>
+</figure>
+<hr>
 
 {{< faq title="How can you tell if a Panther Chameleon is a female?" >}} 
 Female Panther Chameleons have a flat tail base immediately following their cloacal opening. Their rostral appendage is not as developed as a males'. Females tend to be about half the size of a male as adults, and their coloring is drastically different (see next question).

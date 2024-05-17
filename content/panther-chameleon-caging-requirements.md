@@ -1,6 +1,7 @@
 +++
 title = "Housing: Furcifer pardalis (Panther Chameleons)"
 header_title = "Panther Chameleon Caging"
+description = "This is a frequently asked questions page about how we house our Panther Chameleons"
 date = "2020-07-05"
 tags = []
 categories = ["husbandry"]
@@ -49,6 +50,12 @@ For juveniles, we upgrade them to a fully planted bioactive setup. We are still 
 
 Our adults are housed in hybrid bioactive enclosures. You can see low branches running down near the substrate where there is shade, security and humidity, and at the top, there is heat, uvb and lower humidity. There are Coroplast sheets super glued to the frame to maintain heat and humidity without closing it off entirely. We are always thinking of ways to improve (thank you Frank Payne for the suggestion on the Coroplast sheets - they are great!).
 {{< /faq >}}
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/banners/dshybrids.jpg" alt="Dragon Strand Hybrid Cages" width=75% />
+<figcaption itemprop="caption">iPardalis' Dragon Strand Hybrid Cages</figcaption>
+</figure>
+<hr>
 
 <hr>
 {{< rawhtml >}}

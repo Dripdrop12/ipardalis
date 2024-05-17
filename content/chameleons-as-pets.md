@@ -4,7 +4,14 @@ header_title = "Chameleons as Pets"
 description = "Provide your Panther Chameleon with agency and they will build their confidence around human caretakers. Your positive interactions will build trust and result in a very enjoyable experience for you."
 faq = true
 home = true
+banner = "img/banners/chameleonsaspets"
 +++
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/banners/chameleonsaspets.jpg" alt="Chameleons as pets" width=75% />
+<figcaption itemprop="caption">iPardalis | Chameleons as pets</figcaption>
+</figure>
+<hr>
 
 {{< faq title="Are Panther Chameleons friendly?" >}}
 No - they are solitary animals which should always be housed individually. They prefer to be left alone. Panther Chameleons are not aggressive, but some can be territorial and defensive, especially if you move quickly in their personal space. They do not like to be handled - you should always provide them with options to escape and hide if they prefer. Limit interactions until they view you as a source of food and comfort. Don't rush it.
