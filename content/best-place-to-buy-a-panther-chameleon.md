@@ -27,10 +27,11 @@ Finding the right breeder is crucial. Start by searching online for "panther cha
 
 When purchasing a panther chameleon, you have several options:
 
-- **Male Panther Chameleon for Sale**: Males are often more colorful and slightly larger.
-- **Female Panther Chameleon for Sale**: Females may be less vibrant but can be more affordable.
-- **Baby Panther Chameleon for Sale**: Younger chameleons require more care but allow you to bond from a young age.
-- **Rainbow Chameleon for Sale**: These are specific morphs of panther chameleons known for their vibrant color patterns.
+- [**Male Panther Chameleon for Sale**]({{< ref "/male-ambilobe-panther-chameleons-for-sale" >}}): Males are often more colorful and slightly larger.
+- [**Female Panther Chameleon for Sale**]({{< ref "/female-ambilobe-panther-chameleons-for-sale" >}}): Females are less vibrant, more pastel, but are more affordable and food motivated - [Panther Chameleon Female FAQ]({{< ref "/female-panther-chameleons.md" >}}).
+- [**Baby Panther Chameleon for Sale**]({{< ref "/baby-panther-chameleons-for-sale" >}}): Younger chameleons don't show their adult colors, but you can hit the lottery at a lower price point!
+- [**Rainbow Chameleon for Sale**]({{< ref "/rainbow-ambilobe-panther-chameleons-for-sale" >}}): These are classic local forms of panther chameleons such as Ambanja, Ambilobe or even local form crosses known for the extreme variety of colors. They often don't require any selective breeding because many random crosses of Panther Chameleons produce a "rainbow" outcome.
+- [**Selectively-bred phenotypes/morphs**]({{< ref "/panther-chameleons-for-sale" >}}): This is a pure locality Panther Chameleon selectively bred for specific colors or phenotypes common in a given local form (e.g. YBBB, RBBB, YBRB for the Ambilobe local form) - it requires skill and dedication to reliably produce a given morph/phenotype because Panther Chameleon genetics are complex and poorly understood - [Selectively Breeding Panther Chameleons]({{< ref "/blog/2022-10-14-selectively-breeding-furcifer-pardalis/index.md" >}})
 
 {{< /faq >}}
 
@@ -44,9 +45,9 @@ When purchasing a panther chameleon, you have several options:
 
 The cost of a panther chameleon can vary significantly based on factors such as age, sex, and coloration. Here are some general price ranges:
 
-- **Baby Panther Chameleon Cost**: $150 - $300
+- **Baby Panther Chameleon Cost**: $150 - $450
 - **Female Panther Chameleon Cost**: $200 - $350
-- **Male Panther Chameleon Cost**: $250 - $500
+- **Male Panther Chameleon Cost**: $250 - $700
 - **Rare Morphs/phenotypes** (e.g., true YBBB, RBBB, YBRB and true Ambanja): $400 - $800
 
 When asking, "How much is a panther chameleon?" or "How much do panther chameleons cost?" remember that these prices reflect not just the animal but the care and expertise of the breeder.
@@ -59,7 +60,7 @@ The total cost of owning a chameleon is around $1,000 for the intial setup and $
 
 {{< faq title="Tips for Buying a Panther Chameleon" >}}
 
-- **Research**: Learn about panther chameleon care, including habitat setup, diet, and health needs.
+- **Research**: Learn about panther chameleon care, including habitat setup, diet, and health needs - [Panther Chameleon Care Guide](https://chameleonacademy.com/panther-chameleon-care/).
 - **Visit the Breeder**: If possible, visit the breeder's facility to see how the chameleons are kept.
 - **Ask Questions**: Inquire about the chameleon's health, age, lineage, and any guarantees or support offered.
 - **Check for Signs of Health**: Look for active eyes, good balance, and relaxed colors (too vibrant is an indication of stress/illness).
