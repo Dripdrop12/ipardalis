@@ -4,7 +4,14 @@ header_title = "What is the price of a Panther Chameleon?"
 description = "Panther Chameleons are not cheap to own, usually costing $1,000+ for a full setup plus the cost of acquiring a healthy animal."
 home = true
 faq = true
+banner = "img/banners/pantherchameleonprice"
 +++
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/banners/pantherchameleonprice.jpg" alt="Panther Chameleon Price" width=75% />
+<figcaption itemprop="caption">Panther Chameleons are highly variable in price</figcaption>
+</figure>
+<hr>
 
 {{< faq title="How much do Panther Chameleons cost?" >}}
 Panther Chameleons usually cost between $200 and $500 with the exceptional specimen costing $500-$800. The factors which impact their price are health, lineage, current color profile, size for their age and the market demand for specific traits, such as a yellow body (my favorite). Females usually cost about $100 less than males because they don't live as long or display the same bright colors. 
