@@ -22,7 +22,7 @@ Feeder cups help you track your chameleon's diet by preventing insects from hidi
 {{< /faq >}}
 
 {{< faq title="What types of feeder cups are available?" >}}
-Feeder cups come in various designs, including magnetic, suction-based, and those designed to look like natural elements. For example, [Full Throttle Feeders](https://www.fullthrottlefeeders.com/) offers camo-themed feeder cups with magnet mounts, while [Sunset Chameleons](https://sunsetchameleons.com/) features hand-carved log-style feeders. There are some cheap ones which attach to the screen of your chameleon's enclosure, but many keepers are moving away from screen cages and, as anyone who has cleaned cricket poop off screen cages, the maintenance is not worth the $10 you save on these cheap cups.
+Feeder cups come in various designs, including magnetic, suction-based, and those designed to look like natural elements. For example, [Full Throttle Feeders](https://www.fullthrottlefeeders.com/) offers camo-themed feeder cups with magnet mounts, while [Sunset Chameleons](https://sunsetchameleons.com/) features hand-carved log-style feeders. There are some cheap ones which attach to the screen of your chameleon's enclosure, but many keepers are moving away from screen cages and, as anyone who has cleaned cricket poop off screen cages knows, the maintenance is not worth the $10 you save on these cheap cups.
 {{< /faq >}}
 
 {{< faq title="How do I install a feeder cup in my chameleon’s enclosure?" >}}
