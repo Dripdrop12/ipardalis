@@ -2,12 +2,13 @@
 title = "Panther Chameleon eggs for sale"
 header_title = "iPardalis | Panther Chameleon eggs for sale"
 description = "Buying Panther Chameleon eggs is a bad idea. Here is our frequently asked questions page about panther chameleon eggs for sale."
-home = true
 faq = true
+date = "2024-05-17"
+categories = ["ethics"]
 banner = "img/ambilobe/eggs1"
 +++
 
-Buying or selling Panther Chameleon eggs is not a best practice. We wrote a [blog article on the topic]({{< ref "/blog/egg_sales_101.md" >}}) back in June, 2023. This is our FAQ page for Panther Chameleon eggs for sale.
+Buying or selling Panther Chameleon eggs is not a best practice. We wrote a [blog article on the topic]({{< ref "/blog/egg_sales_101.md" >}}) back in June, 2023. This is our FAQ article about Panther Chameleon eggs for sale.
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/ambilobe/eggs1.jpg" alt="iPardalis - Panther Chameleon eggs" width=50% />
