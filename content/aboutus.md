@@ -1,8 +1,8 @@
 +++
-title = "About Us"
-header_title = "iPardalis | About Us"
+title = "iPardalis | Small Batch Panther Chameleon Breeder"
+header_title = "iPardalis | About Us | Individually-raised Panther Chameleons (Furcifer pardalis)"
 url = "/aboutus/"
-description = "iPardalis (individually-raised pardalis) is a Panther Chameleon breeding company founded in 2015 with the goal of proving that ethical rearing practices of Furcifer pardalis (Panther Chameleons) can be profitable."
+description = "iPardalis (individually-raised pardalis) is a small batch Panther Chameleon breeding company founded in 2015 with the goal of individually raising Furcifer pardalis (Panther Chameleons)."
 home = true
 banner = "img/ambilobe/taiyang/taiyang6"
 +++
