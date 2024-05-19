@@ -251,6 +251,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
+    taxonomiesExcludedFromSitemap = ["tags", "categories"]
     viewMorePostLink = "/blog/"
     author = "Jonathan Mark Hill"
     defaultKeywords = ["Panther Chameleon"]
