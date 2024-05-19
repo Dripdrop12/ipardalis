@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-{{ if strings.Contains .RelPermalink "categories" }}
+{{ if or (strings.Contains .RelPermalink "/categories/") (strings.Contains .RelPermalink "/tags/") }}
 <meta name="robots" content="noindex">
 {{ else }}
 <meta name="robots" content="all,follow">
