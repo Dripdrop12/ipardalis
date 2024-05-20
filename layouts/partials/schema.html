@@ -38,7 +38,7 @@
       "@id": {{ .Permalink }},
       "url": {{ .Permalink }},
       "brand": {
-        "@id": {{ print .Site.BaseURL "#organization" }}
+        "@id": {{ print .Site.BaseURL "#brand" }}
       },
       "logo": {
         "@id": {{ .Site.Params.favicon_google | absURL }}
@@ -76,9 +76,9 @@
     "@context": "https://schema.org/",
     "@type": "Product",
     "@id": {{ .Params.header_title }},
-    "sku": {{ .Params.header_title }},
+    "sku": {{ print .Params.sire .Params.dam .Params.name .Params.hatchstart }},
     "brand": {
-      "@id": {{ print .Site.BaseURL "#organization" }}
+      "@id": {{ print .Site.BaseURL "#brand" }}
     },
     "image": [
       {
@@ -134,6 +134,14 @@
       "price": {{ if .Params.discount_price }}{{ .Params.discount_price }}{{ else if .Params.markup_price }}{{ .Params.markup_price }}{{ else }}{{ .Params.price }}{{ end }},
       "priceCurrency": "USD",
       "priceValidUntil": {{ $t.AddDate 0 1 0 | time.Format "2006-01-02" }},
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "id": {{ print .Permalink "#merchantreturnpolicy" }}, 
+        "applicableCountry": "US",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnUnlimitedWindow",
+        "returnMethod": "https://schema.org/ReturnByMail",
+        "returnFees": "https://schema.org/OriginalShippingFees"
+      },
       "shippingDetails": {
         "@type": "OfferShippingDetails",
         "shippingRate": {
@@ -287,8 +295,11 @@
   {
     "@type": "Organization",
     "@id": {{ print .Site.BaseURL "#organization" }},
-    "name": "Individually-raised Panther Chameleons for sale",
+    "name": "iPardalis | Individually-raised Panther Chameleons",
     "url": {{ .Site.BaseURL }},
+    "brand": {
+      "@id": {{ print .Site.BaseURL "#brand" }}
+    },
     "founder": {
       "@type": "Person",
       "givenName": "Jonathan Mark",
@@ -305,16 +316,6 @@
       "url": {{ .Site.Params.favicon_google | absURL }},
       "contentUrl": {{ .Site.Params.favicon_google | absURL }},
       "caption": "Individually-raised Panther Chameleons"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "bestRating": "5",
-      "ratingValue": "5",
-      "worstRating": "1",
-      "reviewCount": "61",
-      "itemReviewed": {
-        "@id": {{ print .Site.BaseURL "#organization" }}
-      }
     },
     "telephone": {{ .Site.Params.telephone }},
     "email": {{ .Site.Params.email }},
@@ -348,6 +349,30 @@
       "https://www.chameleonforums.com/members/ipardalis.47482/",
       "https://www.faunaclassifieds.com/forums/member.php?u=180797"
     ]
+  },
+  {
+    "@type": "Brand",
+    "@id": {{ print .Site.BaseURL "#brand" }},
+    "name": "iPardalis",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "bestRating": "5",
+      "ratingValue": "5",
+      "worstRating": "1",
+      "reviewCount": "61",
+      "itemReviewed": {
+        "@id": {{ print .Site.BaseURL "#brand" }}
+      }
+    },
+    "logo": {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": {{ .Site.Params.favicon_google | absURL }},
+      "url": {{ .Site.Params.favicon_google | absURL }},
+      "contentUrl": {{ .Site.Params.favicon_google | absURL }},
+      "caption": "Individually-raised Panther Chameleons"
+    },
+    "slogan": "individually-raised Panther Chameleons"
   }
   ]
 }
