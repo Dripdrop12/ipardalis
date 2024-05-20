@@ -23,6 +23,7 @@ Tiny Chameleons' Tongues Pack Strongest Punch (High-Speed Footage) - National Ge
 <figcaption itemprop="description">
 Imagine having a tongue that extends more than twice the length of your body and being able to launch it across the room with pinpoint accuracy to snatch an object. This incredible hunting technique is the hallmark of chameleons, vividly showcased in this high-speed National Geographic video, shown at 1/50th of its original speed. Professor Anderson's research into smaller chameleon species---some of which can comfortably perch on your thumb---has revealed a remarkable finding: their tongues possess unparalleled elasticity and velocity, surpassing even their larger counterparts (Anderson 2016). Clocking in at an astonishing zero to 60 mph in just 1/100th of a second, their tongues exhibit unmatched acceleration, outstripping those of any other reptiles, birds, or mammals. This extraordinary burst of power is utilized instead of expending energy in maneuvering their small bodies toward prey.
 </figcaption>
+<meta itemprop="uploadDate" content="2016-01-05T21:38:07+00:00" />
 <meta itemprop="contentUrl" content="https://www.youtube.com/watch?v=pn37lT7HbrA&t=7s" />
 <meta itemprop="regionsAllowed" content="US,NL" />
 <meta itemprop="thumbnailUrl" content="https://ipardalis.com/img/tongue/nationalgeographic.jpg" />
