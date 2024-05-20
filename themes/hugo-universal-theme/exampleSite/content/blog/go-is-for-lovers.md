@@ -198,12 +198,6 @@ is the same as
 It does look odd to place the if at the end, but it does provide a good
 illustration of how to use the pipes.
 
-**Example 2 :**
-
-    {{ index .Params "disqus_url" | html }}
-
-Access the page parameter called "disqus_url" and escape the HTML.
-
 **Example 3 :**
 
     {{ if or (or (isset .Params "title") (isset .Params "caption")) (isset .Params "attr")}}
