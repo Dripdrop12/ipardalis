@@ -1,7 +1,7 @@
 +++
 title = "Female Panther Chameleons for sale"
 header_title = "iPardalis | Female Panther Chameleons for sale"
-description = "Female Panther Chameleons are the key to a successful captive breeding project. Exceptional care, vibrant colors, and healthy chameleons."
+description = "Female Panther Chameleons are the key to a successful captive breeding project. iPardalis females have 5+ generations of lineage and sibling galleries so you can utilize their genetics properly."
 banner = "img/ambilobe/patch/patch"
 phenotype = "Female Ambilobe"
 id = "available"
