@@ -20,7 +20,7 @@ Are you fascinated by the vibrant colors and unique personalities of panther cha
 <hr>
 
 ## Why Choose a Reputable Panther Chameleon Breeder?
-Selecting a reliable breeder ensures that you receive a healthy and well-cared-for panther chameleon. Reputable breeders provide detailed information about the chameleon's lineage, health records, and proper care instructions. They also offer support and guidance to help you provide the best environment for your new pet. There are numerous flippers who call themselves breeders - **be very careful about working with an intermediary instead of the actual breeder**.
+Selecting a reliable breeder ensures that you receive a healthy and well-cared-for panther chameleon. Reputable breeders provide detailed information about the chameleon's lineage, health records, and proper care instructions. They also offer support and guidance to help you provide the best environment for your new pet. There are numerous flippers who call themselves breeders - **be very careful about working with an intermediary instead of the actual breeder**. We only sell chameleons we have bred and hatched ourselves within our multi-generational breeding project. The rare exception is a male who doesn't prove out the way we hoped for breeding purposes.
 
 ## Where Can I Buy a Panther Chameleon?
 Finding the right breeder is crucial. Start by searching online for "panther chameleon breeders near me" to locate local breeders (we're in MD). Alternatively, many reputable breeders operate online and can ship panther chameleons safely - check out [Is Shipping Chameleons Safe?](https://chameleonacademy.com/is-shipping-chameleons-safe/) for more information. Always check reviews and ask for references to ensure you're dealing with a trustworthy breeder.
