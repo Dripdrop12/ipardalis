@@ -1,20 +1,20 @@
 +++
 title = "How Long do Panther Chameleons live?"
 header_title = "How Long do Panther Chameleons live? | iPardalis"
-description = "We do not know how long a Panther Chameleon can live in captivity"
+description = "We do not know what a Panther Chameleon's lifespan is in captivity. Their life expectancy is between 5 and 12 years."
 home = true
 faq = true
 banner = "img/banners/pantherchameleonlifespan"
 +++
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
-<img itemprop="contentUrl" src="/img/banners/pantherchameleonlifespan.jpg" alt="Panther Chameleon lifespan" width=75% />
-<figcaption itemprop="caption">How long do Panther Chameleons live on average?</figcaption>
+<img itemprop="contentUrl" src="/img/banners/pantherchameleonlifespan.jpg" alt="Panther Chameleon lifespan in captivity" width=75% />
+<figcaption itemprop="caption">Panther Chameleon Life Expectancy</figcaption>
 </figure>
 <hr>
 
-{{< faq title="How Long do Panther Chameleons live?" >}} 
-In captivity, Male Panther Chameleons live between five and twelve years whereas females live between three and six years. In the wild, it is quite rare to see an individual live longer than two or three years due to predation, extreme weather events and harsh conditions. We are still learning what the ideal husbandry is for Panther Chameleons, so they are living longer today than they were even five year ago. 
+{{< faq title="What is a Panther Chameleon's Life Expectancy?" >}} 
+In captivity, Male Panther Chameleons' lifespan is between five and twelve years whereas females' lifespan is between three and six years. In the wild, it is quite rare to see an individual live longer than two or three years due to predation, extreme weather events and harsh conditions. We are still learning what the ideal husbandry is for Panther Chameleons, so they are living longer today than they were even five year ago. 
 {{< /faq >}}
 
 {{< faq title="What factors influence a Panther Chameleon's lifespan?" >}} 
