@@ -338,6 +338,16 @@
     "image": {
       "@id": {{ .Site.Params.favicon_google | absURL }}
     },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "bestRating": "5",
+      "ratingValue": "5",
+      "worstRating": "1",
+      "reviewCount": "61",
+      "itemReviewed": {
+        "@id": {{ print .Site.BaseURL "#brand" }}
+      }
+    },
     "sameAs": [
       "https://www.facebook.com/{{ .Site.Params.facebook }}",
       "https://www.instagram.com/{{ .Site.Params.instagram }}",
@@ -354,16 +364,6 @@
     "@type": "Brand",
     "@id": {{ print .Site.BaseURL "#brand" }},
     "name": "iPardalis",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "bestRating": "5",
-      "ratingValue": "5",
-      "worstRating": "1",
-      "reviewCount": "61",
-      "itemReviewed": {
-        "@id": {{ print .Site.BaseURL "#brand" }}
-      }
-    },
     "logo": {
       "@type": "ImageObject",
       "inLanguage": "en-US",
