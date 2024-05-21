@@ -25,13 +25,11 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [What is the lifespan of a Panther Chameleon?]({{< ref "/panther-chameleon-lifespan.md" >}})
 - [How fast do Panther Chameleons grow?]({{< ref "/baby-panther-chameleon-growth-rate.md" >}})
 - [What are the caging requirements for Panther Chameleons?]({{< ref "/panther-chameleon-caging-requirements.md" >}})
-- [Chameleon Feeder Cups]({{< ref "/chameleon-feeder-cups.md" >}})
 - [Are Panther Chameleons friendly?]({{< ref "/chameleons-as-pets.md" >}})
 - [Are Panther Chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
 - [How Long is a Chameleon's Tongue?]({{< ref "/how-long-is-a-chameleons-tongue.md" >}})
-- [Chameleon Safe Plants]({{< ref "/chameleon-safe-plants.md" >}})
 
-# Panther Chameleon care resources
+# Panther Chameleon care guides and resources
 
 - [Chameleon Academy](https://chameleonacademy.com/)
   - The most comprehensive guide to chameleon husbandry on the web.
@@ -43,6 +41,9 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [Much Ado About Chameleons](http://www.muchadoaboutchameleons.com/)
   - Olimpia has written some great guides on various topics like [On the Specific Care of Females](http://www.muchadoaboutchameleons.com/2012/05/on-specific-care-of-females.html) and [How to Setup a Proper Chameleon Enclosure](http://www.muchadoaboutchameleons.com/2012/04/how-to-set-up-proper-chameleon.html). Her blog is definitely worth a read.
 - [Chameleons.info](https://www.chameleons.info/en/furcifer-pardalis/)
+- [Chameleon Safe Plants]({{< ref "/chameleon-safe-plants.md" >}})
+- [Chameleon Sleep Care Guide]({{< ref "/chameleon-sleep-care-guide.md" >}})
+- [Chameleon Feeder Cups]({{< ref "/chameleon-feeder-cups.md" >}})
 ---
 
 > If you haven't found the answer to your question, please feel free to contact us. We are happy to help you.
