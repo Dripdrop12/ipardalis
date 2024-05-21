@@ -16,7 +16,7 @@ totalmale: 3
 reservedfemale: 0
 totalfemale: 5
 soldout: false
-listed: true
+listed: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 449
