@@ -29,7 +29,7 @@ phenotype = "YBBB Ambilobe"
 
 ---
 
-> It is very difficult to get a Panther Chameleon which perfectly matches a given phenotype/morph because their [genetics]({{< ref "blog/2022-07-23-body-color-theory" >}}) and inheritance patterns are extremely complex. These two examples are about as close as you can get to a YBBB Panther Chameleon - a little wiggle room on their bars or body but not both - that would be a rainbow/classic Ambilobe locale animal.
+> It is very difficult to get a Panther Chameleon which perfectly matches a given phenotype/morph because their [genetics]({{< ref "blog/2022-07-23-body-color-theory" >}}) and inheritance patterns are extremely complex. These two examples are about as close as you can get to a YBBB Panther Chameleon - a little wiggle room on their bars or body but nearly impossible to get both 100%. We like to shoot for the impossible, knowing it is.
 
 ---
 
