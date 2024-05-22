@@ -2,14 +2,14 @@
 title = "Upcoming Panther Chameleons for sale | Baby Panther Chameleons for sale"
 header_title = "iPardalis | Baby Panther Chameleons for sale | Upcoming Panther Chameleons for sale"
 description = "We run a $75 reservation program for all of our upcoming clutches. This is a great way to spread out the cost if you need more time to pay down your baby chameleon."
-banner = "img/ambilobe/ghost/ghost6"
+banner = "img/babies/eggs"
 phenotype = "Baby"
 id = "available"
 +++
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
-<img itemprop="contentUrl" src="/img/ambilobe/ghost/ghost6.jpg" alt="Ambilobe Panther Chameleon - Ghost" width=75% />
-<figcaption itemprop="caption">iPardalis | Ghost's tail</figcaption>
+<img itemprop="contentUrl" src="/img/babies/eggs.jpg" alt="Ambilobe Panther Chameleon Baby" width=75% />
+<figcaption itemprop="caption">iPardalis | Baby Panther Chameleon</figcaption>
 </figure>
 
 ---
@@ -22,6 +22,26 @@ Panther Chameleon eggs hatch 6-7 months after being laid when incubated at 74 de
 
 {{< faq title="What do Baby Panther Chameleons eat?" h="h3" >}}
 Baby Panther Chameleons primarily eat small insects such as fruit flies, pinhead crickets, bean beetles, silkworms and small Dubia roaches. It’s important to provide a varied diet and dust the insects with calcium and vitamin supplements to ensure proper nutrition during this critical phase in their lives.
+{{< /faq >}}
+
+{{< faq title="How do you house hatchling Panther Chameleons?" h="h3" >}} 
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/babies/bio-td.jpg" alt="Tamura Designs Condo" width=50% />
+<figcaption itemprop="caption">iPardalis | Bioactive Tamura Designs Nursery</figcaption>
+</figure>
+
+We found, in 2018, that it is advantageous to house hatchlings in bio-active tubs because their food items are small - and would escape screen enclosures - and some hatchlings like to tuck under the leaves near the soil (ABG mix) while digesting their remaining yolk. The goal at this stage is to provide tons of food options, springtails, isopods, fruit flies, flour beetle larvae, bean beetles, silk worms, etc. When there is an abundance of food, the little ones thrive. We measure the UVB at the highest point and shoot for 2.5 - 3. Ambient temps in the mid 70s and basking in the low 80s. Since, 2020 or so, we have been housing our hatchlings in individual bioactive environments and, in 2022-2023, we invested in an advanced condo system from [Tamura Designs](https://tamura-designs.com/collections/condos/products/6-condo-clear-front-nursery).
+{{< /faq >}}
+
+{{< faq title="How do you house baby Panther Chameleons?" h="h3" >}} 
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/ambilobe/rack.png" alt="Dragon Strand Nursery" width=50% />
+<figcaption itemprop="caption">iPardalis | Dragon Strand Nursery</figcaption>
+</figure>
+
+At about 4-6 weeks of age, we often move them into sterile Dragon Strand Nursery cages. This helps them develop faster and thrive post-shipment because we can closely monitor their health. UVB and heat are similar to hatchlings, but we add halogen puck lights to provide a bit more heat at this time. Feeding them at this age is a huge challenge. Some are a bit smaller and still prefer small prey, so you can't start feeding larger prey items to every one. You have to monitor their daily food consumption and figure out what they like to eat. Then, give them as much as they will eat in a single day, every day.
 {{< /faq >}}
 
 {{< faq title="How do I care for a Baby Panther Chameleon from iPardalis?" h="h3" >}}

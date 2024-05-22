@@ -38,6 +38,19 @@ No, all chameleons need their own living space. While females do not engage in c
 ### How Big to Female Panther Chameleons Get? 
 Females typically weigh between 50 and 70 grams and measure 10"-12" from head to tail when fully grown, roughly half the size of adult males.
 
+### How do you house Female Panther Chameleons?
+
+We prioritize creating a naturalistic setup for our female Panther Chameleons, allowing them to dig and lay their eggs in a substrate that closely mimics the forest floor. Typically, we achieve this using a fully planted, bioactive Large Reptibreeze enclosure. This approach has proven effective in reducing egg-laying complications, as the females often prefer to lay their eggs in the plant’s root ball. Additionally, they tend to dig shallow holes, finding security in the leaf litter provided.
+
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/ambilobe/femalehousing.jpg" alt="Large Reptibreeze Bioactives" width=33% />
+<figcaption itemprop="caption">iPardalis' DIY Large Reptibreeze Bioactives</figcaption>
+</figure>
+
+---
+
+
+
 ## Egg Laying Questions
 ### Do Female Panther Chameleons Lay Infertile Eggs? 
 Yes, female Panther Chameleons lay infertile eggs, influenced by temperature and food. If not breeding, regulate her clutch size and frequency with lower temperatures and fewer food items to limit it to 20 eggs or fewer.

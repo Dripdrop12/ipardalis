@@ -105,4 +105,9 @@ Here are a few breeders we have not worked with directly, but we follow their pr
 
 Purchasing a panther chameleon is an exciting decision that comes with the responsibility of providing proper care. By choosing a reputable breeder and understanding the costs and requirements, you can enjoy the beauty and unique personality of your new pet. Whether you're looking for a specific locality/morph or just starting with a baby chameleon, this page has you covered. Happy chameleon hunting!
 
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/ambilobe/maleenclosure.jpg" alt="DIY Bioactive with Reptibreeze XL" width=75% />
+<figcaption itemprop="caption">iPardalis | DIY Bioactive with Reptibreeze XL</figcaption>
+</figure>
+
 ---

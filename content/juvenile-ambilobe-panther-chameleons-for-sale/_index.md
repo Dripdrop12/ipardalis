@@ -9,3 +9,9 @@ id = "available"
 
 > **Automatic volume discounts on 2+ animals**
 
+{{< faq title="How do you house juvenile Panther Chamelelons?" >}} 
+
+{{< figure src="/img/carousel/individual.jpg" caption="Dragon Strand Compacts" width=60% >}}
+
+For juveniles, we upgrade them to a fully planted bioactive setup. Our heat increases a bit more to the mid-80s with Arcadia 50-75 watt halogens.
+{{< /faq >}}

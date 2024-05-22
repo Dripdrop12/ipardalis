@@ -22,7 +22,6 @@ We take very good care of our animals, and we strive to continually learn and sh
 - [How do I purchase a chameleon?]({{< ref "/purchase-a-chameleon.md" >}})
 - [What is the cost of shipping a Panther Chameleon?]({{< ref "/shipping-panther-chameleons.md" >}})
 - [What is the lifespan of a Panther Chameleon?]({{< ref "/panther-chameleon-lifespan.md" >}})
-- [What are the caging requirements for Panther Chameleons?]({{< ref "/panther-chameleon-caging-requirements.md" >}})
 - [How Long is a Chameleon's Tongue?]({{< ref "/how-long-is-a-chameleons-tongue.md" >}})
 
 # Panther Chameleon care guides and resources
