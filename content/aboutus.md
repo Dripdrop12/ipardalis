@@ -6,6 +6,7 @@ description = "iPardalis (individually-raised pardalis) is a small batch Panther
 home = true
 banner = "img/ambilobe/taiyang/taiyang6"
 +++
+
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/ambilobe/taiyang/taiyang6.jpg" alt="iPardalis - Chameleon Breeders" width=75% />
 <figcaption itemprop="caption">iPardalis | WC Taiyang | Ambilobe Panther Chameleon</figcaption>

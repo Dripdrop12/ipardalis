@@ -7,6 +7,11 @@ phenotype = "Baby"
 id = "available"
 +++
 
+<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+<img itemprop="contentUrl" src="/img/ambilobe/ghost/ghost6.jpg" alt="Ambilobe Panther Chameleon - Ghost" width=75% />
+<figcaption itemprop="caption">iPardalis | Ghost's tail</figcaption>
+</figure>
+
 ---
 
 ## Frequently Asked Questions about Baby Panther Chameleons
