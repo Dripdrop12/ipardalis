@@ -38,13 +38,20 @@ No, all chameleons need their own living space. While females do not engage in c
 ### How Big to Female Panther Chameleons Get? 
 Females typically weigh between 50 and 70 grams and measure 10"-12" from head to tail when fully grown, roughly half the size of adult males.
 
+## Egg Laying Questions
 ### Do Female Panther Chameleons Lay Infertile Eggs? 
 Yes, female Panther Chameleons lay infertile eggs, influenced by temperature and food. If not breeding, regulate her clutch size and frequency with lower temperatures and fewer food items to limit it to 20 eggs or fewer.
 
 ### How Many Eggs Does Female Panther Chameleon Lay? 
 A female Panther Chameleon can lay between 10 and 50 eggs, with the average clutch size around 25 eggs. We aim for 20-25 eggs per clutch and reduce feedings and temperatures if a female lays more than that to avoid large clutches, which can shorten her lifespan.
 
+### Why Do Many Female Chameleons Die After Laying Eggs?
+Usually, fatal complications from egg laying are caused by husbandry mistakes such as over feeding, dehydration or lack of proper nutrition. If the laying site is inadequate, some female chameleons will die of exhaustion looking for a proper place to dig and lay her eggs. A healthy female chameleon should be able to lay her eggs without complications in a suitable location. 
+
 ### How to Tell if Your Female Panther Chameleon is Gravid (Pregnant)? 
 A gravid female will refuse a male by gaping her mouth and turning pitch black. At rest, she will often display darker hues of purple and more pronounced barring. As she progresses, egg outlines may become visible on her sides.
+
+### How Often do Female Panther Chameleons Lay Eggs?
+A receptive female panther chameleon will lay her eggs within 30-45 days of mating, and then lay again within 60 days of that first clutch. We call that her retained clutch. She may lay a second or third retained clutch on a similar cadence if she is healthy. When she is done with her retained clutches, she will enter another receptive cycle. Egg sellers will probably just breed her again without letting her rest adequately.
 
 --- 

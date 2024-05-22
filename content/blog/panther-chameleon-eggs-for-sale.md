@@ -63,10 +63,6 @@ Feeder insects for baby Panther Chameleons are not cheap because the feeders oft
 You also won't be buying those cultures in bulk. When you move up to crickets, the smallest size cricket will out grow your baby Panther Chameleon in a matter of days, so if you buy 500 1/16" crickets, you may be able to feed him/her 20-30 before they get too big for him/her to eat. That's more than 95% waste and you will be paying retail price for those. It is very easy to spend upwards of $200-$250 on feeders alone between 0-3 months of age on a single Panther Chameleon hatchling because you will waste feeders. That is compared to a breeder who can do it at around $150 across an entire clutch. You could just pay the breeder $50-$100 more for your juvenile and save yourself some money while giving them a little profit without the risk and time spent.
 {{< /faq >}}
 
-{{< faq title="How Long do Panther Chameleon Eggs Take to Hatch?" >}}
-Panther Chameleon eggs hatch 6-7 months after being laid when incubated at 74 degrees Fahrenheit. Their incubation times can vary from as short as 4.5 months to up to 18 months. This highly variable incubation period is one of the reasons it is not ethical to buy or sell Panther Chameleon eggs. It is very common for people to miss the hatch date by long enough to kill or stunt the baby chameleon. 
-{{< /faq >}}
-
 {{< faq title="How do I Know If My Panther Chameleon Egg is Fertile?" >}}
 A fertile Panther Chameleon egg should hold a nice round shape with a white shell. They will grow significantly in size over the incubation period, sometimes more than doubling in weight. A fertilized Panther Chameleon egg will eventually have hairlike cracks which begin to sweat about 1 week before they hatch. An unfertilized Panther Chameleon egg can grow in size over the incubation period, but instead of sweating and hatching, they just shrivel up and mold over. This is another reason why selling Panther Chameleon eggs is such an effective scam - infertile eggs will often go to term - and it is very common for people to wait many months to find out. The worst case scenario is you have to wait up to 18 months for the infertile egg to start molding to be covered under the "guarantee," just so you can wait another 18 months for it to mold a second time (roughly one out of eight egg buyers could have this experience given their hatch rates).
 {{< /faq >}}
@@ -79,16 +75,8 @@ We place them in a small Tupperware container using Josh's Frogs Incubation Medi
 Yes - chameleons are oviparous. Many species of chameleons dig holes and bury their eggs in sandy soil like many species of turtles. This is one characteristic which makes them very interesting pets. The long incubation period of their eggs lends itself to egg scams in the captive market for chameleons.
 {{< /faq >}}
 
-{{< faq title="Why Do Many Chameleons Die After Laying Eggs?" >}}
-Usually, fatal complications from egg laying are caused by husbandry mistakes such as over feeding, dehydration or lack of proper nutrition. If the laying site is inadequate, some female chameleons will die of exhaustion looking for a proper place to dig and lay her eggs. A healthy female chameleon should be able to lay her eggs without complications in a suitable location. 
-{{< /faq >}}
-
 {{< faq title="How Many Eggs Does a Chameleon Lay?" >}}
 A chameleon can lay anywhere from 10 to 60 eggs. Larger species such as Veiled Chameleons are notorious for laying dangerously large clutches when they are over fed and provided with too much heat. Smaller chameleon species such as Furcifer lateralis (Carpet Chameleons) and Furcifer minor (Lesser Chameleons) tend to have clutches in the 7 to 15 egg range. Panther Chameleons like the ones we own usually lay between 15 and 30 eggs - ideally about 20 eggs.
-{{< /faq >}}
-
-{{< faq title="How Often do Panther Chameleons Lay Eggs?" >}}
-A receptive female panther chameleon will lay her eggs within 30-45 days of mating, and then lay again within 60 days of that first clutch. We call that her retained clutch. She may lay a second or third retained clutch on a similar cadence if she is healthy. When she is done with her retained clutches, she will enter another receptive cycle. Egg sellers will probably just breed her again without letting her rest adequately.
 {{< /faq >}}
 
 {{< faq title="Can Chameleons Lay Eggs without Mating?" >}}

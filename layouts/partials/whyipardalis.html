@@ -27,6 +27,8 @@
   {{ $.Scratch.Set "bar_color" "blue, red or mixed" }}
 {{ else if (eq $phenotype "Female Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Female" }}
+{{ else if (eq $phenotype "Baby") }}
+  {{ $.Scratch.Set "long_phenotype" "Baby" }}
 {{ else if (eq $phenotype "Juvenile Ambilobe") }}
   {{ $.Scratch.Set "long_phenotype" "Juvenile" }}
   {{ $.Scratch.Set "body_color" "yellow, red or rainbow" }}
