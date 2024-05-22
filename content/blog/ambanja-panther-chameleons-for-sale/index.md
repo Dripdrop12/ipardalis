@@ -1,13 +1,13 @@
 +++
-title = "Ambanja Panther Chameleons for sale?"
-header_title = "iPardalis | Ambanja Panther Chameleons for sale?"
-description = "This article tackles a controversial topic in the Ambanja Panther Chameleon breeding community on what is meant when people say they have an Ambanja Panther Chameleon for sale."
+title = "Complete Guide to Ambanja Panther Chameleons"
+header_title = "iPardalis | Complete Guide to Ambanja Panther Chameleons"
+description = "This guide focuses on the Ambanja Panther Chameleon locality, helping you accurately identify a Panther Chameleon claimed to be from Ambanja, Madagascar."
 date = "2024-03-03"
 categories = ["ethics", "genetics"]
 banner = "img/banners/google_ambanja"
 +++
 
-This article, specifically, tackles a controversial topic in the Ambanja Panther Chameleon breeding community on what is meant when people say they have an Ambanja Panther Chameleon for sale. It is the first article in a series on the challenges identifying and breeding wild-type local forms of Panther Chameleons. The next one covers the [Ambilobe]({{< ref "blog/ambilobe-panther-chameleons-usa" >}}) local form. It is because of debates like these that we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}). An appeal to authority is not enough, especially as new information and technology are more readily available.
+This guide focuses on the Ambanja Panther Chameleon locality, helping you accurately identify a Panther Chameleon claimed to be from Ambanja, Madagascar. It is the first article in a series on the challenges identifying and breeding wild-type local forms of Panther Chameleons. The next one covers the [Ambilobe]({{< ref "blog/ambilobe-panther-chameleons-usa" >}}) local form. It is because of debates like these that we meticulously document our [Panther Chameleons for sale]({{< ref "/panther-chameleons-for-sale" >}}). An appeal to authority is not enough, especially as new information and technology are more readily available.
 
 ## Ambanja on Google
 Let's start by googling "Ambanja Panther Chameleon for sale":
