@@ -81,6 +81,8 @@ I can't tell you how many times I have talked to people who got scammed buying a
 
 One of the most common red flags is the "greatest hits" breeders who continually re-post their greatest hits instead of their current projects. Double those red flags when those "greatest hits" are animals they acquired from someone else. If you have a question about the industry - reach out. We would be happy to share our experience.
 
+Finally, avoid anyone selling Panther Chameleon eggs - it is one of the most well-known [Panther Chameleon scams]({{< ref "/blog/egg_sales_101.md" >}}) on the market. It is a decent litmus test for other ethical lapses.
+
 ## Reputable Panther Chameleon Breeders List
 Check out our [partners]({{< ref "/categories/lineage" >}}). We can help you find good quality Ambanja, Nosy Be, Nosy Mitsio, Sambava, or Nosy Faly. We have acquired captive bred lines from dozens of great breeders over the years, and we are happy to discuss our experience with any one of them if you find something you are interested in. 
 
