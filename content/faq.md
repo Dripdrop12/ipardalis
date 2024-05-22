@@ -19,13 +19,12 @@ We raise Fucifer pardalis (Panther Chameleons) individually, under highly contro
 We take very good care of our animals, and we strive to continually learn and share our experiences - both good and bad. Please let us know if you have any questions, not addressed here, about raising Chameleons and setting up their homes.  If you have a question, we are happy to share our knowledge of Chameleon health, husbandry and nutrition. We may even have a [blog]({{< ref "/blog" >}}) or a [podcast]({{< ref "/categories/podcasts" >}}) on the topic, too!
 
 # Frequently Asked Questions
+- [Are Panther Chameleons Good Pets?]({{< ref "/chameleons-as-pets.md" >}})
 - [Why should you individually-raise Panther Chameleons?]({{< ref "/raising-baby-panther-chameleons.md" >}})
 - [How do I purchase a chameleon?]({{< ref "/purchase-a-chameleon.md" >}})
 - [What is the cost of shipping a Panther Chameleon?]({{< ref "/shipping-panther-chameleons.md" >}})
 - [What is the lifespan of a Panther Chameleon?]({{< ref "/panther-chameleon-lifespan.md" >}})
 - [What are the caging requirements for Panther Chameleons?]({{< ref "/panther-chameleon-caging-requirements.md" >}})
-- [Are Panther Chameleons friendly?]({{< ref "/chameleons-as-pets.md" >}})
-- [Are Panther Chameleons hard to take care of?]({{< ref "/chameleons-hard-to-keep.md" >}})
 - [How Long is a Chameleon's Tongue?]({{< ref "/how-long-is-a-chameleons-tongue.md" >}})
 
 # Panther Chameleon care guides and resources
