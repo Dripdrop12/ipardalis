@@ -41,7 +41,7 @@ We found, in 2018, that it is advantageous to house hatchlings in bio-active tub
 <figcaption itemprop="caption">iPardalis | Dragon Strand Nursery</figcaption>
 </figure>
 
-At about 4-6 weeks of age, we often move them into sterile Dragon Strand Nursery cages. This helps them develop faster and thrive post-shipment because we can closely monitor their health. UVB and heat are similar to hatchlings, but we add halogen puck lights to provide a bit more heat at this time. Feeding them at this age is a huge challenge. Some are a bit smaller and still prefer small prey, so you can't start feeding larger prey items to every one. You have to monitor their daily food consumption and figure out what they like to eat. Then, give them as much as they will eat in a single day, every day.
+At about 4-6 weeks of age, we often move them into sterile [Dragon Strand](https://dragonstrand.com/) Nursery cages. This helps them develop faster and thrive post-shipment because we can closely monitor their health. UVB and heat are similar to hatchlings, but we add halogen puck lights to provide a bit more heat at this time. Feeding them at this age is a huge challenge. Some are a bit smaller and still prefer small prey, so you can't start feeding larger prey items to every one. You have to monitor their daily food consumption and figure out what they like to eat. Then, give them as much as they will eat in a single day, every day.
 {{< /faq >}}
 
 {{< faq title="How do I care for a Baby Panther Chameleon from iPardalis?" h="h3" >}}
