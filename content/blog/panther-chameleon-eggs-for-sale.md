@@ -1,7 +1,7 @@
 +++
-title = "Panther Chameleon eggs for sale"
-header_title = "iPardalis | Panther Chameleon eggs for sale"
-description = "Buying Panther Chameleon eggs is a bad idea. Here is our frequently asked questions page about panther chameleon eggs for sale."
+title = "Panther Chameleon eggs FAQ"
+header_title = "iPardalis | Panther Chameleon eggs FAQ"
+description = "Buying Panther Chameleon eggs is a bad idea. Here is our frequently asked questions page about panther chameleon eggs."
 faq = true
 date = "2024-05-17"
 categories = ["ethics"]

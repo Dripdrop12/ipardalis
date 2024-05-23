@@ -107,7 +107,7 @@ Purchasing a panther chameleon is an exciting decision that comes with the respo
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/ambilobe/maleenclosure.jpg" alt="DIY Bioactive with Reptibreeze XL" width=75% />
-<figcaption itemprop="caption">iPardalis | DIY Bioactive with Reptibreeze XL</figcaption>
+<figcaption itemprop="caption">DIY Bioactive with Reptibreeze XL</figcaption>
 </figure>
 
 ---
