@@ -31,6 +31,8 @@ Baby Panther Chameleons primarily eat small insects such as fruit flies, pinhead
 <figcaption itemprop="caption">iPardalis | Bioactive Tamura Designs Nursery</figcaption>
 </figure>
 
+---
+
 We found, in 2018, that it is advantageous to house hatchlings in bio-active tubs because their food items are small - and would escape screen enclosures - and some hatchlings like to tuck under the leaves near the soil (ABG mix) while digesting their remaining yolk. The goal at this stage is to provide tons of food options, springtails, isopods, fruit flies, flour beetle larvae, bean beetles, silk worms, etc. When there is an abundance of food, the little ones thrive. We measure the UVB at the highest point and shoot for 2.5 - 3. Ambient temps in the mid 70s and basking in the low 80s. Since, 2020 or so, we have been housing our hatchlings in individual bioactive environments and, in 2022-2023, we invested in an advanced condo system from [Tamura Designs](https://tamura-designs.com/collections/condos/products/6-condo-clear-front-nursery).
 {{< /faq >}}
 
@@ -40,6 +42,8 @@ We found, in 2018, that it is advantageous to house hatchlings in bio-active tub
 <img itemprop="contentUrl" src="/img/ambilobe/rack.png" alt="Dragon Strand Nursery" width=50% />
 <figcaption itemprop="caption">iPardalis | Dragon Strand Nursery</figcaption>
 </figure>
+
+---
 
 At about 4-6 weeks of age, we often move them into sterile [Dragon Strand](https://dragonstrand.com/) Nursery cages. This helps them develop faster and thrive post-shipment because we can closely monitor their health. UVB and heat are similar to hatchlings, but we add halogen puck lights to provide a bit more heat at this time. Feeding them at this age is a huge challenge. Some are a bit smaller and still prefer small prey, so you can't start feeding larger prey items to every one. You have to monitor their daily food consumption and figure out what they like to eat. Then, give them as much as they will eat in a single day, every day.
 {{< /faq >}}
