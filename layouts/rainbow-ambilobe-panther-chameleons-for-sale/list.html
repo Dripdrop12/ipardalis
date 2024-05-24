@@ -51,13 +51,15 @@
                               
                               {{ if .phenotype }}
                                 {{ if in .phenotype "Rainbow" }}
-                                  {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
-                                  <div class="col-md-4">
-                                    {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
-                                  </div>
-                                  {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                                  {{ if ne .listed false }}
+                                    {{ $.Scratch.Set "babycount" (add ($.Scratch.Get "babycount") 1) }}
+                                    <div class="col-md-4">
+                                      {{ partial "babies.html" (dict "context" . "hatchend" $hatchend "sire" $sire "dam" $dam "page" $.Page "filial" $filial "ageMonths" $ageMonths "scratch" $.Scratch) }}
                                     </div>
-                                    <div class="row">  
+                                    {{ if modBool ($.Scratch.Get "babycount") 3 }}
+                                      </div>
+                                      <div class="row">  
+                                    {{ end }}
                                   {{ end }}
                                 {{ end }}
                               {{ else }}

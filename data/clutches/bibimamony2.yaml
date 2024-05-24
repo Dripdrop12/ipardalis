@@ -28,16 +28,19 @@ babies:
   price: 549
   sold: true
   reserved: true
+  listed: false
 - name: F1
   gender: Female
   image: /img/babies/20230916/F1
   price: 449
   sold: true
+  listed: false
 - name: F2
   gender: Female
   image: /img/babies/20230916/F2
   price: 399
   sold: true
+  listed: false
 - name: F3
   gender: Female
   image: /img/babies/20230916/F3
