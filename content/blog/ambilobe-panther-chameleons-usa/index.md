@@ -1,6 +1,6 @@
 +++
-title = "Captive Bred Ambilobe Panther Chameleons"
-header_title = "iPardalis | Captive Bred Ambilobe Panther Chameleons"
+title = "Complete Guide to Ambilobe Panther Chameleons"
+header_title = "Complete Guide to Ambilobe Panther Chameleons | iPardalis"
 description = "This article discusses captive-bred Ambilobe Panther Chameleons (Furcifer pardalis) in the United States. It is a complex story which begins with 'Picasso' Panther Chameleons in the year 2000."
 date = "2024-03-15"
 categories = ["ethics", "genetics"]

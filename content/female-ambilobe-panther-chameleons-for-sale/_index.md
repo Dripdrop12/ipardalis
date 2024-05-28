@@ -20,11 +20,32 @@ id = "available"
 ### How can you tell if a Panther Chameleon is a female? 
 Female Panther Chameleons have a flat tail base immediately following their cloacal opening. Their rostral appendage is not as developed as a males'. Females tend to be about half the size of a male as adults, and their coloring is drastically different (see next question).
 
+### How Long do Panther Chameleons live? 
+
+- **Male Panther Chameleon Life Expectancy**: 5 - 12 years
+- **Female Panther Chameleon Life Expectancy**: 4 - 7 years
+
+In captivity, female Panther Chameleons live between three and six years. In the wild, it is rare for individuals to live longer than two or three years due to predation, extreme weather events, and harsh conditions. Advances in husbandry are extending their lifespans compared to five years ago.
+
+#### What factors influence a Panther Chameleon's lifespan?
+
+Several factors influence the lifespan of a Panther Chameleon. Diet plays a pivotal role; a well-balanced nutrition plan, including a good gut loading strategy, with appropriate supplementation contributes to overall health. The quality of the habitat is crucial—maintaining optimal conditions, including temperature, humidity, and UVB lighting, directly impacts their well-being. Stress is a significant factor; minimizing disturbances and providing proper handling positively influences lifespan. Regular veterinary check-ups help detect and address potential health issues early on. In captivity, these considerations collectively contribute to extending the lifespan of a Panther Chameleon beyond what is typically observed in the wild.
+
+#### Why do male and female Panther Chameleon have a different lifespan?
+
+Male and female Panther Chameleons have slightly different lifespans mainly due to the impact of reproductive processes. Females often experience shorter lives, influenced by the energy-intensive activities of breeding and egg-laying. They are also very eager eaters and prone to obesity in captivity.
+
+### What are the signs of aging in Panther Chameleons?
+
+Signs of aging in Panther Chameleons include changes in appetite, decreased activity levels, and alterations in coloration. As they age, some chameleons may exhibit reduced vibrancy in their markings. Regular veterinary check-ups become crucial to monitor and address age-related health issues. You may need to accommodate the evolving needs of your aging Panther Chameleons and ensure their well-being with more branches or frequent misting sessions. Jude needs the water to come to him a bit more than he did when he was younger.
+
+### How do I ensure my Panther Chameleon reaches maximum life expectancy?
+
+Check out [The Chameleon Academy](https://chameleonacademy.com/podcasts/) and learn about the latest husbandry techniques if you want to join us and shoot for that upper limit! We have not had enough chameleons living under controlled conditions with natural sources of hydration long enough to know what that top limit actually is.
+
+## Female Panther Chameleons as Pets
 ### What color are female Panther Chameleons? 
 Female Panther Chameleons are typically pastel orange, peach, purple, and pink with a tan to brown base and some banding along their bodies. They often have small splashes of color on their cheeks and body. When receptive, they can exhibit a stunning array of colors, including yellow, blue, purple, pink, or orange. However, their hues tend to be more pastel compared to the solid shades seen in males.
-
-### How Long do Female Panther Chameleons live? 
-In captivity, female Panther Chameleons live between three and six years. In the wild, it is rare for individuals to live longer than two or three years due to predation, extreme weather events, and harsh conditions. Advances in husbandry are extending their lifespans compared to five years ago. 
 
 ### Do Female Panther Chameleons change color? 
 Absolutely! Female Panther Chameleons change color for communication, similar to males. When receptive, they exhibit a stunning array of pastel colors. Another significant color change occurs when they are gravid (pregnant), with resting colors darkening, and they may turn pitch black and gape their mouths when encountering a male to signal pregnancy.
