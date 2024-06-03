@@ -75,10 +75,20 @@ get_raw_clutch_df <- function(clutch_dir, listed) {
 
 fix_listings <- function(new_canonical="/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m4/", listing_dir="content/panther-chameleons-for-sale"){
   for (file in dir_ls(listing_dir, recurse = T, type = "file")) {
+    if (file == "content/panther-chameleons-for-sale/_index.md") next
     txt <- read_lines(file)
     sold_loc <- str_which(txt, "baby_sold")
     priority_loc <- str_which(txt, "priority")
     canon_loc <- str_which(txt, "canonical_link")
+    
+    if (!any(str_detect(txt, "priority"))) {
+      priority_loc <- str_which(txt, "---")[2]-1
+      txt <- append(txt, c("sitemap:", "  priority: 0.0"), priority_loc)
+      txt <- append(txt, paste0("canonical_link: ", new_canonical), priority_loc)
+      print(paste(file, "is updated"))
+      write_lines(txt, file)
+      next
+    }
     
     if (any(str_detect(txt, "baby_sold")) && str_detect(txt[sold_loc], regex("true", ignore_case = T))) {
       print(paste(file, "is updated"))

@@ -51,17 +51,30 @@ This article dynamically pulls our chameleon breeding data, updating the tables,
 
 ```{r}
 #| echo: FALSE
-dam_plot <- distinct_clutches %>%
+dam_df <- distinct_clutches %>%
+  group_by(dam) %>%
+  mutate(
+    clutch_count = seq_along(laid),
+    year = lubridate::year(laid)
+  )
+
+
+dam_plot <- dam_df %>%
   plot_ly(
     x = ~laid,
-    y = ~clutchsize,
-    text = ~glue::glue("{clutchsize}: {sire} x {dam} <br>laid: {laid}"),
+    y = ~clutch_count,
+    color = ~dam,
+    size = ~clutchsize,
+    text = ~glue::glue("Clutch Size: {clutchsize} <br>Pairing: {sire} x {dam} <br>laid: {laid}"),
     hoverinfo = "text",
-    color = ~dam
+    type = "scatter",
+    mode = "lines+markers"
   ) %>%
   layout(
+    showlegend = FALSE,
+    title = "Clutches Grouped by Dam",
     xaxis = list(title="Clutch Laid (date)"),
-    yaxis = list(title="Clutch Size")
+    yaxis = list(title="Clutch Count")
   )
 htmlwidgets::saveWidget(widget = dam_plot,
                         file = here("static/plot/dam_plot.html"),
