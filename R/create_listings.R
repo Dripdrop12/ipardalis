@@ -98,6 +98,7 @@ create_listings <- function(
       write_lines(glue("{listing_dir}/{baby['babies-name'][[1]]}.md"), append = !overwrite)
   }
   if (watermark) purrr::map(fs::path("static", fs::path_dir(new_listings$Photo_Urls) %>% unique), watermark_dir)
+  fix_listings()
 }
 
 delete_item <- function(txt, key) {
