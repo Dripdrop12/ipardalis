@@ -47,7 +47,7 @@ gen_morph_market <- function(
         age_months >= 2 ~ "Juvenile"
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
-      Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), "
+      Desc = paste0(Title, " (", Animal_Id, ") - ", desc, ifelse("babies-desc" %in% colnames(.), `babies-desc`, ""), "
       We've included sire and dam dendrograms, but you can search for ", sire, " or ", dam, " on our website for 5+ generations of lineage!"),
       Origin = "Self Produced",
       Proven_Breeder = "No",
