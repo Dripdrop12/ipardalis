@@ -72,7 +72,7 @@ gen_morph_market <- function(
   morph_market_df <- readr::read_csv(morph_market_export)
   
   out <- sync_morph_market(clutch_df, morph_market_df) 
-  
+  on.exit(upload_df <<- out)
   write.csv(out, file_name, row.names = FALSE)
 }
 
