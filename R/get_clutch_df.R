@@ -26,7 +26,7 @@ get_clutch_df <- function(clutch_dir = here::here("data/clutches/"), listed = TR
         age_months >= 2 ~ "Juvenile"
       ),
       Traits = str_replace(`babies-phenotype`, "Rainbow", "Classic"),
-      Desc = str_squish(paste0(Title, " from ", str_to_title(sire), " and ", str_to_title(dam), ". ", desc, ifelse(is.na(`babies-desc`), "", `babies-desc`), " We've included sire and dam dendrograms if available, but you can view our ", str_to_title(sire), " or ", str_to_title(dam), " breeder pages for more information.")),
+      Desc = str_squish(paste0(Title, " from ", str_to_title(sire), " and ", str_to_title(dam), ". ", desc, ifelse("babies-desc" %in% colnames(.), `babies-desc`, ""), " We've included sire and dam dendrograms if available, but you can view our ", str_to_title(sire), " or ", str_to_title(dam), " breeder pages for more information.")),
       Photo_Urls = glue("{ifelse(is.na(`babies-image`), list(`babies-images`), `babies-image`)}.jpg"),
       site_priority = case_when(
         is.na(`babies-primary`) ~ "0.0",
