@@ -80,7 +80,6 @@ create_listings <- function(
         args = glue::glue(" -q 100 {img_path}.jpg -o {img_path}.webp"))
     }
     
-    
     baby %>% 
       mutate(draft = draft, base_price = base_price) %>%
       glue_data(
