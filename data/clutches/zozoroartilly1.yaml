@@ -33,5 +33,6 @@ babies:
   image: /img/babies/20230711/M4_4
   price: 549
   primary: true
+  sold: true
 
 

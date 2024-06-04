@@ -85,16 +85,16 @@ fix_listings <- function(new_canonical="/panther-chameleons-for-sale/zozoro/arti
       priority_loc <- str_which(txt, "---")[2]-1
       txt <- append(txt, c("sitemap:", "  priority: 0.0"), priority_loc)
       txt <- append(txt, paste0("canonical_link: ", new_canonical), priority_loc)
-      print(paste(file, "is updated"))
       write_lines(txt, file)
+      print(paste(file, "is updated"))
       next
     }
     
     if (any(str_detect(txt, "baby_sold")) && str_detect(txt[sold_loc], regex("true", ignore_case = T))) {
-      print(paste(file, "is updated"))
       txt[priority_loc] <- "  priority: 0.0"
       txt[canon_loc] <- paste0("canonical_link: ", new_canonical)
       write_lines(txt, file)
+      print(paste(file, "is updated"))
     } 
   }
 }

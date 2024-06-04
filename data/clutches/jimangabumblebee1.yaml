@@ -26,16 +26,16 @@ babies:
   gender: Male
   image: /img/babies/20230710/M6_1
   price: 499
+  primary: true
 - name: M7
   gender: Male
   image: /img/babies/20230710/M7_1
   price: 549
-  primary: true
+  sold: true
 - name: M4
   gender: Male
   image: /img/babies/20230710/M4_2
   price: 499
-  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20230710/M2_2

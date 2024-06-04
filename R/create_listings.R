@@ -98,7 +98,7 @@ create_listings <- function(
       write_lines(glue("{listing_dir}/{baby['babies-name'][[1]]}.md"), append = !overwrite)
   }
   if (watermark) purrr::map(fs::path("static", fs::path_dir(new_listings$Photo_Urls) %>% unique), watermark_dir)
-  fix_listings(new_canonical = "/panther-chameleons-for-sale/zozoro/artilly/2023-08-03/m4/")
+  fix_listings(new_canonical = "/panther-chameleons-for-sale/bibi/pepita/2023-09-21/m5/")
 }
 
 delete_item <- function(txt, key) {
