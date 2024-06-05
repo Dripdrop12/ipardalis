@@ -9,7 +9,7 @@ id = "available"
 
 > **Automatic volume discounts on 2+ animals**
 
-## Frequently Asked Questions about Female Panther Chameleons
+## Frequently Asked Questions about our Female Panther Chameleons for sale
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/ambilobe/patch/patch.jpg" alt="Patch - Panther Chameleon Female" width=31% />
