@@ -3,7 +3,7 @@
     <div class="row">
       {{ if isset .Site.Params "about_us" }}
       <div class="col-4 col-md-4 col-sm-6">
-          <h4><a style="color:#eeeeee;" href="/aboutus/">{{ i18n "aboutUs" }}</a></h4>
+          <h4 style="color:#eeeeee;">{{ i18n "aboutUs" }}</h4>
           {{ .Site.Params.about_us | safeHTML }}
           <hr class="hidden-md hidden-lg">
       </div>
@@ -43,10 +43,10 @@
     {{ if isset .Site.Params "address" }}
     <div class="col-4 col-md-4 col-sm-6">
       <h4>{{ i18n "orderTitle" }}</h4>
-        {{ .Site.Params.address | markdownify }}
-        <h4><a style="color:#eeeeee;" href="/panther-chameleons-for-sale">Orders</a></h4>
-        <h5><a style="color:#eeeeee;" href="/tos/">Terms of Service</a></h5>
-        <h5><a style="color:#eeeeee;" href="/faq/">FAQ</a></h5>
+      {{ .Site.Params.address | markdownify }}
+      <h4><a style="color:#eeeeee;" href="/panther-chameleons-for-sale">Orders</a></h4>
+      <h5><a style="color:#eeeeee;" href="/tos/">Terms of Service</a></h5>
+      <h5><a style="color:#eeeeee;" href="/faq/">FAQ</a></h5>
     </div>
     <!-- /.col-md-4 -->
     {{ end }}

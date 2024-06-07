@@ -277,7 +277,7 @@ paginate = 10
     email = "jon.mark.hill@ipardalis.com"
     telephone = "585-967-5007"
 
-    about_us = "<p>We are chameleon breeders located in Poolesville, Maryland. iPardalis stands for Individually-raised Panther Chameleons, and we were the first Panther Chameleon Breeder to commit to raising our chameleons individually in 2015. Now, we are working with our 7th generation of Ambilobe and 2nd gen of Furcifer minor (Lesser Chameleons). As lifelong reptile keepers, we hold memberships in Responsible Reptile Keeping, Wildlife Madagascar, and USARK and we sponsor Reptifiles and the Chameleon Forums.</p>"
+    about_us = "<p>As lifelong reptile keepers, we hold memberships in Responsible Reptile Keeping, Wildlife Madagascar, and USARK and we sponsor Reptifiles and the Chameleon Forums. We support our industry, conservation, education and husbandry research. We strive to be transparent and always act with integrity.</p>"
     copyright = "Copyright (c) 2024, iPardalis, LLC; all rights reserved."
     copyright_year = "2024"
 
@@ -289,7 +289,6 @@ paginate = 10
     logo_small = "img/logo.png"
     favicon_google = "img/android-chrome-192x192.png"
     address = """<p><strong>Jonathan Mark Hill</strong>
-        <br>Panther Chameleon Breeder
         <br>iPardalis, LLC
         <br>Poolesville, MD 20837
         <br>585-967-5007
