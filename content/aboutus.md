@@ -1,8 +1,8 @@
 +++
 title = "iPardalis | Small Batch Panther Chameleon Breeder"
-header_title = "iPardalis | About Us | Individually-raised Panther Chameleons (Furcifer pardalis)"
+header_title = "iPardalis | About Us | Individually-raised Panther Chameleons "
 url = "/aboutus/"
-description = "iPardalis (individually-raised pardalis) is a small batch Panther Chameleon breeding company founded in 2015 with the goal of individually raising Furcifer pardalis (Panther Chameleons)."
+description = "iPardalis (individually-raised pardalis) is a small batch Panther Chameleon breeding company founded in 2015 with the goal of individually raising Panther Chameleons."
 home = true
 banner = "img/ambilobe/taiyang/taiyang6"
 +++
@@ -13,11 +13,11 @@ banner = "img/ambilobe/taiyang/taiyang6"
 </figure>
 <hr>
 
-iPardalis (individually-raised pardalis) is a Panther Chameleon breeding company founded in 2015 with the goal of proving that ethical rearing practices of Furcifer pardalis (Panther Chameleons) can be profitable. We are proud to have been there on the ground pushing for this shift in the industry, after listening to Bill Strand's [Chameleon Academy Podcast](https://chameleonacademy.com/podcasts/), and things have come a long way since then. 
+iPardalis (individually-raised pardalis) is a Panther Chameleon breeding company founded in 2015 with the goal of proving that ethical rearing practices of Panther Chameleons can be profitable. We are proud to have been there on the ground pushing for this shift in the industry, after listening to Bill Strand's [Chameleon Academy Podcast](https://chameleonacademy.com/podcasts/), and things have come a long way since then. 
 
 [Why should you individually-raise Panther Chameleons?]({{< ref "/raising-baby-panther-chameleons.md" >}})
 
-Individually-raised Panther Chameleons (Furcifer pardalis) are some of the most brilliant, colorful animals from Madagascar. Panther Chameleons are a good beginning species of chameleon, which can open a whole new chapter in your life with nature. Searching for a reptile with a rainbow hue? You've come to the right location.
+Individually-raised Panther Chameleons are some of the most brilliant, colorful animals from Madagascar. Panther Chameleons are a good beginning species of chameleon, which can open a whole new chapter in your life with nature. Searching for a reptile with a rainbow hue? You've come to the right location.
 
 We specialize in yellow body blue bar (YBBB) Ambilobe Panther Chameleons. Our female YBBB Ambilobe are highly coveted as founding stock animals in the industry due to their vibrant color, robustness, and trustworthy lineage. Despite the lower market value of female panther chameleons often leading to inadequate rearing, we ensure our females receive the same level of care as our hold back males.
 
