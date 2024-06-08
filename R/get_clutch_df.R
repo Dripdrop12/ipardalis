@@ -43,7 +43,8 @@ get_clutch_df <- function(clutch_dir = here::here("data/clutches/"), listed = TR
     left_join(canonical_links, by = c("sire", "dam", "hatchend")) %>%
     mutate(
       site_priority = ifelse(is.na(canonical), "0.5", site_priority),
-      canonical = ifelse(is.na(canonical), glue("/panther-chameleons-for-sale/{sire}/{dam}/{`hatchend`}/{`babies-name`}/"), canonical)
+      canonical = ifelse(is.na(canonical), glue("/panther-chameleons-for-sale/{sire}/{dam}/{`hatchend`}/{`babies-name`}/"), canonical),
+      canonical = ifelse(site_priority=="0.5", "", canonical)
     )
   clutch_df
 }
