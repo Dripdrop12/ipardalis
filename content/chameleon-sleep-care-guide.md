@@ -1,12 +1,12 @@
 +++
 title = "Chameleon Sleep Care Guide"
 header_title = "Chameleon Sleep Care Guide"
-description = "Understanding the sleep patterns, like a chameleon sleeping during the day, and needs of your chameleon is a crucial skill. This guide addresses common questions and provides tips on ensuring your chameleon gets the rest it needs."
+description = "Understanding the sleep patterns of sleeping chameleons, like a chameleon sleeping during the day, and needs of your chameleon is a crucial skill. This guide addresses common questions and provides tips on ensuring your chameleon gets the rest it needs."
 home = true
 banner = "img/banners/chameleonsleeping"
 +++
 
-Understanding the sleep patterns, like a chameleon sleeping during the day, and needs of your chameleon is a crucial skill. This guide addresses common questions and provides tips on ensuring your chameleon gets the rest it needs.
+Understanding the sleep patterns of sleeping chameleons, like a chameleon sleeping during the day, and needs of your chameleon is a crucial skill. This guide addresses common questions and provides tips on ensuring your chameleon gets the rest it needs.
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
 <img itemprop="contentUrl" src="/img/banners/chameleonsleeping.jpg" alt="Panther Chameleon Sleeping | Chameleon Sleep Care Guide" width=75% />
