@@ -44,6 +44,7 @@ babies:
   image: /img/babies/20230921/M5_6
   price: 599
   primary: true
+  phenotype: Rainbow Ambilobe
 - name: M6
   gender: Male
   image: /img/babies/20230921/M6_4
