@@ -49,4 +49,5 @@ babies:
   image: /img/babies/20230710/M5_4
   price: 649
   primary: true
+  sold: true
 
