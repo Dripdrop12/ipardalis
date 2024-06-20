@@ -13,7 +13,7 @@ clutchsize: 17
 deposit: false
 reservedmale: 4
 totalmale: 4
-reservedfemale: 1
+reservedfemale: 0
 totalfemale: 5
 soldout: false
 soldoutmale: true
