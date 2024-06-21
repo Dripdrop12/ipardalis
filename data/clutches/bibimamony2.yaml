@@ -45,12 +45,14 @@ babies:
   gender: Female
   image: /img/babies/20230916/F3
   price: 349
+  sold: true
 - name: F4
   gender: Female
   image: /img/babies/20230916/F4
   price: 449
-  primary: true
+  sold: true
 - name: F5
   gender: Female
   image: /img/babies/20230916/F5
   price: 349
+  primary: true
