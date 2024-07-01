@@ -5,8 +5,8 @@ filial: F2-CG14
 desc: |
   Some fresh genetics from the Colorado Chameleon WC Arlo line combined with a female from Chromatic Chameleons. A great combination unrelated to anything we have!
 laid: 2022-10-09
-hatchstart: 2023-08-12
-hatchend: 2023-08-15
+hatchstart: 2023-10-12
+hatchend: 2023-11-15
 shipping: 3 months after hatch
 hatchnum: 8
 clutchsize: 20
@@ -15,10 +15,15 @@ reservedmale: 0
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 399
 femaleprice: 349
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20231115/M1
+  price: 549
+  primary: true
