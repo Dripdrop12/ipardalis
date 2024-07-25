@@ -5,18 +5,18 @@ filial: F3-CG15
 desc: |
   Throwback Papafee clutch with a very well proven female - probably the last ever Papafee clutch
 laid: 2023-10-31
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2024-07-02
+hatchend: 2024-07-04
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 26
 clutchsize: 26
-deposit: false
-reservedmale: 0
+deposit: true
+reservedmale: 5
 totalmale: 5
-reservedfemale: 0
+reservedfemale: 1
 totalfemale: 5
 soldout: false
-soldoutmale: false
+soldoutmale: true
 soldoutfemale: false
 maleprice: 449
 femaleprice: 349

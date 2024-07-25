@@ -15,7 +15,7 @@ reservedmale: 3
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: true
+listed: false
 soldout: false
 soldoutmale: false
 soldoutfemale: false
@@ -26,6 +26,7 @@ babies:
   gender: Male
   image: /img/babies/20230710/M6_3
   price: 549
+  sold: true
 - name: M7
   gender: Male
   image: /img/babies/20230710/M7_1
