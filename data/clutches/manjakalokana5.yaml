@@ -26,4 +26,4 @@ babies:
   gender: Male
   image: /img/babies/20231115/M1
   price: 549
-  primary: true
+  sold: true
