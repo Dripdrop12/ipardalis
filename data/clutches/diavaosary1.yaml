@@ -25,8 +25,14 @@ babies:
 - name: M2
   gender: Male
   image: /img/babies/20230629/M2_1
+  price: 449
+  phenotype: YBBB Ambilobe
+- name: M5
+  gender: Male
+  image: /img/babies/20230629/M5_4
   price: 549
   phenotype: YBBB Ambilobe
+  primary: true
 
 
 

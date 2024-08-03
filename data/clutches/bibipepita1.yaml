@@ -10,7 +10,7 @@ shipping: 3 months after hatch
 hatchnum: 28
 clutchsize: 29
 deposit: false
-listed: false
+listed: true
 reservedmale: 1
 totalmale: 5
 reservedfemale: 0
@@ -29,10 +29,9 @@ babies:
   listed: false
 - name: M3
   gender: Male
-  image: /img/babies/20230921/M3_3
-  price: 549
-  sold: true
-  listed: false
+  image: /img/babies/20230921/M3_5
+  price: 649
+  phenotype: Rainbow Ambilobe
 - name: M4
   gender: Male
   image: /img/babies/20230921/M4_4
@@ -43,12 +42,16 @@ babies:
   gender: Male
   image: /img/babies/20230921/M5_6
   price: 599
-  primary: true
+  listed: false
   phenotype: Rainbow Ambilobe
   sold: true
 - name: M6
   gender: Male
   image: /img/babies/20230921/M6_4
-  price: 549
+  price: 699
+  primary: true
+- name: M8
+  gender: Male
+  image: /img/babies/20230921/M8
+  price: 899
   sold: true
-
