@@ -32,6 +32,11 @@ babies:
   image: /img/babies/20230629/M5_4
   price: 549
   phenotype: YBBB Ambilobe
+- name: M6
+  gender: Male
+  image: /img/babies/20230629/M6_3
+  price: 749
+  phenotype: Rainbow Ambilobe
   primary: true
 
 
