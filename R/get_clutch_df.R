@@ -6,7 +6,7 @@ get_clutch_df <- function(clutch_dir = here::here("data/clutches/"), listed = TR
         true = "YBBB Ambilobe",
         false = `babies-phenotype`
       ),
-      age_months = interval(hatchend, today()) %/% months(1) + 1,
+      age_months = interval(hatchend, today()) %/% months(1),
       Group_Id = str_replace_all(paste0(sire, "-", dam, "-", hatchend), " ", "-"),
       Animal_Id = str_replace_all(paste0(`babies-name`, "-", Group_Id), " ", "-"),
       Title = paste0(

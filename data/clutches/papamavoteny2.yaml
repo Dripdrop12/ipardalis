@@ -11,6 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 19
 clutchsize: 26
 deposit: true
+listed: true
 reservedmale: 5
 totalmale: 5
 reservedfemale: 1
@@ -21,4 +22,40 @@ soldoutfemale: false
 maleprice: 449
 femaleprice: 299
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20240519/M1
+  price: 599
+  sold: true
+  reserved: true
+- name: M2
+  gender: Male
+  image: /img/babies/20240519/M2
+  price: 449
+  sold: true
+  reserved: true
+- name: M3
+  gender: Male
+  image: /img/babies/20240519/M3
+  price: 699
+  primary: true
+  sold: true
+  reserved: true
+- name: M4
+  gender: Male
+  image: /img/babies/20240519/M4
+  price: 499
+  sold: true
+  reserved: true
+- name: M5
+  gender: Male
+  image: /img/babies/20240519/M5
+  price: 599
+  sold: true
+  reserved: true   
+- name: M6
+  gender: Male
+  image: /img/babies/20240519/M6
+  price: 449
+  sold: true
+  reserved: true
