@@ -27,41 +27,30 @@ babies:
   image: /img/babies/20240519/M1
   price: 599
   sold: true
-  reserved: true
 - name: M2
   gender: Male
   image: /img/babies/20240519/M2
   price: 449
-  sold: true
-  reserved: true
 - name: M3
   gender: Male
   image: /img/babies/20240519/M3
   price: 699
   primary: true
   sold: true
-  reserved: true
 - name: M4
   gender: Male
   image: /img/babies/20240519/M4
   price: 499
   sold: true
-  reserved: true
 - name: M5
   gender: Male
   image: /img/babies/20240519/M5
   price: 599
-  sold: true
-  reserved: true   
 - name: M6
   gender: Male
   image: /img/babies/20240519/M6
   price: 449
-  sold: true
-  reserved: true
 - name: M7
   gender: Male
   image: /img/babies/20240519/M7
   price: 449
-  sold: true
-  reserved: true
