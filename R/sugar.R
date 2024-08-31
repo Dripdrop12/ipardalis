@@ -6,17 +6,17 @@ require(dplyr)
 source("R/create_lineage_post.R")
 
 create_lineage_post(
-  breeder = "zor",
-  birth = "2023-01-24",
-  sex = "male",
-  tags = c("zor", "zozoro", "artalla", "arti", "alla", "gold-rush"),
-  filial = "F4-CG14",
+  breeder = "Sugar",
+  birth = "2023-06-01",
+  sex = "female",
+  tags = c("mara", "zandrin", "nugget", "sammy"),
+  filial = "F4-CG15",
   sire = list(
-    name = "zozoro",
+    name = "Zandrin",
     loc = ""
   ),
   dam = list(
-    name = "artalla",
+    name = "Mara",
     loc = ""
   )
 )

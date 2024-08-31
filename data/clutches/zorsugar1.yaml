@@ -1,0 +1,41 @@
+sire: zor
+dam: sugar
+image: /img/ambilobe/zorsugar
+filial: F5-CG16
+desc: |
+  A fun cb group from our rainbow ybbb, Zor and Zandrin's daughter, Sugar.
+laid: 2024-01-21
+hatchstart: 2024-08-31
+hatchend: Not yet
+shipping: 3 months after hatch
+hatchnum: 23
+clutchsize: 23
+deposit: true
+listed: false
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 499
+femaleprice: 449
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20230828/M1_3
+  price: 499
+  sold: true
+- name: M2
+  gender: Male
+  image: /img/babies/20230828/M2_1
+  price: 549
+  primary: true   
+- name: M4
+  gender: Male
+  image: /img/babies/20230828/M4_1
+  price: 599
+  sold: true
+ 
+

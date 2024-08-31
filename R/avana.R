@@ -3,7 +3,7 @@ require(fs)
 require(glue)
 require(readr)
 require(dplyr)
-source("R/clean_ancestor_report.R")
+source("R/create_lineage_post.R")
 
 create_lineage_post(
   breeder = "avana",

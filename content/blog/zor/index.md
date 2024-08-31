@@ -2,16 +2,16 @@
 title = "Zor"
 date = "2023-01-24"
 tags = ["zor", "zozoro", "artalla", "arti", "alla", "gold-rush"]
-categories = ["retired-pardalis"]
+categories = ["ambilobe-sires"]
 banner = "img/ambilobe/zor/zor4"
 +++
 
 {{< load-photoswipe >}}
 
-Zor is a great YBBB we produced with our Kammerflage male from Gold Rush named [Zozoro]({{< ref "/blog/zozoro/index.md" >}}). We paired him to our gorgeous female from Arti x Alla, [Artalla]({{< ref "/blog/artalla/index.md" >}}). He brings some great baby blue bars and a lime green to yellow body. We only paired him a few times before letting him go to his forever home.
+Zor was one of the nicest males we produced with Zozoro and Artalla. He had vibrant yellows and blues. However, we did not keep him long term because of the reds in his face and the small amount of red in his body. We have seen this marking before and it usually indicates more of an orangish yellow long term, not our signature clean yellow body. He was gorgeous though, so we did pair him up once for genetic diversity and to see if we can clean that up in the next gen.
 
 
-{{< no_num_gallery dir="/img/ambilobe/zor" more=" | Male Ambilobe Panther Chameleon"/>}}
+{{< no_num_gallery dir="/img/ambilobe/zor" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F4-CG14*
@@ -33,7 +33,9 @@ Dam
     </div>
     <h3>Generation 1</h3>
     <img align="right" alt="" border="0" src="iszor4.jpg" />
-    <p>1. <strong>Zor (F4-CG14). </strong>Zor was born on 2023-01-24 at iPardalis.  He is the son of Zozoro (F3-CG13) and Artalla (F4-CG13). </p>
+    <p>1. <strong>Zor (F4-CG14). </strong>Zor was born on 2023-01-24 at iPardalis.  He is the son of Zozoro (F3-CG13) and Artalla (F4-CG13). He had a relationship with Sugar (F4-CG15). </p>
+    <p />Relationship with: Sugar (F4-CG15).</p>
+    <p>Sugar was born on 2023-06-01 at iPardalis.  She is the daughter of Zandrin (F4-CG14) and Mara (F3). </p>
     <h3>Generation 2</h3>
     <img align="right" alt="" border="0" src="iszozoro2.jpg" />
     <p>2. <strong>Zozoro (F3-CG13). </strong>Zozoro was born on 2021-10-06 at Kammerflage Kreations.  He is the son of Au-mirongatra (Gold Rush) (F9-CG12) and Ankoso-bolamena (Goldie) (F2-CG12). He married Artalla (F4-CG13). </p>

@@ -129,7 +129,7 @@ add_birth_date <- function(txt, birth) {
 }
 
 add_title <- function(txt, breeder) {
-  title_loc <- str_which(txt, "title = ")
+  title_loc <- str_which(txt, "title = 'Arti'")
   txt[title_loc] <- glue("title = \"{str_to_title(breeder)}\"")
   
   return(txt)
