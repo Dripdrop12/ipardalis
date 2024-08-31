@@ -1,5 +1,5 @@
 +++
-title = "Haiyang (WC) | Ambilobe Panther Chameleon"
+title = "Haiyang (WC)"
 header_title = "Wild Caught Ambilobe Panther Chameleon | Haiyang (WC)"
 date = "2023-10-02"
 tags = ["haiyang"]
