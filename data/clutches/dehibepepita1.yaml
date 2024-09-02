@@ -1,0 +1,58 @@
+sire: dehibe
+dam: pepita
+image: /img/ambilobe/dehibepepita
+filial: F5-CG15
+desc: First Dehibe clutch with our 5th gen female from Papafee x Coco.
+laid: 2023-11-01
+hatchstart: 2024-08-02
+hatchend: 2024-08-11
+shipping: 3 months after hatch
+hatchnum: 23
+clutchsize: 23
+deposit: true
+listed: false
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 449
+femaleprice: 349
+babies:
+- name: M7
+  gender: Male
+  image: /img/babies/20230921/M7
+  price: 425
+  sold: true
+  listed: false
+- name: M3
+  gender: Male
+  image: /img/babies/20230921/M3_5
+  price: 649
+  phenotype: Rainbow Ambilobe
+  sold: true
+- name: M4
+  gender: Male
+  image: /img/babies/20230921/M4_4
+  price: 449
+  sold: true
+  listed: false
+- name: M5
+  gender: Male
+  image: /img/babies/20230921/M5_6
+  price: 599
+  listed: false
+  phenotype: Rainbow Ambilobe
+  sold: true
+- name: M6
+  gender: Male
+  image: /img/babies/20230921/M6_4
+  price: 699
+  primary: true
+- name: M8
+  gender: Male
+  image: /img/babies/20230921/M8
+  price: 899
+  sold: true
