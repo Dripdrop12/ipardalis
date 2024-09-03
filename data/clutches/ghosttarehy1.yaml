@@ -15,11 +15,16 @@ reservedmale: 1
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: false
 soldoutfemale: false
 maleprice: 449
 femaleprice: 399
 babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20240128/M1
+  price: 399
+  primary: true
 

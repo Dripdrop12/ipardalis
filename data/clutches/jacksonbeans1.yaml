@@ -15,7 +15,7 @@ reservedmale: 4
 totalmale: 4
 reservedfemale: 0
 totalfemale: 5
-listed: false
+listed: true
 soldout: false
 soldoutmale: true
 soldoutfemale: false
@@ -26,16 +26,24 @@ babies:
   gender: Male
   image: /img/babies/20230314/M1_1
   price: 399
-  desc: Crimped tail (doesn't curl into a perfect spiral) - marked down $50
   phenotype: Rainbow Ambilobe
   sold: true
+  listed: false
 - name: F1
   gender: Female
   image: /img/babies/20230314/F1
   price: 299
   sold: true
+  listed: false
 - name: F2
   gender: Female
   image: /img/babies/20230314/F2
   price: 325
   sold: true
+  listed: false
+- name: M2
+  gender: Male
+  image: /img/babies/20230314/M2_2
+  price: 399
+  phenotype: Rainbow Ambilobe
+  primary: true
