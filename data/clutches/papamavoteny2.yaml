@@ -55,6 +55,7 @@ babies:
   gender: Male
   image: /img/babies/20240519/M6
   price: 449
+  sold: true
 - name: M7
   gender: Male
   image: /img/babies/20240519/M7
