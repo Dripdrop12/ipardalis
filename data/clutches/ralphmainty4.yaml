@@ -26,35 +26,26 @@ babies:
   gender: Male
   image: /img/babies/20240507/M1_1
   price: 549
-  sold: true
-  reserved: true
   phenotype: RBBB Ambilobe
 - name: M2
   gender: Male
   image: /img/babies/20240507/M2_1
   price: 599
-  sold: true
-  reserved: true
   phenotype: RBBB Ambilobe
 - name: M3
   gender: Male
   image: /img/babies/20240507/M3
   price: 599
   sold: true
-  reserved: true
   phenotype: RBBB Ambilobe
 - name: M4
   gender: Male
   image: /img/babies/20240507/M4_1
   price: 549
-  sold: true
-  reserved: true
   phenotype: RBBB Ambilobe
 - name: M5
   gender: Male
   image: /img/babies/20240507/M5_1
   price: 599
   phenotype: RBBB Ambilobe
-  sold: true
-  reserved: true
   primary: true
