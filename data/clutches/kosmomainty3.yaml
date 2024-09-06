@@ -5,11 +5,12 @@ filial: unknown
 desc: |
   Another great RBBB x RBBB combo. We chose to pair Kosmo with Mainty long-term because of the way that his dark bars match up well with Bangheera's.
 laid: 2023-01-23
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2023-12-02
+hatchend: 2023-12-19
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 28
 clutchsize: 36
+listed: true
 deposit: false
 soldout: false
 soldoutmale: false
@@ -17,3 +18,49 @@ soldoutfemale: false
 maleprice: 449
 femaleprice: 349
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20231219/F1_3
+  price: 399
+  phenotype: RBBB Ambilobe
+- name: F2
+  gender: Female
+  image: /img/babies/20231219/F2
+  price: 349
+  phenotype: RBBB Ambilobe
+- name: F3
+  gender: Female
+  image: /img/babies/20231219/F3_2
+  price: 325
+  phenotype: RBBB Ambilobe
+- name: F4
+  gender: Female
+  image: /img/babies/20231219/F4
+  price: 399
+  phenotype: RBBB Ambilobe
+- name: F5
+  gender: Female
+  image: /img/babies/20231219/F5_3
+  price: 499
+  phenotype: RBBB Ambilobe
+- name: F6
+  gender: Female
+  image: /img/babies/20231219/F6_3
+  price: 499
+  phenotype: RBBB Ambilobe
+- name: F7
+  gender: Female
+  image: /img/babies/20231219/F7_1
+  price: 349
+  phenotype: RBBB Ambilobe
+- name: F8
+  gender: Female
+  image: /img/babies/20231219/F8_4
+  price: 599
+  phenotype: RBBB Ambilobe
+  primary: true
+- name: F9
+  gender: Female
+  image: /img/babies/20231219/F9_3
+  price: 549
+  phenotype: RBBB Ambilobe
