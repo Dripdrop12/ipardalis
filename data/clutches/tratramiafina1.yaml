@@ -1,0 +1,30 @@
+sire: tratra
+dam: miafina
+image: /img/ambilobe/tratramiafina
+filial: F1
+desc: |
+  True F1 Panther Chameleon. However, it looks like Miafina was mislabeled and was actually a WC Ambanja, so these are likely 50/50 Ambilobe x Ambanja crosses.
+laid: 2023-05-06
+hatchstart: 2024-02-08
+hatchend: 2024-02-11
+shipping: 3 months after hatch
+hatchnum: 10
+clutchsize: 18
+deposit: false
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+listed: true
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 449
+femaleprice: 325
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20240211/M1_2
+  price: 399
+  phenotype: Rainbow Ambilobe
+  desc: We believe this animal is a 50/50 Ambilobe x Ambanja. The teals on his legs and spine and the vibrant reds in his bars as well as his rostrum are tell-tale Ambanja traits.
