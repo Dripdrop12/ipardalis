@@ -63,12 +63,12 @@
                           
                           <p data-intro="Press this button and checkout to place an order. It automatically calculates tax and shipping, FedEx Priority Overnight.<br><br>We love local pick up if you are in the Maryland, DC and Virginia area! Select 'Customer Pickup' at checkout.<br><br>If you add 2 animals to your cart, it takes $50 off. At 4 or more, it starts to take $150 off.">
                             {{ if .Params.baby_sold }} 
-                              <button type="submit" class="btn btn-danger disabled">
+                              <button class="btn btn-danger disabled" disabled>
                                 <i class="fa fa-truck"></i> Sold Out 
                               </button>
                               
                             {{ else if .Params.baby_reserved }}
-                              <button type="submit" class="btn btn-danger disabled">
+                              <button class="btn btn-danger disabled" disabled>
                                 <i class="fa fa-grin-hearts"></i> Reserved 
                               </button>
                             {{ else }}
