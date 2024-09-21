@@ -12,12 +12,12 @@ hatchnum: 0
 clutchsize: 22
 deposit: true
 listed: false
-reservedmale: 3
-totalmale: 5
+reservedmale: 4
+totalmale: 4
 reservedfemale: 0
 totalfemale: 5
 soldout: false
-soldoutmale: false
+soldoutmale: true
 soldoutfemale: false
 maleprice: 499
 femaleprice: 399
