@@ -26,5 +26,6 @@ babies:
   gender: Male
   image: /img/babies/20240211/M1_2
   price: 399
+  sold: true
   phenotype: Rainbow Ambilobe
   desc: We believe this animal is a 50/50 Ambilobe x Ambanja. The teals on his legs and spine and the vibrant reds in his bars as well as his rostrum are tell-tale Ambanja traits.
