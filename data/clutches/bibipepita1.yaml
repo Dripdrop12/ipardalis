@@ -51,8 +51,8 @@ babies:
   gender: Male
   image: /img/babies/20230921/M6_8
   price: 699
-  primary: true
   phenotype: Rainbow Ambilobe
+  sold: true
 - name: M8
   gender: Male
   image: /img/babies/20230921/M8
@@ -63,3 +63,4 @@ babies:
   gender: Male
   image: /img/babies/20230921/M9
   price: 599
+  primary: true
