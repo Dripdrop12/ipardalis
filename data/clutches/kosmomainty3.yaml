@@ -43,6 +43,7 @@ babies:
   image: /img/babies/20231219/F5_3
   price: 499
   phenotype: RBBB Ambilobe
+  sold: true
 - name: F6
   gender: Female
   image: /img/babies/20231219/F6_3
