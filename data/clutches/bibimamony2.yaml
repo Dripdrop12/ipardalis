@@ -56,3 +56,4 @@ babies:
   image: /img/babies/20230916/F5
   price: 349
   primary: true
+  sold: true
