@@ -27,12 +27,13 @@ babies:
   image: /img/babies/20240507/M1_1
   price: 549
   phenotype: RBBB Ambilobe
+  primary: true
 - name: M2
   gender: Male
   image: /img/babies/20240507/M2_1
   price: 599
   phenotype: RBBB Ambilobe
-  primary: true
+  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20240507/M3
