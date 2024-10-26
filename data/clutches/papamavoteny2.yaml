@@ -50,7 +50,7 @@ babies:
   gender: Male
   image: /img/babies/20240519/M5
   price: 599
-  primary: true
+  sold: true
 - name: M6
   gender: Male
   image: /img/babies/20240519/M6
@@ -60,3 +60,4 @@ babies:
   gender: Male
   image: /img/babies/20240519/M7
   price: 449
+  primary: true
