@@ -12,7 +12,7 @@ hatchnum: 23
 clutchsize: 23
 deposit: true
 listed: false
-reservedmale: 0
+reservedmale: 1
 totalmale: 5
 reservedfemale: 0
 totalfemale: 5
