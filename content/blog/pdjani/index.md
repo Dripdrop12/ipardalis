@@ -1,6 +1,6 @@
 +++
 title = "Pituophis deppei jani"
-date = "2021-12-11-"
+date = "2021-12-11"
 tags = ["Pd-jani"]
 categories = ["pd-jani"]
 banner = "img/jani/longleaf/longleaf4"

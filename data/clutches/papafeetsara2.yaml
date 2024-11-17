@@ -10,7 +10,8 @@ hatchend: 2024-07-04
 shipping: 3 months after hatch
 hatchnum: 26
 clutchsize: 26
-deposit: true
+deposit: false
+listed: true
 reservedmale: 5
 totalmale: 5
 reservedfemale: 1
@@ -21,4 +22,74 @@ soldoutfemale: false
 maleprice: 449
 femaleprice: 349
 babies:
-
+- name: M1
+  gender: Male
+  image: /img/babies/20240702/M1
+  price: 449
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M2
+  gender: Male
+  image: /img/babies/20240702/M2
+  price: 449
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M3
+  gender: Male
+  image: /img/babies/20240702/M3
+  price: 549
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M4
+  gender: Male
+  image: /img/babies/20240702/M4
+  price: 599
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M5
+  gender: Male
+  image: /img/babies/20240702/M5
+  price: 599
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M6
+  gender: Male
+  image: /img/babies/20240702/M6
+  price: 499
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M7
+  gender: Male
+  image: /img/babies/20240702/M7_2
+  price: 699
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M8
+  gender: Male
+  image: /img/babies/20240702/M8
+  price: 749
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+  primary: true
+- name: M9
+  gender: Male
+  image: /img/babies/20240702/M9
+  price: 549
+  phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
+- name: M10
+  gender: Male
+  image: /img/babies/20240702/M10
+  price: 499
+  phenotype: Rainbow Ambilobe
+  sold: true
+  reserved: true

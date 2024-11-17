@@ -53,6 +53,7 @@ babies:
   price: 699
   phenotype: Rainbow Ambilobe
   sold: true
+  listed: false
 - name: M8
   gender: Male
   image: /img/babies/20230921/M8
