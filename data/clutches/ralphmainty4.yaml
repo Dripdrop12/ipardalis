@@ -73,4 +73,5 @@ babies:
   image: /img/babies/20240507/F3
   price: 399
   phenotype: RBBB Ambilobe
+  sold: true
 
