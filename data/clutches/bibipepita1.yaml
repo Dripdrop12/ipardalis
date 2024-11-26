@@ -65,3 +65,4 @@ babies:
   image: /img/babies/20230921/M9_3
   price: 599
   primary: true
+  sold: true
