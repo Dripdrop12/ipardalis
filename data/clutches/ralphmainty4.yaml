@@ -57,6 +57,11 @@ babies:
   phenotype: RBBB Ambilobe
   listed: false
   sold: true
+- name: M6
+  gender: Male
+  image: /img/babies/20240507/M6
+  price: 599
+  phenotype: RBBB Ambilobe
 - name: F1
   gender: Female
   image: /img/babies/20240507/F1
