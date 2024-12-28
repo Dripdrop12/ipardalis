@@ -66,3 +66,4 @@ babies:
   price: 599
   primary: true
   sold: true
+  listed: false

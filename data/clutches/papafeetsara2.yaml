@@ -38,9 +38,10 @@ babies:
   price: 549
   phenotype: YBBB Ambilobe
   sold: true
+  listed: false
 - name: M4
   gender: Male
-  image: /img/babies/20240702/M4
+  image: /img/babies/20240702/M4_2
   price: 599
   phenotype: YBBB Ambilobe
 - name: M5
@@ -49,10 +50,11 @@ babies:
   price: 599
   phenotype: YBBB Ambilobe
   sold: true
+  listed: false
 - name: M6
   gender: Male
-  image: /img/babies/20240702/M6
-  price: 499
+  image: /img/babies/20240702/M6_3
+  price: 549
   phenotype: YBBB Ambilobe
 - name: M7
   gender: Male
@@ -60,6 +62,7 @@ babies:
   price: 699
   phenotype: YBBB Ambilobe
   sold: true
+  listed: false
 - name: M8
   gender: Male
   image: /img/babies/20240702/M8
@@ -67,10 +70,11 @@ babies:
   phenotype: YBBB Ambilobe
   sold: true
   primary: true
+  listed: false
 - name: M9
   gender: Male
-  image: /img/babies/20240702/M9
-  price: 549
+  image: /img/babies/20240702/M9_3
+  price: 649
   phenotype: YBBB Ambilobe
 - name: M10
   gender: Male
@@ -78,6 +82,7 @@ babies:
   price: 499
   phenotype: Rainbow Ambilobe
   sold: true
+  listed: false
 - name: M11
   gender: Male
   image: /img/babies/20240702/M11
@@ -85,3 +90,13 @@ babies:
   phenotype: Rainbow Ambilobe
   sold: true
   reserved: true
+- name: M12
+  gender: Male
+  image: /img/babies/20240702/M12
+  price: 499
+- name: M13
+  gender: Male
+  image: /img/babies/20240702/M13
+  price: 449
+  phenotype: Rainbow Ambilobe
+
