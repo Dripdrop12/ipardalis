@@ -76,6 +76,8 @@ babies:
   image: /img/babies/20240702/M9_3
   price: 649
   phenotype: YBBB Ambilobe
+  sold: true
+  reserved: true
 - name: M10
   gender: Male
   image: /img/babies/20240702/M10
