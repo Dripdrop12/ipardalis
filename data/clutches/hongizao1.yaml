@@ -5,10 +5,10 @@ filial: F2
 desc: |
   This is Hong's first clutch with Izao and we expect big things! I'm not sure I have seen a pairing like this RBBB power house in many years.
 laid: 2024-04-20
-hatchstart: Not yet
-hatchend: Not yet
+hatchstart: 2025-01-02
+hatchend: 2025-01-04
 shipping: 3 months after hatch
-hatchnum: 0
+hatchnum: 4
 clutchsize: 22
 deposit: true
 listed: false
@@ -18,6 +18,6 @@ reservedfemale: 0
 totalfemale: 5
 soldout: false
 soldoutmale: true
-soldoutfemale: false
+soldoutfemale: true
 maleprice: 499
 femaleprice: 399
