@@ -27,6 +27,7 @@ babies:
   image: /img/babies/20240702/M1
   price: 449
   phenotype: YBBB Ambilobe
+  sold: true
 - name: M2
   gender: Male
   image: /img/babies/20240702/M2
@@ -103,4 +104,5 @@ babies:
   image: /img/babies/20240702/M13
   price: 449
   phenotype: Rainbow Ambilobe
+  sold: true
 
