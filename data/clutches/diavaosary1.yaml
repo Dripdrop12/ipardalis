@@ -18,7 +18,7 @@ totalfemale: 5
 soldout: false
 soldoutmale: false
 soldoutfemale: false
-listed: true
+listed: false
 maleprice: 499
 femaleprice: 449
 babies:

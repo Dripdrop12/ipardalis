@@ -11,7 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 23
 clutchsize: 28
 deposit: false
-listed: true
+listed: false
 reservedmale: 2
 totalmale: 5
 reservedfemale: 0
