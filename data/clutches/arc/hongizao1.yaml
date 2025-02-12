@@ -10,7 +10,7 @@ hatchend: 2025-01-04
 shipping: 3 months after hatch
 hatchnum: 4
 clutchsize: 22
-deposit: true
+deposit: false
 listed: false
 reservedmale: 4
 totalmale: 4
