@@ -10,7 +10,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 # Define the number of posts per page
-paginate = 10
+pagination.pagerSize = 10
 
 [menu]
 

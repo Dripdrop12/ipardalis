@@ -1,8 +1,8 @@
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.107.0"
+  HUGO_VERSION = "0.144.1"
 
 [context.production.environment]
-  HUGO_VERSION = "0.107.0"
+  HUGO_VERSION = "0.144.1"
 
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
