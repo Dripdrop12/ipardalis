@@ -11,6 +11,7 @@ shipping: 3 months after hatch
 hatchnum: 25
 clutchsize: 26
 deposit: false
+listed: true
 reservedmale: 0
 totalmale: 5
 reservedfemale: 0
@@ -21,4 +22,34 @@ soldoutfemale: false
 maleprice: 449
 femaleprice: 299
 babies:
+- name: F1
+  gender: Female
+  image: /img/babies/20240822/F1
+  price: 549
+  primary: true
+- name: F2
+  gender: Female
+  image: /img/babies/20240822/F2
+  price: 399
+- name: F3
+  gender: Female
+  image: /img/babies/20240822/F3
+  price: 325
+- name: F4
+  gender: Female
+  image: /img/babies/20240822/F4
+  price: 349
+- name: F5
+  gender: Female
+  image: /img/babies/20240822/F5
+  price: 299
+- name: F6
+  gender: Female
+  image: /img/babies/20240822/F6
+  price: 599
+- name: F7
+  gender: Female
+  image: /img/babies/20240822/F7
+  price: 399
+
 
