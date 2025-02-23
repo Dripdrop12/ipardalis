@@ -1,0 +1,29 @@
+sire: taiyang
+dam: tarehy
+image: /img/ambilobe/taiyangtarehy
+filial: F1-CG15
+desc: |
+  A great F1 group with our WC Taiyang x a 1st gen female from F1 Manjaka x Lokana.
+laid: 2023-11-24
+hatchstart: 2024-09-06
+hatchend: 2024-09-11
+shipping: 3 months after hatch
+hatchnum: 2
+clutchsize: 31
+deposit: false
+listed: true
+reservedmale: 2
+totalmale: 5
+reservedfemale: 1
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 499
+femaleprice: 325
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20240911/M1
+  price: 599
+  phenotype: Rainbow Ambilobe
