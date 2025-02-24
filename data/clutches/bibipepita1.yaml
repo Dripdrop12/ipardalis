@@ -67,3 +67,15 @@ babies:
   primary: true
   sold: true
   listed: false
+- name: F1
+  gender: Female
+  image: /img/babies/20230921/F1
+  price: 449
+- name: F2
+  gender: Female
+  image: /img/babies/20230921/F2
+  price: 349
+- name: F3
+  gender: Female
+  image: /img/babies/20230921/F3_1
+  price: 399

@@ -1,0 +1,58 @@
+sire: haiyang
+dam: cadi
+image: /img/ambilobe/haiyangcadi
+filial: F1-CG15
+desc: |
+  One of our best F1 YBBB combinations to-date. WC Haiyang x Sideshow/Smiles' sister, Cadi!
+laid: 2023-11-27
+hatchstart: 2024-10-10
+hatchend: 2024-10-13
+shipping: 3 months after hatch
+hatchnum: 12
+clutchsize: 34
+deposit: false
+listed: true
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 499
+femaleprice: 349
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20241013/M1
+  price: 649
+- name: F1
+  gender: Female
+  image: /img/babies/20241013/F1
+  price: 349
+- name: F2
+  gender: Female
+  image: /img/babies/20241013/F2
+  price: 399
+- name: M2
+  gender: Male
+  image: /img/babies/20241013/M2
+  price: 799
+  sold: true
+  primary: true
+- name: F3
+  gender: Female
+  image: /img/babies/20241013/F3_1
+  price: 599
+- name: F4
+  gender: Female
+  image: /img/babies/20241013/F4
+  price: 599
+- name: F5
+  gender: Female
+  image: /img/babies/20241013/F5
+  price: 499
+- name: F6
+  gender: Female
+  image: /img/babies/20241013/F6
+  price: 499

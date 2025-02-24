@@ -10,7 +10,10 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 # Define the number of posts per page
-pagination.pagerSize = 10
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
 
 [menu]
 
