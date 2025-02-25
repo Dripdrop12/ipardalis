@@ -25,6 +25,8 @@ Dam
 
 ### Medusa
 
+{{< gallery dir="img/ambilobe/lineage/Medusa" more=" | Ambilobe Panther Chameleon"/>}}
+
 Sire
 : [Amarillo]({{< ref "/blog/bobbyruddock.md#amarillo" >}})
 
