@@ -1,0 +1,39 @@
+sire: haiyang
+dam: jean
+image: /img/ambilobe/haiyangjean
+filial: F1-CG15
+desc: |
+  Really love the strong Jackson influence in the female side of this F1 group - great option for Jackson fans who also want some genetic diversity!
+laid: 2024-02-04
+hatchstart: 2024-10-28
+hatchend: 2024-10-31
+shipping: 3 months after hatch
+hatchnum: 7
+clutchsize: 13
+deposit: false
+listed: true
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 499
+femaleprice: 349
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20241031/M1_1
+  price: 749
+- name: M2
+  gender: Male
+  image: /img/babies/20241031/M2
+  price: 799
+  sold: true
+  primary: true
+- name: M3
+  gender: Male
+  image: /img/babies/20241031/M3_1
+  price: 749
+
