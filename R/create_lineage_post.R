@@ -7,6 +7,7 @@ require(yaml)
 require(tidyr)
 require(lubridate)
 require(purrr)
+source("R/add_watermark.R")
 
 create_lineage_post <- function(
   breeder = "jude",
@@ -14,6 +15,7 @@ create_lineage_post <- function(
   sex = "male",
   tags = c(),
   filial = "",
+  primary_img = "",
   sire = list(
     name = "",
     loc = ""
@@ -40,6 +42,7 @@ create_lineage_post <- function(
     add_tags(tags) %>%
     update_category(sex) %>%
     add_birth_date(birth) %>%
+    add_webp(primary_img) %>%
     write_lines(glue("content/blog/{str_to_lower(breeder)}/index.md"))
   
   file.edit(glue("content/blog/{str_to_lower(breeder)}/index.md"))
@@ -131,6 +134,20 @@ add_birth_date <- function(txt, birth) {
 add_title <- function(txt, breeder) {
   title_loc <- str_which(txt, "title = 'Arti'")
   txt[title_loc] <- glue("title = \"{str_to_title(breeder)}\"")
+  
+  return(txt)
+}
+
+add_webp <- function(txt, primary_img) {
+  banner_loc <- str_which(txt, "banner = ")
+  txt[banner_loc] <- glue("banner = \"{primary_img}\"")
+  
+  img_dir <- fs::path("static", fs::path_dir(primary_img))
+  watermark_dir(img_dir)
+  gen_webp_dir(
+    img_dir = img_dir, 
+    img_name = fs::path_file(primary_img)
+  )
   
   return(txt)
 }
