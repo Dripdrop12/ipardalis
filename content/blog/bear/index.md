@@ -9,7 +9,7 @@ banner = "img/ambilobe/bear/bear4"
 
 {{< load-photoswipe >}}
 
-Bear earned his name because of a little adventure he went on as a juvenile. He escaped for about 3 months and caused a town frenzy on Facebook, just like our town bear. We were very lucky to get him back because he is the perfect flag bearer for his father, Ghost's line. We produced him with a beautiful F2 female from Manjaka, so he is also relatively fresh from a genetic standpoint. He will be a staple of our YBBB project for many years!
+Bear earned his name because of a little adventure he went on as a juvenile. He escaped for about 3 months and caused a town frenzy on Facebook, just like our town bear. We were very lucky to get him back because he is the perfect flag bearer for his father, Ghost's line. We produced him with a beautiful F2 female from Manjaka, so he brings some fresh genetics and a near perfect phenotype. He will be a staple of our YBBB project for many years!
 
 
 {{< no_num_gallery dir="/img/ambilobe/bear" more=" | Ambilobe Panther Chameleon" />}}
