@@ -138,7 +138,7 @@ defaultContentLanguage = "en"
     weight = 2
 
 [[menu.main]]
-    name = "Furcifer pardalis (Ambilobe)"
+    name = "Furcifer pardalis"
     identifier = "section.furciferpardalis"
     parent = "menu.projects"
     url = ""
@@ -146,29 +146,51 @@ defaultContentLanguage = "en"
     post = 1
 
 [[menu.main]]
-    name = "Sires"
+    name = "Ambilobe Sires"
     url = "/categories/ambilobe-sires/"
     parent = "section.furciferpardalis"
     weight = 1
 
 [[menu.main]]
-    name = "Dams"
+    name = "Ambilobe Dams"
     url = "/categories/ambilobe-dams/"
     parent = "section.furciferpardalis"
     weight = 2
 
 [[menu.main]]
-    name = "Past Clutches"
-    url = "/categories/past-clutches/"
+    name = "Ambanja Sires"
+    url = "/categories/ambanja-sires/"
     parent = "section.furciferpardalis"
     weight = 3
 
 [[menu.main]]
-    name = "Retired pardalis"
-    url = "/categories/retired-pardalis/"
+    name = "Ambanja Dams"
+    url = "/categories/ambanja-dams/"
     parent = "section.furciferpardalis"
     weight = 4
-    
+
+[[menu.main]]
+    name = "History"
+    url = ""
+    identifier = "section.history"
+    parent = "menu.projects"
+    post = 1
+    weight = 3
+
+[[menu.main]]
+    name = "Past Clutches"
+    url = "/categories/past-clutches/"
+    parent = "section.history"
+    post = 1
+    weight = 1
+
+[[menu.main]]
+    name = "Retired pardalis"
+    url = "/categories/retired-pardalis/"
+    parent = "section.history"
+    post = 1
+    weight = 2
+
 [[menu.main]]
     name = "Furcifer minor"
     identifier = "section.furciferminor"
@@ -189,8 +211,8 @@ defaultContentLanguage = "en"
     identifier = "section.pituouphisdeppeijani"
     parent = "menu.projects"
     url = ""
-    weight = 1
-    post = 1
+    weight = 2
+    post = 2
 
 [[menu.main]]
     name = "P.d. jani Breeders"
