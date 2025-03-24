@@ -33,3 +33,9 @@ Sire
 
 Dam 
 : [Felipe Sanchez's daughter]({{< ref "blog/chromatic.md#felipe-sanchez" >}})
+
+---
+
+### WC Titan
+
+{{< gallery dir="img/ambanja/lineage/titan" more=" | Ambanja Panther Chameleon"/>}}
