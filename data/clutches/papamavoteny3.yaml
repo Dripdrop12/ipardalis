@@ -32,6 +32,7 @@ babies:
   gender: Female
   image: /img/babies/20240822/F2
   price: 399
+  sold: true
 - name: F3
   gender: Female
   image: /img/babies/20240822/F3
