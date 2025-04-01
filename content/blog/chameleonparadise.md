@@ -9,7 +9,7 @@ banner = "img/ambilobe/lineage/Cowboy/Cowboy"
 
 {{< load-photoswipe >}}
 
-## [Chameleon Paradise](https://chameleonparadise.com/)
+## Chameleon Paradise
 ---
 Bruce Galbraith is a very well-known breeder in the industry. He has worked with numerous species over the years and loves to jump on the phone with new customers and spend hours with them. He helped us with our very first pair of Panther Chameleons and we will always remember the support and standards that he imparted to us from day one. 
 

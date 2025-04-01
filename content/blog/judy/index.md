@@ -9,7 +9,7 @@ banner = "img/ambilobe/judy/Judy1"
 
 {{< load-photoswipe >}}
 
-Judy was our first generation breeder from Candy Cane (F1) at [Chameleon's Paradise](http://www.chameleonparadise.net/). She laid one good clutch for us but died during laying complications after 2 more infertile clutches.
+Judy was our first generation breeder from Candy Cane (F1) at Chameleon's Paradise. She laid one good clutch for us but died during laying complications after 2 more infertile clutches.
 
 {{< gallery dir="/img/ambilobe/judy" more=" | Female Ambilobe Panther Chameleon"/>}}
 
