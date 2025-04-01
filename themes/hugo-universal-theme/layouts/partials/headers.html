@@ -7,16 +7,62 @@
 {{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+{{ $description_plain := default .Summary .Description | markdownify | plainify }}
 {{ $title_plain := .Params.header_title | markdownify | plainify }}
-{{ with .Params.header_title }}
-  <title>{{ . }}</title>
+{{ if not (eq .Kind "page")}}
+  {{ $paginator := .Paginate (where .Site.RegularPages ".Params.post" "!=" false) }}
+
+  {{ if eq .Type "blog" }}
+    {{ if not (eq $paginator.PageNumber 1) }}
+      {{ $title_plain := printf "%s | Page %d" $title_plain $paginator.PageNumber }}
+      {{ $description_plain := printf "%s %s %d %s" $description_plain "| Page" $paginator.PageNumber "of our content." }}
+      {{ with $title_plain }}
+        <title>{{ . }}</title>
+      {{ else }}
+        <title>{{ .Params.title }}</title>
+      {{ end }}
+      <meta property="og:title" content="{{ $title_plain }}">
+      <meta name="twitter:title" content="{{ $title_plain | truncate 70 }}">
+      <meta name="description" content="{{ $description_plain }}">
+      <meta property="og:description" content="{{ $description_plain }}">
+    {{ else }}
+      {{ with $title_plain }}
+        <title>{{ . }}</title>
+      {{ else }}
+        <title>{{ .Params.title }}</title>
+      {{ end }}
+      <meta property="og:title" content="{{ $title_plain }}">
+      <meta name="twitter:title" content="{{ $title_plain | truncate 70 }}">
+      <meta name="description" content="{{ $description_plain }}">
+      <meta property="og:description" content="{{ $description_plain }}">
+    {{ end }}
+  {{ else }}
+    {{ with $title_plain }}
+      <title>{{ . }}</title>
+    {{ else }}
+      <title>{{ .Params.title }}</title>
+    {{ end }}
+    <meta property="og:title" content="{{ $title_plain }}">
+    <meta name="twitter:title" content="{{ $title_plain | truncate 70 }}">
+    <meta name="description" content="{{ $description_plain }}">
+    <meta property="og:description" content="{{ $description_plain }}">
+  {{ end }}
 {{ else }}
-<title>{{ .Params.title }}</title>
+  {{ with $title_plain }}
+    <title>{{ . }}</title>
+  {{ else }}
+    <title>{{ .Params.title }}</title>
+  {{ end }}
+  <meta property="og:title" content="{{ $title_plain }}">
+  <meta name="twitter:title" content="{{ $title_plain | truncate 70 }}">
+  <meta name="description" content="{{ $description_plain }}">
+  <meta property="og:description" content="{{ $description_plain }}">
 {{ end }}
 
+
 <meta name="author" content="{{ .Param "author" }}" />
-{{ $description_plain := default .Summary .Description | markdownify | plainify }}
-<meta name="description" content="{{ $description_plain }}">
+
 
 {{ hugo.Generator }}
 
@@ -77,10 +123,8 @@
 {{ $image_ext := path.Ext $image }}
 <meta property="og:locale" content="{{ replace .Site.LanguageCode "-" "_" }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:title" content="{{ $title_plain }}">
 <meta property="og:type" content="{{ cond $is_blog "article" "website" }}">
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:description" content="{{ $description_plain }}">
 <meta property="og:image" content="{{ $image | absURL }}">
 <meta property="og:image:type" content="image/{{ if eq $image_ext ".svg" }}svg+xml{{ else }}{{ trim $image_ext "." }}{{ end }}">
 {{ with .Params.banner_alt }}<meta property="og:image:alt" content="{{ . | markdownify | plainify }}">{{ end }}
@@ -105,7 +149,6 @@
 <!-- Twitter Card meta tags -->
 <meta name="twitter:card" content="summary{{ if (and $is_blog (and $has_image $is_valid_image)) }}_large_image{{ end }}">
 {{ with .Param "twitter_site" }}<meta name="twitter:site" content="@{{ . }}">{{ end }}
-<meta name="twitter:title" content="{{ $title_plain | truncate 70 }}">
 {{ if $is_valid_image }}
 <meta name="twitter:image" content="{{ $image | absURL }}">
 {{ end }}
