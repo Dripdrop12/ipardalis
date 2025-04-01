@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/Sammy/sammy"
 
 {{< load-photoswipe >}}
 
-## [Chi-Town Chameleons](https://chitownchameleons.com/)
+## Chi-Town Chameleons
 ---
 
 ### Sammy

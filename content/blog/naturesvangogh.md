@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/Bangheera/bangheera3"
 
 {{< load-photoswipe >}}
 
-## [Nature's Van Gogh](https://naturesvangogh.com/)
+## Nature's Van Gogh
 ---
 Logan has been doing a great job with his baby setups and a number of other things as he gets established as a breeder. It has been fun to watch!
 

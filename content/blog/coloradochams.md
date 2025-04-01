@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/Artemis/artemis"
 
 {{< load-photoswipe >}}
 
-## [Colorado Chameleon](https://www.coloradochameleon.com/)
+## Colorado Chameleon
 
 ---
 

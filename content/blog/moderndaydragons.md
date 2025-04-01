@@ -8,7 +8,7 @@ banner = "img/ambilobe/lineage/Pyro/pyro3"
 
 {{< load-photoswipe >}}
 
-## [Modern Day Dragons](https://moderndaydragons.com/)
+## Modern Day Dragons
 ---
 
 ### Miss Piggy
