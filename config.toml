@@ -11,9 +11,8 @@ defaultContentLanguage = "en"
 
 # Define the number of posts per page
 [pagination]
-  disableAliases = false
   pagerSize = 10
-  path = 'page'
+
 
 [menu]
 
@@ -349,7 +348,7 @@ defaultContentLanguage = "en"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
-    tags = true
+    tags = false
     search = true
 
 [params.carousel]
