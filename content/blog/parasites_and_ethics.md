@@ -12,7 +12,7 @@ banner = "img/parasitology/7A_070621_5"
 
 # tldr;
 
-> 1. Every animal you acquire, whether it be captive bred (CB) or wild caught (WC), should receive multiple fecal exams. A positive fecal should be managed in consultation with [a qualified vet](http://arav.site-ym.com/search/custom.asp?id=3661) who has experience working with chameleons. Many different species of parasites do not shed at a constant rate, so a negative fecal is not a gaurantee that the animal is clean.
+> 1. Every animal you acquire, whether it be captive bred (CB) or wild caught (WC), should receive multiple fecal exams. A positive fecal should be managed in consultation with [a qualified vet](https://members.arav.org/search/) who has experience working with chameleons. Many different species of parasites do not shed at a constant rate, so a negative fecal is not a gaurantee that the animal is clean.
 
 > 2. We found Coccidia in 2 out of 25 exams that we performed in June-July 2021, and plan to run fecals on every animal in our possession and share the results/methods here.
 
