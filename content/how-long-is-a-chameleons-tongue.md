@@ -566,7 +566,7 @@ Anderson, Christopher V., and Stephen M. Deban. 2010. "Ballistic Tongue Projecti
 
 Debray, Alexis. 2011. "Manipulators Inspired by the Tongue of the Chameleon." *Bioinspiration & Biomimetics* 6 (2): 026002. <https://doi.org/10.1088/1748-3182/6/2/026002>.
 
-Kalisch, Ken. 2003. "The Oddities of the Chameleon - The Tongue." *Chameleons! Online E-Zine*. http://www.chameleonnews.com/03JulKalischTongue.html.
+Kalisch, Ken. 2003. "The Oddities of the Chameleon - The Tongue." *Chameleons! Online E-Zine*. http://www.chameleonnews.com/03JulKalischTongue.
 
 Shunyuan Xiao, Sophie Allard, Marc Srour. 2023. "A Biomechanical Review of Animal Tongue Functions." *Bioengineering Hyperbook*.
 
