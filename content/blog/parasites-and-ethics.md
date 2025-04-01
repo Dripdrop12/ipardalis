@@ -47,9 +47,9 @@ This is the first of a long and detailed series of blog posts that will share ou
 
 Here's what we have planned so far:
 
-- [*Parasites and Ethics: Origin Story*]({{< ref "blog/parasites_origin.md" >}})
-- [*Parasites and Ethics: Ethics*]({{< ref "blog/parasites_ethics.md" >}})
-- [*Parasites and Ethics: Coccidia found in Furcifer pardalis*]({{< ref "blog/parasites_coccidia" >}})
+- [*Parasites and Ethics: Origin Story*]({{< ref "blog/parasites-origin.md" >}})
+- [*Parasites and Ethics: Ethics*]({{< ref "blog/parasites-ethics.md" >}})
+- [*Parasites and Ethics: Coccidia found in Furcifer pardalis*]({{< ref "blog/parasites-coccidia" >}})
 - *Parasites and Ethics: New Protocols*
 - *Parasites and Ethics: Food*
 - *Parasites and Ethics: Enclosures & Hygiene*

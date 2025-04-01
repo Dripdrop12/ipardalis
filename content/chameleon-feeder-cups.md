@@ -18,7 +18,7 @@ A chameleon feeder cup is a specially designed container used to hold live insec
 {{< /faq >}}
 
 {{< faq title="Why should I use a feeder cup for my chameleon?" >}}
-Feeder cups help you track your chameleon's diet by preventing insects from hiding in the enclosure. If they don't get eaten, you can see them in the cup. They also reduce the risk of your chameleon ingesting substrate, which can cause health issues. Or the risk that your feeder eats your chameleon's poop and becomes an even bigger health risk, especially if your chameleon has [parasites]({{< ref "/blog/parasites_and_ethics.md" >}}). Some feeders, like Dubia roaches, can easily hide from your chameleon if you don't tong feed or use a feeder cup.
+Feeder cups help you track your chameleon's diet by preventing insects from hiding in the enclosure. If they don't get eaten, you can see them in the cup. They also reduce the risk of your chameleon ingesting substrate, which can cause health issues. Or the risk that your feeder eats your chameleon's poop and becomes an even bigger health risk, especially if your chameleon has [parasites]({{< ref "/blog/parasites-and-ethics.md" >}}). Some feeders, like Dubia roaches, can easily hide from your chameleon if you don't tong feed or use a feeder cup.
 {{< /faq >}}
 
 {{< faq title="What types of feeder cups are available?" >}}
