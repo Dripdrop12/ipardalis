@@ -13,7 +13,7 @@ banner = "img/tongue/chameleon_tongue_shot"
 The main species of chameleons commonly kept in captivity include the Veiled Chameleon (Chamaeleo calyptratus), Panther Chameleon (Furcifer pardalis), Jackson’s Chameleon (Trioceros jacksonii), Carpet Chameleon (Furcifer lateralis), Parson’s Chameleon (Calumma parsonii parsonii), and the Oustalet’s Chameleon (Furcifer oustaleti). Chameleons are renowned for their remarkable ability to change color and possess a highly specialized piece of anatomy: their tongues. While their color-changing ability often steals the spotlight, it's the length and agility of a chameleon’s tongue that truly sets them apart from other animals. In this article, we delve into the astonishing anatomy of a chameleon’s tongue, exploring the length, speed, and evolutionary adaptation that makes it a formidable tool for hunting and survival. By the end of this article, you'll gain a deep understanding of why a chameleon’s tongue is so long and how it functions.
 
 <hr>
-<div itemscope itemprop="VideoObject" itemtype="https://schema.org/VideoObject">
+<div itemscope itemprop="subjectOf" itemtype="https://schema.org/VideoObject">
 <h4 itemprop="name">Tiny Chameleons’ Tongues Pack Strongest Punch (High-Speed Footage) - National Geographic</h4>
 {{{< youtube pn37lT7HbrA >}}}
 <link itemprop="embedUrl" href="https://www.youtube.com/embed/pn37lT7HbrA?si=tpqEEtkHgUBeRqKq" />
