@@ -4,7 +4,6 @@ header_title = "How do I purchase a chameleon?"
 description = "A comprehensive guide to buying a healthy, captive-bred Panther Chameleon from iPardalis, including steps, expectations, and payment options."
 keywords = ["purchase Panther Chameleon", "buy chameleon online", "iPardalis chameleons", "chameleon care", "captive-bred chameleons"]
 home = true
-
 +++
 
 At iPardalis, we specialize in breeding high-quality, captive-bred Ambilobe Panther Chameleons. Our commitment to ethical breeding and individualized care ensures that each chameleon is healthy, vibrant, and ready to become a cherished part of your family.
@@ -39,7 +38,7 @@ At iPardalis, we specialize in breeding high-quality, captive-bred Ambilobe Pant
 
 ## Payment Plans
 
-- We offer flexible payment plans, particularly through our [reservation program](https://ipardalis.com/upcoming-ambilobe-clutches/).
+- We offer flexible payment plans, particularly through our [reservation program](https://ipardalis.com/baby-panther-chameleons-for-sale/).
 - Payment plans can also be arranged for available juveniles; please contact us to discuss options.
 
 ## Post-Purchase Support
