@@ -10,8 +10,9 @@
 
 {{ $description_plain := default .Summary .Description | markdownify | plainify }}
 {{ $title_plain := .Params.header_title | markdownify | plainify }}
-{{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+
 {{ if not (eq .Kind "page")}}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
   {{ if eq .Type "blog" }}
     {{ if not (eq $paginator.PageNumber 1) }}
       {{ $title_plain := printf "%s | Page %d" $title_plain $paginator.PageNumber }}
