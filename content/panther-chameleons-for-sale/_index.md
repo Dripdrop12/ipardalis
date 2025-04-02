@@ -1,6 +1,6 @@
 +++
-title = "Panther Chameleons for sale | iPardalis"
-header_title = "iPardalis | Panther Chameleons for sale"
+title = "Panther Chameleons for sale"
+header_title = "iPardalis | Panther Chameleons for sale | Vibrant, Healthy, and Selectively Bred"
 id = "available"
 description = "Our individually-raised Panther Chameleons for sale are at least 3 months of age, healthy, vibrant, and ethically raised."
 banner = "img/ambilobe/rbbb-ambilobe"
