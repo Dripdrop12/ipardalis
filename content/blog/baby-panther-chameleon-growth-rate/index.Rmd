@@ -91,7 +91,7 @@ plot_ly(
 # scope <- kaleido()
 # scope$transform(p, "dotplot.png")
 ```
-[![](dotplot.png)](https://ipardalis.com/plot/plot.html)
+![](dotplot.png)
 
 This plot shows one line per neonate with three weight measurements taken on the same date, two weeks apart. You can see the growth rate from the change in distance from left to right. The color indicates what the maximum UVI was for a given neonate.
 
