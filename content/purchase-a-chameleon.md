@@ -46,7 +46,7 @@ At iPardalis, we specialize in breeding high-quality, captive-bred Ambilobe Pant
 - Our commitment to you extends beyond the purchase. We provide ongoing support to address any questions or concerns you may have about your chameleon's health and care.
 - We pride ourselves on building lasting relationships with our customers, ensuring your chameleon thrives in its new environment.
 
-For any inquiries or further assistance, please don't hesitate to [contact us](https://ipardalis.com/contact-us/).
+For any inquiries or further assistance, please don't hesitate to [contact us](https://ipardalis.com/contactus/).
 
 <hr>
 {{< rawhtml >}}
