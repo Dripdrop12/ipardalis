@@ -11,7 +11,7 @@
 {{ $description_plain := default .Summary .Description | markdownify | plainify }}
 {{ $title_plain := .Params.header_title | markdownify | plainify }}
 
-{{ if not (eq .Kind "page")}}
+{{ if not (or (eq .Kind "page") (eq .Kind "home")) }}
   {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
   {{ if eq .Type "blog" }}
     {{ if not (eq $paginator.PageNumber 1) }}
