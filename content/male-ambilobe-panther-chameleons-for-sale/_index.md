@@ -64,7 +64,7 @@ When buying a Panther Chameleon, you have several exciting options depending on 
 
 - [**Rainbow Chameleons for Sale**]({{< ref "/rainbow-ambilobe-panther-chameleons-for-sale" >}}): These chameleons are often phenotype mixes or contrasting colored individuals with exceptionally diverse color patterns. Popular examples include classic [Ambanja]({{< ref "blog/ambanja-panther-chameleons-for-sale" >}}) or [Ambilobe]({{< ref "blog/ambilobe-panther-chameleons-usa" >}}), which naturally exhibit "rainbow" traits without requiring selective breeding.
 
-- [**Selectively Bred Panther Chameleon Morphs**]({{< ref "/panther-chameleons-for-sale" >}}): These are pure locality chameleons—like Ambilobe—carefully bred over generations to express specific phenotypes (e.g., YBBB: Yellow Body Blue Bar, RBBB: Red Body Blue Bar, YBRB: Yellow Body Red Bar). Producing consistent color takes deep knowledge and experience, as Panther Chameleon genetics are complex. For a behind-the-scenes look at this process, read [Selectively Breeding Panther Chameleons]({{< ref "/blog/2022-10-14-selectively-breeding-furcifer-pardalis/index.md" >}}).
+- [**Selectively Bred Panther Chameleon Morphs**]({{< ref "/panther-chameleons-for-sale" >}}): These are pure locality chameleons—like Ambilobe—carefully bred over generations to express specific phenotypes (e.g., YBBB: Yellow Body Blue Bar, RBBB: Red Body Blue Bar, YBRB: Yellow Body Red Bar). Producing consistent color takes deep knowledge and experience, as Panther Chameleon genetics are complex. For a behind-the-scenes look at this process, read [Selectively Breeding Panther Chameleons]({{< ref "/blog/breeding-strategy/index.md" >}}).
 
 
 <figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
