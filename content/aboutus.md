@@ -48,3 +48,5 @@ We only sell Panther Chameleons that are bred in captivity and are over 12 grams
     <p><strong>Outstanding Customer Service</strong>: Have questions or need guidance? We are here to assist you. From choosing the right chameleon for your needs to addressing care concerns, we are committed to providing unparalleled support throughout your journey as a Panther Chameleon owner.</p>
   </li>
 </ol>
+
+We're listed under the chameleons section on [Best Reptile Sites](https://www.bestreptilesites.com/chameleons.html)
