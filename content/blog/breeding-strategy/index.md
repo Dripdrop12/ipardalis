@@ -5,8 +5,6 @@ description: Learn how selective Panther Chameleon breeding works, what influenc
 summary: "Discover the real science behind breeding Panther Chameleons. This guide breaks down color genetics, female trait estimation, lineage tracking, and how to produce clean phenotypes like YBBB and RBBB."
 author: "Jonathan Hill"
 date: "2022-10-14"
-slug: breeding-strategy
-canonicalURL: "https://ipardalis.com/breeding-strategy/"
 categories: 
   - genetics
 banner: /img/ambilobe/papafeelokana
