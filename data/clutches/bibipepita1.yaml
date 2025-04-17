@@ -80,3 +80,4 @@ babies:
   gender: Female
   image: /img/babies/20230921/F3_1
   price: 399
+  sold: true
