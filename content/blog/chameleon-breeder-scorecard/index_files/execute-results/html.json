@@ -1,0 +1,23 @@
+{
+  "hash": "a56a5c1daa7d96b475d10394db838f51",
+  "result": {
+    "markdown": "---\ntitle: Chameleon Breeder Scorecard - iPardalis\nheader_title: iPardalis - Chameleon Breeder Scorecard\ndate: 2024-04-16\ndescription: This is where we keep track of our performance and various statistics about our chameleon breeding program.\nformat: revealjs\nhome: true\nbanner: img/tongue/chameleon_tongue_shot\n---\n\n::: {.cell}\n\n:::\n\n\n{{{< iframe file_loc=\"dt/clutches_dt.html\" fig_width=\"100%\" fig_height=\"800px\" >}}}\n\n\n::: {.cell}\n::: {.cell-output-display}\n```{=html}\n<div class=\"card bslib-card bslib-mb-spacing html-fill-item html-fill-container bslib-value-box default showcase-left-center\" data-bslib-card-init data-require-bs-caller=\"card() value_box()\" data-require-bs-version=\"5 5\">\n<div class=\"card-body bslib-gap-spacing html-fill-item html-fill-container\" style=\"margin-top:auto;margin-bottom:auto;flex:1 1 auto; padding:0;\">\n<div class=\"value-box-grid html-fill-item\" style=\"--bslib-grid-height:auto;--bslib-grid-height-mobile:auto;---bslib-value-box-showcase-w:30%;---bslib-value-box-showcase-w-fs:1fr;---bslib-value-box-showcase-max-h:100px;---bslib-value-box-showcase-max-h-fs:67%;\">\n<div class=\"value-box-showcase html-fill-item html-fill-container\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" class=\"bi bi-archive \" style=\"height:1em;width:1em;fill:currentColor;vertical-align:-0.125em;\" aria-hidden=\"true\" role=\"img\" ><path d=\"M0 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1v7.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 12.5V5a1 1 0 0 1-1-1V2zm2 3v7.5A1.5 1.5 0 0 0 3.5 14h9a1.5 1.5 0 0 0 1.5-1.5V5H2zm13-3H1v2h14V2zM5 7.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z\"></path></svg></div>\n<div class=\"value-box-area html-fill-item html-fill-container\">\n<p class=\"value-box-title\">iPardalis Dams</p>\n<p class=\"value-box-value\">39</p>\n</div>\n</div>\n</div>\n<script data-bslib-card-init>bslib.Card.initializeAllCards();</script>\n</div>\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"index_files/libs/htmltools-fill-0.5.7/fill.css\" rel=\"stylesheet\" />\n<script src=\"index_files/libs/bslib-component-js-0.6.1/components.min.js\"></script>\n<script src=\"index_files/libs/bslib-component-js-0.6.1/web-components.min.js\" type=\"module\"></script>\n<link href=\"index_files/libs/bslib-component-css-0.6.1/components.css\" rel=\"stylesheet\" />\n<script src=\"index_files/libs/bslib-tag-require-0.6.1/tag-require.js\"></script>\n"
+      ],
+      "include-after-body": [
+        "\n<script>\n  // htmlwidgets need to know to resize themselves when slides are shown/hidden.\n  // Fire the \"slideenter\" event (handled by htmlwidgets.js) when the current\n  // slide changes (different for each slide format).\n  (function () {\n    // dispatch for htmlwidgets\n    function fireSlideEnter() {\n      const event = window.document.createEvent(\"Event\");\n      event.initEvent(\"slideenter\", true, true);\n      window.document.dispatchEvent(event);\n    }\n\n    function fireSlideChanged(previousSlide, currentSlide) {\n      fireSlideEnter();\n\n      // dispatch for shiny\n      if (window.jQuery) {\n        if (previousSlide) {\n          window.jQuery(previousSlide).trigger(\"hidden\");\n        }\n        if (currentSlide) {\n          window.jQuery(currentSlide).trigger(\"shown\");\n        }\n      }\n    }\n\n    // hookup for slidy\n    if (window.w3c_slidy) {\n      window.w3c_slidy.add_observer(function (slide_num) {\n        // slide_num starts at position 1\n        fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);\n      });\n    }\n\n  })();\n</script>\n\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

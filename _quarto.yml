@@ -2,6 +2,8 @@ project:
   title: ipardalis.com
   type: hugo
   output-dir: public
+  render: 
+    - content/wildlife-organizations-and-educational-initiatives/index.qmd
 
 format: 
   hugo-md:

@@ -1,0 +1,14 @@
+{
+  "hash": "f5fb09cd1a68e24ad34b87b151bcd085",
+  "result": {
+    "markdown": "---\ntitle: Chameleon Breeder Scorecard - iPardalis\nheader_title: iPardalis - Chameleon Breeder Scorecard\ndate: 2024-04-16\ndescription: This is where we keep track of our performance and various statistics about our chameleon breeding program.\nbanner: img/banners/chameleon_breeder_stats\n---\n\n::: {.cell}\n\n:::\n\n\n# Chameleon Breeding Statistics\nThis article dynamically pulls our chameleon breeding data, updating the tables, figures and statistics every time we make a change to our website. It is a live view of how things are going for us as well as a record of the past. We are the first, and only, Panther Chameleon (Furcifer pardalis) breeder to track nearly a decade of statistics working with the species and make them available to the public, free of charge.\n<p>\n<a class=\"btn btn-template-main\" href=\"https://ipardalis.com/data.csv\">Download Chameleon Breeding Data <i class=\"fas fa-download\"></i></a>\n</p>\n> We'll be adding visualizations over the coming weeks, so feel free to reach out if you have ideas and we would be happy to hear from you :)\n\n## Totals\n**Dams**: 49\n**Sires**: 26\n\n**Clutches**: 131\n**Eggs Laid**: 3418\n**Babies Hatched**: 2073\n\n## Dam Chart\n\n\n::: {.cell}\n\n:::\n\n\n{{{< iframe file_loc=\"plot/dam_plot.html\" fig_width=\"100%\" fig_height=\"300px\" >}}}\n\n## Interactive Table\nYou can search, sort and filter this table to view our breeding statistics however you'd like and click the images to view them full size! This level of transparency is unheard of. If you see any data errors or issues, feel free to bring them to our attention. We would be happy to fix them.\n\n\n::: {.cell}\n\n:::\n\n\n{{{< iframe file_loc=\"dt/clutches_dt.html\" fig_width=\"100%\" fig_height=\"600px\" >}}}\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
