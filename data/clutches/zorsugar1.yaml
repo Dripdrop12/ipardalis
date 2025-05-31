@@ -44,6 +44,7 @@ babies:
   image: /img/babies/20240918/F1
   price: 299
   phenotype: Rainbow Ambilobe
+  sold: true
 - name: M4
   gender: Male
   image: /img/babies/20240918/M4
