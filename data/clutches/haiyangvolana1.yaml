@@ -1,0 +1,75 @@
+sire: haiyang
+dam: volana
+image: /img/ambilobe/haiyangvolana
+filial: F1-CG15
+desc: |
+  WC Haiyang with a female from one of my favorite Kammerflage Kreations pairings of the past few years - great outcross with new genetics!
+laid: 2024-05-07
+hatchstart: 2025-03-03
+hatchend: 2025-03-11
+shipping: 3 months after hatch
+hatchnum: 14
+clutchsize: 23
+deposit: false
+listed: true
+reservedmale: 0
+totalmale: 5
+reservedfemale: 0
+totalfemale: 5
+soldout: false
+soldoutmale: false
+soldoutfemale: false
+maleprice: 499
+femaleprice: 349
+babies:
+- name: M1
+  gender: Male
+  image: /img/babies/20250311/M1_1
+  price: 599
+  sold: true
+  reserved: true
+- name: M2
+  gender: Male
+  image: /img/babies/20250311/M2
+  price: 599
+  primary: true
+  sold: true
+  reserved: true
+- name: M3
+  gender: Male
+  image: /img/babies/20250311/M3
+  price: 499
+  sold: true
+  reserved: true
+- name: M4
+  gender: Male
+  image: /img/babies/20250311/M4
+  price: 599
+  sold: true
+  reserved: true
+- name: M5
+  gender: Male
+  image: /img/babies/20250311/M5
+  price: 499
+  sold: true
+  reserved: true
+- name: M6
+  gender: Male
+  image: /img/babies/20250311/M6_2
+  price: 499
+  sold: true
+  reserved: true
+- name: M7
+  gender: Male
+  image: /img/babies/20250311/M7
+  price: 449
+  sold: true
+  reserved: true
+- name: M8
+  gender: Male
+  image: /img/babies/20250311/M8_1
+  price: 599
+  sold: true
+  reserved: true
+
+
