@@ -1,24 +1,24 @@
 +++
-title = "Volana"
-header_title = "Volana | Yellow Body Blue Bar | Ambilobe Panther Chameleon"
+title = "Zoltar"
+header_title = "Zoltar | Rainbow | Ambilobe Panther Chameleon"
 date = "2024-02-28"
-tags = ["volana", "secret weapon", "night owl"]
-categories = ["ambilobe-dams"]
-banner = "img/ambilobe/volana/volana1"
+tags = ["zoltar", "secret weapon", "night owl"]
+categories = ["ambilobe-sires"]
+banner = "img/ambilobe/zoltar/zoltar2"
 +++
 
 {{< load-photoswipe >}}
 
-Volana is our first female Ambilobe from Kammerflage Kreations. She is from two of their best yellow body lines that we have been tracking for a few years and finally they came back together with Night Owl and Pollen. I expect her to bring a solid out cross option into our YBBB Ambilobe project and it will be interesting to see which side of her lines her sons take after!
+Zoltar is a nice rainbow phenotyped Ambilobe from Kammerflage Kreations - his body has a mix of yellow and red and his bars have a mix of red and blue, predominantly yellow body blue bar. He will be a fun out cross option for us - hopefully we can reign it in from here, but if we fail, it will still be fun to see what we get!
 
 
-{{< no_num_gallery dir="/img/ambilobe/volana" more=" | Ambilobe Panther Chameleon" />}}
+{{< no_num_gallery dir="/img/ambilobe/zoltar" more=" | Ambilobe Panther Chameleon" />}}
 
 Filial
 : *F10-CG14*
 
 Sire
-: [Night Owl]({{< ref "/blog/kammerflage.md#night-owl" >}})
+: [Secret Weapon]({{< ref "/blog/kammerflage.md#secret-weapon" >}})
 
 Dam
 : [Pollen]({{< ref "/blog/kammerflage.md#pollen" >}})
@@ -30,20 +30,20 @@ Dam
 {{< rawhtml >}}
   <div id="grampstextdoc">
     <div id="header">
-      <h1>Ancestral Report for Volana (F10-CG14)</h1>
+      <h1>Ancestral Report for Zoltar (F10-CG14)</h1>
     </div>
     <h3>Generation 1</h3>
-    <img align="right" alt="" border="0" src="isvolana1.jpg" />
-    <p>1. <strong>Volana (F10-CG14). </strong>Volana was born on 2024-02-28 at Kammerflage Kreations.  She is the daughter of Manalina-vorombozaka (Nite Owl) (F10-CG13) and Kinja (Pollen) (F9-CG13). </p>
-    <p>More about Volana (F10-CG14):</p>
+    <img align="right" alt="" border="0" src="iszoltar2.jpg" />
+    <p>1. <strong>Zoltar (F10-CG14). </strong>Zoltar was produced by Kammerflage Kreations.  He is the son of Manalina-vorombozaka (Nite Owl) (F10-CG13) and Kinja (Pollen) (F9-CG13). </p>
+    <p>More about Zoltar (F10-CG14):</p>
     <p>Adopted: 2024-05-28, iPardalis. </p>
     <h3>Generation 2</h3>
     <img align="right" alt="" border="0" src="isniteowl.jpg" />
     <p>2. <strong>Manalina-vorombozaka (Nite Owl) (F10-CG13). </strong>Manalina-vorombozaka (Nite Owl) was produced by Kammerflage Kreations.  He is the son of Mpiambina (Watchman) (F9-CG12) and Area 51's Daughter. He married Kinja (Pollen) (F9-CG13). </p>
     <p>3. <strong>Kinja (Pollen) (F9-CG13). </strong>Kinja (Pollen) was produced by Kammerflage Kreations.  She is the daughter of Bisike-fitaovana (Secret Weapon) (F8-CG12) and Tintely (Honey). </p>
     <p>Children of Kinja (Pollen) (F9-CG13) and Manalina-vorombozaka (Nite Owl) (F10-CG13)</p>
-    <p>i. Volana (F10-CG14) [1]. Volana was born on 2024-02-28 at Kammerflage Kreations.  </p>
-    <p>ii. Zoltar (F10-CG14). Zoltar was produced by Kammerflage Kreations.  </p>
+    <p>i. Volana (F10-CG14). Volana was born on 2024-02-28 at Kammerflage Kreations.  </p>
+    <p>ii. Zoltar (F10-CG14) [1]. Zoltar was produced by Kammerflage Kreations.  </p>
     <h3>Generation 3</h3>
     <img align="right" alt="" border="0" src="iswatchman.jpg" />
     <p>4. <strong>Mpiambina (Watchman) (F9-CG12). </strong>Mpiambina (Watchman) was produced by Kammerflage Kreations.  He is the son of Manome-toky (Promise Keeper) F8-CG10. He had a relationship with Area 51's Daughter. </p>
