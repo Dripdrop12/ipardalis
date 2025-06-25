@@ -10,7 +10,7 @@ require(glue)
 gen_morph_market <- function(
     clutch_dir = "data/clutches/", 
     file_name = "R/morphmarket.csv",
-    morph_market_export = "~/Downloads/animals(4).csv"){
+    morph_market_export = "~/Downloads/animals(5).csv"){
   
   clutch_list <- dir_map(clutch_dir, read_yaml, type = "file")
   clutch_df <- as.data.frame(do.call(bind_rows, clutch_list))
@@ -52,10 +52,10 @@ gen_morph_market <- function(
       Origin = "Self Produced",
       Proven_Breeder = "No",
       Quantity = 1,
-      Prey_State = "Live",
-      Prey_Food = "Cricket",
+      Diet = "Cricket, Roach, Superworm, Hornworm, Bsfl",
       Min_Shipping = 40,
       Max_Shipping = 100,
+      Wholesale_Only = "No",
       Is_Negotiable = "Will Consider",
       Is_Rep_Photo = "No",
       Is_For_Trade = "No",
@@ -82,9 +82,8 @@ sync_morph_market <- function(clutch_df, morph_market_df) {
     rename(
       Category = `Category*`,
       Title = `Title*`,
-      Animal_Id = `Animal_Id*`,
-      Maturity = `Maturity*`) %>%
-    select(-Video_Url, -Weight, -Length, -Length_Type)
+      Animal_Id = `Animal_Id*`) %>%
+    select(-Video_Url, -Weight, -Length, -Length_Type, -Wholesale_Price, -Wholesale_Description)
   
   bind_rows(to_keep, clutch_df) %>%
     select(Category:Is_For_Trade)
