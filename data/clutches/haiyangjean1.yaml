@@ -40,4 +40,5 @@ babies:
   image: /img/babies/20241031/M3_3
   price: 749
   primary: true
+  sold: true
 
