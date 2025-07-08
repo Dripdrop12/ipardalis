@@ -62,5 +62,7 @@ babies:
   image: /img/babies/20250311/M8_1
   price: 599
   phenotype: Rainbow Ambilobe
+  sold: true
+  reserved: true
 
 
