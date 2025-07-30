@@ -34,6 +34,7 @@ babies:
   image: /img/babies/20240918/M2_2
   price: 599
   phenotype: Rainbow Ambilobe
+  sold: true
 - name: M3
   gender: Male
   image: /img/babies/20240918/M3
